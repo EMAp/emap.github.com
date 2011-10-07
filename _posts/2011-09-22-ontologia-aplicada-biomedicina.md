@@ -6,7 +6,7 @@ tag: seminars
 
 ## {{ page.title }}
 
-- Quem: Maurício Almeida
+- Quem: Maurício Almeida 
 - Onde: FGV
 - Quando: {{ page.date | date_to_string }}
 - Hosted by: Renato Rocha
@@ -22,7 +22,7 @@ científica norte-americana - The Center of Excellence of Biomedical
 Informatics and Life Sciences - com a organização de dados do campo da
 hematologia.
 
-## Short bio
+## Short Bio
 
 Pós-Doutor pela State University of New York, Doutor em Ciência da
 Informação, Especialista em Administração, Especialista em Engenharia
