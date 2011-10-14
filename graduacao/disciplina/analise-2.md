@@ -1,0 +1,19 @@
+---
+layout: post
+title: Análise 2
+---
+
+# {{ page.title }}
+
+## Ementa 
+
+Topologia do Espaço Euclidiano. Aplicações diferenciáveis. Derivada
+como transformação linear. O gradiente. Regra da Cadeia. Caminhos no
+Rn. Aplicações de classe Cn: fórmula de Taylor. Sequências e séries de
+funções. Teorema da função inversa; funções implícitas; teorema do
+posto; multiplicadores de Lagrange. Integrais múltiplas. Mudanças de
+variáveis em integrais múltiplas.
+
+## Bibliografía
+
+mendeley.emap.analise-2

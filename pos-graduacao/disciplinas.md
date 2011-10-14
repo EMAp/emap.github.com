@@ -5,7 +5,7 @@ title: Disciplinas do Mestrado
 
 # {{ page.title }}
 
-Breve descrição das páginas...
+Breve descrição da página das disciplinas do mestrado...
 
 ## Período 1
 
