@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelagem Matemática 1: Modelos elementares em Ciências Sociais
+title: Modelagem Matemática 1 - Modelos elementares em Ciências Sociais
 ---
 
 # {{ page.title }}

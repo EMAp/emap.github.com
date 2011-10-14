@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelagem Matemática 2: Modelos Físicos
+title: Modelagem Matemática 2 - Modelos Físicos
 ---
 
 # {{ page.title }}

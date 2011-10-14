@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelagem Matemática 3: Sistemas Lineares e Otimização
+title: Modelagem Matemática 3 - Sistemas Lineares e Otimização
 ---
 
 # {{ page.title }}

@@ -6,7 +6,9 @@ title: O curso de graduação
 # {{ page.title }}
 
 Breve descrição das páginas...
-# OBRIGATÓRIAS
+
+# Obrigatórias
+
 - [Cálculo I](disciplina/calculo-I.html)
 - [Cálculo II](disciplina/calculo-II.html)
 - [Cálculo III](disciplina/calculo-III.html)
@@ -19,7 +21,7 @@ Breve descrição das páginas...
 - [Curvas e Superfícies](disciplina/curvas-superficies.html)
 - [Probabilidade](disciplina/probabilidade.html)
 - [Estatística](disciplina/estatistica.html)
-- [Processos Estocásticos e Simulação](disciplina/processos-estocasticos-simulacao.html
+- [Processos Estocásticos e Simulação](disciplina/processos-estocasticos-simulacao.html)
 - [Inferência e Aprendizagem](disciplina/inferencia-aprendizagem.html)
 - [Introdução à Computação ](disciplina/introducao-computacao.html)
 - [Linguagens de Programação](disciplina/linguagens-programacao.html)
@@ -28,12 +30,14 @@ Breve descrição das páginas...
 - [Pesquisa Operacional 1](disciplina/pesquisa-operacional-1.html)
 - [Pesquisa Operacional 2](disciplina/pesquisa-operacional-2.html)
 - [Modelagem Matemática 1: Modelos elementares em Ciências Sociais](disciplina/modelagem-matematica-1.html)
-- [Modelagem Matemática 2:Modelos Físicos](disciplina/modelagem-matematica-2.html)
-- [Modelagem Matemática 3:Sistemas Lineares e Otimização](disciplina/modelagem-matematica-3.html)
+- [Modelagem Matemática 2: Modelos Físicos](disciplina/modelagem-matematica-2.html)
+- [Modelagem Matemática 3: Sistemas Lineares e Otimização](disciplina/modelagem-matematica-3.html)
 - [Modelagem Matemática 4](disciplina/modelagem-matematica-4.html)
 - [Introdução à Economia](disciplina/introducao-economia.html)
 - [Economia e Temas Atuais](disciplina/economia-temas-atuais.html)
-# ELETIVAS
+
+# Eletivas
+
 - [Álgebra 2](disciplina/algebra-2.html)
 - [Análise 2](disciplina/analise-2.html)
 - [Topologia](disciplina/topologia.html)
