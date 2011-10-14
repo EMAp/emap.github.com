@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Calculo I
+title: Cálculo I
 ---
 
 # {{ page.title }}
-
-Curso de calculo I.
 
 ## Ementa
 
@@ -22,7 +20,9 @@ do Cálculo. Integrais indefinidas. Integrais por substituição e por
 partes. Integrais de funções racionais por frações parciais. Integrais
 impróprias.
 
-## Bibliografia
+## Bibliografía
 
-Mendley
+mendeley.emap.calculo-I
+
+
 
