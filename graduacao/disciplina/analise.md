@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Análise
+carga-horaria: 90
+periodo: 1
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Perído Letivo: {{ page.periodo }}
 
 ## Ementa 
 
@@ -16,6 +21,4 @@ funções,convergência simples e uniforme, Série de Taylor.
 ## Bibliografía
 
 mendeley.emap.analise
-
-
 

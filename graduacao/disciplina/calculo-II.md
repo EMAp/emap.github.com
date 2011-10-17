@@ -1,9 +1,9 @@
 ---
-layout:post
+layout: post
 title: Cálculo II
 ---
 
-#{{page.title}}
+# {{page.title}}
 
 ## Ementa 
 
@@ -19,5 +19,4 @@ triplas;
 ## Bibliografía
 
 mendeley.emap.calculo-II
-
 
