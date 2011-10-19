@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Economia e Temas Atuais
 ---
 

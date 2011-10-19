@@ -1,14 +1,17 @@
 ---
-layout: post
+layout: disciplina
 title: Grafos, Redes sociais e Conectividade
+carga-horaria: 45 horas
+area:  Matemática da Imformação
+creditos: 3
 ---
 
 # {{ page.title }}
 
-- Área: Matemática da Imformação
+- Área: {{ page.area }}
 - Código: MIF007
-- Carga Horária: 45 horas
-- Créditos: 3
+- Carga Horária: {{ page.carga-horaria }}
+- Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 

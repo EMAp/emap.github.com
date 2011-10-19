@@ -1,14 +1,17 @@
 ---
-layout: post
+layout: disciplina
 title: Construção e Avaliação de Ontologias
+creditos: 3
+carga-horaria: 45 horas
+area: Matemática da Informação
 ---
 
 # {{ page.title }}
 
-- Área: Matemática da Informação
+- Área:  {{ page.area }}
 - Código: MIF004
-- Carga Horária: 45 horas
-- Créditos: 3
+- Carga Horária:  {{ page.carga-horaria }}
+- Créditos:  {{ page.creditos }}
 
 ## Docente(s) 
 
