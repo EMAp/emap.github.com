@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Probabilidade e inferência
 area:  Matemática Geral
 creditos: 3

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Modelagem Matemática 2 - Modelos Físicos
 ---
 

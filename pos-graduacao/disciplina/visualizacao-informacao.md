@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Visualização de informação
 area: Matemática da Informação
 creditos: 3

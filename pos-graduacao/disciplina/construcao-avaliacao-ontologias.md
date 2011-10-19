@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Construção e Avaliação de Ontologias
 creditos: 3
 carga-horaria: 45 horas

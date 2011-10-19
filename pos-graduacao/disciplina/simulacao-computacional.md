@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Simulação Computacional
 area: Matemática da Informação
 creditos: 3

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Metodologia Científica
 carga-horaria: 15
 creditos: 1

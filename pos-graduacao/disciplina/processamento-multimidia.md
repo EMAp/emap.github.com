@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Processamento de Multimídia
 carga-horaria: 45
 creditos: 3

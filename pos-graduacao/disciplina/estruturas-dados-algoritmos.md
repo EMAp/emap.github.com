@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Estruturas de Dados e Algoritmos
 carga-horaria: 45 horas
 creditos: 3

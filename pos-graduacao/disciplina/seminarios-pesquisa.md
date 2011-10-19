@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Seminários de Pesquisa
 carga-horaria: 15
 creditos: 1

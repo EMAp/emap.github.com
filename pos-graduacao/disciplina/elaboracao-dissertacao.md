@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Elaboração de Dissertação
 carga-horaria: 15
 creditos: 0

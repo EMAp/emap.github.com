@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Grafos, Redes sociais e Conectividade
 carga-horaria: 45 horas
 area:  Matemática da Imformação

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Estatística Multivariada
 ---
 

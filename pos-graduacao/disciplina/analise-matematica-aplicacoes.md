@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Análise Matemática para Aplicações
 carga-horaria: 45 horas
 creditos: 3

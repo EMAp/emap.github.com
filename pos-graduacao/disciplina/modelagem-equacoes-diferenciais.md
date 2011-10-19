@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Modelagem com Equações Diferenciais
 area: Matemática Geral
 creditos: 3

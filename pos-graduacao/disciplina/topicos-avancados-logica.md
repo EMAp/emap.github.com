@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Tópicos Avançados em Lógica
 carga-horaria: 45
 creditos: 3

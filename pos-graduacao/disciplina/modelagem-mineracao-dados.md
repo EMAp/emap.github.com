@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Modelagem e Mineração de Dados
 area: Ciência da Computação
 creditos: 3

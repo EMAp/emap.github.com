@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Processamento de Linguagem Natural e Mineração de Textos
 carga-horaria: 45
 creditos: 3

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Álgebra Linear e Aplicações
 carga-horaria: 45 horas
 creditos: 3

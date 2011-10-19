@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Tópicos avançados em Inteligência Artificial
 carga-horaria: 45
 creditos: 3

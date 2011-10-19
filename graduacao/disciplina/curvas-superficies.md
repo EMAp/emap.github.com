@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Curvas e Superfícies 
 ---
 
