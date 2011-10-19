@@ -15,7 +15,7 @@ area: Matemática da Informação
 
 ## Docente(s) 
 
--Antonio Carlos S. Branco
+- Antonio Carlos S. Branco
 
 ## Ementa
 

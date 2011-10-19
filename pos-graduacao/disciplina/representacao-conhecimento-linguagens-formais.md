@@ -15,8 +15,8 @@ carga horaria: 45 horas
 
 ## Docente(s) 
 
--Renato Rocha Souza
--Alexandre Rademaker
+- Renato Rocha Souza
+- Alexandre Rademaker
 
 ## Ementa
 

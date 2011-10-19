@@ -22,7 +22,7 @@ title: Disciplinas do Mestrado
 - [Probabilidade e inferência](disciplina/probabilidade-inferencia.html)
 - [Processamento de Linguagem Natural e Mineração de Textos](disciplina/processamento-linguagem-natural-mineracao-textos.html)
 - [Processamento de Multimídia](disciplina/processamento-multimidia.html)
-- [Representação do Conhecimento e Linguagens Formais](disciplina/representacao-conhecimento-linguagens-formais.md.html)
+- [Representação do Conhecimento e Linguagens Formais](disciplina/representacao-conhecimento-linguagens-formais.html)
 - [Seminários de Pesquisa](disciplina/seminarios-pesquisa.html)
 - [Simulação Computacional](disciplina/simulacao-computacional.html)
 - [Sistemas de Recuperação de Informações](disciplina/sistemas-recuperacao-informacoes.html)
