@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Visualização de informação
+area: Matemática da Informação
+creditos: 3
+carga horaria: 45 horas
 ---
 
 # {{ page.title }}
 
-- Área: Matemática da Informação
+- Área: {{ page.area }}
 - Código: MIF005
-- Carga Horária: 45 horas
-- Créditos: 3
+- Carga Horária:  {{ page.carga-horaria }}
+- Créditos:  {{ page.creditos }}
 
 ## Docente(s) 
 

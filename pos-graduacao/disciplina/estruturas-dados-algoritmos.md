@@ -1,18 +1,21 @@
 ---
 layout: post
 title: Estruturas de Dados e Algoritmos
+carga-horaria: 45 horas
+creditos: 3
+area: Ciência da Computação
 ---
 
 # {{ page.title }}
 
-- Área: Ciência da Computação
+- Área: {{ page.area }} 
 - Código: CMP001
-- Carga Horária: 45 horas
-- Créditos: 3
+- Carga Horária: {{ page.carga-horaria }}
+- Créditos: {{ page.creditos }}
 
 ## Docente(s)
 
--Alexandre Rademaker
+- Alexandre Rademaker
 
 ## Ementa
 

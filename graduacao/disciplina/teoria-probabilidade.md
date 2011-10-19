@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Probabilidade 
+title: Teoria da Probabilidade 
 ---
 
 # {{ page.title }}
