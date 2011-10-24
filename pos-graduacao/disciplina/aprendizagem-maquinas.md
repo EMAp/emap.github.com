@@ -1,18 +1,21 @@
 ---
-layout: post
+layout: disciplina
 title: Aprendizagem por Máquinas
+carga-horaria: 45 horas
+creditos: 3
+area: Matemática da Informação
 ---
 
 # {{ page.title }}
 
-- Área: Matemática da Informação
+- Área: {{ page.area }}
 - Código: MIF001
-- Carga Horária: 45 horas
-- Créditos: 3
+- Carga Horária: {{ page.carga-horaria }}
+- Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
--Antonio Carlos S. Branco
+- Antonio Carlos S. Branco
 
 ## Ementa
 

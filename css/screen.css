@@ -22,12 +22,21 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+h3, h4, h5, h6 {
+  font-size: 12px;
+}
+
+h2 {
+ padding-top: 15px;
+ padding-bottom: 8px;
+ font-size: 14px;
+ border-bottom: solid #0066ff 0.20em;
 }
 
 h1 {
   margin-bottom: 1em;
+  font-size: 17px;
+  border-bottom: solid #0000ff 0.30em;
 }
 
 p {
@@ -56,6 +65,11 @@ table {
 /* Home
 /*
 /*****************************************************************************/
+
+ul, li {
+    padding-left: 0;
+    list-style-position: inside;
+}
 
 ul.posts {
     list-style-position: inside;

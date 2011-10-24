@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Probabilidade 
+layout: disciplina
+title: Teoria da Probabilidade 
 ---
 
 # {{ page.title }}

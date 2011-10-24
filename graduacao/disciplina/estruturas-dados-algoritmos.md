@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Etruturas de Dados e Algoritmos
 ---
 

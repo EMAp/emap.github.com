@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Introdução à Teoria da Medida
 ---
 
