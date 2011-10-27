@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title: Modelagem Matemática 3 - Sistemas Lineares e Otimização
 ---
 

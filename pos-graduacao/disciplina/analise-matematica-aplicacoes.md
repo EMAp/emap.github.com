@@ -1,20 +1,23 @@
 ---
-layout: post
+layout: disciplina
 title: Análise Matemática para Aplicações
+carga-horaria: 45 horas
+creditos: 3
+area: Matemática Geral
 ---
 
 # {{ page.title }}
 
-- Área: Matemática Geral
+- Área: {{ page.area }}
 - Código: MAT003
-- Carga Horária: 45 horas
-- Créditos: 3
+- Carga Horária: {{ page.carga-horaria }} 
+- Créditos: {{ page.creditos }}
 
 ## Docente(s)
 
--Maria Izabel T. Camacho
--Jair Koiller
--Paulo Cezar P. Carvalho
+- Maria Izabel T. Camacho
+- Jair Koiller
+- Paulo Cezar P. Carvalho
 
 ## Ementa
 

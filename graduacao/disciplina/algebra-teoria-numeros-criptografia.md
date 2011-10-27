@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disciplina
 title:  Álgebra, Teoria dos Números e Criptografia 
  
 ---
