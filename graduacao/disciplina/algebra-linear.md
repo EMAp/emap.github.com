@@ -1,9 +1,14 @@
 ---
 layout: disciplina
 title: Álgebra linear
+carga-horaria: 90 horas(6 aulas semanais)
+pre-requisito: Geometria Analítica e Vetores
 ---
 
 # {{ page.title }}
+
+- Carga horária:  {{ page.carga-horaria }} 
+- Pré-requisito:  {{ page.pre-requisito }}
 
 ## Ementa 
 
@@ -16,3 +21,5 @@ apresentação das formas quadráticas.
 ## Bibliografía
 
 mendeley.emap.algebra-linear
+
+

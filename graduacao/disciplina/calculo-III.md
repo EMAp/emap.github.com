@@ -1,9 +1,14 @@
 ---
 layout: disciplina
 title: Cálculo III
+carga-horaria: 90 horas(6 aulas semanais)
+pre-requisito: Cálculo II 
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito:  {{ page.pre-requisito }}
 
 ## Ementa
 

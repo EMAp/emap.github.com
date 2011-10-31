@@ -3,21 +3,21 @@ layout: disciplina
 title: Probabilidade e inferência
 area:  Matemática Geral
 creditos: 3
-carga horaria: 45 horas
+carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área: {{ page.area }}
 - Código: MAT002
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
--Paulo Cezar P. Carvalho
--Moacyr Alvim
--Sheila Zani
+- Paulo Cezar P. Carvalho
+- Moacyr Alvim
+- Sheila Zani
 
 ## Ementa
 

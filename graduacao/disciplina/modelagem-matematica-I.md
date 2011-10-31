@@ -1,9 +1,14 @@
 ---
 layout: disciplina
-title: Modelagem Matemática 1 - Modelos elementares em Ciências Sociais
+title: Modelagem Matemática I - Modelos elementares em Ciências Sociais
+carga-horaria: 60 horas(4 aulas semanais)
+pre-requisito: ---
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa 
 
@@ -25,4 +30,4 @@ incompleta: Reinforcement Learning / Relative Payoff Sum.
 
 ## Bibliografía
 
-mendeley.emap.modelagem-matematica-1
+mendeley.emap.modelagem-matematica-I

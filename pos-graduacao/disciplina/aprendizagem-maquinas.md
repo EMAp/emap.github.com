@@ -10,7 +10,7 @@ area: Matemática da Informação
 
 - Área: {{ page.area }}
 - Código: MIF001
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

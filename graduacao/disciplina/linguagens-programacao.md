@@ -1,9 +1,14 @@
 ---
 layout: disciplina
 title: Linguagens de Programação
+carga-horaria: 90 horas(6 aulas semanais)
+pre-requisito: Introdução à Computação
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa 
 

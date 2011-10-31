@@ -3,18 +3,19 @@ layout: disciplina
 title: Modelagem e Mineração de Dados
 area: Ciência da Computação
 creditos: 3
-carga horaria: 45 horas
+carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área:  {{ page.area }}
 - Código: CMP002
-- Carga Horária:  {{ page.carga-horaria }}
+- Carga horária:  {{ page.carga-horaria }}
 - Créditos:  {{ page.creditos }}
 
 ## Docente(s)
-Renato Rocha Souza
+
+- Renato Rocha Souza
 
 ## Ementa
 

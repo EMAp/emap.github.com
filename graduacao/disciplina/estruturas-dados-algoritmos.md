@@ -1,9 +1,14 @@
 ---
 layout: disciplina
 title: Etruturas de Dados e Algoritmos
+carga-horaria: 60 horas(4 aulas semanais)
+pre-requisito: Linguagens de Programação
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa 
 

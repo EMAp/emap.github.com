@@ -1,9 +1,14 @@
 ---
 layout: disciplina
 title: Introdução à Teoria da Medida
+carga-horaria: 60 horas(4 aulas semanais)
+pre-requisito: Análise
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa 
 

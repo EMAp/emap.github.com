@@ -1,9 +1,14 @@
 ---
 layout: disciplina
-title: Modelagem Matemática 4
+title: Modelagem Matemática IV
+carga-horaria: 60 horas(4 aulas semanais)
+pre-requisito:  Cálculo III
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa 
 
@@ -23,4 +28,4 @@ fisiologia, teoria da informação do DNA até a neurociência, etc.
 
 ## Bibliografía
 
-mendeley.emap.modelagem-matematica-4
+mendeley.emap.modelagem-matematica-IV

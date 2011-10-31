@@ -1,9 +1,14 @@
 ---
 layout: disciplina
-title: Bancos de Dados
+title: Sistemas de Bancos de Dados
+carga-horaria: 60 horas(4 aulas semanais)
+pre-requisito: Estruturas de Dados e Algoritmos
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa 
 

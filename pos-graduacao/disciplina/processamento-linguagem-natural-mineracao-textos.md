@@ -1,7 +1,7 @@
 ---
 layout: disciplina
 title: Processamento de Linguagem Natural e Mineração de Textos
-carga-horaria: 45
+carga-horaria: 45 horas
 creditos: 3
 area: Mátematica da informação
 ---
@@ -10,13 +10,13 @@ area: Mátematica da informação
 
 - Área: {{ page.area }}     
 - Código: MIF011
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
--Antonio Carlos S. Branco
--Renato Rocha Souza
+- Antonio Carlos S. Branco
+- Renato Rocha Souza
 
 ## Ementa
 

@@ -10,7 +10,7 @@ area: Matemática Geral
 
 - Área: {{ page.area }}
 - Código: MAT003
-- Carga Horária: {{ page.carga-horaria }} 
+- Carga horária: {{ page.carga-horaria }} 
 - Créditos: {{ page.creditos }}
 
 ## Docente(s)

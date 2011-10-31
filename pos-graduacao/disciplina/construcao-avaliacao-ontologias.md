@@ -10,12 +10,12 @@ area: Matemática da Informação
 
 - Área:  {{ page.area }}
 - Código: MIF004
-- Carga Horária:  {{ page.carga-horaria }}
+- Carga horária:  {{ page.carga-horaria }}
 - Créditos:  {{ page.creditos }}
 
 ## Docente(s) 
 
--Renato Rocha Souza
+- Renato Rocha Souza
 
 ## Ementa
 

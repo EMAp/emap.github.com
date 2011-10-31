@@ -10,7 +10,7 @@ area: Ciência da Computação
 
 - Área: {{ page.area }} 
 - Código: CMP001
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s)

@@ -1,9 +1,14 @@
 ---
 layout: disciplina
 title: Geometria Analítica e vetores
+carga-horaria: 90 horas(6 aulas semanais)
+pre-requisito: ---
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito:  {{ page.pre-requisito }}
 
 ## Ementa 
 

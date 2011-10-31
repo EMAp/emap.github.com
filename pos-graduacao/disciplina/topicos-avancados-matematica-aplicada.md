@@ -3,14 +3,14 @@ layout: disciplina
 title: Tópicos Avançados em Matemática Aplicada
 area: Matemática Geral
 creditos: 3
-carga horaria: 45 horas
+carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área: {{ page.area }}
 - Código: MAT005
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

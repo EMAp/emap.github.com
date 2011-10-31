@@ -1,9 +1,14 @@
 ---
 layout: disciplina
-title: Modelagem Matemática 3 - Sistemas Lineares e Otimização
+title: Modelagem Matemática III - Sistemas Lineares e Otimização
+carga-horaria: 60 horas
+pre-requisito: Cálculo II, Álgebra Linear
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa 
 
@@ -14,4 +19,4 @@ singulares e aplicações.  O método simplex e suas aplicações.
 
 ## Bibliografía
 
-mendeley.emap.modelagem-matematica-3
+mendeley.emap.modelagem-matematica-III

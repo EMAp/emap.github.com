@@ -10,13 +10,13 @@ area: Mátematica da informação
 
 - Área: {{ page.area }}     
 - Código: MIF010
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
--Alexandre Rademaker
--Renato Rocha Souza
+- Alexandre Rademaker
+- Renato Rocha Souza
 
 ## Ementa
 

@@ -1,7 +1,7 @@
 ---
 layout: disciplina
 title: Elaboração de Dissertação
-carga-horaria: 15
+carga-horaria: 15 horas
 creditos: 0
 area: Metodologia de Pesquisa
 ---
@@ -10,7 +10,7 @@ area: Metodologia de Pesquisa
 
 - Área: {{ page.area }}     
 - Código: PEQ003
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

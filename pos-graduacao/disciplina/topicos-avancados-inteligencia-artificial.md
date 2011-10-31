@@ -10,13 +10,13 @@ area: Mátematica da informação
 
 - Área: {{ page.area }}     
 - Código: MIF009
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
--Antonio Carlos S. Branco
--Paulo Cezar P. Carvalho
+- Antonio Carlos S. Branco
+- Paulo Cezar P. Carvalho
 
 ## Ementa
 

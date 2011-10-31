@@ -3,14 +3,14 @@ layout: disciplina
 title: Representação do Conhecimento e Linguagens Formais
 area: Matemática da Informação
 creditos: 3
-carga horaria: 45 horas
+carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área: {{ page.title }}
 - Código: MIF003
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

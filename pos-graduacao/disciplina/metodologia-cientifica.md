@@ -1,7 +1,7 @@
 ---
 layout: disciplina
 title: Metodologia Científica
-carga-horaria: 15
+carga-horaria: 15 horas
 creditos: 1
 area: Metodologia de Pesquisa
 ---
@@ -10,7 +10,7 @@ area: Metodologia de Pesquisa
 
 - Área: {{ page.area }}     
 - Código: PEQ001
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

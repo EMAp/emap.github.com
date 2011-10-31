@@ -3,19 +3,19 @@ layout: disciplina
 title: Teoria dos Jogos e Modelos Socioeconômicos
 area:  Matemática Geral
 creditos: 3
-carga horaria: 45 horas
+carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área:  {{ page.area }}
 - Código: MIF008
-- Carga Horária:  {{ page.carga-horaria }}
+- Carga horária:  {{ page.carga-horaria }}
 - Créditos:  {{ page.creditos }}
 
 ## Docente(s) 
 
--Moacyr Alvim
+- Moacyr Alvim
 
 ## Ementa
 

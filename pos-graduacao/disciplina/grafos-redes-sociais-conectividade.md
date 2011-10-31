@@ -10,7 +10,7 @@ creditos: 3
 
 - Área: {{ page.area }}
 - Código: MIF007
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: {{ page.carga-horaria }}
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

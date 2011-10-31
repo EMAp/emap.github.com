@@ -1,9 +1,14 @@
 ---
 layout: disciplina
 title: Interferência e Aprendizagem 
+carga-horaria: 60 horas(4 aulas semanais)
+pre-requisito: Estatística
 ---
 
 # {{ page.title }}
+
+- Carga horária: {{ page.carga-horaria }}
+- Pré-requisito: {{ page.pre-requisito }}
 
 ## Ementa
 
