@@ -5,6 +5,9 @@ title: Geometria Analítica e vetores
 
 # {{ page.title }}
 
+- Carga horária: 90 horas (6 aulas semanais) 
+- Pré-requisito: ---
+
 ## Ementa 
 
 Coordenadas no plano; equação da reta e das cônicas; vetores

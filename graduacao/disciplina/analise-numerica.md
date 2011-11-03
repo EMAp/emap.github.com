@@ -5,6 +5,12 @@ title: Análise Numérica
 
 # {{ page.title }}
 
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    - Linguagens de Programação
+    - Cálculo IV
+    - Álgebra Linear
+
 ## Ementa 
 
 Aritmética numérica. Álgebra linear numérica: sistemas lineares,

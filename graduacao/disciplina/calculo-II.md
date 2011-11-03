@@ -5,6 +5,10 @@ title: Cálculo II
 
 # {{page.title}}
 
+- Carga horária: 90 horas (6 aulas semanais) 
+- Pré-requisito:  
+    - Cálculo I
+
 ## Ementa 
 
 Funções de mais de uma variável; curvas de nível. Limites e

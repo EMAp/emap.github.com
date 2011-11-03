@@ -5,6 +5,10 @@ title: Álgebra linear
 
 # {{ page.title }}
 
+- Carga horária: 90 horas (6 aulas semanais) 
+- Pré-requisito:
+    -  Geometria Analítica e Vetores
+
 ## Ementa 
 
 Matrizes, sistemas lineares, eliminação gaussiana, espaços vetoriais e
@@ -16,3 +20,5 @@ apresentação das formas quadráticas.
 ## Bibliografía
 
 mendeley.emap.algebra-linear
+
+

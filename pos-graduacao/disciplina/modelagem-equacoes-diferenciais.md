@@ -3,20 +3,19 @@ layout: disciplina
 title: Modelagem com Equações Diferenciais
 area: Matemática Geral
 creditos: 3
-carga horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área: {{ page.area }}
 - Código: MAT004
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s)
 
--Jair Koiller
--Maria Izabel T. Camacho
+- Jair Koiller
+- Maria Izabel T. Camacho
 
 ## Ementa
 

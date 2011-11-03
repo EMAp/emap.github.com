@@ -5,6 +5,10 @@ title: Topologia
 
 # {{ page.title }}
 
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    - Análise II
+
 ## Ementa 
 
 Topologia geral: espaços topológicos, funções contínuas,  espaços

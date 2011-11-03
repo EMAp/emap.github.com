@@ -1,9 +1,14 @@
 ---
 layout: disciplina
-title: Pesquisa Operacional 1
+title: Pesquisa Operacional I
 ---
 
 # {{ page.title }}
+
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    - Cálculo I
+    - Álgebra Linear
 
 ## Ementa 
 
@@ -14,4 +19,4 @@ aplicações. Introdução à programação inteira.
 
 ## Bibliografía
 
-mendeley.emap.pesquisa-operacional-1
+mendeley.emap.pesquisa-operacional-I

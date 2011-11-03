@@ -1,9 +1,15 @@
 ---
 layout: disciplina
-title: Álgebra 2
+title: Álgebra II
 ---
 
 # {{ page.title }}
+
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito:
+    - Álgebra
+    - Teoria dos Números 
+    - Criptografia
 
 ## Ementa 
 
@@ -17,4 +23,4 @@ de funções racionais, robótica.
 
 ## Bibliografía
 
-mendeley.emap.algebra-2
+mendeley.emap.algebra-II

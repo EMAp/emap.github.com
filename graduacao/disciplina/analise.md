@@ -1,14 +1,13 @@
 ---
 layout: disciplina
 title: Análise
-carga-horaria: 90
-periodo: 1
 ---
 
 # {{ page.title }}
 
-- Carga horária: {{ page.carga-horaria }}
-- Perído Letivo: {{ page.periodo }}
+- Carga horária: 60 horas (4 aulas semnais)
+- Pré-requisito: 
+    - Cálculo I  
 
 ## Ementa 
 

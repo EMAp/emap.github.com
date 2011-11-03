@@ -5,6 +5,9 @@ title: Introdução à Economia
 
 # {{ page.title }}
 
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: ---
+
 ## Ementa 
 
 Os problemas econômicos: recursos, escassez, escolha; economia

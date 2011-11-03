@@ -5,6 +5,10 @@ title: Processos Estocásticos e Simulação
 
 # {{ page.title }}
 
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito:
+    - Teoria da Probabilidade
+
 ## Ementa
 
 Cadeias de Markov. Processo de Poisson e generalizações. Aplicações a

@@ -1,7 +1,6 @@
 ---
 layout: disciplina
 title: Seminários de Pesquisa
-carga-horaria: 15
 creditos: 1
 area: Metodologia de Pesquisa
 ---
@@ -10,7 +9,7 @@ area: Metodologia de Pesquisa
 
 - Área: {{ page.area }}     
 - Código: PEQ002
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: 15 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

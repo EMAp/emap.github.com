@@ -1,9 +1,13 @@
 ---
 layout: disciplina
-title: Análise 2
+title: Análise II
 ---
 
 # {{ page.title }}
+
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    -  Análise
 
 ## Ementa 
 
@@ -16,4 +20,4 @@ variáveis em integrais múltiplas.
 
 ## Bibliografía
 
-mendeley.emap.analise-2
+mendeley.emap.analise-II
