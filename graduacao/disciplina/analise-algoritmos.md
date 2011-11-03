@@ -5,6 +5,11 @@ title: Análise de Algoritmos
 
 # {{ page.title }}
 
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito:
+    -  Estruturas de Dados e Algoritmos
+    -  Matemática Discreta
+
 ## Ementa 
 
 Complexidade de algoritmos: tempo de processamento, notação O, uso de

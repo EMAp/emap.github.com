@@ -3,19 +3,18 @@ layout: disciplina
 title: Sistemas de Recuperação de Informações
 area: Matemática da Informação
 creditos: 3
-carga horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área: {{ page.area }}
 - Código: MIF006
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
--Renato Rocha Souza
+- Renato Rocha Souza
 
 
 ## Ementa

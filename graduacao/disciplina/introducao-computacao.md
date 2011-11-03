@@ -5,6 +5,9 @@ title: Introdução à Computação
 
 # {{ page.title }}
 
+- Carga horária: 90 horas (6 aulas semanais)
+- Pré-requisito: ---
+
 ## Ementa
 
 Noções gerais dos processos computacionais. Sistemas operacionais:

@@ -5,6 +5,10 @@ title: Linguagens de Programação
 
 # {{ page.title }}
 
+- Carga horária:  90 horas (6 aulas semanais)
+- Pré-requisito: 
+    - Introdução à Computação
+
 ## Ementa 
 
 Criação, compilação e execução de programas de computador. Tipos de

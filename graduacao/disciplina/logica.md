@@ -5,6 +5,9 @@ title: Lógica
 
 # {{ page.title }}
 
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: ---
+
 ## Ementa 
 
 Cálculo Proposicional: a noção de linguagem formal. Linguagem formal

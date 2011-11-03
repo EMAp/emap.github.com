@@ -1,9 +1,14 @@
 ---
 layout: disciplina
-title: Pesquisa Operacional 2
+title: Pesquisa Operacional II
 ---
 
 # {{ page.title }}
+
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    - Pesquisa Operacional I
+    - Cálculo II
 
 ## Ementa 
 
@@ -14,4 +19,4 @@ aplicações. Introdução à programação não linear.
 
 ## Bibliografía
 
-mendeley.emap.pesquisa-operacional-2
+mendeley.emap.pesquisa-operacional-II

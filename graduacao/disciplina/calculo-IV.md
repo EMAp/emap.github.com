@@ -5,6 +5,10 @@ title: Cálculo IV
 
 # {{ page.title }}
 
+- Carga horária: 90 horas (6 aulas semanais)
+- Pré-requisito:  
+    - Cálculo III
+
 ## Ementa
 
 Séries numéricas e séries de funções. Convergência,

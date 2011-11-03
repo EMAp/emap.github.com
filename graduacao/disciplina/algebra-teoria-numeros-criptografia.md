@@ -1,10 +1,13 @@
 ---
 layout: disciplina
 title:  Álgebra, Teoria dos Números e Criptografia 
- 
 ---
 
 # {{ page.title }}
+
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito:  
+    - Matemática Discreta
 
 ## Ementa 
 

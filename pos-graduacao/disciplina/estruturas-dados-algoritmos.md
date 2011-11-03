@@ -1,7 +1,6 @@
 ---
 layout: disciplina
 title: Estruturas de Dados e Algoritmos
-carga-horaria: 45 horas
 creditos: 3
 area: Ciência da Computação
 ---
@@ -10,7 +9,7 @@ area: Ciência da Computação
 
 - Área: {{ page.area }} 
 - Código: CMP001
-- Carga Horária: {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s)

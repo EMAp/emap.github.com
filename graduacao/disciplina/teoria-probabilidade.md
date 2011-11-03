@@ -5,6 +5,10 @@ title: Teoria da Probabilidade
 
 # {{ page.title }}
 
+- Carga horária: 90 horas (6 aulas semanais)
+- Pré-requisito:
+    - Cálculo II
+
 ## Ementa
 
 Eventos e espaços amostrais. Independência, probabilidades

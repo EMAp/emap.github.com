@@ -5,6 +5,10 @@ title: Etruturas de Dados e Algoritmos
 
 # {{ page.title }}
 
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito:
+    - Linguagens de Programação 
+
 ## Ementa 
 
 Conceitos de Algoritmos: Recursividade, complexidade de algoritmos,
