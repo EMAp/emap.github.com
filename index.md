@@ -17,4 +17,5 @@ destaque os projetos de pesquisa e de consultoria, além de parcerias
 institucionais, desenvolvidas pelo CMA - Centro de Matemática
 Aplicada, órgão integrante da EMAp.
 
-
+Veja:
+ - (Por que estudar matemática?)[porque-estudar-matematica.html]
