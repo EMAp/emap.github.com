@@ -1,14 +1,14 @@
 ---
 layout: disciplina
 title: Modelagem Matemática III - Sistemas Lineares e Otimização
-carga-horaria: 60 horas
-pre-requisito: Cálculo II, Álgebra Linear
 ---
 
 # {{ page.title }}
 
-- Carga horária: {{ page.carga-horaria }}
-- Pré-requisito: {{ page.pre-requisito }}
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    -  Cálculo II
+    -  Álgebra Linear
 
 ## Ementa 
 

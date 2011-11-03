@@ -3,14 +3,13 @@ layout: disciplina
 title: Probabilidade e inferência
 area:  Matemática Geral
 creditos: 3
-carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área: {{ page.area }}
 - Código: MAT002
-- Carga horária: {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

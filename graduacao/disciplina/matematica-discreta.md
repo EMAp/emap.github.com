@@ -1,14 +1,12 @@
 ---
 layout: disciplina
 title: Matemática Discreta
-carga-horaria: 60 horas(4 aulas semanais)
-pre-requisito: ---
 ---
 
 # {{ page.title }}
 
-- Carga horária: {{ page.carga-horaria }}
-- Pré-requisito:  {{ page.pre-requisito }}
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: ---
 
 ## Ementa
 

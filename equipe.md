@@ -7,7 +7,7 @@ title: Equipe
 
 ## Professores
 
-- Alexandre Rademaker
+- [Alexandre Rademaker](/people/alexandre.rademaker.html)
 - Antonio Carlos Saraiva Branco
 - Asla Medeiros e Sá
 - Eduardo Wagner

@@ -4,7 +4,7 @@ title: "Análise de sentimentos: desafios, perspectivas e soluções"
 tag: seminars
 quem: Leonardo Falcão Koblitz  
 onde: FGV (sala 317)
-hosted-by: 
+hosted-by: Renato Rocha Souza
 ---
 
 # {{ page.title }}

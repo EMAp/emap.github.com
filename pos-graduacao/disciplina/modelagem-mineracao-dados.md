@@ -3,14 +3,13 @@ layout: disciplina
 title: Modelagem e Mineração de Dados
 area: Ciência da Computação
 creditos: 3
-carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área:  {{ page.area }}
 - Código: CMP002
-- Carga horária:  {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos:  {{ page.creditos }}
 
 ## Docente(s)

@@ -1,7 +1,6 @@
 ---
 layout: disciplina
 title: Tópicos avançados em Inteligência Artificial
-carga-horaria: 45
 creditos: 3
 area: Mátematica da informação
 ---
@@ -10,7 +9,7 @@ area: Mátematica da informação
 
 - Área: {{ page.area }}     
 - Código: MIF009
-- Carga horária: {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

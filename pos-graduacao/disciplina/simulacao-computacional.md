@@ -3,14 +3,13 @@ layout: disciplina
 title: Simulação Computacional
 area: Matemática da Informação
 creditos: 3
-carga-horaria: 45 horas
 ---
 
 # {{ page.title }}
 
 - Área: {{ page.area }}
 - Código: MIF002
-- Carga horária: {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 

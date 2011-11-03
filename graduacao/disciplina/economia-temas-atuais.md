@@ -1,14 +1,13 @@
 ---
 layout: disciplina
 title: Economia e Temas Atuais
-carga-horaria: 60 horas(4 aulas semanais)
-pre-requisito: Introdução à Economia
 ---
 
 # {{ page.title }}
 
-- Carga horária: {{ page.carga-horaria }}
-- Pré-requisito: {{ page.pre-requisito }}
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    - Introdução à Economia 
 
 ## Ementa 
 

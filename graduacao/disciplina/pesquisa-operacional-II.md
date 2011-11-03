@@ -1,14 +1,14 @@
 ---
 layout: disciplina
 title: Pesquisa Operacional II
-carga-horaria: 60 horas(4 aulas semanais)
-pre-requisito: Pesquisa Operacional I, Cálculo II
 ---
 
 # {{ page.title }}
 
-- Carga horária: {{ page.carga-horaria }}
-- Pré-requisito: {{ page.pre-requisito }}
+- Carga horária: 60 horas (4 aulas semanais)
+- Pré-requisito: 
+    - Pesquisa Operacional I
+    - Cálculo II
 
 ## Ementa 
 

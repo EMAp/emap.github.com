@@ -1,7 +1,6 @@
 ---
 layout: disciplina
 title: Análise Matemática para Aplicações
-carga-horaria: 45 horas
 creditos: 3
 area: Matemática Geral
 ---
@@ -10,7 +9,7 @@ area: Matemática Geral
 
 - Área: {{ page.area }}
 - Código: MAT003
-- Carga horária: {{ page.carga-horaria }} 
+- Carga horária: 45 horas 
 - Créditos: {{ page.creditos }}
 
 ## Docente(s)

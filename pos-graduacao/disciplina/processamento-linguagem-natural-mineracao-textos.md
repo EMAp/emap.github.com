@@ -1,7 +1,6 @@
 ---
 layout: disciplina
 title: Processamento de Linguagem Natural e Mineração de Textos
-carga-horaria: 45 horas
 creditos: 3
 area: Mátematica da informação
 ---
@@ -10,7 +9,7 @@ area: Mátematica da informação
 
 - Área: {{ page.area }}     
 - Código: MIF011
-- Carga horária: {{ page.carga-horaria }}
+- Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
