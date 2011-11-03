@@ -46,9 +46,9 @@ etc.
 ## Depoimentos
 
 Depoimento do [Cassio Neri](http://uk.linkedin.com/in/cassioneri),
-analista quantitativo do Loyds Bank Coorporate Marketing:
+analista quantitativo do Loyds Bank Coorporate Marketing.
 
-> "Uma das tarefas de um banco de investimentos consiste em assumir e
+> Uma das tarefas de um banco de investimentos consiste em assumir e
 > gerenciar riscos financeiros que, de outra forma, ficariam a cargo
 > de seus clientes. Para cumprir eficientemente este objetivo, usamos
 > a Modelagem Matemática para traduzir conceitos financeiros (e.g.,
@@ -74,6 +74,6 @@ analista quantitativo do Loyds Bank Coorporate Marketing:
 >
 > Resumindo, posso dizer que Matemática, Programação e Finanças são os
 > três pilares de conhecimento necessários a qualquer analista
-> quantitativo."
+> quantitativo.
 
 

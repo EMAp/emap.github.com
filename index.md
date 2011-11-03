@@ -18,4 +18,6 @@ institucionais, desenvolvidas pelo CMA - Centro de Matemática
 Aplicada, órgão integrante da EMAp.
 
 Veja:
- - (Por que estudar matemática?)[porque-estudar-matematica.html]
+
+- [Por que estudar matemática?](porque-estudar-matematica.html)
+ 
