@@ -3,16 +3,14 @@ layout: seminars
 title: "Análise de sentimentos: desafios, perspectivas e soluções"
 tag: seminars
 quem: Leonardo Falcão Koblitz  
-onde: FGV (sala 317)
-hosted-by: Renato Rocha Souza
 ---
 
 # {{ page.title }}
 
 - Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
+- Onde:   FGV (sala 317)
 - Quando: {{ page.date | date_to_string }}
-- Hosted by:  {{ page.hosted-by }}
+- Hosted by: Renato Rocha Souza
 
 A análise de sentimentos tem como objetivo interpretar como uma emoção
 é expressa em um texto ou discurso. Questões como: Será que a análise

@@ -3,14 +3,13 @@ layout: seminars
 title: "O problema de avaliação de funções com custos variáveis"
 tag: seminars
 quem: Eduardo Laber  
-onde: FGV
 ---
 
 # {{ page.title }}
 
 - Quem: {{ page.quem }}
+- Onde:  FGV 
 - Quando: {{ page.date | date_to_string }}
-- Onde: {{ page.onde }}
 
 Consideramos o problema de avaliar funções que dependem dos valores de
 um conjunto de atributos cujos custos de leitura/obtenção são

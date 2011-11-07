@@ -3,13 +3,12 @@ layout: seminars
 title: "EOSMedia - Ambiente para Armazenamento, Recuperação, Interpretação e Análise de Grandes Volumes de Dados Multimídia"
 tag: seminars
 quem: Anselmo Paiva 
-onde: FGV (sala 317)
 ---
 
 # {{ page.title }}
 
 - Quem: {{ page.quem }}
-- Onde:  {{ page.onde }}
+- Onde:  FGV (sala 317)
 - Quando: {{ page.date | date_to_string }}
 
 Os avanços tecnológicos recentes têm propiciado o uso de várias mídias

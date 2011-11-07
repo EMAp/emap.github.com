@@ -3,13 +3,12 @@ layout: seminars
 title: "Análise de Sentimentos e Mercado Financeiro"
 tag: seminars
 quem: André Coutinho  
-onde: FGV
 ---
 
 # {{ page.title }}
 
 - Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
+- Onde:   FGV
 - Quando: {{ page.date | date_to_string }}
 
 Este seminário trata de análise de sentimentos do mercado

@@ -8,18 +8,18 @@ title: Equipe
 ## Professores
 
 - [Alexandre Rademaker](/people/alexandre.rademaker.html)
-- Antonio Carlos Saraiva Branco
-- Asla Medeiros e Sá
-- Eduardo Wagner
-- Flávio Codeço Coelho
-- Jair Koiller
-- Maria Izabel Tavares Camacho – coordenador geral
-- Moacyr Alvim Horta Barbosa da Silva
-- Paulo Cezar Pinto Carvalho - coordenador de graduação
-- Renato Rocha Souza · coordenador da pós graduação
-- Walter Wagner Carvalho Sande
+- [Antonio Carlos Saraiva Branco](/people/antonio.branco.html)
+- [Asla Medeiros e Sá](/people/asla.sa.html)
+- [Eduardo Wagner](/people/eduardo.wagner.html)
+- [Flávio Codeço Coelho](/people/flavio.coelho.html)
+- [Jair Koiller](/people/jair.koiller.html)
+- [Maria Izabel Tavares Camacho](/people/maria.camacho.html) - Coordenador Geral
+- [Moacyr Alvim Horta Barbosa da Silva](/people/moacyr.silva.html)
+- [Paulo Cezar Pinto Carvalho](/people/paulo.carvalho.html) - Coordenador de Graduação
+- [Renato Rocha Souza](/people/renato.souza.html) - Coordenador da Pós Graduação
+- [Walter Wagner Carvalho Sande](/people/walter.sande.html)
 
 ## Secretaria
 
-- Luciana Lauria
+- Luciana Cunha Lauria da Silva
 

@@ -3,13 +3,12 @@ layout: seminars
 title: "Projetos e Pesquisa na EMAp FGV"
 tag: seminars
 quem: Renato Rocha Souza e Flávio Codeço Coelho  
-onde: FGV (sala 317)
 ---
 
 # {{ page.title }}
 
 - Quem: {{ page.quem }}
-- Onde: {{ page.onde }}
+- Onde: FGV (sala 317)
 - Quando: {{ page.date | date_to_string }}
 
 Renato Rocha Souza e Flávio Codeço Coelho falaram sobre um projeto em
