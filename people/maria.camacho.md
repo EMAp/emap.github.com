@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Maria Izabel Tavares Camacho
-picture: izabel.camacho.jpg
+picture: maria.camacho.jpg
 ---
 
 # {{ page.title }}
