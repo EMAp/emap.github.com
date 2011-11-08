@@ -5,43 +5,33 @@ title: Por que estudar matemática?
 
 # {{ page.title }}
 
-Uma das grandes razões para se estudar matemática em nível superior é
-o fato de a matemática ser interessante e desafiadora. Resolver um
-problema de matemática é frequentemente gratificante do ponto de vista
-intelectual.  Mas matemática não é só interessante, é também
-importante! A matemática pode ser utilizada como uma ferramenta muito
-eficiente na revelação de estruturas e padrões presentes no mundo que
-nos rodeia e, muito relevante nos dias de hoje, nas informações que
-nos rodeiam.
+Muitas das grandes inovações tecnológicas do mundo atual são
+fortemente baseadas no uso de Matemática. Um exemplo notável é o da
+empresa Google, que não se tornou líder em buscas na Internet porque
+seus computadores são melhores nem por sua infraestrutura.  A Google
+triunfou porque seus criadores tiveram uma ideia matemática inovadora
+para selecionar os links mais relevantes para seus usuários.
 
-Além da sua beleza intrínseca e do seu conteúdo abstrato, a Matemática
-estimula diversos modos de pensamento, ao mesmo tempo versáteis e
-potentes. Tem um campo de aplicações praticamente ilimitado, presente
-em quase todas as áreas do conhecimento humano.
+De modo geral, a quantidade de dados digitais produzida no mundo, que
+se multiplica por dez a cada cinco anos, é uma grande fonte de
+problemas, nas diversas áreas de atividade: negócios, finanças, saúde
+pública, educação, gestão, etc.  A ferramenta apropriada para
+enfrentá-los, em muitos casos, é a Matemática aliada à Computação.
+Frequentemente, os profissionais que enfrentam esses desafios são
+recrutados entre os egressos dos cursos de Engenharia. As estruturas
+curriculares de tais cursos, no entanto, não foram, em sua maioria,
+concebidas de modo a atender essa demanda. Se um aluno sonha em
+projetar carros ou pontes, deve estudar Engenharia. No entanto, se
+esse aluno fica fascinado com aplicações mais recentes da Matemática,
+realizadas por meio de técnicas de computação modernas, então ele deve
+estudar Matemática Aplicada (de preferência na EMAp).
 
-Estudar Matemática desenvolve múltiplas capacidades, competências e
-talento, essenciais a uma integração consistente e bem sucedida no
-atual mercado de trabalho. 
-
-- Desenvolve o raciocínio lógico e dedutivo e as capacidades de
-generalização e abstração.
-- Permite a modelagem de situações reais e, através do seu potencial
-de representação simbólica (fórmulas, equações, gráficos), facilita a
-sua simulação, enriquecendo a base de informações para tomadas de
-decisão.
-- Permite formular e resolver problemas de forma precisa.  Desenvolve
-a criatividade e a versatilidade de adaptação a novas situações.
-- Desenvolve a capacidade de sonhar! Permite imaginar mundos
-diferentes, e dá também a possibilidade de comunicar esses sonhos de
-forma clara e não ambígua.
-
-Por tudo isto, ser matemático é enveredar por uma carreira
-profissional com um enorme potencial de realização pessoal. Além das
-vias de ensino e de pesquisa pura e aplicada, as formações em
-Matemática abrem um campo vasto de oportunidades de carreiras
-profissionais, cada vez mais solicitadas pelas várias entidades
-empregadoras - empresas, serviços, indústria, finança, seguradoras,
-etc.
+Ser matemático aplicado é enveredar por uma carreira profissional com
+um enorme potencial de realização pessoal. Além das vias de ensino e
+de pesquisa pura e aplicada, as formações em Matemática abrem um campo
+vasto de oportunidades de carreiras profissionais, cada vez mais
+solicitadas pelas várias entidades empregadoras - empresas, serviços,
+indústria, bancos, governos etc.
  
 ## Depoimentos
 
@@ -75,5 +65,4 @@ analista quantitativo do Loyds Bank Coorporate Marketing.
 > Resumindo, posso dizer que Matemática, Programação e Finanças são os
 > três pilares de conhecimento necessários a qualquer analista
 > quantitativo.
-
 
