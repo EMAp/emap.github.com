@@ -7,8 +7,8 @@ title: Pesquisa Operacional I
 
 - Carga horária: 60 horas (4 aulas semanais)
 - Pré-requisito: 
-    - Cálculo I
-    - Álgebra Linear
+    - [Cálculo I](calculo-I.html)
+    - [Álgebra Linear](algebra-linear.html)
 
 ## Ementa 
 

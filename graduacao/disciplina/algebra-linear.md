@@ -6,8 +6,7 @@ title: Álgebra linear
 # {{ page.title }}
 
 - Carga horária: 90 horas (6 aulas semanais) 
-- Pré-requisito:
-    -  Geometria Analítica e Vetores
+- Pré-requisito: [Geometria Analítica e Vetores](geometria-analitica-vetores.html)
 
 ## Ementa 
 

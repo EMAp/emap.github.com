@@ -6,8 +6,7 @@ title: Modelagem Matemática IV
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: 
-    - Cálculo III
+- Pré-requisito: [Cálculo III](calculo-III.html)
 
 ## Ementa 
 

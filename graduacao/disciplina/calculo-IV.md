@@ -6,8 +6,7 @@ title: Cálculo IV
 # {{ page.title }}
 
 - Carga horária: 90 horas (6 aulas semanais)
-- Pré-requisito:  
-    - Cálculo III
+- Pré-requisito: [Cálculo III](calculo-III.html)
 
 ## Ementa
 

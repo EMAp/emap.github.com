@@ -7,8 +7,8 @@ title: Pesquisa Operacional II
 
 - Carga horária: 60 horas (4 aulas semanais)
 - Pré-requisito: 
-    - Pesquisa Operacional I
-    - Cálculo II
+    - [Pesquisa Operacional I](pesquisa-operacional.html)
+    - [Cálculo II](calculo-II.html)
 
 ## Ementa 
 

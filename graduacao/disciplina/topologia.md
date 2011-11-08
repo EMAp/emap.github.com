@@ -6,8 +6,7 @@ title: Topologia
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: 
-    - Análise II
+- Pré-requisito: [Análise II](analise-II.html)
 
 ## Ementa 
 
