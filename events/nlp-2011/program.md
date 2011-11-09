@@ -13,7 +13,8 @@ workshop-image: arcosdalapa.jpg
 <tr><td>9-11h</td>
 <td>
 
-<b>Introduction to Text Mining</b>, Gerard de Melo<br/><br/>
+<b>Introduction to Text Mining</b>
+<br/>Gerard de Melo<br/><br/>
 
 This talk will introduce some popular techniques used to process and
 organize text document collections.  Along the way, some of the most
@@ -64,7 +65,8 @@ TBA
 <th width="12%">Hour</th><th>What</th>
 <tr><td>9-11h</td>
 <td>
-<b>Web Mining with Advanced Text Representations</b>, Gerard de Melo<br/><br/>
+<b>Web Mining with Advanced Text Representations</b>
+<br/>Gerard de Melo<br/><br/>
 
 This talk will build on the Introduction to Text Mining and will
 discuss how language resources can allow us to construct more
@@ -93,7 +95,8 @@ TBA, Edward Hermann Haeusler
 <th width="12%">Hour</th><th>What</th>
 <tr><td>9-11h</td>
 <td>
-<b>Information Extraction and Large-Scale Knowledge Bases</b>, Gerard de Melo<br/><br/>
+<b>Information Extraction and Large-Scale Knowledge Bases</b>
+<br/>Gerard de Melo<br/><br/>
 
 This talk will describe methods that are used to extract knowledge
 from text. We start out with important natural language processing
@@ -118,21 +121,53 @@ TBA
 
 ## Friday: Nov, 25 2011
 
-TBA
-
 <table>
 <th width="12%">Hour</th><th>What</th>
 <tr><td>9h</td>
 <td>
-TBA, Edward Hermann Haeusler
+<b>Intuitionistic Description Logic and Legal Reasoning</b>
+<br/>Edward Hermann<br/><br/>
+
+Classical Logic has been frequently used as a basis for knowledge
+representation and reasoning in many specific domains.  Legal
+Knowledge Representation is particularly interesting due to the
+natural occurrences of conflicts among law systems, individual laws
+and cases. Those conflicts are usually taken as logical
+inconsistencies. Due to its inherently normative feature, coherence
+(consistency) in legal ontologies is more subtle than in most other
+domains. An adequate intuitionistic semantics for negation in a legal
+domain comes to the fore when we take legally valid individual
+statements as the inhabitants of our legal ontology. This allows us to
+elegantly deal with particular situations of legal coherence, such as
+conflict of laws, as those solved by Private International Law
+analysis. In this talk: (1) Briefly presents our version of
+Intuitionistic Description Logic, called IALC for Intuitionistic ALC;
+(2) Shows a study on the logical coherence analysis of "Conflict of
+Laws in Space", in the scope of Private International Law, by means of
+the IALC Sequent Calculus proposed herein.
+
 </td>
 </tr>
-<tr><td>14h</td>
+<tr><td>11h</td>
 <td>
-TBA
+<b>On the Computational complexity of Intuitionistic Modal and
+Description Logics</b>
+<br/>
+Edward Hermann<br/><br/>
+
+In this talk we will present a proof of PSPACE completeness for the
+satisfiability problem of Intuitionistic Modal Logic IK and
+Intuitionistic Description Logic iALC. We propose a 2-person
+game which can be polynomially implemented in an Alternating Turing
+Machine, and which relates the existence of a winning strategy, for
+one player, to the satisfiability of a given formula. It is
+well-known that any polynomial time implementation on an Alternating
+Turing Machine can be solved in an ordinary Turing Machine using
+polynomial space. We also prove the finite model property for both
+logics. This is achieved because if there exists a winning strategy
+for a given formula then a finite model is built at the final stage
+of the game.
+
 </td></tr>
-<tr><td>16h</td>
-<td>
-TBA
-</td></tr>
+
 </table>
