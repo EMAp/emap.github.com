@@ -2,10 +2,11 @@
 layout: workshop-content
 title: Program
 workshop-title: Logics and Ontologies for Portuguese
+workshop-dates: November, 21-25th 2011
 workshop-image: arcosdalapa.jpg
 ---
 
-## Monday
+## Monday: Nov, 21 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
@@ -35,7 +36,7 @@ TBA, Gerard de Melo
 </td></tr>
 </table>
 
-## Tuesday
+## Tuesday: Nov, 22 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
@@ -57,7 +58,7 @@ TBA
 </table>
 
 
-## Wednesday 
+## Wednesday: Nov, 23 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
@@ -86,7 +87,7 @@ TBA, Edward Hermann Haeusler
 </td></tr>
 </table>
 
-## Thursday
+## Thursday: Nov, 24 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
@@ -115,7 +116,23 @@ TBA
 </td></tr>
 </table>
 
-## Friday
+## Friday: Nov, 25 2011
 
 TBA
 
+<table>
+<th width="12%">Hour</th><th>What</th>
+<tr><td>9h</td>
+<td>
+TBA, Edward Hermann Haeusler
+</td>
+</tr>
+<tr><td>14h</td>
+<td>
+TBA
+</td></tr>
+<tr><td>16h</td>
+<td>
+TBA
+</td></tr>
+</table>

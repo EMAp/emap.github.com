@@ -1,7 +1,8 @@
 ---
 layout: workshop-content
 title: Organization
-workshop-title: Logics and Ontologies for Portuguese
+workshop-title: Logics and Ontologies for Portugues
+eworkshop-dates: November, 21-25th 2011
 workshop-image: arcosdalapa.jpg
 ---
 
