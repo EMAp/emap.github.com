@@ -37,7 +37,25 @@ TBA, Gerard de Melo
 
 ## Tuesday
 
+<table>
+<th width="12%">Hour</th><th>What</th>
+<tr><td>10h</td>
+<td>
+
+TBA, Vládia Pinheiro
+
+</td>
+</tr>
+<tr><td>14h</td>
+<td>
 TBA
+</td></tr>
+<tr><td>16h</td>
+<td>
+TBA
+</td></tr>
+</table>
+
 
 ## Wednesday 
 
