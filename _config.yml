@@ -1,3 +1,5 @@
 
 pygments: true
+markdown: rdiscount
+
 

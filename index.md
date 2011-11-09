@@ -20,4 +20,5 @@ Aplicada, órgão integrante da EMAp.
 Veja:
 
 - [Por que estudar matemática?](porque-estudar-matematica.html)
+- [Por que estudar na EMAp?](porque-estudar-na-emap.html)
  
