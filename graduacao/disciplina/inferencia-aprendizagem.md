@@ -6,8 +6,8 @@ title: Inferência e Aprendizagem
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: 
-    - Estatística
+- Pré-requisito:
+    - [Estatística](estatistica.html)
 
 ## Ementa
 

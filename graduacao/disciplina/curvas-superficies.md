@@ -7,9 +7,9 @@ title: Curvas e Superfícies
 
 - Carga horária: 60 horas (4 aulas semanais)
 - Pré-requisito:
-    - Geometria Analítica e Vetores 
-    - Cálculo II 
-    - Linguagens de Programação      
+    - [Geometria Analítica e Vetores](geometria-analitica-vetores.html) 
+    - [Cálculo II](calculo-II.html)
+    - [Linguagens de Programação](linguagens-programacao.html)      
 
 ## Ementa
 

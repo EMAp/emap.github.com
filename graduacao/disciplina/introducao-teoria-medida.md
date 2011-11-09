@@ -7,7 +7,8 @@ title: Introdução à Teoria da Medida
 
 - Carga horária: 60 horas (4 aulas semanais)
 - Pré-requisito:
-    -  Análise
+    - [Análise](analise.html)
+
 ## Ementa 
 
 Comparação entre as integrais de Riemann e Lebesgue. Medidas e funções

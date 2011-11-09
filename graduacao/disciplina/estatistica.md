@@ -7,7 +7,7 @@ title: Estatística
 
 - Carga horária: 90 horas (6 aulas semanais)
 - Pré-requisito: 
-    - Probabilidade
+    - [Probabilidade](probabilidade.html)
 
 ## Ementa
 

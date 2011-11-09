@@ -6,7 +6,7 @@ title: Modelagem Matemática I - Modelos elementares em Ciências Sociais
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: ---
+- Pré-requisito: Não existe
 
 ## Ementa 
 

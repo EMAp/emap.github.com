@@ -7,7 +7,7 @@ title: Economia e Temas Atuais
 
 - Carga horária: 60 horas (4 aulas semanais)
 - Pré-requisito: 
-    - Introdução à Economia 
+    - [Introdução à Economia](introducao-economia.html) 
 
 ## Ementa 
 

@@ -7,7 +7,7 @@ title: Teoria da Probabilidade
 
 - Carga horária: 90 horas (6 aulas semanais)
 - Pré-requisito:
-    - Cálculo II
+    - [Cálculo II](calculo-II.html)
 
 ## Ementa
 

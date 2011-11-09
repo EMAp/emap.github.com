@@ -6,8 +6,8 @@ title: Análise II
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: 
-    -  Análise
+- Pré-requisito:
+    - [Análise](analise.html)
 
 ## Ementa 
 

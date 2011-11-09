@@ -7,9 +7,9 @@ title: Análise Numérica
 
 - Carga horária: 60 horas (4 aulas semanais)
 - Pré-requisito: 
-    - Linguagens de Programação
-    - Cálculo IV
-    - Álgebra Linear
+    - [Linguagens de Programação](linguagens-programacao.html)
+    - [Cálculo IV](calculo-IV.html)
+    - [Álgebra Linear](algebra-linear.html)
 
 ## Ementa 
 

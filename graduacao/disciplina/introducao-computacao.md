@@ -6,7 +6,7 @@ title: Introdução à Computação
 # {{ page.title }}
 
 - Carga horária: 90 horas (6 aulas semanais)
-- Pré-requisito: ---
+- Pré-requisito: Não existe
 
 ## Ementa
 
