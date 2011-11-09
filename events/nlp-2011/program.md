@@ -13,7 +13,7 @@ workshop-image: arcosdalapa.jpg
 <tr><td>9-11h</td>
 <td>
 
-<b>Introduction to Text Mining</b><br/><br/>
+<b>Introduction to Text Mining</b>, Gerard de Melo<br/><br/>
 
 This talk will introduce some popular techniques used to process and
 organize text document collections.  Along the way, some of the most
@@ -64,7 +64,7 @@ TBA
 <th width="12%">Hour</th><th>What</th>
 <tr><td>9-11h</td>
 <td>
-<b>Web Mining with Advanced Text Representations</b><br/><br/>
+<b>Web Mining with Advanced Text Representations</b>, Gerard de Melo<br/><br/>
 
 This talk will build on the Introduction to Text Mining and will
 discuss how language resources can allow us to construct more
@@ -93,7 +93,7 @@ TBA, Edward Hermann Haeusler
 <th width="12%">Hour</th><th>What</th>
 <tr><td>9-11h</td>
 <td>
-<b>Information Extraction and Large-Scale Knowledge Bases</b><br/><br/>
+<b>Information Extraction and Large-Scale Knowledge Bases</b>, Gerard de Melo<br/><br/>
 
 This talk will describe methods that are used to extract knowledge
 from text. We start out with important natural language processing
