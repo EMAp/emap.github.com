@@ -6,7 +6,8 @@ title: Linguagens de Programação
 # {{ page.title }}
 
 - Carga horária:  90 horas (6 aulas semanais)
-- Pré-requisito: [Introdução à Computação](introducao-computacao.html)
+- Pré-requisito:
+    - [Introdução à Computação](introducao-computacao.html)
 
 ## Ementa 
 

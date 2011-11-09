@@ -6,7 +6,8 @@ title: Estatística Multivariada
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: [Estatística](estatistica.html)
+- Pré-requisito:
+    - [Estatística](estatistica.html)
 
 ## Ementa 
 

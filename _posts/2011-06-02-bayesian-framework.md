@@ -27,7 +27,7 @@ framework to fit an SIR-like influenza transmission model to 7 years
 of incidence data in three European countries: Belgium, the
 Netherlands and Portugal.
 
-[apresentação em PDF](https://docs.google.com/viewer?a=v&pid=gmail&attid=0.1&thid=1337eee646ba50a9&mt=application/pdf&url=https://mail.google.com/mail/?ui%3D2%26ik%3D6adfcc2a16%26view%3Datt%26th%3D1337eee646ba50a9%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_guppf88w0%26zw&sig=AHIEtbSaHS59ZF9Oi8yW9pFEmjU-K8C6tA)
+[Apresentação em PDF](https://docs.google.com/viewer?a=v&pid=gmail&attid=0.1&thid=1337eee646ba50a9&mt=application/pdf&url=https://mail.google.com/mail/?ui%3D2%26ik%3D6adfcc2a16%26view%3Datt%26th%3D1337eee646ba50a9%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_guppf88w0%26zw&sig=AHIEtbSaHS59ZF9Oi8yW9pFEmjU-K8C6tA)
 
 ## Nota para visitantes
 

@@ -6,7 +6,8 @@ title: Álgebra II
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: [Álgebra, Teoria dos Números e Criptografia](algebra-teoria-numeros-criptografia.html)
+- Pré-requisito:
+    - [Álgebra, Teoria dos Números e Criptografia](algebra-teoria-numeros-criptografia.html)
 
 ## Ementa 
 

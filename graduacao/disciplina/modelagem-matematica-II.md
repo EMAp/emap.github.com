@@ -6,7 +6,8 @@ title: Modelagem Matemática II - Modelos Físicos
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: [Cálculo I](calculo-I.html)
+- Pré-requisito:
+    - [Cálculo I](calculo-I.html)
 
 ## Ementa 
 

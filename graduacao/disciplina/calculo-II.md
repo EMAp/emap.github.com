@@ -6,7 +6,8 @@ title: Cálculo II
 # {{page.title}}
 
 - Carga horária: 90 horas (6 aulas semanais) 
-- Pré-requisito: [Cálculo I](calculo-I.html)
+- Pré-requisito: 
+    - [Cálculo I](calculo-I.html)
 
 ## Ementa 
 

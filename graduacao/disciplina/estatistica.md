@@ -6,7 +6,8 @@ title: Estatística
 # {{ page.title }}
 
 - Carga horária: 90 horas (6 aulas semanais)
-- Pré-requisito: [Probabilidade](probabilidade.html)
+- Pré-requisito: 
+    - [Probabilidade](probabilidade.html)
 
 ## Ementa
 

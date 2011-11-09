@@ -6,7 +6,8 @@ title: Introdução à Teoria da Medida
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semanais)
-- Pré-requisito: [Análise](analise.html)
+- Pré-requisito:
+    - [Análise](analise.html)
 
 ## Ementa 
 

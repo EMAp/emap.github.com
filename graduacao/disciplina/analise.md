@@ -6,7 +6,8 @@ title: Análise
 # {{ page.title }}
 
 - Carga horária: 60 horas (4 aulas semnais)
-- Pré-requisito: [Cálculo I](calculo-I.html)  
+- Pré-requisito: 
+    - [Cálculo I](calculo-I.html)  
 
 ## Ementa 
 
