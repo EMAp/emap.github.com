@@ -1,6 +1,6 @@
 ---
 layout: disciplina
-title: Etruturas de Dados e Algoritmos
+title: Estruturas de Dados e Algoritmos
 ---
 
 # {{ page.title }}

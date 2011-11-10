@@ -7,7 +7,7 @@ title: Disciplinas do Mestrado
 
 
 
-## Obrigatótias
+## Obrigatórias
 
 - [Álgebra Linear e Aplicações](disciplina/algebra-linear-aplicacoes.html)
 - [Análise Matemática para aplicações](disciplina/analise-matematica-aplicacoes.html)
