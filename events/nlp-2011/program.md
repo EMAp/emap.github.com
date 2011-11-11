@@ -54,8 +54,6 @@ takes part in what is usually considered "technical content" or
 logic and computing. Under this view new possibilities for knowledge
 construction are acknowledged, allowing maths that are done and lived
 outside the major centers.
-
-TBA, Gerard de Melo
 </td></tr>
 </table>
 
