@@ -29,7 +29,21 @@ this model is used for information retrieval and web search.
 </tr>
 <tr><td>14h</td>
 <td>
-Introduction to SUMO Ontology and Sigma Editor, Valéria de Paiva
+<b>Introducing SUMO the Suggested Upper Merged Ontology</b><br/>
+Valeria de Paiva<br/><br/>
+
+This talk presents an overview of ontology creation and development in
+[SUMO](www.ontologyportal.org), including how we envisage using it to
+help with reasoning about Portuguese texts.
+
+The Suggested Upper Merged Ontology will be introduced (no previous
+knowledge assumed) and Sigma (the ontology environment) associated
+with it will be demonstrated.  Issues of the capabilities and
+tradeoffs in first order logic inference are briefly explored.  The
+SUMO mappings to the WordNet lexicon are also discussed.
+
+Hopefully some hands-on axiom writing will be done together, bring
+your laptops!
 </td></tr>
 <tr><td>16h</td>
 <td>
