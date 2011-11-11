@@ -33,7 +33,27 @@ Introduction to SUMO Ontology and Sigma Editor, Valéria de Paiva
 </td></tr>
 <tr><td>16h</td>
 <td>
-TBA, Gerard de Melo
+<b>Localizing Math</b><br/>
+Isabel Cafezeiro<br/><br/>
+
+We start from the analysis of Turing's work in On computable numbers,
+with an application to the Entscheidungsproblem raising evidences
+about how he proceeded to build the definition of computability.
+Taking advantage of his stepwise construction that starts from the
+materialities to achieve a satisfactory level of abstraction, we show
+how his way of doing mathematic fits an approach of knowledge
+construction where there is not definite  separation between materia
+and form, and thus, the world and the language are not closed spheres.
+In the same line of reasoning,  the abstract and the concrete, the
+deduction and the induction, the technical and the social, the
+objective and the subjective are unthinkable as pure entities.
+Considering controversies and discussions from the mid-nineteenth
+century to nowadays, we verify a social component that permanently
+takes part in what is usually considered "technical content" or
+“objectivity” undermining, thus, the axis of authority of mathematics,
+logic and computing. Under this view new possibilities for knowledge
+construction are acknowledged, allowing maths that are done and lived
+outside the major centers.
 </td></tr>
 </table>
 
@@ -50,7 +70,8 @@ TBA, Vládia Pinheiro
 </tr>
 <tr><td>14h</td>
 <td>
-TBA
+<b>Building multilingual lexical knowledge bases from WordNet and Wikipedia</b><br/>
+Gerard de Melo
 </td></tr>
 <tr><td>16h</td>
 <td>
@@ -169,5 +190,4 @@ for a given formula then a finite model is built at the final stage
 of the game.
 
 </td></tr>
-
 </table>
