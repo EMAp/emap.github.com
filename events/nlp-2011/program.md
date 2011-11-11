@@ -33,8 +33,8 @@ this model is used for information retrieval and web search.
 Valeria de Paiva<br/><br/>
 
 This talk presents an overview of ontology creation and development in
-[SUMO](http://www.ontologyportal.org), including how we envisage using it to
-help with reasoning about Portuguese texts.
+<a href="http://www.ontologyportal.org">SUMO</a>, including how we
+envisage using it to help with reasoning about Portuguese texts.
 
 The Suggested Upper Merged Ontology will be introduced (no previous
 knowledge assumed) and Sigma (the ontology environment) associated
