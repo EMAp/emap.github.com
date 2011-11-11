@@ -34,7 +34,7 @@ Introduction to SUMO Ontology and Sigma Editor, Valéria de Paiva
 <tr><td>16h</td>
 <td>
 <b>Localizing Math</b><br/>
-Isabel Cafezeiro<br/><br/>
+Isabel Cafezeiro and Ivan da Costa Marques<br/><br/>
 
 We start from the analysis of Turing's work in On computable numbers,
 with an application to the Entscheidungsproblem raising evidences
