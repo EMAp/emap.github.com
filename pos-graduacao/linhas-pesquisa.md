@@ -23,13 +23,14 @@ pesquisadas pelos mestrandos, pretendem abranger o escopo mais amplo
 da matemática aplicada, consoante com os objetivos de perfil formativo
 dos egressos.
  
-## Área de Concentração:
+## Área de Concentração
 
-   - Matemática da Informação
+Matemática da Informação
 
-## Linhas de Pesquisa:
+## Linhas de Pesquisa
 
-   - Modelagem e Simulação de Sistemas Complexos
-   - Representação do Conhecimento e Ontologias
-   - Extração, Processamento e Visualização de Informação
+- Modelagem e Simulação de Sistemas Complexos
+- Representação do Conhecimento, Lógicas e Ontologias
+- Extração, Processamento e Visualização de Informação
+
 
