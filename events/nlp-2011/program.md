@@ -10,9 +10,8 @@ workshop-image: arcosdalapa.jpg
 
 <table>
 <th width="12%">Hour</th><th>What</th>
-<tr><td>9-11h</td>
-<td>
 
+<tr><td>14:00</td><td>
 <b>Introduction to Text Mining</b>
 <br/>Gerard de Melo<br/><br/>
 
@@ -25,12 +24,15 @@ it can be used 1) to assess how similar two documents are, 2) to
 categorize documents based on their contents, and 3) to cluster
 similar documents into groups. Finally, we will also point out how
 this model is used for information retrieval and web search.
-</td>
-</tr>
-<tr><td>14h</td>
-<td>
+</td></tr>
+
+<tr><td>15:30</td><td>
+Coffe
+</td></tr>
+
+<tr><td>16:00</td><td>
 <b>Introducing SUMO the Suggested Upper Merged Ontology</b><br/>
-Valeria de Paiva<br/><br/>
+Valeria de Paiva, Rearden Commerce, CA<br/>
 
 <p>This talk presents an overview of ontology creation and development
 in <a href="http://www.ontologyportal.org">SUMO</a>, including how we
@@ -45,32 +47,68 @@ SUMO mappings to the WordNet lexicon are also discussed.</p>
 <p>Hopefully some hands-on axiom writing will be done together, bring
 your laptops!</p>
 </td></tr>
-<tr><td>16h</td>
-<td>
-TBA
+
+<tr><td>17:00</td><td>
+<b>Sistemas de Informação do CPDOC/FGV</b><br/>
+Suemi Higuchi<br/><br/>
+
+(in portuguese) Serão apresentados os sistemas de informação do CPDOC
+e as possíveis demandas por processamento de linguagem natural para
+suporte e apoio ao processamento de linguagem natural.
 </td></tr>
+
 </table>
 
 ## Tuesday: Nov, 22 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
-<tr><td>10h</td>
-<td>
 
-TBA, Vládia Pinheiro
-
-</td>
-</tr>
-<tr><td>14h</td>
-<td>
+<tr><td>14:00</td><td>
 <b>Building multilingual lexical knowledge bases from WordNet and Wikipedia</b><br/>
-Gerard de Melo
+Gerard de Melo<br/><br/>
+
+A large-scale multilingual lexical knowledge base built using
+statistical methods, transforming the well-known WordNet database into
+a massively multilingual resource covering over 1 million words and
+several million named entities in a single large multilingual
+taxonomy.
 </td></tr>
-<tr><td>16h</td>
-<td>
+
+<tr><td>15:00</td><td>
+<b>Um Analisador Semântico Inferencialista de Sentenças em Linguagem Natural</b><br/>
+Vládia Pinheiro<br/><br/>
+
+The talk will be about the SIA system which is described as (in
+portuguese):
+
+"Um raciocinador semântico para entendimento de linguagem
+natural que implementa um algoritmo que raciocina sobre o conteúdo
+inferencial de conceitos e padrões de sentenças – o Analisador
+Semântico Inferencialista (SIA). O SIA implementa um raciocínio
+material e holístico sobre a rede de potenciais inferências em que os
+conceitos de uma língua podem participar, considerando como os
+conceitos estão relacionados na sentença, de acordo com padrões de
+estruturas sintáticas. A medida de relacionamento inferencial e o
+processo de raciocínio do SIA são descritos. O SIA é usado como
+raciocinador semântico em um sistema de extração de informações sobre
+crimes – WikiCrimesIE. Os resultados obtidos e uma análise comparativa
+são apresentados e discutidos, servindo para a identificação de
+vantagens e oportunidades de melhoria para o SIA."
+</td></tr>
+
+<tr><td>16:00</td><td>
+Coffe
+</td></tr>
+
+<tr><td>16:15</td><td>
 TBA
 </td></tr>
+
+<tr><td>17:15</td><td>
+TBA
+</td></tr>
+
 </table>
 
 
@@ -78,8 +116,8 @@ TBA
 
 <table>
 <th width="12%">Hour</th><th>What</th>
-<tr><td>9-11h</td>
-<td>
+
+<tr><td>14h</td><td>
 <b>Web Mining with Advanced Text Representations</b>
 <br/>Gerard de Melo<br/><br/>
 
@@ -92,15 +130,46 @@ extracted from blogs using sentiment mining techniques. We will also
 describe in great detail how language resources can be used to extend
 text mining to work with very short pieces of text (e.g. Twitter
 posts) and with multilingual text collections.
-</td>
-</tr>
-<tr><td>14h</td>
-<td>
-Contexts for Quantification, Valéria de Paiva
 </td></tr>
-<tr><td>16h</td>
-<td>
-TBA, Edward Hermann Haeusler
+
+<tr><td>15:30</td><td>
+Coffe
+</td></tr>
+
+<tr><td>16:00</td><td>
+<b>Contexts for Quantification</b><br/>
+Valeria de Paiva, Rearden Commerce, CA<br/>
+
+<p>Logical systems conceived for providing semantics and logical forms
+for sentences of English abound. From Montague's original Higher-order
+Intensional Logic in the seventies, to Situation Theory and Discourse
+Representation Theory as well as the  several frame languages (e.g.
+KL-ONE) and their descendents, the  Description Logics  in the 80's
+and 90's, to vanilla versions of First-order logic (FOL) with bells
+and whistles more recently, the field is rife with possibilities and
+issues.</p>
+
+<p>I want to describe one more such language, the product of several
+years of development of the NLP-based knowledge representation system
+Bridge, at PARC. While the design of the language was historically
+tied-up to the development of the software system, I believe that the
+language and its inferential system are of independent interest. In
+previous publications, we have been calling this logic language TIL,
+for Textual Inference Logic. TIL can be considered one of several
+systems associated with Natural Logic.</p>
+
+<p>Within the traditions of Natural logic, TIL distinguishes itself by
+the unorthodox treatment of quantification in terms of instantiation
+of concepts within  contexts. I want to describe this mechanism of
+quantification, necessitated by what we consider a better modelling of
+negation and other intensional phenomena, ubiquitous in natural
+language. Further we want  to map and  relate TIL's expressive power
+to that of more traditional systems, as for example, the ones
+described by Moss.</p>
+</td></tr>
+
+<tr><td>17:00</td><td>
+TBA, Alexandre Rademaker
 </td></tr>
 </table>
 
@@ -108,8 +177,8 @@ TBA, Edward Hermann Haeusler
 
 <table>
 <th width="12%">Hour</th><th>What</th>
-<tr><td>9-11h</td>
-<td>
+
+<tr><td>14:00</td><td>
 <b>Information Extraction and Large-Scale Knowledge Bases</b>
 <br/>Gerard de Melo<br/><br/>
 
@@ -122,14 +191,9 @@ techniques that allow us to extract facts abouts such objects from a
 text collection. Finally, we describe some of the more recent
 large-scale knowledge bases that provide large numbers of facts about
 the world.
-</td>
-</tr>
-<tr><td>14h</td>
-<td>
-TBA
 </td></tr>
-<tr><td>16h</td>
-<td>
+
+<tr><td>16:00</td><td>
 <b>Localizing Math</b><br/>
 Isabel Cafezeiro and Ivan da Costa Marques<br/><br/>
 
@@ -152,14 +216,19 @@ logic and computing. Under this view new possibilities for knowledge
 construction are acknowledged, allowing maths that are done and lived
 outside the major centers.
 </td></tr>
+
+<tr><td>17:00</td><td>
+TBA
+</td></tr>
+
 </table>
 
 ## Friday: Nov, 25 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
-<tr><td>9h</td>
-<td>
+
+<tr><td>14:00</td><td>
 <b>Intuitionistic Description Logic and Legal Reasoning</b>
 <br/>Edward Hermann<br/><br/>
 
@@ -180,14 +249,10 @@ Intuitionistic Description Logic, called IALC for Intuitionistic ALC;
 (2) Shows a study on the logical coherence analysis of "Conflict of
 Laws in Space", in the scope of Private International Law, by means of
 the IALC Sequent Calculus proposed herein.
+</td></tr>
 
-</td>
-</tr>
-<tr><td>11h</td>
-<td>
-<b>On the Computational complexity of Intuitionistic Modal and
-Description Logics</b>
-<br/>
+<tr><td>15:00</td><td>
+<b>On the Computational complexity of Intuitionistic Modal and Description Logics</b><br/>
 Edward Hermann<br/><br/>
 
 In this talk we will present a proof of PSPACE completeness for the
@@ -202,6 +267,18 @@ polynomial space. We also prove the finite model property for both
 logics. This is achieved because if there exists a winning strategy
 for a given formula then a finite model is built at the final stage
 of the game.
-
 </td></tr>
+
+<tr><td>16:00</td><td>
+Coffe
+</td></tr>
+
+<tr><td>16:15</td><td>
+TBA
+</td></tr>
+
+<tr><td>17:15</td><td>
+TBA
+</td></tr>
+
 </table>
