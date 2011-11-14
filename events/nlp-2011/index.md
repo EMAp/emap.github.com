@@ -20,7 +20,7 @@ methods to extract information from open sources like Wikipedia.
 talk about games for complexity bounds for intuitonistic description
 logic iALC.
 
-Izabel Cafezeiro will talk about the construction of mathematical
+Isabel Cafezeiro will talk about the construction of mathematical
 knowledge.
 
 We hope Suemi will talk about the Dictionary of Historic Persons and
@@ -34,7 +34,7 @@ shall introduce people to SUMO and Sigma and then hopefully talk about
 ## News
 
 - The program is still under construction. Unfortunately, Luiz Carlos
-  is traveling and will not participate. Izabel Cafezeiro will present
+  is traveling and will not participate. Isabel Cafezeiro will present
   a very interesting topic of her research.
   
   
