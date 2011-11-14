@@ -103,6 +103,7 @@ Coffe
 
 <tr><td>16:15</td><td>
 TBA
+Alexandre Rademaker<br/><br/>
 </td></tr>
 
 <tr><td>17:15</td><td>
@@ -169,7 +170,7 @@ described by Moss.</p>
 </td></tr>
 
 <tr><td>17:00</td><td>
-TBA, Alexandre Rademaker
+TBA
 </td></tr>
 </table>
 
