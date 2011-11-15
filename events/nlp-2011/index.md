@@ -33,8 +33,11 @@ shall introduce people to SUMO and Sigma and then hopefully talk about
 
 ## News
 
-- The program is still under construction. Unfortunately, Luiz Carlos
-  is traveling and will not participate. Isabel Cafezeiro will present
-  a very interesting topic of her research.
-  
+- Nov 15, 2011: Professors Leonel Figueiredo de Alencar and Vládia
+  Pinheiro confirm their presence and talks.
+
+- Nov 10, 2011: The program is still under
+  construction. Unfortunately, Luiz Carlos is traveling and will not
+  participate. Isabel Cafezeiro will present a very interesting topic
+  of her research.
   
