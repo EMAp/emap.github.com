@@ -65,14 +65,20 @@ suporte e apoio ao processamento de linguagem natural.
 <th width="12%">Hour</th><th>What</th>
 
 <tr><td>14:00</td><td>
-<b>Building multilingual lexical knowledge bases from WordNet and Wikipedia</b><br/>
+<b>Graph-Based Methods for Multilingual Knowledge about Words and Entities</b><br/>
 Gerard de Melo<br/><br/>
 
-A large-scale multilingual lexical knowledge base built using
-statistical methods, transforming the well-known WordNet database into
-a massively multilingual resource covering over 1 million words and
-several million named entities in a single large multilingual
-taxonomy.
+An increasing number of applications are making use of explicit
+knowledge about words and the entities they represent. This talk
+presents three graph-based data integration techniques to obtain such
+knowledge. The first involves learning models to connect words to
+their meanings. The second reconciles equivalence and distinctness
+information about entities from multiple sources. The third method
+adds a comprehensive taxonomic hierarchy, reflecting how different
+entities relate to each other. Together, they can be used to produce a
+large-scale multilingual knowledge base semantically describing over 5
+million entities and over 16 million natural language words and names
+in more than 200 different languages. 
 </td></tr>
 
 <tr><td>15:00</td><td>
@@ -170,7 +176,28 @@ described by Moss.</p>
 </td></tr>
 
 <tr><td>17:00</td><td>
-TBA
+<b>A wide-coverage free/open-source deep parser for Brazilian
+Portuguese: a work in progress</b><br/>
+<a href="http://www.leonel.profusehost.net/complin.htm">Leonel Figueiredo de Alencar</a><br/>
+Research Group on Language and Computation, UFC<br/><br/>
+
+Aiming at reducing the shortage of freely distributed resources for
+the computational processing of Portuguese, we report on an ongoing
+project of a X-bar theory based parser for a wide range of texts in
+the Brazilian variety. In this talk we focus on the first stage of the
+project, which mainly resulted in the Aelius and Donatus modules. The
+former is a tool for morpho-syntactic tagging which features
+stochastic and hybrid taggers in three different architectures and
+also provides a user-friendly interface for third-party taggers. The
+latter is an interface between Aelius and NLTK's context-free grammar
+parsers. Therefore, Donatus performs deep parsing of text only
+resorting to a formalization of phrase structure rules, dispensing
+with the compilation of lexical entries or the implementation of a
+morphological lexical analyzer. The current phase of the project
+consists in developing a nominal expression chunker to be integrated
+into Aelius, and in implementing, by means of Donatus, a parser for a
+comprehensive grammar of DPs, taking as its starting point existing
+generative descriptions of Brazilian Portuguese.
 </td></tr>
 </table>
 
@@ -192,6 +219,10 @@ techniques that allow us to extract facts abouts such objects from a
 text collection. Finally, we describe some of the more recent
 large-scale knowledge bases that provide large numbers of facts about
 the world.
+</td></tr>
+
+<tr><td>15:30</td><td>
+Coffe
 </td></tr>
 
 <tr><td>16:00</td><td>
@@ -230,8 +261,8 @@ TBA
 <th width="12%">Hour</th><th>What</th>
 
 <tr><td>14:00</td><td>
-<b>Intuitionistic Description Logic and Legal Reasoning</b>
-<br/>Edward Hermann<br/><br/>
+<b>Intuitionistic Description Logic and Legal Reasoning</b><br/>
+<a href="http://www-di.inf.puc-rio.br/~hermann/">Edward Hermann</a>, DI/PUC-Rio<br/><br/>
 
 Classical Logic has been frequently used as a basis for knowledge
 representation and reasoning in many specific domains.  Legal
@@ -254,7 +285,7 @@ the IALC Sequent Calculus proposed herein.
 
 <tr><td>15:00</td><td>
 <b>On the Computational complexity of Intuitionistic Modal and Description Logics</b><br/>
-Edward Hermann<br/><br/>
+<a href="http://www-di.inf.puc-rio.br/~hermann/">Edward Hermann</a>, DI/PUC-Rio<br/><br/>
 
 In this talk we will present a proof of PSPACE completeness for the
 satisfiability problem of Intuitionistic Modal Logic IK and
