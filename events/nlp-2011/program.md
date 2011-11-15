@@ -108,7 +108,7 @@ Coffe
 </td></tr>
 
 <tr><td>16:15</td><td>
-TBA
+<b>A database approach to monitoring the quality of information in RDF stores</b><br/>
 Alexandre Rademaker<br/><br/>
 </td></tr>
 
