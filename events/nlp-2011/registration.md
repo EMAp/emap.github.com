@@ -11,8 +11,10 @@ workshop-image: arcosdalapa.jpg
 
 __NOTE__: we will not send any confirmation. The registration is
 necessary for our organization. Nevertheless, the registration process
-can be closed and individual registrations can be withdraw (we will
-notify that) if necessary due space limits in the venue.
+can be closed and individual reservations can be withdraw (we will
+notify that) if necessary due venue's space limit.
+
+
 
 
 
