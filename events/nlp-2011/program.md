@@ -49,13 +49,14 @@ your laptops!</p>
 </td></tr>
 
 <tr><td>17:00</td><td>
-<b>Sistemas de Informação do CPDOC/FGV</b><br/>
-Suemi Higuchi<br/><br/>
+<b>MIST project and the CPDOC/FGV information systems</b><br/>
+Asla Sa and Suemi Higuchi<br/><br/>
 
-(in portuguese) Serão apresentados os sistemas de informação do CPDOC
-e as possíveis demandas por processamento de linguagem natural para
-suporte e apoio ao processamento de linguagem natural.
-</td></tr>
+(in portuguese) Asla apresentará o projeto MIST, parceria entre CPDOC
+e EMAp. Suemi irá apresentar os sistemas de informação do CPDOC e as
+demandas por processamento de linguagem natural que surgiram durante
+os trabalhos de modelagem conceitual e aperfeiçoamento das
+buscas.</td></tr>
 
 </table>
 
