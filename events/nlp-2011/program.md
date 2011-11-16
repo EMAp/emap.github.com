@@ -83,25 +83,25 @@ in more than 200 different languages.
 </td></tr>
 
 <tr><td>15:00</td><td>
-<b>Um Analisador Semântico Inferencialista de Sentenças em Linguagem Natural</b><br/>
+<b>A Semantic-Inferentialist Model for Natural Language Processing</b><br/>
 Vládia Pinheiro<br/><br/>
 
-The talk will be about the SIA system which is described as (in
-portuguese):
-
-"Um raciocinador semântico para entendimento de linguagem
-natural que implementa um algoritmo que raciocina sobre o conteúdo
-inferencial de conceitos e padrões de sentenças – o Analisador
-Semântico Inferencialista (SIA). O SIA implementa um raciocínio
-material e holístico sobre a rede de potenciais inferências em que os
-conceitos de uma língua podem participar, considerando como os
-conceitos estão relacionados na sentença, de acordo com padrões de
-estruturas sintáticas. A medida de relacionamento inferencial e o
-processo de raciocínio do SIA são descritos. O SIA é usado como
-raciocinador semântico em um sistema de extração de informações sobre
-crimes – WikiCrimesIE. Os resultados obtidos e uma análise comparativa
-são apresentados e discutidos, servindo para a identificação de
-vantagens e oportunidades de melhoria para o SIA."
+The information necessary for a complete understanding of texts in
+natural language is sometimes implicit, which requires drawing
+inferences from the use of concepts in the linguistic praxis. We claim
+that it is within the linguistic practice that the circumstances to
+use a word and the consequences thereof can be grasped, and – by
+disregarding them – much of what could be inferred is lost. In this
+paper, we present a computational model to treat the
+semantic-pragmatic level of natural languages – the Semantic
+Inferentialism Model (SIM). The semantic knowledge bases, the
+inferential relatedness measure and the inferential reasoning of SIM
+are detailed. SIM was used in the development of WikiCrimesIE – an
+application for extracting information about crime reported in news
+reports. Information related to the type of crime, causes of crime and
+type of weapon were implicit in most of the texts analyzed and the
+results of WikiCrimesIE demonstrate the feasibility and the
+differential of using SIM in natural language understanding systems.
 </td></tr>
 
 <tr><td>16:00</td><td>
@@ -251,7 +251,19 @@ outside the major centers.
 </td></tr>
 
 <tr><td>17:00</td><td>
-TBA
+<b>History of logic and language crisis in representation of scientific knowledge</b><br/>
+Diego Munk London, COPPE-UFRJ<br/><br/>
+
+The main hypothesis proposed by this work is the idea that as long as
+the catalogs of experimental data of each specific science expand, as
+a consequence of time, experience and technical advances, the specific
+formal languages used for the confection of their models exhaust their
+ability to increase semantic elasticity and force the scientist to
+give up on significant portions of their base of knowledge. This fact
+leads logicians and science philosophers to investigate the nature of
+formal languages and the origins and possible solutions to this
+crisis. 
+
 </td></tr>
 
 </table>
