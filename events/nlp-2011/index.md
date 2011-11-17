@@ -6,31 +6,51 @@ workshop-dates: November, 21-25th 2011
 workshop-image: arcosdalapa.jpg
 ---
 
-During Nov 21-25 of 2011, EMAp will host a metting about natural
-language processing for portuguese language.
+It is a truth universally acknowledged, that we need more lexical
+resources for any natural language whatsoever. And if there is a lack
+of lexical resources for natural language processing of English texts,
+the problem is ten-fold more acute for other languages, such as
+Portuguese, which lack even easily accessible corpora and basic tools
+such as tokenizers, taggers and splitters. This lack of resources
+slows down considerably, almost stops, any work on reasoning about
+knowledge obtained from language, the main goal of the project on
+Textual Inference Logic (TIL), coordinated by Alexandre Rademaker
+(EMAp/FGV) and Valéria de Paiva (Rearden Commerce, CA).
 
-The plan consists of a minicourse of 5 days, 1:30 a day, some other
-formal and informal discussions. 
+The TIL project, funded by the Fundação Getulio Vargas (FGV) aims to,
+ in the long run, use formal logical tools to reason about knowledge
+ obtained from text in Portuguese. We are mostly logicians, not
+ linguists, so we want to minimize the amount of Computational
+ Linguistics that we have to develop. To help develop the necessary
+ basic tools, we are stimulating the collaboration with different
+ groups of researchers working in similar problems and trying to
+ investigate how results obtained from natural language processing
+ research in other languages can be adapted and applied to Portuguese.
 
-[Gerard de Melo](http://www.icsi.berkeley.edu/~demelo/) is our main
-speaker, we intend to learn lots about YAGO and MENTA and his clever
-methods to extract information from open sources like Wikipedia.
+This is the first meeting of the project and is planned for 21-25th
+ Nov 2011. We are calling this meeting "Logics and Ontologies for
+ Portuguese thinking of the ultimate goals. The schedule of the
+ meeting consists of a mini course of 5 days and some other formal and
+ informal presentations followed by discussions. All interested
+ parties are invited to join efforts.
+ 
+Our main speakers are Gerard de Melo and Valeria de Paiva.
 
-[Hermann Hausler](http://www-di.inf.puc-rio.br/~hermann/) might
-talk about games for complexity bounds for intuitonistic description
-logic iALC.
+From [Gerard de Melo](http://www.icsi.berkeley.edu/~demelo/) we
+intend to learn lots about YAGO and MENTA and his clever methods to
+extract information from open sources like Wikipedia.
 
 [Valéria de Paiva](https://sites.google.com/a/valeriadepaiva.org/www/)
 shall introduce people to SUMO and Sigma and then hopefully talk about
 "Natural Logic and Contexts for Quantification".
 
-Isabel Cafezeiro will talk about the construction of mathematical
-knowledge.
+the invited speakers are: 
 
-Suemi will talk about the Dictionary of Historic Persons and we will
-make progress on a plan for using ontologies to improve access to it.
-
-[Leonel Figueiredo de Alencar](http://www.leonel.profusehost.net/complin.htm)
-and Vládia Pinheiro, both from Federal University from Ceará will
-present their research topics in natural language processing.
+- Edward Hermann, PUC
+- Isabel Cafezeiro, UFF
+- Asla de Sá, FGV
+- Suemi Higuchi, FGV
+- Vládia Pinheiro, UFC
+- Leonel Figueiredo de Alencar, UFC
+- Diego Munk London, UFRJ
 
