@@ -6,14 +6,18 @@ workshop-dates: November, 21-25th 2011
 workshop-image: arcosdalapa.jpg
 ---
 
+The program is also available in a
+[public google calendar](agenda.html) for those who may want to
+subscribe and receive instantly notifications of changes.
+
 ## Monday: Nov, 21 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
 
 <tr><td>14:00</td><td>
-<b>Introduction to Text Mining</b>
-<br/>Gerard de Melo<br/><br/>
+<b>Introduction to Text Mining</b><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
 
 This talk will introduce some popular techniques used to process and
 organize text document collections.  Along the way, some of the most
@@ -32,7 +36,7 @@ Coffe
 
 <tr><td>16:00</td><td>
 <b>Introducing SUMO the Suggested Upper Merged Ontology</b><br/>
-Valeria de Paiva, Rearden Commerce, CA<br/>
+<a href="http://www.cs.bham.ac.uk/~vdp/">Valeria de Paiva</a>, Rearden Commerce, CA<br/>
 
 <p>This talk presents an overview of ontology creation and development
 in <a href="http://www.ontologyportal.org">SUMO</a>, including how we
@@ -67,7 +71,7 @@ buscas.</td></tr>
 
 <tr><td>14:00</td><td>
 <b>Graph-Based Methods for Multilingual Knowledge about Words and Entities</b><br/>
-Gerard de Melo<br/><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
 
 An increasing number of applications are making use of explicit
 knowledge about words and the entities they represent. This talk
@@ -109,12 +113,18 @@ Coffe
 </td></tr>
 
 <tr><td>16:15</td><td>
-<b>A database approach to monitoring the quality of information in RDF stores</b><br/>
-Alexandre Rademaker<br/><br/>
-</td></tr>
+<b>History of logic and language crisis in representation of scientific knowledge</b><br/>
+Diego Munk London, COPPE-UFRJ<br/><br/>
 
-<tr><td>17:15</td><td>
-TBA
+The main hypothesis proposed by this work is the idea that as long as
+the catalogs of experimental data of each specific science expand, as
+a consequence of time, experience and technical advances, the specific
+formal languages used for the confection of their models exhaust their
+ability to increase semantic elasticity and force the scientist to
+give up on significant portions of their base of knowledge. This fact
+leads logicians and science philosophers to investigate the nature of
+formal languages and the origins and possible solutions to this
+crisis. 
 </td></tr>
 
 </table>
@@ -126,8 +136,8 @@ TBA
 <th width="12%">Hour</th><th>What</th>
 
 <tr><td>14h</td><td>
-<b>Web Mining with Advanced Text Representations</b>
-<br/>Gerard de Melo<br/><br/>
+<b>Web Mining with Advanced Text Representations</b><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
 
 This talk will build on the Introduction to Text Mining and will
 discuss how language resources can allow us to construct more
@@ -146,7 +156,7 @@ Coffe
 
 <tr><td>16:00</td><td>
 <b>Contexts for Quantification</b><br/>
-Valeria de Paiva, Rearden Commerce, CA<br/>
+<a href="http://www.cs.bham.ac.uk/~vdp/">Valeria de Paiva</a>, Rearden Commerce, CA<br/>
 
 <p>Logical systems conceived for providing semantics and logical forms
 for sentences of English abound. From Montague's original Higher-order
@@ -208,8 +218,8 @@ generative descriptions of Brazilian Portuguese.
 <th width="12%">Hour</th><th>What</th>
 
 <tr><td>14:00</td><td>
-<b>Information Extraction and Large-Scale Knowledge Bases</b>
-<br/>Gerard de Melo<br/><br/>
+<b>Information Extraction and Large-Scale Knowledge Bases</b><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
 
 This talk will describe methods that are used to extract knowledge
 from text. We start out with important natural language processing
@@ -251,19 +261,21 @@ outside the major centers.
 </td></tr>
 
 <tr><td>17:00</td><td>
-<b>History of logic and language crisis in representation of scientific knowledge</b><br/>
-Diego Munk London, COPPE-UFRJ<br/><br/>
+<b>On the Computational complexity of Intuitionistic Modal and Description Logics</b><br/>
+<a href="http://www-di.inf.puc-rio.br/~hermann/">Edward Hermann</a>, DI/PUC-Rio<br/><br/>
 
-The main hypothesis proposed by this work is the idea that as long as
-the catalogs of experimental data of each specific science expand, as
-a consequence of time, experience and technical advances, the specific
-formal languages used for the confection of their models exhaust their
-ability to increase semantic elasticity and force the scientist to
-give up on significant portions of their base of knowledge. This fact
-leads logicians and science philosophers to investigate the nature of
-formal languages and the origins and possible solutions to this
-crisis. 
-
+In this talk we will present a proof of PSPACE completeness for the
+satisfiability problem of Intuitionistic Modal Logic IK and
+Intuitionistic Description Logic iALC. We propose a 2-person
+game which can be polynomially implemented in an Alternating Turing
+Machine, and which relates the existence of a winning strategy, for
+one player, to the satisfiability of a given formula. It is
+well-known that any polynomial time implementation on an Alternating
+Turing Machine can be solved in an ordinary Turing Machine using
+polynomial space. We also prove the finite model property for both
+logics. This is achieved because if there exists a winning strategy
+for a given formula then a finite model is built at the final stage
+of the game.
 </td></tr>
 
 </table>
@@ -297,21 +309,8 @@ the IALC Sequent Calculus proposed herein.
 </td></tr>
 
 <tr><td>15:00</td><td>
-<b>On the Computational complexity of Intuitionistic Modal and Description Logics</b><br/>
-<a href="http://www-di.inf.puc-rio.br/~hermann/">Edward Hermann</a>, DI/PUC-Rio<br/><br/>
-
-In this talk we will present a proof of PSPACE completeness for the
-satisfiability problem of Intuitionistic Modal Logic IK and
-Intuitionistic Description Logic iALC. We propose a 2-person
-game which can be polynomially implemented in an Alternating Turing
-Machine, and which relates the existence of a winning strategy, for
-one player, to the satisfiability of a given formula. It is
-well-known that any polynomial time implementation on an Alternating
-Turing Machine can be solved in an ordinary Turing Machine using
-polynomial space. We also prove the finite model property for both
-logics. This is achieved because if there exists a winning strategy
-for a given formula then a finite model is built at the final stage
-of the game.
+<b>A database approach to monitoring the quality of information in RDF stores</b><br/>
+Alexandre Rademaker<br/><br/>
 </td></tr>
 
 <tr><td>16:00</td><td>
@@ -319,10 +318,6 @@ Coffe
 </td></tr>
 
 <tr><td>16:15</td><td>
-TBA
-</td></tr>
-
-<tr><td>17:15</td><td>
 TBA
 </td></tr>
 
