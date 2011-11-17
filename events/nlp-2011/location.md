@@ -16,3 +16,8 @@ src="http://maps.google.com/maps?q=-22.941487,-43.180159&amp;ie=UTF8&amp;t=m&amp
 href="http://maps.google.com/maps?q=-22.941487,-43.180159&amp;ie=UTF8&amp;t=m&amp;vpsrc=0&amp;ll=-22.941638,-43.17996&amp;spn=0.027665,0.047207&amp;z=14&amp;source=embed"
 style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
+## FGV building access policies
+
+- Men are not allowed to be dressing shorts or flip-flops (such as Havaianas) and t-shirts.
+- Women are not allowed to be dressing shorts above the knees.
+

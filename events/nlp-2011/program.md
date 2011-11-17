@@ -127,6 +127,11 @@ formal languages and the origins and possible solutions to this
 crisis. 
 </td></tr>
 
+<tr><td>17:15</td><td>
+Christian Aranha
+TBA
+</td></tr>
+
 </table>
 
 
