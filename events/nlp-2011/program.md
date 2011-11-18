@@ -6,14 +6,18 @@ workshop-dates: November, 21-25th 2011
 workshop-image: arcosdalapa.jpg
 ---
 
+The program is also available in a
+[public google calendar](agenda.html) for those who may want to
+subscribe and receive instantly notifications of changes.
+
 ## Monday: Nov, 21 2011
 
 <table>
 <th width="12%">Hour</th><th>What</th>
 
 <tr><td>14:00</td><td>
-<b>Introduction to Text Mining</b>
-<br/>Gerard de Melo<br/><br/>
+<b>Introduction to Text Mining</b><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
 
 This talk will introduce some popular techniques used to process and
 organize text document collections.  Along the way, some of the most
@@ -32,7 +36,7 @@ Coffe
 
 <tr><td>16:00</td><td>
 <b>Introducing SUMO the Suggested Upper Merged Ontology</b><br/>
-Valeria de Paiva, Rearden Commerce, CA<br/>
+<a href="http://www.cs.bham.ac.uk/~vdp/">Valeria de Paiva</a>, Rearden Commerce, CA<br/>
 
 <p>This talk presents an overview of ontology creation and development
 in <a href="http://www.ontologyportal.org">SUMO</a>, including how we
@@ -49,8 +53,8 @@ your laptops!</p>
 </td></tr>
 
 <tr><td>17:00</td><td>
-<b>MIST project and the CPDOC/FGV information systems</b><br/>
-Asla Sa and Suemi Higuchi<br/><br/>
+<b>The MIST project and the CPDOC/FGV information systems</b><br/>
+Asla Sa, Suemi Higuchi, Moacyr Alvim and Renato Rocha<br/><br/>
 
 (in portuguese) Asla apresentará o projeto MIST, parceria entre CPDOC
 e EMAp. Suemi irá apresentar os sistemas de informação do CPDOC e as
@@ -67,7 +71,7 @@ buscas.</td></tr>
 
 <tr><td>14:00</td><td>
 <b>Graph-Based Methods for Multilingual Knowledge about Words and Entities</b><br/>
-Gerard de Melo<br/><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
 
 An increasing number of applications are making use of explicit
 knowledge about words and the entities they represent. This talk
@@ -83,25 +87,25 @@ in more than 200 different languages.
 </td></tr>
 
 <tr><td>15:00</td><td>
-<b>Um Analisador Semântico Inferencialista de Sentenças em Linguagem Natural</b><br/>
+<b>A Semantic-Inferentialist Model for Natural Language Processing</b><br/>
 Vládia Pinheiro<br/><br/>
 
-The talk will be about the SIA system which is described as (in
-portuguese):
-
-"Um raciocinador semântico para entendimento de linguagem
-natural que implementa um algoritmo que raciocina sobre o conteúdo
-inferencial de conceitos e padrões de sentenças – o Analisador
-Semântico Inferencialista (SIA). O SIA implementa um raciocínio
-material e holístico sobre a rede de potenciais inferências em que os
-conceitos de uma língua podem participar, considerando como os
-conceitos estão relacionados na sentença, de acordo com padrões de
-estruturas sintáticas. A medida de relacionamento inferencial e o
-processo de raciocínio do SIA são descritos. O SIA é usado como
-raciocinador semântico em um sistema de extração de informações sobre
-crimes – WikiCrimesIE. Os resultados obtidos e uma análise comparativa
-são apresentados e discutidos, servindo para a identificação de
-vantagens e oportunidades de melhoria para o SIA."
+The information necessary for a complete understanding of texts in
+natural language is sometimes implicit, which requires drawing
+inferences from the use of concepts in the linguistic praxis. We claim
+that it is within the linguistic practice that the circumstances to
+use a word and the consequences thereof can be grasped, and – by
+disregarding them – much of what could be inferred is lost. In this
+paper, we present a computational model to treat the
+semantic-pragmatic level of natural languages – the Semantic
+Inferentialism Model (SIM). The semantic knowledge bases, the
+inferential relatedness measure and the inferential reasoning of SIM
+are detailed. SIM was used in the development of WikiCrimesIE – an
+application for extracting information about crime reported in news
+reports. Information related to the type of crime, causes of crime and
+type of weapon were implicit in most of the texts analyzed and the
+results of WikiCrimesIE demonstrate the feasibility and the
+differential of using SIM in natural language understanding systems.
 </td></tr>
 
 <tr><td>16:00</td><td>
@@ -109,44 +113,8 @@ Coffe
 </td></tr>
 
 <tr><td>16:15</td><td>
-<b>A database approach to monitoring the quality of information in RDF stores</b><br/>
-Alexandre Rademaker<br/><br/>
-</td></tr>
-
-<tr><td>17:15</td><td>
-TBA
-</td></tr>
-
-</table>
-
-
-## Wednesday: Nov, 23 2011
-
-<table>
-<th width="12%">Hour</th><th>What</th>
-
-<tr><td>14h</td><td>
-<b>Web Mining with Advanced Text Representations</b>
-<br/>Gerard de Melo<br/><br/>
-
-This talk will build on the Introduction to Text Mining and will
-discuss how language resources can allow us to construct more
-sophisticated text representations. Such advanced text representations
-are particularly useful when organizing information on the Web. For
-instance, we will discuss how user attitudes towards products can be
-extracted from blogs using sentiment mining techniques. We will also
-describe in great detail how language resources can be used to extend
-text mining to work with very short pieces of text (e.g. Twitter
-posts) and with multilingual text collections.
-</td></tr>
-
-<tr><td>15:30</td><td>
-Coffe
-</td></tr>
-
-<tr><td>16:00</td><td>
 <b>Contexts for Quantification</b><br/>
-Valeria de Paiva, Rearden Commerce, CA<br/>
+<a href="http://www.cs.bham.ac.uk/~vdp/">Valeria de Paiva</a>, Rearden Commerce, CA<br/>
 
 <p>Logical systems conceived for providing semantics and logical forms
 for sentences of English abound. From Montague's original Higher-order
@@ -174,6 +142,55 @@ negation and other intensional phenomena, ubiquitous in natural
 language. Further we want  to map and  relate TIL's expressive power
 to that of more traditional systems, as for example, the ones
 described by Moss.</p>
+</td></tr>
+
+<tr><td>17:15</td><td>
+<b>NLP/Light</b><br/>
+Renato Rocha<br/><br/>
+
+TBA
+</td></tr>
+
+</table>
+
+
+## Wednesday: Nov, 23 2011
+
+<table>
+<th width="12%">Hour</th><th>What</th>
+
+<tr><td>14h</td><td>
+<b>Web Mining with Advanced Text Representations</b><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
+
+This talk will build on the Introduction to Text Mining and will
+discuss how language resources can allow us to construct more
+sophisticated text representations. Such advanced text representations
+are particularly useful when organizing information on the Web. For
+instance, we will discuss how user attitudes towards products can be
+extracted from blogs using sentiment mining techniques. We will also
+describe in great detail how language resources can be used to extend
+text mining to work with very short pieces of text (e.g. Twitter
+posts) and with multilingual text collections.
+</td></tr>
+
+<tr><td>15:30</td><td>
+Coffe
+</td></tr>
+
+<tr><td>16:00</td><td>
+<b>History of logic and language crisis in representation of scientific knowledge</b><br/>
+Diego Munk London, COPPE-UFRJ<br/><br/>
+
+The main hypothesis proposed by this work is the idea that as long as
+the catalogs of experimental data of each specific science expand, as
+a consequence of time, experience and technical advances, the specific
+formal languages used for the confection of their models exhaust their
+ability to increase semantic elasticity and force the scientist to
+give up on significant portions of their base of knowledge. This fact
+leads logicians and science philosophers to investigate the nature of
+formal languages and the origins and possible solutions to this
+crisis. 
 </td></tr>
 
 <tr><td>17:00</td><td>
@@ -208,8 +225,8 @@ generative descriptions of Brazilian Portuguese.
 <th width="12%">Hour</th><th>What</th>
 
 <tr><td>14:00</td><td>
-<b>Information Extraction and Large-Scale Knowledge Bases</b>
-<br/>Gerard de Melo<br/><br/>
+<b>Information Extraction and Large-Scale Knowledge Bases</b><br/>
+<a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
 
 This talk will describe methods that are used to extract knowledge
 from text. We start out with important natural language processing
@@ -251,7 +268,25 @@ outside the major centers.
 </td></tr>
 
 <tr><td>17:00</td><td>
-TBA
+<b>On the Computational complexity of Intuitionistic Modal and Description Logics</b><br/>
+<a href="http://www-di.inf.puc-rio.br/~hermann/">Edward Hermann</a>, DI/PUC-Rio<br/><br/>
+
+In this talk we will present a proof of PSPACE completeness for the
+satisfiability problem of Intuitionistic Modal Logic IK and
+Intuitionistic Description Logic iALC. We propose a 2-person
+game which can be polynomially implemented in an Alternating Turing
+Machine, and which relates the existence of a winning strategy, for
+one player, to the satisfiability of a given formula. It is
+well-known that any polynomial time implementation on an Alternating
+Turing Machine can be solved in an ordinary Turing Machine using
+polynomial space. We also prove the finite model property for both
+logics. This is achieved because if there exists a winning strategy
+for a given formula then a finite model is built at the final stage
+of the game.
+</td></tr>
+
+<tr><td>18:00</td><td>
+Reception, 12th floor of FGV's building (praia de Botafogo, 190).
 </td></tr>
 
 </table>
@@ -285,21 +320,20 @@ the IALC Sequent Calculus proposed herein.
 </td></tr>
 
 <tr><td>15:00</td><td>
-<b>On the Computational complexity of Intuitionistic Modal and Description Logics</b><br/>
-<a href="http://www-di.inf.puc-rio.br/~hermann/">Edward Hermann</a>, DI/PUC-Rio<br/><br/>
+<b>Aquisição Automática de Conhecimento</b><br/>
+Christian Nunes Aranha, Cortex Intelligence<br/><br/>
 
-In this talk we will present a proof of PSPACE completeness for the
-satisfiability problem of Intuitionistic Modal Logic IK and
-Intuitionistic Description Logic iALC. We propose a 2-person
-game which can be polynomially implemented in an Alternating Turing
-Machine, and which relates the existence of a winning strategy, for
-one player, to the satisfiability of a given formula. It is
-well-known that any polynomial time implementation on an Alternating
-Turing Machine can be solved in an ordinary Turing Machine using
-polynomial space. We also prove the finite model property for both
-logics. This is achieved because if there exists a winning strategy
-for a given formula then a finite model is built at the final stage
-of the game.
+A Web 3.0 ainda não aconteceu, a promessa é que ela seja uma Web mais
+Semântica. Uma Internet que liga não apenas documentos, mas também
+informação. Uma nova camada pousará sobre a Internet atual reconhecendo
+coisas e entidades e enriquecendo-as com metadados. Estes metadados
+auxiliarão aos computadores trocarem melhor a informação entre si, provendo
+melhores serviços aos usuários. Algumas especificações já estão ganhando
+espaço, como microformatos, RDF e OWL. Mais ainda são muito sofisticadas
+para os humanos disseminarem conteúdos enriquecidos pela Web. A proposta
+aqui é mostrar um nível de inteligência artificial que poderá manipular
+ontologias do conhecimento para enriquecer automaticamente os conteúdos da
+Web atual.
 </td></tr>
 
 <tr><td>16:00</td><td>
@@ -307,7 +341,8 @@ Coffe
 </td></tr>
 
 <tr><td>16:15</td><td>
-TBA
+<b>A database approach to monitoring the quality of information in RDF stores</b><br/>
+Alexandre Rademaker<br/><br/>
 </td></tr>
 
 <tr><td>17:15</td><td>
