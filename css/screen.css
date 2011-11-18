@@ -91,14 +91,18 @@ ul, li {
 }
 
 ul.posts {
-    list-style-position: inside;
-    list-style: none;
+    list-style-position: outside;
+    list-style-type: none;
     padding-left: 1em;
     margin-bottom: 2em;
+    text-indent: -92px;
+    padding: 0 0 0 92px;
+    margin: 5px;
 }
 
 ul.posts li {
     line-height: 1.75em;
+    text-align: left;
 }
 
 ul.posts span {
