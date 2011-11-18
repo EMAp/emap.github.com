@@ -49,8 +49,9 @@ the invited speakers are:
 - Edward Hermann, PUC
 - Isabel Cafezeiro, UFF
 - Asla de Sá, FGV
+- Moacyr Alvim Horta Barbosa da Silva, FGV
+- Renato Rocha Souza, FGV
 - Suemi Higuchi, FGV
 - Vládia Pinheiro, UFC
 - Leonel Figueiredo de Alencar, UFC
 - Diego Munk London, UFRJ
-

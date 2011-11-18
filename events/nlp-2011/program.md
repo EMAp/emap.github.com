@@ -53,8 +53,8 @@ your laptops!</p>
 </td></tr>
 
 <tr><td>17:00</td><td>
-<b>MIST project and the CPDOC/FGV information systems</b><br/>
-Asla Sa and Suemi Higuchi<br/><br/>
+<b>The MIST project and the CPDOC/FGV information systems</b><br/>
+Asla Sa, Suemi Higuchi, Moacyr Alvim and Renato Rocha<br/><br/>
 
 (in portuguese) Asla apresentará o projeto MIST, parceria entre CPDOC
 e EMAp. Suemi irá apresentar os sistemas de informação do CPDOC e as
@@ -113,22 +113,41 @@ Coffe
 </td></tr>
 
 <tr><td>16:15</td><td>
-<b>History of logic and language crisis in representation of scientific knowledge</b><br/>
-Diego Munk London, COPPE-UFRJ<br/><br/>
+<b>Contexts for Quantification</b><br/>
+<a href="http://www.cs.bham.ac.uk/~vdp/">Valeria de Paiva</a>, Rearden Commerce, CA<br/>
 
-The main hypothesis proposed by this work is the idea that as long as
-the catalogs of experimental data of each specific science expand, as
-a consequence of time, experience and technical advances, the specific
-formal languages used for the confection of their models exhaust their
-ability to increase semantic elasticity and force the scientist to
-give up on significant portions of their base of knowledge. This fact
-leads logicians and science philosophers to investigate the nature of
-formal languages and the origins and possible solutions to this
-crisis. 
+<p>Logical systems conceived for providing semantics and logical forms
+for sentences of English abound. From Montague's original Higher-order
+Intensional Logic in the seventies, to Situation Theory and Discourse
+Representation Theory as well as the  several frame languages (e.g.
+KL-ONE) and their descendents, the  Description Logics  in the 80's
+and 90's, to vanilla versions of First-order logic (FOL) with bells
+and whistles more recently, the field is rife with possibilities and
+issues.</p>
+
+<p>I want to describe one more such language, the product of several
+years of development of the NLP-based knowledge representation system
+Bridge, at PARC. While the design of the language was historically
+tied-up to the development of the software system, I believe that the
+language and its inferential system are of independent interest. In
+previous publications, we have been calling this logic language TIL,
+for Textual Inference Logic. TIL can be considered one of several
+systems associated with Natural Logic.</p>
+
+<p>Within the traditions of Natural logic, TIL distinguishes itself by
+the unorthodox treatment of quantification in terms of instantiation
+of concepts within  contexts. I want to describe this mechanism of
+quantification, necessitated by what we consider a better modelling of
+negation and other intensional phenomena, ubiquitous in natural
+language. Further we want  to map and  relate TIL's expressive power
+to that of more traditional systems, as for example, the ones
+described by Moss.</p>
 </td></tr>
 
 <tr><td>17:15</td><td>
-Christian Aranha
+<b>NLP/Light</b><br/>
+Renato Rocha<br/><br/>
+
 TBA
 </td></tr>
 
@@ -160,35 +179,18 @@ Coffe
 </td></tr>
 
 <tr><td>16:00</td><td>
-<b>Contexts for Quantification</b><br/>
-<a href="http://www.cs.bham.ac.uk/~vdp/">Valeria de Paiva</a>, Rearden Commerce, CA<br/>
+<b>History of logic and language crisis in representation of scientific knowledge</b><br/>
+Diego Munk London, COPPE-UFRJ<br/><br/>
 
-<p>Logical systems conceived for providing semantics and logical forms
-for sentences of English abound. From Montague's original Higher-order
-Intensional Logic in the seventies, to Situation Theory and Discourse
-Representation Theory as well as the  several frame languages (e.g.
-KL-ONE) and their descendents, the  Description Logics  in the 80's
-and 90's, to vanilla versions of First-order logic (FOL) with bells
-and whistles more recently, the field is rife with possibilities and
-issues.</p>
-
-<p>I want to describe one more such language, the product of several
-years of development of the NLP-based knowledge representation system
-Bridge, at PARC. While the design of the language was historically
-tied-up to the development of the software system, I believe that the
-language and its inferential system are of independent interest. In
-previous publications, we have been calling this logic language TIL,
-for Textual Inference Logic. TIL can be considered one of several
-systems associated with Natural Logic.</p>
-
-<p>Within the traditions of Natural logic, TIL distinguishes itself by
-the unorthodox treatment of quantification in terms of instantiation
-of concepts within  contexts. I want to describe this mechanism of
-quantification, necessitated by what we consider a better modelling of
-negation and other intensional phenomena, ubiquitous in natural
-language. Further we want  to map and  relate TIL's expressive power
-to that of more traditional systems, as for example, the ones
-described by Moss.</p>
+The main hypothesis proposed by this work is the idea that as long as
+the catalogs of experimental data of each specific science expand, as
+a consequence of time, experience and technical advances, the specific
+formal languages used for the confection of their models exhaust their
+ability to increase semantic elasticity and force the scientist to
+give up on significant portions of their base of knowledge. This fact
+leads logicians and science philosophers to investigate the nature of
+formal languages and the origins and possible solutions to this
+crisis. 
 </td></tr>
 
 <tr><td>17:00</td><td>
@@ -314,8 +316,20 @@ the IALC Sequent Calculus proposed herein.
 </td></tr>
 
 <tr><td>15:00</td><td>
-<b>A database approach to monitoring the quality of information in RDF stores</b><br/>
-Alexandre Rademaker<br/><br/>
+<b>Aquisição Automática de Conhecimento</b><br/>
+Christian Nunes Aranha, Cortex Intelligence<br/><br/>
+
+A Web 3.0 ainda não aconteceu, a promessa é que ela seja uma Web mais
+Semântica. Uma Internet que liga não apenas documentos, mas também
+informação. Uma nova camada pousará sobre a Internet atual reconhecendo
+coisas e entidades e enriquecendo-as com metadados. Estes metadados
+auxiliarão aos computadores trocarem melhor a informação entre si, provendo
+melhores serviços aos usuários. Algumas especificações já estão ganhando
+espaço, como microformatos, RDF e OWL. Mais ainda são muito sofisticadas
+para os humanos disseminarem conteúdos enriquecidos pela Web. A proposta
+aqui é mostrar um nível de inteligência artificial que poderá manipular
+ontologias do conhecimento para enriquecer automaticamente os conteúdos da
+Web atual.
 </td></tr>
 
 <tr><td>16:00</td><td>
@@ -323,6 +337,11 @@ Coffe
 </td></tr>
 
 <tr><td>16:15</td><td>
+<b>A database approach to monitoring the quality of information in RDF stores</b><br/>
+Alexandre Rademaker<br/><br/>
+</td></tr>
+
+<tr><td>17:15</td><td>
 TBA
 </td></tr>
 
