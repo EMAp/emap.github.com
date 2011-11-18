@@ -44,14 +44,17 @@ extract information from open sources like Wikipedia.
 shall introduce people to SUMO and Sigma and then hopefully talk about
 "Natural Logic and Contexts for Quantification".
 
-the invited speakers are: 
+We have also the following invited speakers:
 
+- Asla de Sá, FGV
+- Christian Nunes Aranha, Cortex Intelligence
+- Diego Munk London, UFRJ
 - Edward Hermann, PUC
 - Isabel Cafezeiro, UFF
-- Asla de Sá, FGV
+- Leonel Figueiredo de Alencar, UFC
 - Moacyr Alvim Horta Barbosa da Silva, FGV
 - Renato Rocha Souza, FGV
 - Suemi Higuchi, FGV
 - Vládia Pinheiro, UFC
-- Leonel Figueiredo de Alencar, UFC
-- Diego Munk London, UFRJ
+
+
