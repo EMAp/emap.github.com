@@ -285,6 +285,10 @@ for a given formula then a finite model is built at the final stage
 of the game.
 </td></tr>
 
+<tr><td>18:00</td><td>
+Reception, 12th floor of FGV's building (praia de Botafogo, 190).
+</td></tr>
+
 </table>
 
 ## Friday: Nov, 25 2011
