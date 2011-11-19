@@ -148,7 +148,8 @@ described by Moss.</p>
 <b>NLP/Light</b><br/>
 Renato Rocha<br/><br/>
 
-TBA
+Serão apresentadas as técnicas de PLN usadas no projeto conjunto da
+EMAp com a distribuidora de energia Light.
 </td></tr>
 
 </table>
@@ -343,6 +344,27 @@ Coffe
 <tr><td>16:15</td><td>
 <b>A database approach to monitoring the quality of information in RDF stores</b><br/>
 Alexandre Rademaker<br/><br/>
+
+<p>We will start presenting the problem of Truth Maintainance in Database
+systems. Roughly speaking, this problem addresses the question of how
+to maintain the integrity constraints during the lifetime of a
+database. In some recent papers a discussion concerning the use of
+inconsistency-tolerant methods for obtaining partial integrity
+constraints satisfaction shows up. Partial integrity is obtained by
+means of flexible repairs, that is, integrity repair updates on the
+database that must follow a failed integrity constraint checking in
+order to try to recover the truth state of the database.</p>
+
+<p>Absolute consistency is out of question due its intractability. On the
+other hand, naive inconsistency-tolerant repairs can be
+data-destructive. In order to have a rational flexible repair
+strategy, one needs criteria. These criteria can be expressed in terms
+of metrics.</p> 
+
+<p>We can consider the extension of what was discussed above to
+non-SQL DBs. A natural extension is to consider associative based
+Knowledge Representation bases, such as those based on RDF.</p>
+
 </td></tr>
 
 <tr><td>17:15</td><td>
