@@ -56,7 +56,7 @@ your laptops!</p>
 <b>The MIST project and the CPDOC/FGV information systems</b><br/>
 Asla Sa, Suemi Higuchi, Moacyr Alvim and Renato Rocha<br/><br/>
 
-(in portuguese) Asla apresentará o projeto MIST, parceria entre CPDOC
+(in Portuguese) Asla apresentará o projeto MIST, parceria entre CPDOC
 e EMAp. Suemi irá apresentar os sistemas de informação do CPDOC e as
 demandas por processamento de linguagem natural que surgiram durante
 os trabalhos de modelagem conceitual e aperfeiçoamento das
@@ -148,7 +148,8 @@ described by Moss.</p>
 <b>NLP/Light</b><br/>
 Renato Rocha<br/><br/>
 
-TBA
+Serão apresentadas as técnicas de PLN usadas no projeto conjunto da
+EMAp com a distribuidora de energia Light.
 </td></tr>
 
 </table>
@@ -323,18 +324,18 @@ the IALC Sequent Calculus proposed herein.
 <b>Aquisição Automática de Conhecimento</b><br/>
 Christian Nunes Aranha, Cortex Intelligence<br/><br/>
 
-A Web 3.0 ainda não aconteceu, a promessa é que ela seja uma Web mais
-Semântica. Uma Internet que liga não apenas documentos, mas também
-informação. Uma nova camada pousará sobre a Internet atual reconhecendo
-coisas e entidades e enriquecendo-as com metadados. Estes metadados
-auxiliarão aos computadores trocarem melhor a informação entre si, provendo
-melhores serviços aos usuários. Algumas especificações já estão ganhando
-espaço, como microformatos, RDF e OWL. Mais ainda são muito sofisticadas
-para os humanos disseminarem conteúdos enriquecidos pela Web. A proposta
-aqui é mostrar um nível de inteligência artificial que poderá manipular
-ontologias do conhecimento para enriquecer automaticamente os conteúdos da
-Web atual.
-</td></tr>
+(in Portuguese) A Web 3.0 ainda não aconteceu, a promessa é que ela
+seja uma Web mais Semântica. Uma Internet que liga não apenas
+documentos, mas também informação. Uma nova camada pousará sobre a
+Internet atual reconhecendo coisas e entidades e enriquecendo-as com
+metadados. Estes metadados auxiliarão aos computadores trocarem melhor
+a informação entre si, provendo melhores serviços aos
+usuários. Algumas especificações já estão ganhando espaço, como
+microformatos, RDF e OWL. Mais ainda são muito sofisticadas para os
+humanos disseminarem conteúdos enriquecidos pela Web. A proposta aqui
+é mostrar um nível de inteligência artificial que poderá manipular
+ontologias do conhecimento para enriquecer automaticamente os
+conteúdos da Web atual.  </td></tr>
 
 <tr><td>16:00</td><td>
 Coffe
@@ -342,7 +343,28 @@ Coffe
 
 <tr><td>16:15</td><td>
 <b>A database approach to monitoring the quality of information in RDF stores</b><br/>
-Alexandre Rademaker<br/><br/>
+Alexandre Rademaker<br/>
+
+<p>We will start presenting the problem of Truth Maintainance in Database
+systems. Roughly speaking, this problem addresses the question of how
+to maintain the integrity constraints during the lifetime of a
+database. In some recent papers a discussion concerning the use of
+inconsistency-tolerant methods for obtaining partial integrity
+constraints satisfaction shows up. Partial integrity is obtained by
+means of flexible repairs, that is, integrity repair updates on the
+database that must follow a failed integrity constraint checking in
+order to try to recover the truth state of the database.</p>
+
+<p>Absolute consistency is out of question due its intractability. On the
+other hand, naive inconsistency-tolerant repairs can be
+data-destructive. In order to have a rational flexible repair
+strategy, one needs criteria. These criteria can be expressed in terms
+of metrics.</p> 
+
+<p>We can consider the extension of what was discussed above to
+non-SQL DBs. A natural extension is to consider associative based
+Knowledge Representation bases, such as those based on RDF.</p>
+
 </td></tr>
 
 <tr><td>17:15</td><td>
