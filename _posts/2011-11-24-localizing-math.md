@@ -11,7 +11,7 @@ onde: FGV (sala 1014)
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
 - Quando: {{ page.date | date_to_string }}
-- Hosted by:  {{ page.hosted-by }}
+
 
 We start from the analysis of Turing's work in On computable numbers,
 with an application to the Entscheidungsproblem raising evidences

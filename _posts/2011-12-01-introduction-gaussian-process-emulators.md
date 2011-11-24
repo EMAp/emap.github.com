@@ -11,7 +11,7 @@ onde: FGV
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
 - Quando: {{ page.date | date_to_string }}
-- Hosted by:  {{ page.hosted-by }}
+
 
 Simulators, also known as computer models, are mathematical
 representations of a real system implemented in a computer. Simulators

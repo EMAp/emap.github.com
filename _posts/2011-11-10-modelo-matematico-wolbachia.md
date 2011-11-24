@@ -11,7 +11,7 @@ onde: FGV (sala 317)
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
 - Quando: {{ page.date | date_to_string }}
-- Hosted by:  {{ page.hosted-by }}
+
 
 A introdução da bactéria Wolbachia na população de mosquitos Aedes
 aegypti tem sido proposta como uma estratégia muito promissora para
