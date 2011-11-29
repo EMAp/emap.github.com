@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: inner
 title: Equipe
 ---
-
-# {{ page.title }}
 
 ## Professores
 

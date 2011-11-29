@@ -1,0 +1,32 @@
+---
+layout: home
+title: Escola de Matemática Aplicada da FGV
+---
+
+<div id="blog">
+  <div class="title">
+    <h2>Blog</h2>
+    <a href="#" class="rss"><img src="images/icon-rss.gif" alt="" /></a>
+  </div>
+  {% for post in site.tags.blog %}
+  <div class="post">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>todo...</p>
+  </div>
+  {% endfor %}
+</div>
+
+<div id="seminars">
+  <div class="title">
+    <h2>Seminários</h2>
+    <a href="#" class="rss"><img src="images/icon-rss.gif" alt="" /></a>
+  </div>
+  {% for post in site.tags.seminars %}
+  <div class="post">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="text-type1"> {{ post.date | date_to_long_string }} </p>
+  </div>
+  {% endfor %}
+  <a href="#" class="linktype1">» mais seminários</a>
+</div>
+

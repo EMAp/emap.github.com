@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: inner
 title: Mestrado em Modelagem Matemática da Informação
 ---
-
-# {{ page.title }}
-
 
 O Programa de Pós-graduação em Matemática Aplicada (PPGMAp) abriga o
 Mestrado Acadêmico em Modelagem Matemática da Informação, com o
@@ -40,3 +37,4 @@ pela FGV, consolidando sua atuação na área.
    - [Perfil dos Egressos](perfil-egressos.html)
    - [Linhas de Pesquisa](linhas-pesquisa.html)
    - [Grade Disciplinar](disciplinas.html)
+
