@@ -4,6 +4,8 @@ title: Alexandre Rademaker
 picture: alexandre.rademaker.jpg
 ---
 
+# {{ page.title }}
+
 - Cargo: Professor Adjunto
 - Email: alexandre DOT rademaker AT fgv DOT br
 - Homepage: [http://arademaker.github.com](http://arademaker.github.com)
