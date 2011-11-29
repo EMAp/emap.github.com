@@ -1,6 +1,6 @@
 module Jekyll
   module AssetFilter
-    def summarizeit(str, splitstr = /\s*,/)
+    def summarize(str, splitstr = /\s*,/)
       str.split(splitstr)[0]
     end
   end
