@@ -1,5 +1,8 @@
 
 pygments: true
 markdown: rdiscount
+paginate: 10
+paginate_file: blog.html
+
 
 

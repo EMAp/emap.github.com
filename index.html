@@ -11,7 +11,7 @@ title: Escola de Matemática Aplicada da FGV
   {% for post in site.tags.blog %}
   <div class="post">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>todo...</p>
+    <p> {{ post.content | summarize }} </p>
   </div>
   {% endfor %}
 </div>
@@ -21,12 +21,12 @@ title: Escola de Matemática Aplicada da FGV
     <h2>Seminários</h2>
     <a href="#" class="rss"><img src="images/icon-rss.gif" alt="" /></a>
   </div>
-  {% for post in site.tags.seminars %}
+  {% for post in site.tags.seminars limit:4 %}
   <div class="post">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p class="text-type1"> {{ post.date | date_to_long_string }} </p>
   </div>
   {% endfor %}
-  <a href="#" class="linktype1">» mais seminários</a>
+  <a href="/seminars.html" class="linktype1">» mais seminários</a>
 </div>
 

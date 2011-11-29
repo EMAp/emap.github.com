@@ -15,7 +15,3 @@ convidados ou dos professores e alunos da própria EMAp.
 </div>
 {% endfor %}
 
-
-
-  
-  
