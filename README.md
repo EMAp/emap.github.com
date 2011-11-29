@@ -10,6 +10,7 @@ This is the source of EMAp website.
 - conversão de dados dos seminários
 - páginas pessoais dos professores
 - links cross-ref dentro do site. ex: prof vs disciplina
+- fazer plugin summarize
 
 ## Wireframe
 
