@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: inner
 title: Linhas de Pesquisa da Pós-Graduação
 ---
-
-# {{ page.title }}
 
 O Curso de Mestrado Acadêmico em Modelagem Matemática da Informação,
 por suas características de imbricação de campos de conhecimento, pode

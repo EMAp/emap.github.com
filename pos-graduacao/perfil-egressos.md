@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: inner
 title: Perfil dos Egressos
 ---
-
-# {{ page.title }}
 
 O crescimento acelerado da capacidade monitoração de sistemas naturais
 e sociais complexos, aliado à viabilização do armazenamento e

@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: inner
 title: Processo Seletivo do Mestrado
 ---
-
-# {{ page.title }}
 
 As inscrições para a turma de 2012 do Mestrado em Modelagem Matemática
 da Informação estão abertas.  
@@ -47,7 +45,7 @@ oferecidas em Janeiro de 2012 no curso de Verão. As disciplinas são:
 As inscrições para as disciplinas do Curso de Verão estão abertas
 através do link abaixo.
 
-[Link para inscrição nas disciplinas do cursode Verão em Matemática Aplicada](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP)
+[Link para inscrição nas disciplinas do curso de Verão em Matemática Aplicada](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP)
 
 Para aqueles que participarem, o desempenho nas avaliações das
 disciplinas também será levado em consideração no processo

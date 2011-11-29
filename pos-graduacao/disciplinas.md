@@ -1,13 +1,7 @@
 ---
-layout: default
+layout: inner
 title: Disciplinas do Mestrado
 ---
-
-# {{ page.title }}
-
-
-
-## Obrigatórias
 
 - [Álgebra Linear e Aplicações](disciplina/algebra-linear-aplicacoes.html)
 - [Análise Matemática para aplicações](disciplina/analise-matematica-aplicacoes.html)

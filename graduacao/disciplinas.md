@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: inner
 title: O curso de graduação
 ---
-
-# {{ page.title }}
-
-
 
 ## 1º Periodo
 
