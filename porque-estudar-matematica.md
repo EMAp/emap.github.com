@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Por que estudar matemática?
+layout: inner
+title: Por que estudar matemática aplicada?
 ---
-
-# {{ page.title }}
 
 Muitas das grandes inovações tecnológicas do mundo atual são
 fortemente baseadas no uso de Matemática. Um exemplo notável é o da
