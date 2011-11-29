@@ -1,3 +1,7 @@
 
 pygments: true
 markdown: rdiscount
+safe: true
+
+
+
