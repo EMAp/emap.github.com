@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: Por que estudar matemática?
+title: Por que estudar matemática aplicada?
 ---
 
 Muitas das grandes inovações tecnológicas do mundo atual são
