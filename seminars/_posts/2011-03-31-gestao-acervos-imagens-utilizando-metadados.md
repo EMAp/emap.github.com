@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "Gestão de acervos de imagens utilizando metadados" 
 tag: seminars
 quem: Marcio Isensee 

@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "Apresentação do Sistema de Simulação de Processos IPSEpro da SimTech e do Grupo de Pesquisa e Estudos em Sistemas de Apoio a Decisão EWG-DSS da EURO"
 tag: seminars
 quem: Fátima C. C. Dargam 

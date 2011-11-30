@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 =begin
 
 CategoryPagination allows Jekyll sites to have index pages for each category, and to break those 
@@ -68,7 +69,6 @@ module Jekyll
   end
   
   class CategoryPager < Pager
-
     attr_reader :category
 
     def self.pagination_enabled?(config, page)
@@ -88,7 +88,6 @@ module Jekyll
       x['category'] = @category
       x
     end
-    
   end
   
   # The CategorySubPage class creates a single category page for the specified tag.
@@ -105,26 +104,26 @@ module Jekyll
 
       title_prefix             = site.config['cateogry_title_prefix'] || 'Everything in the '
       self.data['title']       = "#{title_prefix}#{category}"
-
     end
-    
   end
 
   
   module Filters
     def pager_links(pager)
       if pager['previous_page'] || pager['next_page']
-        html = '<div class="pager clearfix">'
+        html = '<div class="pagination">'
+        html << '<ul>'
         if pager['previous_page']
           if pager['previous_page'] == 1
-            html << "<div class=\"previous\"><a href=\"/#{pager['category']}/\">&laquo; Newer posts</a></div>"
+            html << "<li><a href=\"/#{pager['category']}/\">anterior</a></li>"
           else
-            html << "<div class=\"previous\"><a href=\"/#{pager['category']}/page#{pager['previous_page']}\">&laquo; Newer posts</a></div>"
+            html << "<li><a href=\"/#{pager['category']}/page#{pager['previous_page']}\">anterior</a></li>"
           end
         end
         if pager['next_page'] 
-          html << "<div class=\"next\"><a href=\"/#{pager['category']}/page#{pager['next_page']}\">Older posts &raquo;</a></div>"
+          html << "<li><a href=\"/#{pager['category']}/page#{pager['next_page']}\">próxima</a></li>"
         end
+        html << '</ul>' 
         html << '</div>'
         html
       end

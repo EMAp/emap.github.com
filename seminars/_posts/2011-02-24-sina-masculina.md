@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "A Sina Masculina- Anos de Vida Perdidos no Brasil e Grandes Regiões-1980-2005"
 quem: Kaizô Iwakami Beltrão 
 tag: seminars

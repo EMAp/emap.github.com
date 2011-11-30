@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "Editoração em LaTeX" 
 tag: seminars
 quem: Flávio Codeço Coelho

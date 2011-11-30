@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "Localizing Math"
 tag: seminars
 quem: Isabel Cafezeiro and Ivan da Costa Marques

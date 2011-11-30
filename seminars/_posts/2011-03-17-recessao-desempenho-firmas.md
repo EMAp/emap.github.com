@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "Recessão e Desempenho das Firmas: Uma abordagem multinível de curvas de crescimento" 
 tag: seminars
 quem: Rafael Goldzsmidt  

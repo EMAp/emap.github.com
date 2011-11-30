@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "Ontologia aplicada à Biomedicina: a experiência no New York Center of Excellence in Bioinformatics &amp; Life Siences"
 tag: seminars
 ---

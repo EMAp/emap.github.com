@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "The Role of Information in Multistage R&D Races"
 tag: seminars
 quem: Angelo Polydoro  

@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: Quem será o próximo campeão brasileiro? Modelos matemáticos para previsão em esportes
 tag: seminars
 quem: Paulo Cezar Pinto Carvalho

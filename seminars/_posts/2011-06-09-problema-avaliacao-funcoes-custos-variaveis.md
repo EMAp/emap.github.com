@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: seminar
 title: "O problema de avaliação de funções com custos variáveis"
 tag: seminars
 quem: Eduardo Laber  

@@ -1,6 +1,6 @@
 
 ---
-layout: seminars
+layout: seminar
 title: "Reunião Pronex Dengue"
 tag: seminars
 quem: Moacyr Silva
