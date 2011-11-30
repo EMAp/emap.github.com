@@ -1,7 +1,11 @@
 ---
-layout: inner
+layout: post
 title: Inauguração do curso de graduação da EMAp
-tag: blog
+author: Asla de Sá
+tags: 
+ - blog
+ - evento
+ - notícia
 ---
 
 A Escola de Matemática Aplicada da Fundação Getulio Vargas tem o prazer de convidar para o painel "Por que estudar Matemática Aplicada?", a realizar-se no dia 5 de dezembro de 2011, às 18:30 horas, no auditório do edifício sede da FGV, localizado à Praia de Botafogo, 190, marcando a inauguração do curso de Graduação da EMAp. O evento será seguido de uma homenagem ao Professor Augusto César Morgado e de um coquetel de boas-vindas aos futuros alunos.
@@ -16,3 +20,4 @@ do Colégio Elite |
 | 19:30 | Homenagem ao Professor Augusto César Morgado. |
 | 20:00 | Coquetel de boas-vindas aos futuros alunos. |
 
+&nbsp;
