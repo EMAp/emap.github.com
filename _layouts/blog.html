@@ -1,0 +1,47 @@
+---
+layout: page
+---
+
+<body class="blog">
+  <div align="center" id="container">
+    <div id="wrapper">
+
+      <!--Header Starts Here-->
+      {% include header.html %}
+
+      <!--Content Starts Here-->
+      <div id="content">
+
+      <div class="breadcrumbs">
+	<a href="#">Home</a>Sobre a EMAp
+      </div>
+
+	<div class="clear">
+	  <div id="leftstrip1">
+	    {{ content }}
+
+	    <div class="pagination">
+	      <p>1 a 10 de 45</p>
+	      <ul>
+		<li><a href="#">início</a></li>
+		<li><a href="#">anterior</a></li>
+		<li class="link2"><a href="#">próxima</a></li>
+		<li class="link2"><a href="#">fim</a></li>
+	      </ul>
+	    </div>
+	  </div>
+
+	  <div id="rightstrip1" class="spacer1">
+	    {% include inner-right.html %}
+	    <h3>RSS</h3>
+	    <p><a href="#" class="rss">Assine nosso feed</a></p>
+	  </div>
+	</div>
+      </div>
+
+      <!--Footer Starts Here-->
+      {% include footer.html %}
+
+    </div>
+  </div>
+</body>
