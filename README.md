@@ -6,7 +6,7 @@ This is the source of EMAp website.
 ## TODO
 
 - search: http://www.google.com/cse/
-- conversão de dados das ementas
+- lista de livros das ementas
 - conversão de dados dos seminários
 - links cross-ref dentro do site. ex: prof vs disciplina
 - mudar repo para geracao estatica localmente, para usar plugin summarize
@@ -14,9 +14,9 @@ This is the source of EMAp website.
 - quote na pagina porque estudar matematica ainda nao funciona
 - css facebook? comentarios facebook? Entender...
 - lista de tags pode crescer... logos como ficam na pagina de post?
-- como fazer link nas categorias de um post para a pagina da
+- como fazer links nas categorias de um post para a pagina da
   categoria? 
-- como listar categorias?
+- como listar as categorias existentes?
 - como listar arquivo do blog por ano/mes?
 - revisar nomes de classes/ids do css. Nomes como block1 devem ser
   removidos.
@@ -30,6 +30,7 @@ This is the source of EMAp website.
 - paginacao de seminarios e posts do blog? 
 - histórico de navegação nas páginas internas (home >> estou-aqui )
 - links dos rss dos seminarios e blogs
+- limpar arquivos desnecessarios (imagens, fontes etc)
 
 ## Wireframe
 
