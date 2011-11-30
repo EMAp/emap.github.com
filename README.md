@@ -13,10 +13,10 @@ This is the source of EMAp website.
   categoria? 
 - como listar as categorias existentes?
 - como listar arquivo do blog por ano/mes?
-- paginacao de seminarios e posts do blog? 
 
 ### Low  
 
+- evitar geracao de page2, page3 no raiz
 - search: http://www.google.com/cse/
 - lista de livros das ementas
 - links cross-ref dentro do site. ex: prof vs disciplina

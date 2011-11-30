@@ -3,7 +3,6 @@ layout: post
 title: Tutorial do software Git para controle de versionado de arquivos
 author: Alexandre Rademaker
 tags:
- - blog
  - mini-course
 quem: Álvaro Justen
 ---

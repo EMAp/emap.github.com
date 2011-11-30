@@ -3,4 +3,5 @@ safe: false
 pygments: true
 markdown: rdiscount
 redirects: false
-
+paginate: 10
+pagination: true

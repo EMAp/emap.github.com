@@ -8,13 +8,13 @@ title: Escola de Matemática Aplicada da FGV
     <h2>Blog</h2>
     <a href="#" class="rss"><img src="images/icon-rss.gif" alt="" /></a>
   </div>
-  {% for post in site.tags.blog %}
+  {% for post in site.categories.blog %}
   <div class="post">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p> {{ post.content | truncatewords: 10 }} <a href="{{ post.url }}" class="linktype1">» leia</a></p>
   </div>
   {% endfor %}
-  <a href="/blog.html" class="linktype2">» mais posts</a>
+  <a href="/blog/" class="linktype2">» mais posts</a>
 </div>
 
 <div id="seminars">
@@ -22,11 +22,11 @@ title: Escola de Matemática Aplicada da FGV
     <h2>Seminários</h2>
     <a href="#" class="rss"><img src="images/icon-rss.gif" alt="" /></a>
   </div>
-  {% for post in site.tags.seminars limit:4 %}
+  {% for post in site.categories.seminars limit:4 %}
   <div class="post">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p class="text-type1"> {{ post.date | date_to_long_string }} </p>
   </div>
   {% endfor %}
-  <a href="/seminars.html" class="linktype2">» mais seminários</a>
+  <a href="/seminars/" class="linktype2">» mais seminários</a>
 </div>

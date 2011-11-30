@@ -3,7 +3,6 @@ layout: post
 title: Inauguração do curso de graduação da EMAp
 author: Asla de Sá
 tags: 
- - blog
  - evento
  - notícia
 ---
