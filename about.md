@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: Escola de Matemática Aplicada da FGV
+title: Sobre a EMAp
 ---
 
 A Escola de Matemática Aplicada (EMAp) da FGV foi criada em 2008 com a
