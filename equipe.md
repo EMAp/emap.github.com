@@ -17,7 +17,20 @@ title: Equipe
 - [Renato Rocha Souza](/people/renato.souza.html) - coordenador da pós-graduação
 - [Walter Wagner Carvalho Sande](/people/walter.sande.html)
 
-## Secretaria
+## Funcionários
 
-- Luciana Cunha Lauria da Silva
+<table>
+<tr>
+<td><img src="/images/luciana.silva.jpg" /></td>
+<td>Luciana Cunha Lauria da Silva<br/>
+    luciana DOT silva AT fgv DOT br, secretária</td>
+</tr>
+</table>
 
+<table>
+<tr>
+<td><img src="/images/cristiane.guimaraes.jpg" /></td>
+<td>Cristiane Souza Guimarães<br/>
+    cristiane DOT guimaraes AT fgv DOT br</td>
+</tr>
+</table>

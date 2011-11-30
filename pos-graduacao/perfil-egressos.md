@@ -5,10 +5,11 @@ title: Perfil dos Egressos
 
 O crescimento acelerado da capacidade monitoração de sistemas naturais
 e sociais complexos, aliado à viabilização do armazenamento e
-disponibilização de grandes conjuntos de dados, têm gerado uma demanda
-crescente1 por profissionais capazes de acessar, integrar, analizar e
-visualizar grandes volumes de dados2. A formação de tais profissionals
-é o foco central deste programa de pós-graduação.
+disponibilização de grandes conjuntos de dados, têm gerado uma
+[demanda crescente][demanda] por profissionais capazes de acessar,
+integrar, analizar e visualizar grandes [volumes de dados][dados]. A
+formação de tais profissionals é o foco central deste programa de
+pós-graduação.
 
 São as seguintes competências e habilidades que o mestrado visa a
 formar:
@@ -37,8 +38,7 @@ Ao propiciar a formação de tais características, almeja-se um perfil
 apto a preencher importantes lacunas profissionais e acadêmicas,
 percebidas nos contextos nacional e mudial, na atualidade.
 
-## Referências
+[demanda]: http://flowingdata.com/2009/06/04/rise-of-the-data-scientist
+[dados]: http://radar.oreilly.com/2010/06/what-is-data-science.html
 
-1. [Rise of the Data Scientist](http://flowingdata.com/2009/06/04/rise-of-the-data-scientist)
-2. [What is Data Science?](http://radar.oreilly.com/2010/06/what-is-data-science.html)
 

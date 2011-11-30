@@ -17,7 +17,7 @@ documentação abaixo.
  
 Documentos necessários à inscrição no processo seletivo do mestrado:
 
-- Ficha de inscrição preenchida (online, através de link disponível em breve)
+- Ficha de inscrição preenchida
 - Cópia(s) do(s) Diploma(s) de Nível Superior e de Pós-Graduação - Autenticada(s)
 - Cópia do Histórico Escolar da Graduação
 - Cópia autenticada da Carteira de Identidade
@@ -26,8 +26,10 @@ Documentos necessários à inscrição no processo seletivo do mestrado:
 - Três fotos (3x4) coloridas
 - Comprovante de pagamento da taxa de inscrição (R$ 90,00)
 
-Endereço da SRA: Praia de Botafogo, 190 – sala 314, Botafogo - Rio de
-Janeiro - RJ
+Endereço da SRA: 
+
+Praia de Botafogo, 190 – sala 314<br/>
+Botafogo - Rio de Janeiro - RJ
 
 O Processo seletivo para a turma de 2012 acontecerá durante o mês de
 Fevereiro de 2012. Este consistirá de:
