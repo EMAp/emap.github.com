@@ -1,64 +1,57 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="author" content="Alexandre Rademaker" />
-    <meta name="keywords" content="EMAp; FGV; Applied Mathematics; Matemática Aplicada" />
-    <meta name="description" content="Website da Escola de Matematica Aplicada da FGV" />
-    <meta name="language" content="English" />
-    <title> {{ page.title }} </title>
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-    <link href="/css/stylesheet.css" rel="stylesheet" type="text/css" />
-  </head>
-  <body>
-    <div align="center" id="container">
-      <div id="wrapper">
+---
+layout: page
+---
 
-	<!--Header Starts Here-->
-	{% include header.html %}
+<body class="index">
+  <div align="center" id="container">
+    <div id="wrapper">
 
-        <!--Content Starts Here-->
-        <div id="content">
-	  <div id="banner">
-	    <div class="block-1">
-	      <div class="block block1">
-		<a href="/porque-estudar-matematica.html">Por que estudar matemática aplicada?</a>
-	      </div>
-	      <div class="block block2">
-		<a href="/porque-estudar-na-emap.html">Por que estudar na EMAp?</a>
-	      </div>
-	      <div class="block block3">
-		<a href="#">Pesquisas em curso na EMAp</a>
-	      </div>
+      <!--Header Starts Here-->
+      {% include header.html %}
+      
+      <!--Content Starts Here-->
+      <div id="content">
+	<div id="banner">
+	  <div class="block-1">
+	    <div class="block block1">
+	      <a href="/porque-estudar-matematica.html">Por que estudar matemática aplicada?</a>
+	    </div>
+	    <div class="block block2">
+	      <a href="/porque-estudar-na-emap.html">Por que estudar na EMAp?</a>
+	    </div>
+	    <div class="block block3">
+	      <a href="/pesquisa.html">Pesquisas em curso na EMAp</a>
 	    </div>
 	  </div>
-	  <div class="clear">
-	    <div id="leftstrip">
+	</div>
 
+	<div class="clear">
+	  <div id="leftstrip">
 	    {{ content }} 
+	  </div>
 
+	  <div id="rightstrip">
+	    <div class="block1"><img src="images/fgv.gif" alt=""></div>
+	    <div class="block2"><img src="images/twitter.gif" alt=""></div>
+	    <div class="block2">
+	      <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Femap-fgv&amp;width=299&amp;height=188&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false&amp;appId=240201076047364" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:299px; height:188px;" allowtransparency="true"></iframe>
 	    </div>
-
-	    <div id="rightstrip">
-	      <div class="block1"><img src="images/fgv.gif" alt="" /></div>
-	      <div class="block2"><img src="images/twitter.gif" alt="" /></div>
-	      <div class="block2"><img src="images/facebook.gif" alt="" /></div>
-	      <div class="block3">
-		<div class="title">
-		  <h2>Mais EMAp na web</h2>
-		</div>
-		<a href="#" class="link1">Delicious »</a>
-		<a href="#" class="link2">Mendeley »</a>
+	    <div class="block3">
+	      <div class="title">
+		<h2>Mais EMAp na web</h2>
 	      </div>
+	      <a href="#" class="link1">Delicious »</a>
+	      <a href="#" class="link2">Mendeley »</a>
 	    </div>
 	  </div>
-        </div>
-        <!--Content Ends Here-->
-
-        <!--Footer Starts Here-->
-	{% include footer.html %}
-
+	  
+	</div>
       </div>
+      <!--Content Ends Here-->
+      
+      <!--Footer Starts Here-->
+      {% include footer.html %}
+      
     </div>
-  </body>
-</html>
+  </div>
+</body>

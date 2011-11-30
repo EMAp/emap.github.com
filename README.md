@@ -11,6 +11,7 @@ This is the source of EMAp website.
 - páginas pessoais dos professores
 - links cross-ref dentro do site. ex: prof vs disciplina
 - fazer plugin summarize
+- no menu, nao coube a entrada para fale-conosco, comentada
 
 ## Wireframe
 
