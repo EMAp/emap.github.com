@@ -2,3 +2,5 @@
 safe: false
 pygments: true
 markdown: rdiscount
+redirects: false
+
