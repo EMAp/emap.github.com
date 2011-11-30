@@ -18,6 +18,18 @@ This is the source of EMAp website.
   categoria? 
 - como listar categorias?
 - como listar arquivo do blog por ano/mes?
+- revisar nomes de classes/ids do css. Nomes como block1 devem ser
+  removidos.
+- nao usar mesma classe css para diferentes conteudos
+- na lista dos seminarios (home e interna), colocar o nome do
+  palestrante e talvez filiacao
+- pagina que liste os eventos e/ou categoria no blog para listar os
+  eventos
+- logos da EMAP nas entradas do facebook, twitter etc. Ficou
+  cansativo. Dá para mudar o facebook? O que seria melhor?
+- paginacao de seminarios e posts do blog? 
+- histórico de navegação nas páginas internas (home >> estou-aqui )
+- links dos rss dos seminarios e blogs
 
 ## Wireframe
 
