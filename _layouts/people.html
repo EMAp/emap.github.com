@@ -1,18 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="author" content="Alexandre Rademaker" />
-    <meta name="keywords" content="Escola de Matemática Aplicada; Fundação Getulio Vargas" />
-    <meta name="description" content="Escola de Matemática Aplicada da Fundação Getulio Vargas" />
-    <meta name="language" content="English" />
-    <title>{{ page.title }} </title>
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-    <link href="/css/stylesheet.css" rel="stylesheet" type="text/css" />
-  </head>
-  <body>
-    <div align="center" id="container">
-      <div id="wrapper">
+---
+layout: page
+---
+
+<body class="abre-secao">
+  <div align="center" id="container">
+    <div id="wrapper">
 
       <!--Header Starts Here-->
       {% include header.html %}
@@ -20,16 +12,15 @@
       <!--Content Starts Here-->
       <div id="content">
 
-	<!-- navegation -->
 	<div class="breadcrumbs">
 	  <a href="#">Home</a>Sobre a EMAp
 	</div>
 	
 	<div class="clear">
 	  <div id="leftstrip1">
-	    
-	    {{ content }}
-
+	    <div id="post_full">
+	      {{ content }}
+	    </div>
 	  </div>
 
 	  <div id="rightstrip1">
@@ -38,9 +29,6 @@
 	    <p>Chamada Lorem ipsum dolor sit amet, consectetuer adipisng elit <a href="#" class="link3">saiba mais </a></p>
 	    <h3>Localização</h3>
 	    <div class="map"><img src="/images/map.jpg" alt="" /></div>
-	    <p><a href="#" class="link3">clique para ver o mapa ampliado </a></p>
-	    <h3>RSS</h3>
-	    <p><a href="#" class="rss">Assine nosso feed</a></p>
 	  </div>
 	</div>
       </div>
@@ -48,7 +36,6 @@
       <!--Footer Starts Here-->
       {% include footer.html %}
 
-      </div>
     </div>
-  </body>
-</html>
+  </div>
+</body>

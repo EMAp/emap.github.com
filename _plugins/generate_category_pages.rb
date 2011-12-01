@@ -111,18 +111,26 @@ module Jekyll
   module Filters
     def pager_links(pager)
       if pager['previous_page'] || pager['next_page']
+        p_start = pager['per_page'] * (pager['page'] - 1)
+        p_end = p_start + pager['per_page'] 
+        if p_end > pager['total_posts']
+          p_end = pager['total_posts']
+        end
         html = '<div class="pagination">'
+        html << "<p>#{p_start} a #{p_end} de #{pager['total_posts']}</p>"
         html << '<ul>'
+        html << "<li class='link2'><a href=\"/#{pager['category']}/\">início</a></li>"
         if pager['previous_page']
           if pager['previous_page'] == 1
-            html << "<li><a href=\"/#{pager['category']}/\">anterior</a></li>"
+            html << "<li class='link2'><a href=\"/#{pager['category']}/\">anterior</a></li>"
           else
-            html << "<li><a href=\"/#{pager['category']}/page#{pager['previous_page']}\">anterior</a></li>"
+            html << "<li class='link2'><a href=\"/#{pager['category']}/page#{pager['previous_page']}\">anterior</a></li>"
           end
         end
         if pager['next_page'] 
-          html << "<li><a href=\"/#{pager['category']}/page#{pager['next_page']}\">próxima</a></li>"
+          html << "<li class='link2'><a href=\"/#{pager['category']}/page#{pager['next_page']}\">próxima</a></li>"
         end
+        html << "<li class='link2'><a href=\"/#{pager['category']}/page#{pager['total_pages']}\">fim</a></li>"
         html << '</ul>' 
         html << '</div>'
         html

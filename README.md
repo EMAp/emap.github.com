@@ -42,6 +42,12 @@ This is the source of EMAp website.
 - menu de contexto para seções 
 - limpar arquivos desnecessarios (imagens, fontes etc)
 - rever urls em todo o site, http://www.w3.org/Provider/Style/URI.html
+- O laranja dos títulos.... Tem que "amansar" esse laranja pra ficar
+  menos Itaú!
+- mais imagens para as páginas internas. Paginas como "porque estudar
+  na EMAp" precisam de imagens mais dinâmicas, animadas. A foto dos
+  livros está muito ruim. Talvez usar fotos CC do Flinckr?
+  
 
 ## Wireframe
 
