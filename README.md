@@ -36,11 +36,11 @@ This is the source of EMAp website.
 - search: http://www.google.com/cse/
 - lista de livros das ementas
 - links cross-ref dentro do site. ex: prof vs disciplina
-- histórico de navegação nas páginas internas (home >> estou-aqui )
+- histórico de navegação nas páginas internas (home >> estou-aqui ), breadcrumb
 - links dos rss dos seminarios e blogs
 - redirects
 
-### Layout Stuffs
+### Layout Stuff
 
 - no menu, nao coube a entrada para fale-conosco, comentada
 - quote na pagina porque estudar matematica ainda nao funciona
