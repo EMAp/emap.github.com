@@ -6,8 +6,6 @@ quem: Leonardo Bastos
 onde: FGV 
 ---
 
-# {{ page.title }}
-
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
 - Quando: {{ page.date | date_to_string }}
@@ -28,4 +26,3 @@ toy examples.
 
 A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.
-

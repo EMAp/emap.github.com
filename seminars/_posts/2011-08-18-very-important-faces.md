@@ -5,8 +5,6 @@ tag: seminars
 quem: Asla Medeiros e Sá, Cristina Nader Vasconcelos, Martina Spohr Goncalves and Paulo Cezar Carvalho 
 ---
 
-# {{ page.title }}
-
 - Quem: {{ page.quem }}
 - Onde:  FGV (sala 317)
 - Quando: {{ page.date | date_to_string }}

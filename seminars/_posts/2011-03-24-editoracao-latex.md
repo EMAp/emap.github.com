@@ -5,8 +5,6 @@ tag: seminars
 quem: Flávio Codeço Coelho
 ---
 
-# {{ page.title }}
-
 - Quem:  {{ page.quem }}
 - Onde:  FGV (sala 317)
 - Quando: {{ page.date | date_to_string }}

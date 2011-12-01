@@ -6,12 +6,12 @@ quem: Isabel Cafezeiro and Ivan da Costa Marques
 onde: FGV (sala 1014)
 ---
 
-# {{ page.title }}
-
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
 - Quando: {{ page.date | date_to_string }}
 
+O seminário foi uma palestra do workshop
+[Logics and Ontologies for Portuguese](/events/nlp-2011/).
 
 We start from the analysis of Turing's work in On computable numbers,
 with an application to the Entscheidungsproblem raising evidences

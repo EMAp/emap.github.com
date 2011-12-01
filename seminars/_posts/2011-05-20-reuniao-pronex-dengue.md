@@ -1,12 +1,9 @@
-
 ---
 layout: seminar
 title: "Reunião Pronex Dengue"
 tag: seminars
 quem: Moacyr Silva
 ---
-
-## {{ page.title }}
 
 - Quem: {{ page.quem }}
 - Onde: FGV

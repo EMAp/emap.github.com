@@ -4,8 +4,6 @@ title: Projetos de Inovação em Automação, Energia Solar, RFID, e Data Scienc
 tag: seminars
 ---
 
-## {{ page.title }}
-
 - Quem: Dan Reznik
 - Onde: FGV
 - Quando: {{ page.date | date_to_string }}

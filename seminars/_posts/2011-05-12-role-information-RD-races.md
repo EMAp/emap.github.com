@@ -5,8 +5,6 @@ tag: seminars
 quem: Angelo Polydoro  
 ---
 
-# {{ page.title }}
-
 - Quem: {{ page.quem }}
 - Onde:  FGV
 - Quando:  {{ page.date | date_to_string }}

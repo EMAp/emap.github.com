@@ -6,8 +6,6 @@ quem: Paulo Cezar Pinto Carvalho
 onde: FGV 
 ---
 
-# {{ page.title }}
-
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
 - Quando: {{ page.date | date_to_string }}

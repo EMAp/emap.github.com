@@ -4,8 +4,6 @@ title: "Ontologia aplicada à Biomedicina: a experiência no New York Center of 
 tag: seminars
 ---
 
-## {{ page.title }}
-
 - Quem: Maurício Almeida 
 - Onde: FGV
 - Quando: {{ page.date | date_to_string }}

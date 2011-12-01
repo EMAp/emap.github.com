@@ -5,8 +5,6 @@ tag: seminars
 quem: Eduardo Laber  
 ---
 
-# {{ page.title }}
-
 - Quem: {{ page.quem }}
 - Onde:  FGV 
 - Quando: {{ page.date | date_to_string }}

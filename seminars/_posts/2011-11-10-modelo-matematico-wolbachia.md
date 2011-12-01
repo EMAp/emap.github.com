@@ -6,8 +6,6 @@ quem: Moacyr Alvim Horta Barbosa da Silva
 onde: FGV (sala 317)
 ---
 
-# {{ page.title }}
-
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
 - Quando: {{ page.date | date_to_string }}
@@ -16,7 +14,7 @@ onde: FGV (sala 317)
 A introdução da bactéria Wolbachia na população de mosquitos Aedes
 aegypti tem sido proposta como uma estratégia muito promissora para
 enfrentar o problema da dengue. O [projeto Eliminate
-Dengue](www.eliminatedengue.com) já está realizando experimentos de
+Dengue](http://www.eliminatedengue.com) já está realizando experimentos de
 campo na Austrália e também estão planejadas intervenções na
 Indonésia. Modelos matemáticos para a dinâmica do mosquito e da
 bactéria são ferramentas essenciais para o planejamento de tais
