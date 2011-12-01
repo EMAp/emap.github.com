@@ -3,9 +3,25 @@
 
 This is the source of EMAp website.
 
+## Deploy
+
+- git checkout source
+- do whatever you need
+- git status / add / commit
+- jekyll
+- checkout master
+- execute 
+
+    cp -r _site/* . && rm -rf _site/ && touch .nojekyll
+
+- git status
+- git add / commit
+- git push -all origin
+
+
 ## TODO
 
-### High
+### High Priority
 
 - mudar repo para geracao estatica localmente, para usar plugin
   summarize
@@ -14,7 +30,7 @@ This is the source of EMAp website.
 - como listar as categorias existentes?
 - como listar arquivo do blog por ano/mes?
 
-### Low  
+### Low Priority
 
 - evitar geracao de page2, page3 no raiz
 - search: http://www.google.com/cse/
@@ -24,7 +40,7 @@ This is the source of EMAp website.
 - links dos rss dos seminarios e blogs
 - redirects
 
-###  Layout
+### Layout Stuffs
 
 - no menu, nao coube a entrada para fale-conosco, comentada
 - quote na pagina porque estudar matematica ainda nao funciona
@@ -52,8 +68,4 @@ This is the source of EMAp website.
 ## Wireframe
 
 http://projetos.metaesquema.com/emap_wireframes/
-
-
-
-
 
