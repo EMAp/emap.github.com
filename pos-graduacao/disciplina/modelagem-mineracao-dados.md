@@ -5,8 +5,6 @@ area: Ciência da Computação
 creditos: 3
 ---
 
-# {{ page.title }}
-
 - Área:  {{ page.area }}
 - Código: CMP002
 - Carga horária: 45 horas

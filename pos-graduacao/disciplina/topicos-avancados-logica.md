@@ -5,8 +5,6 @@ creditos: 3
 area: Mátematica da informação
 ---
 
-# {{ page.title }}
-
 - Área: {{ page.area }}     
 - Código: MIF010
 - Carga horária: 45 horas

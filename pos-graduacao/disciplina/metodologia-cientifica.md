@@ -5,8 +5,6 @@ creditos: 1
 area: Metodologia de Pesquisa
 ---
 
-# {{ page.title }}
-
 - Área: {{ page.area }}     
 - Código: PEQ001
 - Carga horária: 15 horas

@@ -5,8 +5,6 @@ area:  Matemática da Imformação
 creditos: 3
 ---
 
-# {{ page.title }}
-
 - Área: {{ page.area }}
 - Código: MIF007
 - Carga horária: 45 horas

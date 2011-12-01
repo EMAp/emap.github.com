@@ -5,8 +5,6 @@ creditos: 3
 area: Matemática Geral
 ---
 
-# {{ page.title }}
-
 - Área: {{ page.area }}   
 - Código: MAT001
 - Carga horária: 45 horas  

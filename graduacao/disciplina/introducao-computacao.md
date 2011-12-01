@@ -3,8 +3,6 @@ layout: disciplina
 title: Introdução à Computação 
 ---
 
-# {{ page.title }}
-
 - Carga horária: 90 horas (6 aulas semanais)
 - Pré-requisito: Não existe
 

@@ -5,8 +5,6 @@ area:  Matemática Geral
 creditos: 3
 ---
 
-# {{ page.title }}
-
 - Área:  {{ page.area }}
 - Código: MIF008
 - Carga horária: 45 horas

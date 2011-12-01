@@ -5,8 +5,6 @@ creditos: 3
 area: Matemática da Informação
 ---
 
-# {{ page.title }}
-
 - Área: {{ page.area }}
 - Código: MIF001
 - Carga horária: 45 horas
