@@ -3,4 +3,4 @@ layout: inner
 title: Pesquisa
 ---
 
-Texto da página pesquisa...
+Em breve, texto da página pesquisa.

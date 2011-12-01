@@ -14,8 +14,8 @@ creditos: 3
 
 ## Docente(s) 
 
-- Renato Rocha Souza
 - Alexandre Rademaker
+- Renato Rocha Souza
 
 ## Ementa
 

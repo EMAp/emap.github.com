@@ -21,7 +21,7 @@ area: Mátematica da informação
 
 Apresentar/aprofundar tópicos básicos e técnicas de lógica, sistemas
 dedutivos e inferência, no escopo da web semântica e das ontologias
-formais
+formais.
 
 ## Bibliografia
 
