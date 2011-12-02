@@ -20,11 +20,8 @@ grande experiência no ensino de matemática em cursos de graduação.
 
 ## Áreas de Interesse
 
-- Sistemas Dinâmicos
-- Morse-smale
-- Singularidade hiperbolica de campos de vetores
-- Classe de equivalencia topologica
-
-
- 
+- Sistemas dinâmicos
+  - Morse-smale
+  - Singularidade hiperbolica de campos de vetores
+  - Classe de equivalencia topologica
 

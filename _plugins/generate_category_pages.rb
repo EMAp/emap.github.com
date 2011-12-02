@@ -30,8 +30,8 @@ I have created a custom filter for displaying previous and next links on categor
 module Jekyll
 
   class CategoryPages < Generator
-  
     safe true
+    priority :low
 
     def generate(site)
       site.pages.dup.each do |page|
@@ -40,10 +40,9 @@ module Jekyll
     end
 
     def paginate(site, page)
-    
       # sort categories by descending date of publish
       category_posts = site.categories[page.data['category']].sort_by { |p| -p.date.to_f }
-
+      
       # calculate total number of pages
       pages = CategoryPager.calculate_pages(category_posts, site.config['paginate'].to_i)
 
