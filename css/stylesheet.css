@@ -385,10 +385,11 @@ padding: 0 0 25px 0;
 }
 .inner-child #leftstrip1 h1,
 .index_seminars #leftstrip1 h1,
+.people #leftstrip1 h1,
 .disciplina #leftstrip1 h1 {
 border-bottom: 1px solid #cccccc;
 padding: 0 0 25px 0;
-	margin: 0 0 20px;
+margin: 0 0 20px;
 }
 
 #leftstrip1 .post {
@@ -623,7 +624,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 #post_full ul {
 float: none;
-margin: 0 0 20px 0;
+margin: 0 0 20px 20px;
 }
 #post_full li {
 float: none;
@@ -696,4 +697,29 @@ text-decoration: underline;
 padding: 10px 0 0 0;
 clear: both;
 overflow: hidden;
+}
+
+.seminar tr, .post tr {
+	padding: 0;
+	margin: 0pt;
+}
+.seminar table, .post table {
+	padding: 0;
+	background: none repeat scroll 0 0 #DDDDDD;
+	border: medium none;
+	margin: 0pt;
+}
+.seminar td, .post td {
+	border-spacing: 10px #ffffff;
+	font-size: 12px;
+	vertical-align: top;
+	line-height: 18px;
+	margin: 0 12px;
+	padding: 15px;
+	background: #ffffff;
+}
+
+p.intro {
+	border-bottom: solid 1px #dddddd;
+	padding: 0 0 25px 0;
 }
