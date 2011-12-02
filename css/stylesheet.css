@@ -605,9 +605,8 @@ text-decoration: underline;
 text-decoration: none;
 }
 #post_full h2 {
-font-size: 14px;
-padding: 0 0 0 20px;
-background: url(/images/arrow-1.gif) no-repeat left center;
+font-size: 18px;
+margin: 10px 0;
 }
 #post_full code {
 padding: 20px 20px 20px 16px;
@@ -682,8 +681,7 @@ background: url(/images/icon-arrow.gif) no-repeat right center;
 color: #1F5F7B;
 float: right;
 font-size: 11px;
-font-size: 11px;
-	#ff5500: ;
+
 }
 #leftstrip1 #comments a:hover {
 text-decoration: underline;
