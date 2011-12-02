@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-	color: #dd3300; 
+	color: #4E818E; 
 }
 
 /* Page Holder */
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:12px; }
 }
 #menu ul li a {
 	height:38px;
-	color:#1F5F7B;
+	color:#ffffff;
 	padding:0 15px;
 	float:left;
 }
@@ -450,17 +450,23 @@ h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:12px; }
 	margin:0 0 20px 0;
 	font-family: 'ZurichBold';
 }
-#rightstrip1 .block4-1 {background:url(/images/block4-1.gif) no-repeat left top #1f5f7b;}
-#rightstrip1 .block4-2 {background:url(/images/block4-2.gif) no-repeat left top #4e818e;}
+#rightstrip1 .block4-1 {
+	background:url(/images/block4-1.gif) no-repeat left top #1f5f7b;
+	}
+#rightstrip1 .block4-2 {
+	background:url(/images/block4-2.gif) no-repeat left top #4e818e;
+	}
 #rightstrip1 .block4 a {
 	width:137px;
 	height:89px;
 	float:left;
 	padding:17px 15px 0 68px;
-	color:#1F5F7B;
 	font-size:19px;
+	color: #ffffff;
 }
-#rightstrip1 .block4 a:hover { color:#EEEEEE;}
+#rightstrip1 .block4 a:hover { 
+	color:#dddddd;
+	}
 #rightstrip1 .link3 {
 	margin:20px 0 15px 0;
 	padding:0 0 0 22px;
