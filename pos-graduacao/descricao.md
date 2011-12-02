@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: Mestrado em Modelagem Matemática da Informação
+title: Modelagem Matemática da Informação
 ---
 
 O Programa de Pós-graduação em Matemática Aplicada (PPGMAp) abriga o
