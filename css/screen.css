@@ -62,7 +62,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #ff5500;
 }
 
 a:hover {
@@ -132,7 +132,7 @@ ul.posts span {
 }
 
 .site .title a {
-    color: #a00;
+    color: #ff5500;
     text-decoration: none;
 }
 
@@ -168,7 +168,10 @@ ul.posts span {
 }
 
 .site .footer .contact a {
-    color: #8085C1;
+    color: #ff5500;
+	#ff5500: ;
+	cursor: pointer;
+	outline: medium none;
 }
 
 .site .footer .rss {
