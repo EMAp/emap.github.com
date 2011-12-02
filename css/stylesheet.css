@@ -386,6 +386,7 @@ padding: 0 0 25px 0;
 #leftstrip1 h1.headline1 {
 font-size: 30px;
 line-height: 30px;
+	margin: 0 0 25px 0;
 }
 #leftstrip1 .post {
 width: 100%;
@@ -462,6 +463,7 @@ padding: 60px 0 0 0;
 width: 220px;
 float: right;
 color: #333333;
+	margin: 55px 0 0 0;
 }
 #rightstrip1 h3 {
 color: #666666;

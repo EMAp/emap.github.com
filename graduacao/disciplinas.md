@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: inner-child
 title: O curso de graduação
 ---
 

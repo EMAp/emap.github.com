@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: inner-child
 title: Por que estudar na EMAp?
 ---
 
