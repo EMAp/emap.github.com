@@ -466,7 +466,7 @@ color: #333333;
 #rightstrip1 h3 {
 color: #666666;
 font-size: 19px;
-padding: 25px 0;
+padding: 20px 0 10px;
 border-top: 1px solid #d0d0d0;
 font-family: 'ZurichBold';
 }
@@ -502,7 +502,7 @@ color: #ffffff;
 color: #dddddd;
 }
 #rightstrip1 .link3 {
-margin: 20px 0 15px 0;
+margin: 10px 0 15px;
 padding: 0 0 0 22px;
 display: inline-block;
 font-size: 15px;
@@ -510,7 +510,6 @@ font-family: 'ZurichBold';
 background: url(/images/arrow-1.gif) no-repeat left 6px;
 }
 #rightstrip1 .link3:hover {
-color: #dd4400;
 }
 #rightstrip1 .map {
 border: 1px solid #8a8a8a;
