@@ -1,0 +1,28 @@
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 30000,
+  width: 300,
+  height: 251,
+  theme: {
+    shell: {
+      background: '#b8c0c4',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#383138',
+      links: '#e65a15'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    behavior: 'all'
+  }
+}).render().setUser('fgv_emap').start();
+</script>

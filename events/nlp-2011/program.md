@@ -245,10 +245,10 @@ Coffe
 </td></tr>
 
 <tr><td>16:00</td><td>
-<b>Localizing Math</b><br/>
-Isabel Cafezeiro and Ivan da Costa Marques<br/><br/>
+<b>Localizing Math (<a href="http://prezi.com/wbcc9ix5odaj/logics-and-ontologies-for-portuguese/">slides</a>)</b><br/>
+Isabel Cafezeiro and Ivan da Costa Marques<br/>
 
-We start from the analysis of Turing's work in On computable numbers,
+<p>We start from the analysis of Turing's work in On computable numbers,
 with an application to the Entscheidungsproblem raising evidences
 about how he proceeded to build the definition of computability.
 Taking advantage of his stepwise construction that starts from the
@@ -265,7 +265,7 @@ takes part in what is usually considered "technical content" or
 “objectivity” undermining, thus, the axis of authority of mathematics,
 logic and computing. Under this view new possibilities for knowledge
 construction are acknowledged, allowing maths that are done and lived
-outside the major centers.
+outside the major centers.</p>
 </td></tr>
 
 <tr><td>17:00</td><td>
