@@ -124,7 +124,7 @@ position: relative;
 #menu ul li:first-child:hover a,
 #menu ul li:first-child a:hover {
 background: #242e3b url(/images/nav-over1.gif) no-repeat left top;
-color: #eeeeee;
+color: #ffffff;
 }
 #menu ul li a {
 height: 38px;
@@ -134,7 +134,7 @@ float: left;
 }
 #menu ul li:hover a,
 #menu ul li a:hover {
-color: #eeeeee;
+color: #dddddd;
 background: #242e3b url(/images/nav-over.gif) repeat-x left top;
 }
 #menu ul li:hover ul {
@@ -171,7 +171,7 @@ border-top: 1px dotted #5c646e;
 #menu ul li:hover ul li a:hover,
 #menu ul li ul li a:hover {
 background: none;
-color: #c0c7d3;
+color: #ffffff;
 }
 
 #menu ul li:hover ul li:first-child a,
@@ -241,11 +241,11 @@ width: 142px;
 height: 95px;
 float: left;
 padding: 17px 15px 0 68px;
-color: #ffffff;
+color: #1F5F7B;
 font-size: 19px;
 }
 #banner .block a:hover {
-color: #dddddd;
+color: #4E818E;
 }
 
 
@@ -379,7 +379,7 @@ color: #333333;
 #leftstrip1 h1 {
 font-size: 30px;
 line-height: 34px;
-font-family: 'ZurichBold';
+font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
 border-bottom: 1px solid #bdbdbd;
 padding: 0 0 25px 0;
 }
@@ -599,7 +599,6 @@ padding: 0 0 20px 0;
 font-size: 15px;
 }
 #post_full p a {
-color: #1F5F7B;
 text-decoration: underline;
 }
 #post_full p a:hover {
