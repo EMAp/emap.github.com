@@ -327,7 +327,7 @@ border: 1px solid #999999;
 #rightstrip .block2 {
 clear: both;
 overflow: hidden;
-margin: 25px 0 0 0;
+margin: 0 0 25px;
 }
 #rightstrip .block3 {
 clear: both;
@@ -389,7 +389,8 @@ padding: 0 0 25px 0;
 .index_seminars #leftstrip1 h1,
 .people #leftstrip1 h1,
 .disciplina #leftstrip1 h1,
-.blog #leftstrip1 h1 {
+.blog #leftstrip1 h1,
+.equipe_apoio #leftstrip1 h1 {
 border-bottom: 1px solid #cccccc;
 padding: 0 0 25px 0;
 margin: 0 0 20px;
@@ -517,6 +518,7 @@ display: block;
 font-size: 15px;
 font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
 background: url(/images/arrow-1.gif) no-repeat left 6px;
+	padding: 0 0 0 22px;
 }
 #rightstrip1 .link3:hover {
 }
@@ -738,4 +740,24 @@ p.intro {
 #rightstrip1 img.people_picture  {
 	border: solid 1px #dddddd;
 	margin: 0 0 20px 0;
+}
+div.person {
+	clear:both;
+}
+div.person img {
+	float: left;
+	border: solid 1px #dddddd;
+	margin: 0 20px 20px 0;
+}
+
+div.person_info {
+	float: left;
+}
+
+#post_full div.person_info p {
+	padding: 0 0 10px 0;
+}
+
+.inner #rightstrip1 {
+	margin: 0px 0 0;
 }
