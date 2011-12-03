@@ -386,7 +386,8 @@ padding: 0 0 25px 0;
 .inner-child #leftstrip1 h1,
 .index_seminars #leftstrip1 h1,
 .people #leftstrip1 h1,
-.disciplina #leftstrip1 h1 {
+.disciplina #leftstrip1 h1,
+.blog #leftstrip1 h1 {
 border-bottom: 1px solid #cccccc;
 padding: 0 0 25px 0;
 margin: 0 0 20px;
@@ -421,15 +422,14 @@ background: url(/images/bg_date-posted.png);
 #leftstrip1 h3 span {
 color: #999999;
 }
-#leftstrip1 .link1 {
+#leftstrip1 .mais {
 padding: 0 0 0 22px;
-margin: 0 0 0 22px;
-display: inline-block;
+margin: 10px 0 0 0;
+display: block;
 background: url(/images/arrow-1.gif) no-repeat left 6px;
 }
-#leftstrip1 .link1:hover {
-text-decoration: underline;
-}
+
+
 #leftstrip1 p {
 font-size: 15px;
 }
@@ -509,12 +509,12 @@ color: #ffffff;
 #rightstrip1 .block4 a:hover {
 color: #dddddd;
 }
-#rightstrip1 .link3 {
+#rightstrip1 .mais {
 margin: 10px 0 15px;
 padding: 0 0 0 22px;
-display: inline-block;
+display: block;
 font-size: 15px;
-font-family: 'ZurichBold';
+font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
 background: url(/images/arrow-1.gif) no-repeat left 6px;
 }
 #rightstrip1 .link3:hover {
@@ -608,7 +608,6 @@ font-size: 15px;
 text-decoration: underline;
 }
 #post_full p a:hover {
-text-decoration: none;
 }
 #post_full h2 {
 font-size: 18px;
