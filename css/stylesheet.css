@@ -227,6 +227,7 @@ height: 112px;
 float: left;
 margin: 134px 15px 0 0;
 }
+
 #banner .block1 {
 background: url(/images/bg1-block.png) no-repeat left top;
 }
@@ -243,9 +244,10 @@ float: left;
 padding: 17px 15px 0 68px;
 color: #ffffff;
 font-size: 19px;
+margin: 1px;
 }
 #banner .block a:hover {
-color: #ffffff;
+color: rgba(255,255,255,0.9);
 }
 
 
@@ -511,7 +513,6 @@ color: #dddddd;
 }
 #rightstrip1 .mais {
 margin: 10px 0 15px;
-padding: 0 0 0 22px;
 display: block;
 font-size: 15px;
 font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
@@ -577,7 +578,7 @@ color: #666666;
 clear: both;
 overflow: hidden;
 border-top: 2px solid #d9dfe0;
-font-family: 'ZurichBold', Helvetica, Arial, Condensed;
+font-family: 'ZurichBold';
 }
 
 #footer .copyright {
