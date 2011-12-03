@@ -577,7 +577,18 @@ color: #666666;
 clear: both;
 overflow: hidden;
 border-top: 2px solid #d9dfe0;
-font-family: 'ZurichBold';
+font-family: 'ZurichBold', Helvetica, Arial, Condensed;
+}
+
+#footer .copyright {
+	float: left;
+	width: 390px;
+}
+
+#footer .endereco {
+	float: right;
+	text-align: right;
+	width: 390px;
 }
 
 /* Banner2 */
