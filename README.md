@@ -42,7 +42,6 @@ This is the source of EMAp website.
 
 ### Layout Stuff
 
-- no menu, nao coube a entrada para fale-conosco, comentada
 - quote na pagina porque estudar matematica ainda nao funciona
 - css facebook? comentarios facebook? Entender...
 - lista de tags pode crescer... logos como ficam na pagina de post?
@@ -55,14 +54,39 @@ This is the source of EMAp website.
   eventos
 - logos da EMAP nas entradas do facebook, twitter etc. Ficou
   cansativo. Dá para mudar o facebook? O que seria melhor?
+
 - menu de contexto para seções 
+
 - limpar arquivos desnecessarios (imagens, fontes etc)
+
 - rever urls em todo o site, http://www.w3.org/Provider/Style/URI.html
-- O laranja dos títulos.... Tem que "amansar" esse laranja pra ficar
-  menos Itaú!
+
 - mais imagens para as páginas internas. Paginas como "porque estudar
   na EMAp" precisam de imagens mais dinâmicas, animadas. A foto dos
   livros está muito ruim. Talvez usar fotos CC do Flinckr?
+
+- usar a logo invertida no twitter (branco sobre fundo azul) pra
+  reduzir um pouco mais a repetição
+
+- a pagina inicial de equipe não deveria ter um layout com banner? Não
+  é nível 1? Acho importante o padrão
+  
+- post de blog e seminario tem logo abaixo do titulo data e nome. Acho
+  que pode confundir... No caso do post, o nome é de quem postou a
+  notícia. No caso do seminário o nome é de quem irá apresentar. Veja o
+  post sobre o tutorial que será apresentado pelo Alvaro mas consta meu
+  nome como quem postou a notícia. Pode parecer que eu é que irei
+  apresentar o tutorial. Temos que pensar em apresentar de forma
+  diferente a autoria de post (que é importante ser mostrada). O mesmo
+  para a a data. A data é de postagem da notícia, não a data do
+  tutorial.
+
+- pagina fale conosco/contanto. no menu, nao coube a entrada para
+  fale-conosco, comentada
+
+- Precisamos pensar em uma nova imagem para a conta da EMAP no twitter
+  e no facebook... A home está mostrando hoje vários logos da EMAP e
+  um ovo como logo da EMAP no twitter...
   
 
 ## Wireframe

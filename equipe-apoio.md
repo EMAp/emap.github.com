@@ -1,5 +1,5 @@
 --- 
-layout: equipe_apoio 
+layout: equipe-apoio 
 title: Equipe de apoio 
 ---
 <h1 class="headline1"> {{ page.title }} </h1>		
