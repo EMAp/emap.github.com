@@ -62,11 +62,11 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #1F5F7B;
 }
 
 a:hover {
-  color: black;
+  color: #4E818E;
 }
 
 a:visited {
@@ -132,12 +132,12 @@ ul.posts span {
 }
 
 .site .title a {
-    color: #a00;
+    color: #1F5F7B;
     text-decoration: none;
 }
 
 .site .title a:hover {
-    color: black;
+    color: #4E818E;
   }
 
 .site .title a.extra {
@@ -168,7 +168,10 @@ ul.posts span {
 }
 
 .site .footer .contact a {
-    color: #8085C1;
+    color: #1F5F7B;
+	#ff5500: ;
+	cursor: pointer;
+	outline: medium none;
 }
 
 .site .footer .rss {
