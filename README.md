@@ -88,6 +88,10 @@ This is the source of EMAp website.
   e no facebook... A home está mostrando hoje vários logos da EMAP e
   um ovo como logo da EMAP no twitter...
   
+- criar conta no delicious
+
+
+  
 
 ## Wireframe
 

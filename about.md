@@ -2,6 +2,11 @@
 layout: inner
 title: Sobre a EMAp
 section: about
+boxes:
+ - porque-estudar-na-emap
+ - porque-estudar-matematica
+ - fgv
+ - localizacao
 ---
 
 A Escola de Matemática Aplicada (EMAp) da FGV, criada em 2008, tem
