@@ -1,6 +1,7 @@
 ---
 layout: inner
 title: Mestrado
+section: post-graduation
 ---
 
 ## Modelagem Matemática da Informação

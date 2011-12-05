@@ -1,6 +1,7 @@
 ---
 layout: inner
 title: Graduação
+section: graduation
 ---
 
 O curso de graduação em Matemática Aplicada da FGV foi criado a partir

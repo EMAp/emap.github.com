@@ -1,6 +1,7 @@
 ---
-layout: inner-child
+layout: inner
 title: Equipe
+section: staff
 ---
 
 ## Professores

@@ -109,7 +109,7 @@ height: 38px;
 clear: both;
 position: relative;
 z-index: 9999;
-background: url(/images/bg-menu.gif) no-repeat left top;
+background: url("/images/bg-menu.gif") no-repeat scroll left top transparent;
 }
 #menu ul {
 float: left;
@@ -120,6 +120,7 @@ font-size: 13px;
 font-family: 'ZurichBold';
 text-transform: uppercase;
 position: relative;
+	text-shadow: 1px 1px rgba(0, 0, 0, 0.6);
 }
 #menu ul li:first-child:hover a,
 #menu ul li:first-child a:hover {
@@ -386,7 +387,7 @@ padding: 0 0 25px 0;
 
 }
 .inner-child #leftstrip1 h1,
-.index_seminars #leftstrip1 h1,
+.index-seminars #leftstrip1 h1,
 .people #leftstrip1 h1,
 .disciplina #leftstrip1 h1,
 .blog #leftstrip1 h1,
@@ -594,24 +595,45 @@ font-family: 'ZurichBold';
 	width: 390px;
 }
 
-/* Banner2 */
-#banner2 {
+/* banners das secoes */
+#banner-inner {
 height: 220px;
-margin: 10px 0 0 0;
-padding: 0 0 40px 0;
-background: url(/images/bg-banner2.jpg) no-repeat left top
+margin: 10px 0 0;
+padding: 0 0 20px;
 }
-#banner2 .block-1 {
+	.about #banner-inner {
+	background: url(/images/banner-about.jpg) no-repeat left top
+	}
+	.graduation #banner-inner {
+	background: url(/images/banner-graduation.jpg) no-repeat left top
+	}
+	.post-graduation #banner-inner {
+	background: url(/images/banner-post-graduation.jpg) no-repeat left top
+	}
+	.research #banner-inner {
+	background: url(/images/banner-research.jpg) no-repeat left top
+	}
+	.seminars #banner-inner {
+	background: url(/images/banner-seminars.jpg) no-repeat left top
+	}
+	.staff #banner-inner {
+	background: url(/images/banner-staff.jpg) no-repeat left top
+	}
+#banner-inner .block-1 {
 position: relative;
 left: -20px;
 top: 120px;
 float: left;
 font-size: 36px;
-color: #e6e6e6;
+color: #ffffff;
 background: #2c496a;
-font-family: 'ZurichBold';
+font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
 padding: 30px 40px 20px 20px;
+text-shadow: -1px -1px rgba(0,0,0, 0.5);
 }
+
+
+
 
 /* Inner 2 */
 #post_full p {
@@ -737,6 +759,12 @@ p.intro {
 	padding: 0 0 25px 0;
 }
 
+.index-seminars p.intro {
+	border-bottom: solid 1px #dddddd;
+	border-top: solid 1px #dddddd;
+	padding: 25px 0 25px;
+}
+
 #rightstrip1 img.people_picture  {
 	border: solid 1px #dddddd;
 	margin: 0 0 20px 0;
@@ -759,5 +787,9 @@ div.person_info {
 }
 
 .inner #rightstrip1 {
+	margin: 0px 0 0;
+}
+
+.index-seminars #rightstrip1 {
 	margin: 0px 0 0;
 }
