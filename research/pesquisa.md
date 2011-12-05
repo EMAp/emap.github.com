@@ -75,7 +75,27 @@ desenvolver pesquisa na área de NLP com a construção de ferramentas,
 corpus e ontologias e outros recursos necessários para processamento
 de textos em português. 
 
+## Estimação Bayesiana de Parâmetros em Modelos Dinâmicos
 
+- Responsável: Flávio Codeço Coelho
+- Início: 11/2010
+- Status: em desenvolvimento
+- [website](http://code.google.com/p/bayesian-inference)
+
+Desenvolvimento de métodos matemáticos e computacionais para Estimação
+de parâmetros a partir de dados em modelos dinâmicos. Este projeto
+também envolve o desenvolvimento de uma biblioteca de software livre
+para esta finalidade. 
+
+## Supremo em Números
+
+- Responsável: Flávio Coelho e Renato Rocha Souza
+- Início: 03/2011
+- Status: em andamento
+- [website](http://www.supremoemnumeros.com.br/)
+
+Análises Linguísticas e Matemáticas da base de dados do Supremo
+Tribunal Federal.
 
 
 
