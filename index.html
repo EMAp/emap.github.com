@@ -139,9 +139,11 @@
 <script>
 new TWTR.Widget({
   version: 2,
-  type: 'profile',
-  rpp: 4,
+  type: 'list',
+  rpp: 30,
   interval: 30000,
+  title: 'EMAp no Twitter',
+  subject: '',
   width: 300,
   height: 251,
   theme: {
@@ -152,16 +154,16 @@ new TWTR.Widget({
     tweets: {
       background: '#ffffff',
       color: '#383138',
-      links: '#1F5F7B'
+      links: '#1f5f7b'
     }
   },
   features: {
-    scrollbar: false,
+    scrollbar: true,
     loop: false,
-    live: false,
+    live: true,
     behavior: 'all'
   }
-}).render().setUser('fgv_emap').start();
+}).render().setList('fgv_emap', 'friends').start();
 </script>
 
 	    </div>
