@@ -4,7 +4,7 @@
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>2011-12-05T18:17:30-02:00</updated>
+ <updated>2011-12-08T16:41:45-02:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -43,7 +43,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Tutorial do software Git para controle de versionado de arquivos</title>
+   <title>Tutorial do software Git para controle de versão de arquivos</title>
    <link href="http://arademaker.github.com/blog/2011/11/30/tutorial-git.html"/>
    <updated>2011-11-30T00:00:00-02:00</updated>
    <id>http://arademaker.github.com/blog/2011/11/30/tutorial-git</id>
