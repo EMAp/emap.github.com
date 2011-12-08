@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial do software Git para controle de versionado de arquivos
+title: Tutorial do software Git para controle de versão de arquivos
 author: Alexandre Rademaker
 tags:
  - mini-course
