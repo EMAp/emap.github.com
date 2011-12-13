@@ -91,7 +91,14 @@ This is the source of EMAp website.
 - criar conta no delicious
 
 
-  
+## Bibliografias
+ 
+- https://github.com/inukshuk/bibtex-ruby
+- http://citationstyles.org/citation-style-language/processors/
+- http://www.nongnu.org/cl-bibtex/
+- https://github.com/inukshuk/citeproc-ruby
+- http://johnmacfarlane.net/pandoc/
+
 
 ## Wireframe
 
