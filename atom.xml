@@ -4,13 +4,41 @@
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>2011-12-08T16:41:45-02:00</updated>
+ <updated>2011-12-13T21:28:47-02:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Consistency of Penalized Likelihood Estimation for Mixture-of-Experts</title>
+   <link href="http://arademaker.github.com/seminars/2011/12/15/model-selection-in-finite-mixture-of-experts.html"/>
+   <updated>2011-12-15T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/12/15/model-selection-in-finite-mixture-of-experts</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Eduardo Mendes -- Univ. of Chicago&lt;/li&gt;
+&lt;li&gt;Onde:  FGV&lt;/li&gt;
+&lt;li&gt;Quando: 15 Dec 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;We consider the estimation of the number of components on a
+mixture-of-experts (ME) model, using penalized maximum likelihood. We
+show that, under mild conditions on the mixture densities, a large
+class of penalization criteria enjoy the consistency property. This
+wide class of methods encompasses the Bayesian Information Criterion
+(BIC), which is the most frequently used method in the ME
+literature. We close the paper with a few examples of densities and
+penalty functions satisfying the assumptions.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introduction to Gaussian Process Emulators </title>
