@@ -8,7 +8,6 @@ picture: renato.souza.jpg
 
 - Cargo: Professor Adjunto 
 - Email: renato DOT souza AT fgv DOT br
-- Homepage: [http://cma.fgv.br/pessoas/renato.souza](http://cma.fgv.br/pessoas/renato.souza)
 - Lattes: [http://lattes.cnpq.br/4726949697973381](http://lattes.cnpq.br/4726949697973381)
 
 Possui graduação em Engenharia Elétrica pela Pontifícia Universidade
