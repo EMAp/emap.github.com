@@ -75,7 +75,7 @@ desenvolver pesquisa na área de NLP com a construção de ferramentas,
 corpus e ontologias e outros recursos necessários para processamento
 de textos em português. 
 
-## Estimação Bayesiana de Parâmetros em Modelos Dinâmicos
+## Estimação bayesiana de parâmetros em modelos dinâmicos
 
 - Responsável: Flávio Codeço Coelho
 - Início: 11/2010
@@ -87,9 +87,11 @@ de parâmetros a partir de dados em modelos dinâmicos. Este projeto
 também envolve o desenvolvimento de uma biblioteca de software livre
 para esta finalidade. 
 
-## Supremo em Números
+## Supremo em números
 
-- Responsável: Flávio Coelho e Renato Rocha Souza
+- Responsáveis: 
+  - Flávio Coelho
+  - Renato Rocha Souza
 - Início: 03/2011
 - Status: em andamento
 - [website](http://www.supremoemnumeros.com.br/)
@@ -97,5 +99,35 @@ para esta finalidade.
 Análises Linguísticas e Matemáticas da base de dados do Supremo
 Tribunal Federal.
 
+## Mecânica geométrica
 
+- Responsável: Jair Koiller 
+- Início: 2002 (1982 na UFRJ e LNCC)
+- Status: em andamento
+
+Utiliza-se ferramentas de geometria diferencial e geometria simplética
+no estudo de sistemas fisicos, de engenharia e biológicos. Apoio da
+rede internacional [GMC](http://www.gmcnetwork.org), envolvendo vários
+pesquisadores, jovens e em meio de carreira na comunidade matemática
+do Rio. Os contatos internacionais abrangem paises de todos os
+continentes, destacando USA, Espanha/Portugal e Russia.  Potencial
+aplicações da área também em processamento de informações em imagens
+médicas (Holm, Ratiu, Desbrun, Michor etc).
+
+## Novos métodos em epidemiologia e detecção precoce de eventos
+
+- Responsáveis: 
+  - Jair Koiller
+  - Moacyr Alvim Silva
+  - Paulo Cezar P. Carvalho
+- Início: 2008  
+- Status: em andamento
+
+Pesquisa com apoio do convênio Capes/Cofecub, 2011-2012 (coordenada
+pela EMAP) e por dois projetos Pronex-Dengue coordenados pela Fiocruz
+(e com uma extensa lista de instutuições parceiras). Utiliza-se
+sistemas de equações diferenciais ordinárias acopladas e distribuidas
+em nós de uma rede, e técnicas da teoria de controle, para estimar
+parametros e otimizar funções objetivo; no biênio 2013-2014, se
+renovado, pretende-se dar foco em técnicas de AI.
 
