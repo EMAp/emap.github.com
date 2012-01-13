@@ -131,3 +131,43 @@ em nós de uma rede, e técnicas da teoria de controle, para estimar
 parametros e otimizar funções objetivo; no biênio 2013-2014, se
 renovado, pretende-se dar foco em técnicas de AI.
 
+## Portal Semântico do CPDOC
+
+- Responsável: Renato Rocha Souza
+- Início: 12/2010
+- Status: em andamento
+
+Definição de padrões de metadados e ontologias, triplificação da base
+de dados e unificação do acesso aos acervos.
+
+## Light
+
+- Responsáveis:
+  - Flávio Coelho 
+  - Renato Rocha Souza
+- Início: 06/2011
+- Status: em andamento
+
+Análises linguísticas e matemáticas da base de dados da Light,
+visualização de dados.
+
+
+## Semantic Technologies for Archaeological Resources
+
+- Responsável: Renato Rocha Souza
+- Início: 01/2007
+- Status: em andamento
+- [Homepage](http://hypermedia.research.glam.ac.uk/people/rsouza/)
+
+Desenvolvimento de sistemas de organização do conhecimento e 
+processamento de linguagem natural.
+
+## Laboratório de Estudos Empíricos e Experimentais da Linguagem
+
+- Responsável: Renato Rocha Souza
+- Status: em andamento
+- [Homepage](http://www.letras.ufmg.br/CMS/index.asp?pasta=leel&path=inicial.asp&pagina=inicial.asp)
+  
+Pesquisa sobre a língua em uso, apoiando projetos de compilação e
+estudos de corpora e projetos experimentais sobre a linguagem.
+
