@@ -24,11 +24,11 @@ como o projeto MIST, parceria da EMAp com o CPDOC.
 
 Uma [WordNet](http://en.wikipedia.org/wiki/WordNet) é uma grande base
 de dados léxica. Nomes, verbos, adjetivos e advérbios são agrupados em
-conjuntos de sinônimos cognitivos chamados synsets, cada um destes
-conjuntos expessa um conceito distinto. Synsets são conectados por
-relações semânticas e sintáticas. A estrutura das WordNets é
-extremamente útil para processamento de textos em linguagem natural em
-etapas como, por exemplo, resolução de ambiguidades.
+conjuntos de sinônimos chamados synsets, cada um destes conjuntos
+expessa um conceito distinto. Synsets são conectados por relações
+semânticas e sintáticas. A estrutura das WordNets é extremamente útil
+para processamento de textos em linguagem natural em etapas como, por
+exemplo, resolução de ambiguidades.
 
 
 
