@@ -4,13 +4,43 @@
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>2012-01-25T15:50:17-02:00</updated>
+ <updated>2012-02-13T16:46:28-02:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Lista dos aprovados para o Mestrado da EMAp 2012</title>
+   <link href="http://arademaker.github.com/blog/2012/02/13/aprovados-mestrado.html"/>
+   <updated>2012-02-13T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/blog/2012/02/13/aprovados-mestrado</id>
+   <content type="html">&lt;p&gt;Abaixo segue a lista dos aprovados na seleção 2012 do Mestrado em
+Modelagem Matemática da Informação:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aleksandra Dominika Kwoka&lt;/li&gt;
+&lt;li&gt;Bruno Schneider&lt;/li&gt;
+&lt;li&gt;Daniel Fialho Madureira&lt;/li&gt;
+&lt;li&gt;Debora Jorge Leite&lt;/li&gt;
+&lt;li&gt;Eduardo dal Pont Bitencourt&lt;/li&gt;
+&lt;li&gt;Gabriel Leite Baptista da Silva&lt;/li&gt;
+&lt;li&gt;Israel Teixeira&lt;/li&gt;
+&lt;li&gt;Itajiba de Oliveira Bezerra&lt;/li&gt;
+&lt;li&gt;Joyce de Figueiró Santos&lt;/li&gt;
+&lt;li&gt;Luciano Pereira Varanis&lt;/li&gt;
+&lt;li&gt;Luis Gustavo Neves da Silva&lt;/li&gt;
+&lt;li&gt;Marcos Ferreira da Silva&lt;/li&gt;
+&lt;li&gt;Marlon Pirchiner Moreira&lt;/li&gt;
+&lt;li&gt;Rodolfo Henrique Carvalho&lt;/li&gt;
+&lt;li&gt;Thiago dos Santos Sousa&lt;/li&gt;
+&lt;li&gt;Yuri Jacob Lumer&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Pesquisador da EMAp participa de conferência no Japão</title>
@@ -34,11 +64,11 @@ como o projeto MIST, parceria da EMAp com o CPDOC.&lt;/p&gt;
 
 &lt;p&gt;Uma &lt;a href=&quot;http://en.wikipedia.org/wiki/WordNet&quot;&gt;WordNet&lt;/a&gt; é uma grande base
 de dados léxica. Nomes, verbos, adjetivos e advérbios são agrupados em
-conjuntos de sinônimos cognitivos chamados synsets, cada um destes
-conjuntos expessa um conceito distinto. Synsets são conectados por
-relações semânticas e sintáticas. A estrutura das WordNets é
-extremamente útil para processamento de textos em linguagem natural em
-etapas como, por exemplo, resolução de ambiguidades.&lt;/p&gt;
+conjuntos de sinônimos chamados synsets, cada um destes conjuntos
+expessa um conceito distinto. Synsets são conectados por relações
+semânticas e sintáticas. A estrutura das WordNets é extremamente útil
+para processamento de textos em linguagem natural em etapas como, por
+exemplo, resolução de ambiguidades.&lt;/p&gt;
 </content>
  </entry>
  
