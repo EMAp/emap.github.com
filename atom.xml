@@ -4,7 +4,7 @@
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>2012-02-14T18:53:36-02:00</updated>
+ <updated>2012-02-14T18:56:01-02:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Seminário Inaugural da EMAp de 2012</title>
-   <link href="http://arademaker.github.com/seminars/2012/03/08/Seminario-Inaugural-2012.html"/>
+   <link href="http://arademaker.github.com/seminars/2012/03/08/seminario-inaugural.html"/>
    <updated>2012-03-08T00:00:00-03:00</updated>
-   <id>http://arademaker.github.com/seminars/2012/03/08/Seminario-Inaugural-2012</id>
+   <id>http://arademaker.github.com/seminars/2012/03/08/seminario-inaugural</id>
    <content type="html">&lt;ul&gt;
 &lt;li&gt;Quem:  Professores da EMAp -- FGV&lt;/li&gt;
 &lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
