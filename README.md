@@ -23,8 +23,6 @@ This is the source of EMAp website.
 
 ### High Priority
 
-- mudar repo para geracao estatica localmente, para usar plugin
-  summarize
 - como fazer links nas categorias de um post para a pagina da
   categoria? 
 - como listar as categorias existentes?
@@ -42,18 +40,24 @@ This is the source of EMAp website.
 
 ### Layout Stuff
 
+- Marketing da FGV reclamou do uso da logomarca. Mudar.
+
 - quote na pagina porque estudar matematica ainda nao funciona
+
 - css facebook? comentarios facebook? Entender...
+
 - lista de tags pode crescer... logos como ficam na pagina de post?
+
 - revisar nomes de classes/ids do css. Nomes como block1 devem ser
   removidos.
+
 - nao usar mesma classe css para diferentes conteudos
+
 - na lista dos seminarios (home e interna), colocar o nome do
   palestrante e talvez filiacao
+
 - pagina que liste os eventos e/ou categoria no blog para listar os
   eventos
-- logos da EMAP nas entradas do facebook, twitter etc. Ficou
-  cansativo. Dá para mudar o facebook? O que seria melhor?
 
 - menu de contexto para seções 
 
@@ -83,6 +87,8 @@ This is the source of EMAp website.
 
 - pagina fale conosco/contanto. no menu, nao coube a entrada para
   fale-conosco, comentada
+  
+- Precisamos de um link para o Moodle da EMAp: http://emapvirtual.fgv.br/  
 
 - Precisamos pensar em uma nova imagem para a conta da EMAP no twitter
   e no facebook... A home está mostrando hoje vários logos da EMAP e
