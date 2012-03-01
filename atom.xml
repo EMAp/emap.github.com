@@ -4,7 +4,7 @@
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>2012-02-14T18:56:01-02:00</updated>
+ <updated>2012-03-01T14:50:25-03:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -35,6 +35,30 @@ na sede da EMAp.&lt;/p&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Editais de contratação de professores</title>
+   <link href="http://arademaker.github.com/blog/2012/03/01/editais-contratacao.html"/>
+   <updated>2012-03-01T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/blog/2012/03/01/editais-contratacao</id>
+   <content type="html">&lt;p&gt;A escola de Matemática Aplicada da FGV – EMAp torna público os editais
+dos processos seletivos para contratação de dois professores para as
+áreas de:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Estatística, 1 vaga, &lt;a href=&quot;/files/edital-estatistica.pdf&quot;&gt;texto completo do edital&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Matemática Aplicada, 1 vaga, &lt;a href=&quot;/files/edital-matematica-aplicada.pdf&quot;&gt;texto completo do edital&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;As vagas são para atuação nos cursos de Graduação e Pós-Graduação da
+EMAp e para desenvolver pesquisa nas áreas.&lt;/p&gt;
+
+&lt;p&gt;Os interessados deverão submeter, até o dia 31 de maio, a documentação
+requerida por correio eletrônico ao endereço emap@fgv.br. As decisões
+serão anunciadas até o dia 13 de julho de 2012.&lt;/p&gt;
 </content>
  </entry>
  
