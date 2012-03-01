@@ -17,9 +17,7 @@ Doutor em Engenharia Civil (Sistemas Computacionais) pela Coppe/UFRJ - 2004
 
 ## Áreas de Interesse
 
-- Modelagem de sistemas de inferência fuzzy
-  para classificação/regressão
-- Métodos de clusterização em geral
-- Redes complexas
-- Lógica/Ontologias/Processamento de Linguagem Natural
+- Machine Learning
+- Redes Complexas
+- Lógica "Fuzzy"
 

@@ -15,7 +15,7 @@ dos processos seletivos para contratação de dois professores para as
 - Matemática Aplicada, 1 vaga, [texto completo do edital](/files/edital-matematica-aplicada.pdf).
 
 As vagas são para atuação nos cursos de Graduação e Pós-Graduação da
-EMAp e para desenvolver pesquisa nas áreas. 
+EMAp e para desenvolver pesquisa nas áreas acima mencionadas.
 
 Os interessados deverão submeter, até o dia 31 de maio, a documentação
 requerida por correio eletrônico ao endereço emap@fgv.br. As decisões

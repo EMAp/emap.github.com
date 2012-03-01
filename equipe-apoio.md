@@ -10,7 +10,7 @@ title: Equipe de apoio
       <h2>Luciana Cunha Lauria da Silva</h2>
       <p>luciana DOT silva AT fgv DOT br</p>
       <p>Secretária Acadêmica</p>
-      <p>Tel: 3799-5927</p>
+      <p>Tel: 3799-5917</p>
     </div>
   </div>
   <div class="person">
