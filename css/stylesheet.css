@@ -343,15 +343,6 @@ line-height: 20px;
 margin-top: 20px;
 font-family: 'ZurichBold';
 }
-#rightstrip .block3 a.link1 {
-margin-right: 30px;
-background: url(/images/icon-1.gif) no-repeat left center
-}
-#rightstrip .block3 a.link2 {
-background: url(/images/icon-2.gif) no-repeat left center
-}
-#rightstrip .block3 a:hover {
-}
 
 .breadcrumbs {
 height: 38px;
