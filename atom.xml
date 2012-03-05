@@ -4,7 +4,7 @@
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>2012-03-02T14:22:20-03:00</updated>
+ <updated>2012-03-05T17:51:44-03:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -48,8 +48,10 @@ dos processos seletivos para contratação de dois professores para as
 áreas de:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Estatística, 1 vaga, &lt;a href=&quot;/files/edital-estatistica.pdf&quot;&gt;texto completo do edital&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Matemática Aplicada, 1 vaga, &lt;a href=&quot;/files/edital-matematica-aplicada.pdf&quot;&gt;texto completo do edital&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Estatística, 1 vaga, edital completo em
+&lt;a href=&quot;/files/edital-estatistica.pdf&quot;&gt;português&lt;/a&gt; e &lt;a href=&quot;/files/edital-estatistica-en.pdf&quot;&gt;inglês&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Matemática Aplicada, 1 vaga, edital completo em
+&lt;a href=&quot;/files/edital-matematica-aplicada.pdf&quot;&gt;português&lt;/a&gt; e &lt;a href=&quot;/files/edital-matematica-aplicada-en.pdf&quot;&gt;inglês&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 
