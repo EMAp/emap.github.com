@@ -11,8 +11,10 @@ A escola de Matemática Aplicada da FGV – EMAp torna público os editais
 dos processos seletivos para contratação de dois professores para as
 áreas de:
 
-- Estatística, 1 vaga, [texto completo do edital](/files/edital-estatistica.pdf).
-- Matemática Aplicada, 1 vaga, [texto completo do edital](/files/edital-matematica-aplicada.pdf).
+- Estatística, 1 vaga, edital completo em
+  [português](/files/edital-estatistica.pdf) e [inglês](/files/edital-estatistica-en.pdf).
+- Matemática Aplicada, 1 vaga, edital completo em
+  [português](/files/edital-matematica-aplicada.pdf) e [inglês](/files/edital-matematica-aplicada-en.pdf).
 
 As vagas são para atuação nos cursos de Graduação e Pós-Graduação da
 EMAp e para desenvolver pesquisa nas áreas acima mencionadas.

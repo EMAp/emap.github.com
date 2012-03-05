@@ -6,9 +6,9 @@ picture: flavio.coelho.jpg
 
 # {{ page.title }}
 
-- Cargo: Professor Adjunto
+- Cargo: Professor Associado
 - Email: fccoelho AT fgv DOT br
-- Homepage: [http://pyinsci.blogspot.com](http://pyinsci.blogspot.com)
+- Homepage: [http://fccoelho.github.com](http://fccoelho.github.com)
 - Lattes: [http://lattes.cnpq.br/0309050626285266](http://lattes.cnpq.br/0309050626285266)
 
 Possui graduação em Biologia pela Universidade Federal do Rio de
@@ -25,8 +25,12 @@ computacional de doenças infecciosas.
 
 ## Áreas de Interesse
 
-- Modelagem matemática da dinâmica complexa de populaçõe (espalhamento de epidemias, propagação de crenças  em populações, etc.)
-- Inferência Bayesiana (particulamente estimação de parâmetros em modelos matemáticos e de redes causais) 
+- Modelagem matemática da dinâmica complexa de populações:
+  espalhamento de epidemias, propagação de crenças em populações etc.
+- Inferência Bayesiana aplicada a modelos matemáticos.
+- Simulações computacionais e computação científica.
+- Mineração e visualização de dados.
+- Representação de Conhecimento.
 
 
  

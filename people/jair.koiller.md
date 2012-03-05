@@ -6,7 +6,7 @@ picture: jair.koiller.jpg
 
 # {{ page.title }}
 
-- Cargo: Professor Adjunto
+- Cargo: Professor Associado
 - Email: jair DOT koiller AT fgv DOT br
 - Lattes: [http://lattes.cnpq.br/5716929151556664](http://lattes.cnpq.br/5716929151556664)
 

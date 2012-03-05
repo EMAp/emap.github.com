@@ -6,7 +6,7 @@ picture: maria.camacho.jpg
 
 # {{ page.title }}
 
-- Cargo: Coordenadora 
+- Cargo: Diretora 
 - Email: izabel DOT camacho AT fgv DOT br
 - Lattes: [http://lattes.cnpq.br/0206961561900999](http://lattes.cnpq.br/0206961561900999)
 

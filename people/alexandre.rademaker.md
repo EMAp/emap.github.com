@@ -10,18 +10,23 @@ picture: alexandre.rademaker.jpg
 - Email: alexandre DOT rademaker AT fgv DOT br
 - Homepage: [http://arademaker.github.com](http://arademaker.github.com)
 - Lattes: [http://lattes.cnpq.br/0675365413696898](http://lattes.cnpq.br/0675365413696898)
-
-Bachelor's at Computer Science from Universidade Federal do Rio de
-Janeiro (2001), master's at Computer Science from Universidade Federal
-Fluminense (2005) and doctorate at Computer Science from Pontifícia
-Universidade Católica do Rio de Janeiro (2010). Has experience in
-Computer Science, focusing on Computability and Computational Models,
-acting on the following subjects: description logic, proof theory,
-ontology, functional programming and category theory.
+  
+Bacharel em Ciência da Computação pela UFRJ (2001). Mestre em Ciência
+da Computação pela UFF (2005) e Doutor pela PUC-Rio (2010). Minha
+especialização no mestrado e doutorado foram em Teoria da
+Computação. Minhas áreas de pesquisa abrangem: lógica, teoria da
+computação, métodos formais e representação do conhecimento. Tenho
+trabalhos e interesse em: teoria das categorias, lógica descritiva,
+teoria da prova, teoria dos modelos etc. Em 2008 fiz estágio de
+pesquisa na Microsooft Research e em 2009 no SRI International.
 
 ## Áreas de Interesse
 
-- Lógica
-- Web Semântica
-- Linguagens de Programação
+- Lógicas: teoria da prova, teoria dos modelos etc.
+- Web Semântica: lógica descritiva, ontologias etc.
+- Linguagens de Programação.
+- Teoria das Categorias.
+
+
+
 
