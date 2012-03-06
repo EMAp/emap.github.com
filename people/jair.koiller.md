@@ -34,10 +34,12 @@ Sistemas Dinâmicos.
 
 ## Áreas de Interesse
 
-- Ciências Exatas e da Terra / Área: Matemática / Subárea: Geometria e Topologia / Especialidades: Sistemas Dinâmicos, Geometria Diferencial, Física Matemática
-- Biologia e Fisiologia dos Microorganismos
-- Dinâmica dos Corpos Rígidos, Elásticos e Plásticos 
-- Teoria Geral da Informação
+Utilizo técnicas de sistemas dinâmicos e de geometria diferencial
+para: 
 
- 
+- Modelagem Físico-Biológica
+- Mecânica Geométrica
+
+Estou interessado em estudar alguns temas relacionados com fundamentos
+da teoria da informação, como por exemplo "information geometry".
 
