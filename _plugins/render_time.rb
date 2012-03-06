@@ -1,13 +1,13 @@
 module Jekyll
   class RenderTimeTag < Liquid::Tag
 
-    def initialize(tag_name, bibfile, tokens)
+    def initialize(tag_name, text, tokens)
       super
-      @bibfile = bibfile
+      @text = text
     end
 
     def render(context)
-      "#{@bibfile} #{Time.now}"
+      "#{@text}#{Time.now}"
     end
   end
 end
