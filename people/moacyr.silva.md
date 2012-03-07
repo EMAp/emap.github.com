@@ -10,19 +10,18 @@ picture: moacyr.silva.jpg
 - Email: moacyr DOT silva AT fgv DOT br
 - Lattes: [http://lattes.cnpq.br/9077049649454688](http://lattes.cnpq.br/9077049649454688)
 
-Possui mestrado em Matemática (1998) e doutorado em
+Possui graduação em informática (1991) e em matemática (1996) pela
+UERJ, mestrado em Matemática (1998) e doutorado em
 Matemática/Computação Gráfica (2004) pela Associação Instituto
 Nacional de Matemática Pura e Aplicada – IMPA. Tem atuado em pesquisa
-na área de visão computacional, principalmente sobre os temas: eixo
-medial, esqueletos, fast marching, equações de monge-ampere. Suas
-áreas de interesse incluem também teoria dos jogos e modelos baseados
-em agentes.
+na área de geometria diferencial discreta e sua relação com equações
+diferenciais parciais. Suas áreas de interesse incluem também modelos
+matemáticos em epidemiologia, teoria dos jogos e modelos baseados em
+agentes.
 
 ## Áreas de Interesse
 
-- Visão computacional
-- Geometria discreta
-- Equações diferenciais parciais
-
- 
+- Geometria discreta e equações diferenciais parciais
+- Modelos matemáticos em epidemiologia
+- Teoria dos jogos e modelos baseados em agentes
 

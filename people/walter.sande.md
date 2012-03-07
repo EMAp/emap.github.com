@@ -6,7 +6,7 @@ picture: walter.sande.jpg
 
 # {{ page.title }}
 
-- Cargo: Professor Adjunto 
+- Cargo: Professor Assistente 
 - Email: walter DOT sande AT fgv DOT br
 - Lattes: [http://lattes.cnpq.br/0289400810360557](http://lattes.cnpq.br/0289400810360557)
 
