@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "Very Important Faces: yet another Character Annotation Tool "
-tag: seminars
 quem: Asla Medeiros e Sá, Cristina Nader Vasconcelos, Martina Spohr Goncalves and Paulo Cezar Carvalho 
 ---
 

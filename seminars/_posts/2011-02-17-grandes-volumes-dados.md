@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "EOSMedia - Ambiente para Armazenamento, Recuperação, Interpretação e Análise de Grandes Volumes de Dados Multimídia"
-tag: seminars
 quem: Anselmo Paiva 
 ---
 

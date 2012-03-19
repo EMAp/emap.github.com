@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: Consistency of Penalized Likelihood Estimation for Mixture-of-Experts
-tag: seminars
 quem: Eduardo Mendes -- Univ. of Chicago
 onde: FGV 
 ---

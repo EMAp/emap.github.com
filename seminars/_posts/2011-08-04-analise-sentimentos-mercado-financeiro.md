@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "Análise de Sentimentos e Mercado Financeiro"
-tag: seminars
 quem: André Coutinho  
 ---
 

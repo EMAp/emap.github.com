@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "Projetos e Pesquisa na EMAp FGV"
-tag: seminars
 quem: Renato Rocha Souza e Flávio Codeço Coelho  
 ---
 

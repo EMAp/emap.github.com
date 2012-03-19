@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: Sistema de simulação de processos IPSEpro e o grupo de pesquisa e estudos em sistemas de apoio à decisão EWG-DSS/EURO
-tag: seminars
 quem: Fátima C. C. Dargam 
 ---
 

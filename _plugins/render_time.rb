@@ -13,3 +13,4 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('render_time', Jekyll::RenderTimeTag)
+

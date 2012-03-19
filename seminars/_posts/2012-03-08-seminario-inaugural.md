@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "Seminário Inaugural da EMAp de 2012"
-tag: seminars
 quem: Professores da EMAp -- FGV
 onde: FGV -- Praia de Botafogo, 190, sala 317
 ---

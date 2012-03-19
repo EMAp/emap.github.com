@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "Localizing Math"
-tag: seminars
 quem: Isabel Cafezeiro and Ivan da Costa Marques
 onde: FGV (sala 1014)
 ---

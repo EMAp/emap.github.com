@@ -1,0 +1,79 @@
+#+TAGS: FELIPE ASLA ALEX
+
+* Pendencias
+
+** TODO [#A] links nas categorias dos post para a pagina da categoria 		    :ALEX:
+** TODO [#A] Como listar as categorias existentes				    :ALEX:
+** TODO [#A] Como listar arquivo do blog por ano/mes				    :ALEX:
+** TODO [#B] evitar geracao de page2, page3 no raiz				    :ALEX:
+** TODO [#B] search: http://www.google.com/cse/					    :ALEX:
+** TODO [#C] lista de livros das ementas 					    :ALEX:
+** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina		    :ALEX:
+** TODO [#B] histórico de navegação nas páginas internas, breadcrumb		    :ALEX:
+** TODO [#B] links dos rss dos seminarios e blogs				    :ALEX:
+** TODO [#B] Quote na pagina porque estudar matematica ainda nao funciona	  :FELIPE:
+** TODO [#B] Facebook widget para like pagina EMAp no Facebook na Home		  :FELIPE:
+** TODO [#B] Facebook share de posts do blog e seminarios		     :FELIPE:ALEX:
+** TODO [#B] metas das paginas title, descrition, date			     :FELIPE:ALEX:
+** TODO [#B] Nas lista dos seminarios, nome do palestrante e filiação		  :FELIPE:
+** TODO [#B] Colocar link para lista de divulgação dos seminários		    :ASLA:
+** TODO [#B] Tirar equipe-apoio do menu						    :ALEX:
+** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
+   
+* Outras
+
+- Precisamos pensar em uma nova imagem para a conta da EMAP no twitter
+  e no facebook... A home está mostrando hoje vários logos da EMAP e
+  um ovo como logo da EMAP no twitter...
+  
+- lista de tags pode crescer... logos como ficam na pagina de post?
+
+- revisar nomes de classes/ids do css. Nomes como block1 devem ser
+  removidos.
+
+- nao usar mesma classe css para diferentes conteudos
+
+- pagina que liste os eventos e/ou categoria no blog para listar os
+  eventos
+  
+- menu de contexto para seções 
+
+- limpar arquivos desnecessarios (imagens, fontes etc)
+
+- rever urls em todo o site, http://www.w3.org/Provider/Style/URI.html
+
+- mais imagens para as páginas internas. Paginas como "porque estudar
+  na EMAp" precisam de imagens mais dinâmicas, animadas. A foto dos
+  livros está muito ruim. Talvez usar fotos CC do Flinckr?
+
+- usar a logo invertida no twitter (branco sobre fundo azul) pra
+  reduzir um pouco mais a repetição
+
+- a pagina inicial de equipe não deveria ter um layout com banner? Não
+  é nível 1? Acho importante o padrão
+  
+- post de blog e seminario tem logo abaixo do titulo data e nome. Acho
+  que pode confundir... No caso do post, o nome é de quem postou a
+  notícia. No caso do seminário o nome é de quem irá apresentar. Veja o
+  post sobre o tutorial que será apresentado pelo Alvaro mas consta meu
+  nome como quem postou a notícia. Pode parecer que eu é que irei
+  apresentar o tutorial. Temos que pensar em apresentar de forma
+  diferente a autoria de post (que é importante ser mostrada). O mesmo
+  para a a data. A data é de postagem da notícia, não a data do
+  tutorial.
+
+- pagina fale conosco/contanto. no menu, nao coube a entrada para
+  fale-conosco, comentada
+  
+
+
+- criar conta no delicious
+
+
+* Bibliografias
+ - https://github.com/inukshuk/bibtex-ruby
+ - http://citationstyles.org/citation-style-language/processors/
+ - http://www.nongnu.org/cl-bibtex/
+ - https://github.com/inukshuk/citeproc-ruby
+ - http://johnmacfarlane.net/pandoc/
+

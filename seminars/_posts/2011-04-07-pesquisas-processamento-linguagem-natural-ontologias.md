@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "Pesquisas em Processamento de Linguagem Natural e Ontologias"
-tag: seminars
 quem: Renato Rocha Souza  
 ---
 

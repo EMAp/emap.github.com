@@ -1,7 +1,6 @@
 ---
 layout: seminar
 title: "Introduction to Gaussian Process Emulators "
-tag: seminars
 quem: Leonardo Bastos 
 onde: FGV 
 ---
