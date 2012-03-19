@@ -19,23 +19,13 @@
 ** TODO [#B] Tirar equipe-apoio do menu						    :ALEX:
 ** TODO [#C] evitar geracao de page2, page3 no raiz				    :ALEX:
 ** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
+** TODO [#B] Link para FGV e ouvidoria acadêmica da FGV (email 19/03/2012)   :FELIPE:ASLA:
    
 * Outras
 
-- Precisamos pensar em uma nova imagem para a conta da EMAP no twitter
-  e no facebook... A home está mostrando hoje vários logos da EMAP e
-  um ovo como logo da EMAP no twitter...
-  
-- lista de tags pode crescer... logos como ficam na pagina de post?
-
 - revisar nomes de classes/ids do css. Nomes como block1 devem ser
-  removidos.
+  removidos. Nao usar mesma classe css para diferentes conteudos
 
-- nao usar mesma classe css para diferentes conteudos
-
-- pagina que liste os eventos e/ou categoria no blog para listar os
-  eventos
-  
 - menu de contexto para seções 
 
 - limpar arquivos desnecessarios (imagens, fontes etc)
@@ -46,12 +36,6 @@
   na EMAp" precisam de imagens mais dinâmicas, animadas. A foto dos
   livros está muito ruim. Talvez usar fotos CC do Flinckr?
 
-- usar a logo invertida no twitter (branco sobre fundo azul) pra
-  reduzir um pouco mais a repetição
-
-- a pagina inicial de equipe não deveria ter um layout com banner? Não
-  é nível 1? Acho importante o padrão
-  
 - post de blog e seminario tem logo abaixo do titulo data e nome. Acho
   que pode confundir... No caso do post, o nome é de quem postou a
   notícia. No caso do seminário o nome é de quem irá apresentar. Veja o
@@ -65,15 +49,14 @@
 - pagina fale conosco/contanto. no menu, nao coube a entrada para
   fale-conosco, comentada
   
-
-
 - criar conta no delicious
 
-
 * Bibliografias
+
  - https://github.com/inukshuk/bibtex-ruby
  - http://citationstyles.org/citation-style-language/processors/
  - http://www.nongnu.org/cl-bibtex/
  - https://github.com/inukshuk/citeproc-ruby
  - http://johnmacfarlane.net/pandoc/
-
+ - http://brizzled.clapper.org/blog/2010/12/20/some-jekyll-hacks/
+ - http://www.marran.com/tech/
