@@ -2,12 +2,11 @@
 
 * Pendencias
 
-** TODO [#A] links nas categorias dos post para a pagina da categoria 		    :ALEX:
-** TODO [#A] Como listar as categorias existentes				    :ALEX:
+** DONE [#A] links nas categorias dos post para a pagina da categoria		    :ALEX:
+** DONE [#A] Como listar as categorias existentes				    :ALEX:
 ** TODO [#A] Como listar arquivo do blog por ano/mes				    :ALEX:
-** TODO [#B] evitar geracao de page2, page3 no raiz				    :ALEX:
-** TODO [#B] search: http://www.google.com/cse/					    :ALEX:
-** TODO [#C] lista de livros das ementas 					    :ALEX:
+** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
+** TODO [#B] lista de livros das ementas					    :ALEX:
 ** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina		    :ALEX:
 ** TODO [#B] histórico de navegação nas páginas internas, breadcrumb		    :ALEX:
 ** TODO [#B] links dos rss dos seminarios e blogs				    :ALEX:
@@ -18,6 +17,7 @@
 ** TODO [#B] Nas lista dos seminarios, nome do palestrante e filiação		  :FELIPE:
 ** TODO [#B] Colocar link para lista de divulgação dos seminários		    :ASLA:
 ** TODO [#B] Tirar equipe-apoio do menu						    :ALEX:
+** TODO [#C] evitar geracao de page2, page3 no raiz				    :ALEX:
 ** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
    
 * Outras
