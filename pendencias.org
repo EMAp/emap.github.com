@@ -2,9 +2,8 @@
 
 * Pendencias
 
-** DONE [#A] links nas categorias dos post para a pagina da categoria		    :ALEX:
-** DONE [#A] Como listar as categorias existentes				    :ALEX:
 ** TODO [#A] Como listar arquivo do blog por ano/mes				    :ALEX:
+** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
 ** TODO [#B] lista de livros das ementas					    :ALEX:
 ** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina		    :ALEX:
@@ -19,7 +18,9 @@
 ** TODO [#B] Tirar equipe-apoio do menu						    :ALEX:
 ** TODO [#C] evitar geracao de page2, page3 no raiz				    :ALEX:
 ** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
-** TODO [#B] Link para FGV e ouvidoria acadêmica da FGV (email 19/03/2012)   :FELIPE:ASLA:
+** DONE [#A] Como listar as categorias existentes				    :ALEX:
+** DONE [#A] links nas categorias dos post para a pagina da categoria		    :ALEX:
+** DONE [#B] Link para FGV e ouvidoria acadêmica da FGV (email 19/03/2012)	    :ALEX:
    
 * Outras
 

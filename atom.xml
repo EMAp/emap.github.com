@@ -1,27 +1,1173 @@
----
-layout: nil
----
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <updated>2012-03-21T23:25:17-03:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://arademaker.github.com{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://arademaker.github.com{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Seminário Inaugural da EMAp de 2012</title>
+   <link href="http://arademaker.github.com/seminars/2012/03/08/seminario-inaugural.html"/>
+   <updated>2012-03-08T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2012/03/08/seminario-inaugural</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Professores da EMAp -- FGV&lt;/li&gt;
+&lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
+&lt;li&gt;Quando: 08 Mar 2012 às 16:00&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Neste seminário será dada as boas vindas aos alunos de graduação e
+Mestrado de 2012, seguido de uma apresentação da Escola. Os
+professores também apresentarão individualmente suas linhas de
+pesquisas, oportunidades de estágio e propostas de tese de
+mestrado. Após o seminário haverá uma pequena recepção para os alunos
+na sede da EMAp.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>Editais de contratação de professores</title>
+   <link href="http://arademaker.github.com/blog/2012/03/01/editais-contratacao.html"/>
+   <updated>2012-03-01T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/blog/2012/03/01/editais-contratacao</id>
+   <content type="html">&lt;p&gt;A escola de Matemática Aplicada da FGV – EMAp torna público os editais
+dos processos seletivos para contratação de dois professores para as
+áreas de:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Estatística, 1 vaga, edital completo em
+&lt;a href=&quot;/files/edital-estatistica.pdf&quot;&gt;português&lt;/a&gt; e &lt;a href=&quot;/files/edital-estatistica-en.pdf&quot;&gt;inglês&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Matemática Aplicada, 1 vaga, edital completo em
+&lt;a href=&quot;/files/edital-matematica-aplicada.pdf&quot;&gt;português&lt;/a&gt; e &lt;a href=&quot;/files/edital-matematica-aplicada-en.pdf&quot;&gt;inglês&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;As vagas são para atuação nos cursos de Graduação e Pós-Graduação da
+EMAp e para desenvolver pesquisa nas áreas acima mencionadas.&lt;/p&gt;
+
+&lt;p&gt;Os interessados deverão submeter, até o dia 31 de maio, a documentação
+requerida por correio eletrônico ao endereço emap@fgv.br. As decisões
+serão anunciadas até o dia 13 de julho de 2012.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lista dos aprovados para o Mestrado da EMAp 2012</title>
+   <link href="http://arademaker.github.com/blog/2012/02/13/aprovados-mestrado.html"/>
+   <updated>2012-02-13T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/blog/2012/02/13/aprovados-mestrado</id>
+   <content type="html">&lt;p&gt;Abaixo segue a lista dos aprovados na seleção 2012 do Mestrado em
+Modelagem Matemática da Informação:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aleksandra Dominika Kwoka&lt;/li&gt;
+&lt;li&gt;Bruno Schneider&lt;/li&gt;
+&lt;li&gt;Daniel Fialho Madureira&lt;/li&gt;
+&lt;li&gt;Debora Jorge Leite&lt;/li&gt;
+&lt;li&gt;Eduardo dal Pont Bitencourt&lt;/li&gt;
+&lt;li&gt;Gabriel Leite Baptista da Silva&lt;/li&gt;
+&lt;li&gt;Israel Teixeira&lt;/li&gt;
+&lt;li&gt;Itajiba de Oliveira Bezerra&lt;/li&gt;
+&lt;li&gt;Joyce de Figueiró Santos&lt;/li&gt;
+&lt;li&gt;Luciano Pereira Varanis&lt;/li&gt;
+&lt;li&gt;Luis Gustavo Neves da Silva&lt;/li&gt;
+&lt;li&gt;Marcos Ferreira da Silva&lt;/li&gt;
+&lt;li&gt;Marlon Pirchiner Moreira&lt;/li&gt;
+&lt;li&gt;Rodolfo Henrique Carvalho&lt;/li&gt;
+&lt;li&gt;Thiago dos Santos Sousa&lt;/li&gt;
+&lt;li&gt;Yuri Jacob Lumer&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pesquisador da EMAp participa de conferência no Japão</title>
+   <link href="http://arademaker.github.com/blog/2012/01/24/participacao-gwc-2012.html"/>
+   <updated>2012-01-24T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/blog/2012/01/24/participacao-gwc-2012</id>
+   <content type="html">&lt;p&gt;O professor &lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt;
+apresentou no
+&lt;a href=&quot;http://www.globalwordnet.org/&quot;&gt;Global Wordnet Conference&lt;/a&gt;, que
+ocorreu em Janeiro de 2012 em Matsue, no Japão, o artigo &quot;Revisiting a
+Brazilian WordNet&quot;. O artigo reporta o andamento do projeto de
+construção da primeira versão aberta e de grande escada de uma Wordnet
+brasileira.&lt;/p&gt;
+
+&lt;p&gt;O projeto TIL (Textual Inference Logics), patrociado pela FGV, tem
+como objetivo maior o desenvolvimento de recursos léxicos para o
+processamento de textos em linguagem natural, especialmente textos em
+português. O processamento de textos em linguagem natural é uma linha
+de pesquisa da EMAp com diversas aplicações em outros projetos da FGV,
+como o projeto MIST, parceria da EMAp com o CPDOC.&lt;/p&gt;
+
+&lt;p&gt;Uma &lt;a href=&quot;http://en.wikipedia.org/wiki/WordNet&quot;&gt;WordNet&lt;/a&gt; é uma grande base
+de dados léxica. Nomes, verbos, adjetivos e advérbios são agrupados em
+conjuntos de sinônimos chamados synsets, cada um destes conjuntos
+expessa um conceito distinto. Synsets são conectados por relações
+semânticas e sintáticas. A estrutura das WordNets é extremamente útil
+para processamento de textos em linguagem natural em etapas como, por
+exemplo, resolução de ambiguidades.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Consistency of Penalized Likelihood Estimation for Mixture-of-Experts</title>
+   <link href="http://arademaker.github.com/seminars/2011/12/15/model-selection-in-finite-mixture-of-experts.html"/>
+   <updated>2011-12-15T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/12/15/model-selection-in-finite-mixture-of-experts</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Eduardo Mendes -- Univ. of Chicago&lt;/li&gt;
+&lt;li&gt;Onde:  FGV&lt;/li&gt;
+&lt;li&gt;Quando: 15 Dec 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;We consider the estimation of the number of components on a
+mixture-of-experts (ME) model, using penalized maximum likelihood. We
+show that, under mild conditions on the mixture densities, a large
+class of penalization criteria enjoy the consistency property. This
+wide class of methods encompasses the Bayesian Information Criterion
+(BIC), which is the most frequently used method in the ME
+literature. We close the paper with a few examples of densities and
+penalty functions satisfying the assumptions.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction to Gaussian Process Emulators </title>
+   <link href="http://arademaker.github.com/seminars/2011/12/01/introduction-gaussian-process-emulators.html"/>
+   <updated>2011-12-01T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/12/01/introduction-gaussian-process-emulators</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Leonardo Bastos&lt;/li&gt;
+&lt;li&gt;Onde:  FGV&lt;/li&gt;
+&lt;li&gt;Quando: 01 Dec 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Simulators, also known as computer models, are mathematical
+representations of a real system implemented in a computer. Simulators
+are often su ciently complex that they take appreciable amounts of
+computer time or other resources to run. In this context, a
+methodology has been developed based on building a statistical
+representation of the simulator, known as an emulator. The principal
+approach to building emulators uses Gaussian processes. I am going to
+present a Gaussian process emulator as surrogate for the
+simulator. Also extensions will be presented and illustrated in some
+toy examples.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Folha Dirigida menciona EMAp em especial sobre as novas aplicações da matemática</title>
+   <link href="http://arademaker.github.com/blog/2011/12/01/folha-dirigida-menciona-emap.html"/>
+   <updated>2011-12-01T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/blog/2011/12/01/folha-dirigida-menciona-emap</id>
+   <content type="html">&lt;p&gt;Se antes a Matemática era vista como carreira profissional para se dar
+aulas, hoje em dia é uma disputada expertise no mercado de trabalho
+fora delas. É o que diz a matéria “Matemática: muito além das salas de
+aula”, que saiu no caderno Educação da Folha Dirigida carioca.&lt;/p&gt;
+
+&lt;p&gt;A matéria afirma que a Matemática é de suma importância em uma
+sociedade movida pelas inovações tecnológicas, opinião corroborada
+pelo coordenador do curso de Matemática Aplicada da Fundação, Paulo
+Cézar Carvalho. “O curso da FGV atende a um anseio do mercado, que
+está mudando sua visão sobre inovação e tecnologia. As inovações hoje
+em dia têm forte base matemática e as empresas brasileiras já sabem
+que possuem essa necessidade de inovação. Por isso é preciso cada vez
+mais profissionais com esse conhecimento”, disse Paulo Cézar à Folha
+Dirigida.&lt;/p&gt;
+
+&lt;p&gt;Além da Matemática, os alunos da EMAp também terão uma forte base de
+computação, que os habilitará a aplicar seus conhecimentos na
+resolução de problemas do mundo real. Na matéria, Paulo Cézar cita o
+caso de empresas como o Google. “Essas companhias não são atendidas
+simplesmente por processamento de dados; são precisos modelos
+matemáticos para realizar tais operações”, revela o professor. Outra
+aplicação interessante da matemática é a que está sendo realizada pelo
+também professor da EMAp Moacyr Alvim, em parceria com a Fiocruz de
+Belo Horizonte. Moacyr participa da pesquisa sobre a utilização da
+bactéria Wolbachia para impedir que o mosquito Aedes Aegypt transmita
+dengue aos humanos.&lt;/p&gt;
+
+&lt;p&gt;O credenciamento da escola e a autorização do curso foram concedidos
+pelo MEC em julho. A graduação da Escola de Matemática Aplicada (EMAp)
+terá sua primeira turma já no primeiro semestre de 2012.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tutorial do software Git para controle de versão de arquivos</title>
+   <link href="http://arademaker.github.com/blog/2011/11/30/tutorial-git.html"/>
+   <updated>2011-11-30T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/blog/2011/11/30/tutorial-git</id>
+   <content type="html">&lt;p&gt;No dia 08 de dezembro de 2011, Álvaro Justen irá ministrar um
+mini-curso com a finalidade de familiarização com os conceitos de
+versionamento de código, técnicas utilizadas e na apresentação do
+software livre &lt;a href=&quot;http://git-scm.com/&quot;&gt;Git&lt;/a&gt;. Git é um conjunto de
+ferramentas para controle de versão de software, possui arquitetura
+distribuída, foi criado por Linus Torvalds, é o mais rápido das
+soluções existentes e atualmente é utilizado em diversos projetos,
+como por exemplo: Linux, Gnome, X.Org, Debian, Perl e Qt.  Além dos
+conceitos básicos sobre Git, também serão propostos exercícios de
+fixação para que os alunos resolvam durante o mini-curso, serão
+apresentados exemplos de uso de Git tanto em desenvolvimento de
+software quanto como ferramenta de controle de revisão de artigos e
+outros arquivos e será apresentada a infraestrutura de repositórios
+Git disponível na EMap.&lt;/p&gt;
+
+&lt;p&gt;O mini-curso será na sala 317 das 13h as 16h.&lt;/p&gt;
+
+&lt;h2&gt;Shortbio&lt;/h2&gt;
+
+&lt;p&gt;Álvaro Justen é usuário e ativista de software livre há mais de 8
+anos; colaborador de vários projetos de software livre; Pythonista de
+carteirinha; disseminador do Arduino e entusiasta de metodologias
+ágeis. Atualmente trabalha desenvolvendo software livre na Escola de
+Matemática Aplicada da Fundação Getúlio Vargas e eventualmente
+ministra cursos sobre Arduino.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Inauguração do curso de graduação da EMAp</title>
+   <link href="http://arademaker.github.com/blog/2011/11/28/inauguracao-graduacao.html"/>
+   <updated>2011-11-28T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/blog/2011/11/28/inauguracao-graduacao</id>
+   <content type="html">&lt;p&gt;A Escola de Matemática Aplicada da Fundação Getulio Vargas tem o prazer de convidar para o painel &amp;#8220;Por que estudar Matemática Aplicada?&amp;#8221;, a realizar-se no dia 5 de dezembro de 2011, às 18:30 horas, no auditório do edifício sede da &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;, localizado à Praia de Botafogo, 190, marcando a inauguração do curso de Graduação da EMAp. O evento será seguido de uma homenagem ao Professor Augusto César Morgado e de um coquetel de boas-vindas aos futuros alunos.&lt;/p&gt;
+&lt;h2&gt;Programação&lt;/h2&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt; 18:30 &lt;/td&gt;
+		&lt;td&gt; Painel: Porque estudar Matemática aplicada?&lt;br /&gt;
+Yuan Jinyun &amp;#8211; professor da &lt;span class=&quot;caps&quot;&gt;UFPR&lt;/span&gt; e diretor do Instituto de Matemática Industrial.&lt;br /&gt;
+Paulo Cezar Carvalho &amp;#8211; coordenador do curso de graduação da EMAp &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;. &lt;br /&gt;
+Luciano Monteiro de Castro &amp;#8211; professor e sócio-fundador&lt;br /&gt;
+do Colégio Elite &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; 19:30 &lt;/td&gt;
+		&lt;td&gt; Homenagem ao Professor Augusto César Morgado. &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; 20:00 &lt;/td&gt;
+		&lt;td&gt; Coquetel de boas-vindas aos futuros alunos. &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Localizing Math</title>
+   <link href="http://arademaker.github.com/seminars/2011/11/24/localizing-math.html"/>
+   <updated>2011-11-24T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/11/24/localizing-math</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Isabel Cafezeiro and Ivan da Costa Marques&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 1014)&lt;/li&gt;
+&lt;li&gt;Quando: 24 Nov 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;O seminário foi uma palestra do workshop
+&lt;a href=&quot;/events/nlp-2011/&quot;&gt;Logics and Ontologies for Portuguese&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We start from the analysis of Turing's work in On computable numbers,
+with an application to the Entscheidungsproblem raising evidences
+about how he proceeded to build the definition of
+computability. Taking advantage of his stepwise construction that
+starts from the materialities to achieve a satisfactory level of
+abstraction, we show how his way of doing mathematic fits an approach
+of knowledge construction where there is not definite separation
+between materia and form, and thus, the world and the language are not
+closed spheres. In the same line of reasoning, the abstract and the
+concrete, the deduction and the induction, the technical and the
+social, the objective and the subjective are unthinkable as pure
+entities. Considering controversies and discussions from the
+mid-nineteenth century to nowadays, we verify a social component that
+permanently takes part in what is usually considered &quot;technical
+content&quot; or “objectivity” undermining, thus, the axis of authority of
+mathematics, logic and computing. Under this view new possibilities
+for knowledge construction are acknowledged, allowing maths that are
+done and lived outside the major centers.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EMAp promove o workshop Logics and Ontologies for Portuguese</title>
+   <link href="http://arademaker.github.com/blog/2011/11/22/logics-and-ontologies-for-portuguese.html"/>
+   <updated>2011-11-22T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/blog/2011/11/22/logics-and-ontologies-for-portuguese</id>
+   <content type="html">&lt;p&gt;Acontece até sexta-feira o encontro Logics and Ontologies for
+Portuguese, organizado pelo professor da EMAp Alexandre Rademaker e
+por Valéria de Paiva, da Rearden Commerce. O evento apresenta o
+projeto Textual Inference Logic (TIL), financiado pela FGV e
+coordenado por Alexandre e Valéria.&lt;/p&gt;
+
+&lt;p&gt;O projeto TIL tem por objetivo usar ferramentas lógicas formais para
+representar conhecimento obtido de textos em português. O encontro
+pretende estimular a colaboração entre diferentes grupos e
+pesquisadores que trabalham em problemas similares e que buscam
+desenvolver os recursos básicos necessários para o processamento de
+texto em português aproveitando os resultados obtidos através de
+pesquisas no processamento da linguagem natural em outras línguas.&lt;/p&gt;
+
+&lt;p&gt;Para mais informações, acesse o
+&lt;a href=&quot;http://emap.github.com/events/nlp-2011/&quot;&gt;site&lt;/a&gt; onde é possível fazer
+a inscrição gratuita para participação no evento.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Um modelo matemático para a disseminação da Wolbachia em mosquitos</title>
+   <link href="http://arademaker.github.com/seminars/2011/11/10/modelo-matematico-wolbachia.html"/>
+   <updated>2011-11-10T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/11/10/modelo-matematico-wolbachia</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Moacyr Alvim Horta Barbosa da Silva&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 10 Nov 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;A introdução da bactéria Wolbachia na população de mosquitos Aedes
+aegypti tem sido proposta como uma estratégia muito promissora para
+enfrentar o problema da dengue. O &lt;a href=&quot;http://www.eliminatedengue.com&quot;&gt;projeto Eliminate
+Dengue&lt;/a&gt; já está realizando experimentos de
+campo na Austrália e também estão planejadas intervenções na
+Indonésia. Modelos matemáticos para a dinâmica do mosquito e da
+bactéria são ferramentas essenciais para o planejamento de tais
+intervenções. Mostraremos um modelo matemático simples de dinâmica de
+populações e propagação de doenças e como este modelo pode auxiliar no
+planejamento das intervenções.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quem será o próximo campeão brasileiro? Modelos matemáticos para previsão em esportes</title>
+   <link href="http://arademaker.github.com/seminars/2011/11/03/quem-sera-proximo-campeao-brasileiro.html"/>
+   <updated>2011-11-03T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/11/03/quem-sera-proximo-campeao-brasileiro</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Paulo Cezar Pinto Carvalho&lt;/li&gt;
+&lt;li&gt;Onde:  FGV&lt;/li&gt;
+&lt;li&gt;Quando: 03 Nov 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Todos os anos, ao se aproximar o final do Campeonato Brasileiro de
+Futebol, são publicadas na midia várias projeções de resultados,
+incluindo probabilidades de as diversas equipes alcançarem o título ou
+classificação para a Taça Libertadores ou de serem rebaixadas. Nesta
+palestra, é discutido um possível processo para a elaboração de tai
+projeções.  O desempenho de cada equipe é descrito por quatro
+parâmetros de desempenho, que medem sua eficiência de ataque e defesa,
+dentro e fora de casa, e que compõem os parâmetros das distribuições
+de Poisson usadas para modelar o número de gols marcados por cada
+equipe em cada jogo.  Os parâmetros de desempenho são estimados por
+máxima verossimilhança e são usados em uma simulação de Monte Carlo
+dos jogos ainda a serem disputados. As frequências observadas nessa
+simulação fornecem as probabilidades desejadas.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://simulfutebol.appspot.com&quot;&gt;Link da aplicação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/files/2011-11-03-slides.pdf&quot;&gt;slides em PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/files/2011-11-03-slides.ppt&quot;&gt;slides em PPT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Short Bios&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo&lt;/a&gt; é o coordenador da graduação em
+Matemática Aplicada, visite a página dele neste site.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Projetos de Inovação em Automação, Energia Solar, RFID, e Data Science</title>
+   <link href="http://arademaker.github.com/seminars/2011/10/27/projetos-inovacao-energia-data-science.html"/>
+   <updated>2011-10-27T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/10/27/projetos-inovacao-energia-data-science</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Dan Reznik&lt;/li&gt;
+&lt;li&gt;Onde: FGV&lt;/li&gt;
+&lt;li&gt;Quando: 27 Oct 2011&lt;/li&gt;
+&lt;li&gt;Hosted by: Jair Koiler&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Em 2001 obtive um doutorado em Robótica na UC-Berkeley aonde
+desenvolvi um manipulador multi-objetos baseado numa mesa horizontal
+vibratória. Descobrimos movimentos rígidos do plano que criam um campo
+de forças local e direcionado, graças à não-linearidade da força de
+fricção dinâmica.&lt;/p&gt;
+
+&lt;p&gt;Após meu doutorado, fui contratado pela Siemens Technology-to-Business
+Center (em Berkeley) para adaptar esta tecnologia ao mundo da
+distribuição de pacotes, especificamente o da &quot;singulação&quot; (formação
+de filas indianas pré-identificação por código de barras). Pelas altas
+velocidades requeridas, abandonamos a tecnologia vibratória, e criamos
+uma máquina de manipulação distribuída com uma matriz de 84 esteiras,
+com velocidades controladas com real-time vision feedback. Este
+projeto resultou em várias patentes e num produto comercial da
+Siemens. Durante este processo, me expus a técnicas de identificação
+de pacotes por código de barras e RFID. Desenvolvi para a Siemens
+Medical uma pulseira wireless integrada com um leitor de RFID, para o
+rastreamento e &quot;logging&quot; de operações manuais num ambiente hospitalar,
+reduzindo a probabilidade de erros de atendimento e de administração
+de medicamentos a pacientes.&lt;/p&gt;
+
+&lt;p&gt;Desde 2004 havia sido convidado por Bill Gross, fundador do Idealab
+(em Pasadena, CA) para desenvolver novos sistemas de coletores
+solares. Em 2006, me transferi da Siemens para o Idealab, e lá criamos
+um sistema automatizado, massivamente paralelo, para a calibração e
+controle de dezenas de milhares de heliostatos &quot;baratos&quot; (produzidos
+em massa) para numa usina solar-térmica. O foco era substituir custos
+mecânicos (repetitibilidade) por software (controle com feedback por
+visão). Criamos algoritmos de calibração baseados em otimização
+não-linear no espaço 9-dimensional de parâmetros de cada heliostato,
+que resultaram em algumas patentes. Esta atividade levou a minha
+co-fundação da eSolar, uma empresa de tecnologia solar-térmica que
+chegou à 150 funcionários e que já possui 2 usinas comerciais
+(California e Índia). Na eSolar também era responsável pela
+propriedade intelectual da empresa; lá gerenciei mais de 40
+&quot;applications&quot; provenientes de nossos colegas, em várias áreas tais
+como térmica, armazenagem, algoritmos, sistemas de controle, desenho
+da usina, desenho mecânico, etc. A eSolar foi recentemente vendida
+para a General Electric.&lt;/p&gt;
+
+&lt;p&gt;De Fev/2011 até o presente sirvo como Consultor de Análise de Dados no
+Peixe Urbano, uma empresa/site de compras coletivas fundada em 2010,
+que hoje atinge vendas e R$40milhões/mês. Meu foco é analisar o
+histórico de vendas e otimizar o futuro. As tecnologias nas quais atuo
+incluem mineração de dados, sistemas de recomendação e personalização
+de usuários, visualização, AI, machine learning, e algoritmos de
+classificação e clustering.&lt;/p&gt;
+
+&lt;h2&gt;Short bio&lt;/h2&gt;
+
+&lt;p&gt;Sou carioca, 44 anos, recém-retornado ao Rio, após 23 anos no EUA. Na
+palestra para o Dept de Matemática Aplicada da FGV pretendo exibir
+videos e slides minha experiencia acadêmica (PhD Berkeley/Robótica,
+2001) e profissional nos EUA (Automação, RFID/Informática Médica,
+Energia Solar), terminando com minha experiência em Data Science nos
+últimos meses no Peixe Urbano (Rio de Janeiro), aonde tenho
+desenvolvido algoritmos de mineração, visualização, e classificação de
+usuários.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ontologia aplicada à Biomedicina: a experiência no New York Center of Excellence in Bioinformatics &amp; Life Siences</title>
+   <link href="http://arademaker.github.com/seminars/2011/09/22/ontologia-aplicada-biomedicina.html"/>
+   <updated>2011-09-22T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/09/22/ontologia-aplicada-biomedicina</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Maurício Almeida&lt;/li&gt;
+&lt;li&gt;Onde: FGV&lt;/li&gt;
+&lt;li&gt;Quando: 22 Sep 2011&lt;/li&gt;
+&lt;li&gt;Hosted by: Renato Rocha&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;A grande quantidade de dados produzidos mundialmente em medicina e
+biologia tem trazido novos desafios para o campo da organização da
+informação. Uma alternativa para lidar com tais desafios é o uso de
+ontologias, estruturas fundamentadas em princípios filosóficos e
+utilizadas no âmbito de sistemas como forma de representar
+conhecimento. A palestra versa sobre a experiência de um ano de
+trabalho e pesquisa em ontologias biomédicas em uma instituição de
+científica norte-americana - The Center of Excellence of Biomedical
+Informatics and Life Sciences - com a organização de dados do campo da
+hematologia.&lt;/p&gt;
+
+&lt;h2&gt;Short Bio&lt;/h2&gt;
+
+&lt;p&gt;Pós-Doutor pela State University of New York, Doutor em Ciência da
+Informação, Especialista em Administração, Especialista em Engenharia
+de Software, graduado em Engenharia Civil. Atualmente é colaborador do
+Ontology Research Group (US) at the State University of New york at
+Buffalo; colaborador do Ontology &amp;amp; Conceptual Modeling Group do Center
+of Informatics Research at the Southern Illinois University Carbondale
+(US); membro da Internacional Association for Ontology and its
+Aplications (EU); membro do Editorial Board of AIAI Journal of
+Knowledge, Learning and Ontology Engineering (EU). Atua como professor
+adjunto da UFMG, Depto de Teoria e Gestão da Informação, onde mantém
+pesquisas em Representação do Conhecimento. Os principais interesses
+de pesquisa são ontologia aplicada, sistemas de informação e modelos
+organizacionais.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Participação em congressos e evento sobre Matemática Aplicada</title>
+   <link href="http://arademaker.github.com/blog/2011/09/09/noticias-emap.html"/>
+   <updated>2011-09-09T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/blog/2011/09/09/noticias-emap</id>
+   <content type="html">&lt;p&gt;Os pesquisadores &lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Coelho&lt;/a&gt; e
+&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; apresentaram no evento
+EuroSciPy, em Paris, o artigo &quot;Information Mining and Visualization of
+a Large Volume of Legal Texts&quot;, com os resultados preliminares da
+análise do Banco de Dados do Supremo Tribunal Federal, desenvolvida em
+conjunto com o pesquisador da Escola de Direito - Rio, Pablo
+Cerdeira. A apresentação aconteceu no dia no dia 27/08.&lt;/p&gt;
+
+&lt;p&gt;A EMAp promoveu na FGV Candelária um debate sobre carreira, ensino e
+perspectivas na Matemática Aplicada. O debate se deu entre os
+pesquisadores Yuan Jinyuan, professor titular da UFPR e diretor do
+Instituto de Matemática Industrial, Paulo Cezar Carvalho, professor e
+pesquisador da EMAp e do IMPA, e Luciano Castro, medalhista em
+Olimpíada Iberoamericana de Matemática e professor do Colégio Elite. O
+encontro aconteceu no dia 31/08.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sistema de simulação de processos IPSEpro e o grupo de pesquisa e estudos em sistemas de apoio à decisão EWG-DSS/EURO</title>
+   <link href="http://arademaker.github.com/seminars/2011/08/25/apresentacao-sistema-simulacao-processos-ipsepro-simtech.html"/>
+   <updated>2011-08-25T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/08/25/apresentacao-sistema-simulacao-processos-ipsepro-simtech</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Fátima C. C. Dargam&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 25 Aug 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Esta apresentação tem como objetivo divulgar duas linhas de trabalho: o
+da firma SimTech e o do grupo de trabalho EWG-DSS.&lt;/p&gt;
+
+&lt;p&gt;A firma SimTech da Áustria desenvolveu e comercializa a ferramenta
+(CAE) IPSEpro, a qual é específica para modelagem, simulação e análise
+de processos de geração de energia. O software IPSEpro é um sistema
+aberto de simulação, contendo vários módulos e bibliotecas de
+componentes específicos ao modelamento de processos de várias áreas de
+aplicação do setor energético.&lt;/p&gt;
+
+&lt;p&gt;O Grupo de Trabalho em Sistemas de Apoio a Decisão EWG-DSS (EURO
+Working Group on Decision Support Systems), da associação européia de
+pesquisa operacional EURO (European Association on Operation Research)
+foi criado em 1989 e tem como objetivo principal facilitar a pesquisa
+entre seus associados, proporcionando oportunidades para divulgação de
+trabalhos nesta área e também publicações e projetos
+colaborativos. Esta apresentação também evidencia um trabalho em
+andamento do EWG-DSS, sobre o desenvolvimento de uma rede de
+colaboração acadêmica entre os membros do grupo; assim como a
+possibilidade de se associar ao EWG-DSS.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Very Important Faces: yet another Character Annotation Tool </title>
+   <link href="http://arademaker.github.com/seminars/2011/08/18/very-important-faces.html"/>
+   <updated>2011-08-18T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/08/18/very-important-faces</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Asla Medeiros e Sá, Cristina Nader Vasconcelos, Martina Spohr Goncalves and Paulo Cezar Carvalho&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 18 Aug 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;This presentation will describe the ongoing project of creating yet
+another character annotation tool, the Very Important Faces (V.I.F.)
+tool. Although the idea of character annotation is really not a new
+subject, off-the-shelf software annotation tools have proved to be
+designed for contexts where the assumptions are not the same as in the
+case of historic photographic catalogs. Thus, the adoption of such
+tools has shown, in practice, to be below the expectations. The most
+evident limitation of the majority of the available photo annotation
+tools is that they do not process information present in captions and
+texts produced by experts that describe the contents of the
+photographic collections. Our dataset is constituted of a contemporary
+historic character photographic collection, with informative captions,
+available for public access. The design proposal of the V.I.F. tool is
+to help the experts responsible for collection organization to migrate
+the information, documented in the texts associated to the images, to
+W3C metadata standards. The V.I.F Tool implementsface detection
+algorithms. It also detects proper names in previously inserted
+captions to help the user (expert)match names and faces in order to
+produce a photo annotation compatible with semantic web principles.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Conjuntos Dominantes Conexos: Formulações, Generalizações, Algoritmos de Solução e Aplicações</title>
+   <link href="http://arademaker.github.com/seminars/2011/08/11/conjuntos-dominantes-conexos.html"/>
+   <updated>2011-08-11T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/08/11/conjuntos-dominantes-conexos</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Abilio Lucena&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 11 Aug 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;O arquivo
+&lt;a href=&quot;https://docs.google.com/viewer?a=v&amp;amp;pid=gmail&amp;amp;attid=0.2&amp;amp;thid=1337eeb330dd173f&amp;amp;mt=application/pdf&amp;amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3D6adfcc2a16%26view%3Datt%26th%3D1337eeb330dd173f%26attid%3D0.2%26disp%3Dsafe%26realattid%3Df_gps8k4n22%26zw&amp;amp;sig=AHIEtbSzR9UqAA2WrkT1NxQi1boNxyMqPA&quot;&gt;PDF da Palestra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Análise de Sentimentos e Mercado Financeiro</title>
+   <link href="http://arademaker.github.com/seminars/2011/08/04/analise-sentimentos-mercado-financeiro.html"/>
+   <updated>2011-08-04T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/08/04/analise-sentimentos-mercado-financeiro</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  André Coutinho&lt;/li&gt;
+&lt;li&gt;Onde:   FGV&lt;/li&gt;
+&lt;li&gt;Quando: 04 Aug 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Este seminário trata de análise de sentimentos do mercado
+financeiro. A análise de sentimentos tem como objetivo extrair
+informações sobre a percepção dos investidores em relação a aspectos
+do mercado. A idéia é que se muitos investidores acreditam, por
+exemplo, que uma ação vai subir, então esse evento possui boas chances
+de ocorrer. Essa probabilidade maior decorre de dois fatores, sendo o
+primeiro ligado ao número de investidores (movimento de mercado) e o
+segundo a informação coletiva destes investidores (crowdsourcing).&lt;/p&gt;
+
+&lt;p&gt;Neste seminário, discutiremos a modelagem da análise de sentimentos (e
+possíveis manipulações) usando a teoria dos jogos. Em seguida,
+mostrarei um artigo junto com uma aplicação que evidenciam a
+pertinência da análise de sentimentos. Finalmente, entrarei em
+detalhes da análise de sentimentos, como a diferença entre se analisar
+formadores de opinião e investidores em geral.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Study of integration of flexibility and robustness to optimization methods</title>
+   <link href="http://arademaker.github.com/seminars/2011/06/30/study-integration-flexibility.html"/>
+   <updated>2011-06-30T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/06/30/study-integration-flexibility</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Eduardo Laber&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 30 Jun 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Study of integration of flexibility and robustness to optimization
+methods. Resumo: Resolution of difficult problems of optimization
+become more and more effective. However, to reach this effectiveness,
+the techniques are often very dedicated to an application. There are
+thus very effective methods of resolution but when an evolution of the
+problem occur, for instance addition or modification of a constraint,
+these methods become much less powerful or even unusable. Our goal is
+to evaluate how possible it is to develop algorithms able to deal with
+problems subjected to very heterogeneous constraints, moving in the
+time, without loss of performance. The study is applied to a problem
+of communication networks design. We present the results and analyses
+of the experiments carried out on the target problem. In particular,
+we evaluate if the suggested architecture allows to treat different
+versions from a basic problem, subjected to heterogeneous constraints
+whose characteristics are not known at the beginning.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>O problema de avaliação de funções com custos variáveis</title>
+   <link href="http://arademaker.github.com/seminars/2011/06/09/problema-avaliacao-funcoes-custos-variaveis.html"/>
+   <updated>2011-06-09T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/06/09/problema-avaliacao-funcoes-custos-variaveis</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Eduardo Laber&lt;/li&gt;
+&lt;li&gt;Onde:  FGV&lt;/li&gt;
+&lt;li&gt;Quando: 09 Jun 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Consideramos o problema de avaliar funções que dependem dos valores de
+um conjunto de atributos cujos custos de leitura/obtenção são
+variáveis. O objetivo é definir estratégias (árvores de decisão) para
+ler os atributos de modo a minimizar o custo (esperado) para avaliar a
+função. Este é um problema que surge em diversas situações de
+interesse prático. Nessa palestra explicamos uma aplicação deste
+problema no contexto de trading de alta frequência. Além disso,
+apresentamos um esquema que permite gerar algoritmos eficientes para
+este problema assim como garantias teóricas para classes bastante
+gerais de funções.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Bayesian Framework for Parameter Estimation in Dynamical Models</title>
+   <link href="http://arademaker.github.com/seminars/2011/06/02/bayesian-framework.html"/>
+   <updated>2011-06-02T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/06/02/bayesian-framework</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Flávio Codeço Coelho&lt;/li&gt;
+&lt;li&gt;Onde:  FGV&lt;/li&gt;
+&lt;li&gt;Quando: 02 Jun 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Mathematical models in biology are powerful tools for the study and
+exploration of complex dynamics. Nevertheless, bringing theoretical
+results to an agreement with experimental observations involves
+acknowledging a great deal of uncertainty intrinsic to our theoretical
+representation of a real system. Proper handling of such uncertainties
+is key to the successful usage of models to predict experimental or
+field observations. This problem has been addressed over the years by
+many tools for model calibration and parameter estimation. In this
+article we present a general framework for uncertainty analysis and
+parameter estimation that is designed to handle uncertainties
+associated with the modeling of dynamic biological systems while
+remaining agnostic as to the type of model used. We apply the
+framework to fit an SIR-like influenza transmission model to 7 years
+of incidence data in three European countries: Belgium, the
+Netherlands and Portugal.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/viewer?a=v&amp;amp;pid=gmail&amp;amp;attid=0.1&amp;amp;thid=1337eee646ba50a9&amp;amp;mt=application/pdf&amp;amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3D6adfcc2a16%26view%3Datt%26th%3D1337eee646ba50a9%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_guppf88w0%26zw&amp;amp;sig=AHIEtbSaHS59ZF9Oi8yW9pFEmjU-K8C6tA&quot;&gt;Apresentação em PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Projetos e Pesquisa na EMAp FGV</title>
+   <link href="http://arademaker.github.com/seminars/2011/05/26/projetos-pesquisa-emap-fgv.html"/>
+   <updated>2011-05-26T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/05/26/projetos-pesquisa-emap-fgv</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Renato Rocha Souza e Flávio Codeço Coelho&lt;/li&gt;
+&lt;li&gt;Onde: FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 26 May 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Renato Rocha Souza e Flávio Codeço Coelho falaram sobre um projeto em
+andamento da escola em parceria com a Direito-Rio, o &quot;Supremo em
+Números&quot;. O projeto visa a interpretação de um enorme volume de dados
+proveniente do banco de dados do Supremo Tribunal Federal. Outros
+projetos em andamento na EMAp também serão apresentados juntamente com
+as oportunidades de resquisa relacionadas aos temas dos projetos.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reunião Pronex Dengue</title>
+   <link href="http://arademaker.github.com/seminars/2011/05/20/reuniao-pronex-dengue.html"/>
+   <updated>2011-05-20T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/05/20/reuniao-pronex-dengue</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Moacyr Silva&lt;/li&gt;
+&lt;li&gt;Onde: FGV&lt;/li&gt;
+&lt;li&gt;Quando: 20 May 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;No âmbito do projeto Pronex Dengue  reuniões de andamento do
+projeto vem sendo realizadas periodicamente sendo sediadas em uma das
+instituições parceiras. Nesta data a reuniao contou com membros
+de vários estados participantes do projeto.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Role of Information in Multistage R&D Races</title>
+   <link href="http://arademaker.github.com/seminars/2011/05/12/role-information-RD-races.html"/>
+   <updated>2011-05-12T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/05/12/role-information-RD-races</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Angelo Polydoro&lt;/li&gt;
+&lt;li&gt;Onde:  FGV&lt;/li&gt;
+&lt;li&gt;Quando:  12 May 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;R&amp;amp;D races typically involve the development of several intermediate
+steps and in some industries information about the competitor’s
+development stage is strategic. This paper deﬁnes and shows the
+existence of equilibrium for the incomplete information multistage R&amp;amp;D
+race model where ﬁrms need to complete a ﬁnite number of intermediate
+steps before the product or project is ﬁnished. In our model, there is
+incomplete information because ﬁrms may not know the competitor’s
+development stage during the race. By using numerical methods, we
+study the equilibrium of this race in pure Markov strategies. We show
+how the race duration, consumer surplus, ﬁrm value and total welfare
+vary with investment costs, market size and intensity of competition
+in the products market. We are able to assess the impact of a strong
+patent regime in terms of consumer surplus, ﬁrm value and total
+welfare.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Modelos dinâmicos e ações para reduzir o espalhamento da malária</title>
+   <link href="http://arademaker.github.com/seminars/2011/05/05/modelos-dinamicos-malaria.html"/>
+   <updated>2011-05-05T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/05/05/modelos-dinamicos-malaria</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Luiz Bevilacqua&lt;/li&gt;
+&lt;li&gt;Onde: FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 05 May 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;A malária é uma doença infecciosa causada por um protozoário do gênero
+Plasmodium que é transmitido de pessoa infectada a pessoa sadia
+através da picada de fêmeas de mosquitos do gênero Anopheles. O modelo
+matemático descrito na palestra considera a dinâmica do processo
+infeccioso da malária em regiões onde a variação sazonal na densidade
+populacional de mosquitos é um fator fundamental.  As equações que
+compõe o modelo descrevem a variação das respectivas populações ao
+longo do tempo.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Análise de sentimentos: desafios, perspectivas e soluções</title>
+   <link href="http://arademaker.github.com/seminars/2011/04/14/analise-sentimentos-desafios-perspectivas-solucoes.html"/>
+   <updated>2011-04-14T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/04/14/analise-sentimentos-desafios-perspectivas-solucoes</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Leonardo Falcão Koblitz&lt;/li&gt;
+&lt;li&gt;Onde:   FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 14 Apr 2011&lt;/li&gt;
+&lt;li&gt;Hosted by: Renato Rocha Souza&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;A análise de sentimentos tem como objetivo interpretar como uma emoção
+é expressa em um texto ou discurso. Questões como: Será que a análise
+de sentimentos poderia prever o fim do ditador egípcio Hosni Mubarak
+pela análise das emoções expressas no Twitter? É possível predizer a
+alta ou queda de uma ação pela análise dos comentários feitos nas
+redes sociais sobre um determinado produto. Tais questões tornam a
+análise de sentimentos um problema desafiador, visto que, uma opinião
+pode ser expressa de diversas maneiras, às vezes usando metáforas ou
+ironias. Este seminário irá discutir o estágio atual da análise de
+sentimentos e apresentar algumas soluções disponíveis.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pesquisas em Processamento de Linguagem Natural e Ontologias</title>
+   <link href="http://arademaker.github.com/seminars/2011/04/07/pesquisas-processamento-linguagem-natural-ontologias.html"/>
+   <updated>2011-04-07T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/04/07/pesquisas-processamento-linguagem-natural-ontologias</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Renato Rocha Souza&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 07 Apr 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Foi apresentada, pelo professor Renato, uma das linhas de pesquisa do
+Mestrado em Modelagem Matemática da Informação da EMAp-FGV.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gestão de acervos de imagens utilizando metadados</title>
+   <link href="http://arademaker.github.com/seminars/2011/03/31/gestao-acervos-imagens-utilizando-metadados.html"/>
+   <updated>2011-03-31T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/03/31/gestao-acervos-imagens-utilizando-metadados</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Marcio Isensee&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 31 Mar 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;O objetivo da palestra é abordar as formas de gestão de acervos de
+imagens a partir da exploração de recursos oferecidos por padrões de
+metadados. A palestra pretende fazer um resumo prático das
+dificuldades e soluções encontradas pelos fotógrafos contemporâneos do
+estúdio IZ fotos &lt;a href=&quot;http://www.izfotos.com/studio/&quot;&gt;http://www.izfotos.com/studio/&lt;/a&gt; e
+&lt;a href=&quot;http://www.izp.art.br/&quot;&gt;http://www.izp.art.br/&lt;/a&gt; para gerir, localizar e trabalhar acervos de
+imagem.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Editoração em LaTeX</title>
+   <link href="http://arademaker.github.com/seminars/2011/03/24/editoracao-latex.html"/>
+   <updated>2011-03-24T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/03/24/editoracao-latex</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Flávio Codeço Coelho&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 24 Mar 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Esta palestra teve por finalidade apresentar à equipe de editoração da
+Editora FGV o ambiente de editoração eletronica LateX.  Este ambiente
+é internacionalmente adotado para editoração de textos matemáticos mas
+não é difundido em editoras em geral. A proposta desta palestra surgiu
+da demanda por uma editoração mais eficiente dos livros de matemática
+a serem lançados pela editora.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recessão e Desempenho das Firmas: Uma abordagem multinível de curvas de crescimento</title>
+   <link href="http://arademaker.github.com/seminars/2011/03/17/recessao-desempenho-firmas.html"/>
+   <updated>2011-03-17T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/03/17/recessao-desempenho-firmas</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Rafael Goldzsmidt&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 17 Mar 2011&lt;/li&gt;
+&lt;li&gt;Hosted by: Asla Sá&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Apresentou os principais resultados obtidos em sua tese de doutorado
+sobre esse assunto&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&amp;amp;id=K4776207J0&quot;&gt;CV Lattes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comunicando por meio de uma sintaxe elementar</title>
+   <link href="http://arademaker.github.com/seminars/2011/03/03/comunicando-meio-sintaxe-elementar.html"/>
+   <updated>2011-03-03T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/03/03/comunicando-meio-sintaxe-elementar</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Edgardo Brigatti&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 03 Mar 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;No final dos anos noventa foi realizado um experimento onde robôs
+conseguiam desenvolver competências lingüísticas relacionadas com as
+próprias ações realizadas num ambiente físico. Essa experiência (the
+talking heads experiment) queria mostrar a possibilidade da emergência
+espontânea de um vocabulário comum entre uma população não sujeita a
+um controle central. Nessa palestra queremos apresentar os efeitos que
+a introdução de uma sintaxe elementar pode ter nesse modelo de jogos
+lingüísticos, focando o nosso interesse na exploração das condições
+nas quais a sintaxe pode gerar uma redução do esforço cognitivo nas
+comunicações dos agentes.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Sina Masculina- Anos de Vida Perdidos no Brasil e Grandes Regiões-1980-2005</title>
+   <link href="http://arademaker.github.com/seminars/2011/02/24/sina-masculina.html"/>
+   <updated>2011-02-24T00:00:00-03:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/02/24/sina-masculina</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Kaizô Iwakami Beltrão&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 24 Feb 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Esta pesquisa analisa a evolução dos anos de vida perdidos (AVP) da
+população jovem e adulta brasileira segundo grandes grupos de causas,
+inclusive comparando diferentes recortes geográficos. O período
+considerado compreende de 1980 a 2005. São considerados: Brasil e
+Grandes regiões. Construímos a estatística de AVP a partir de um
+conceito proposto por Arriaga como medida de variação da mortalidade,
+a Esperança Temporária de Vida (ETV, Temporary Life Expectancy, no
+original), ou seja a esperança de vida entre duas idades, x e x+i. A
+proposta serve para contornar o problema de estatísticas vitais de
+qualidade relativa, nomeadamente no caso do Brasil, os óbitos em
+idades avançadas. As taxas de mortalidade por grandes grupos de causas
+(naturais, agressões/homicídios, outras causas violentas) são obtidas
+a partir dos óbitos corrigidos por uma estimativa de sub-registro
+diferente para cada combinação de grande região e sexo. A partir desta
+estatística são calculados os AVPs segundo sexo, grupo etário decenal,
+grande região e grande grupo de causas. O traço mais marcante dos
+dados de AVP é o crescente hiato de gênero: valores bem mais altos
+para a população masculina vis-à-vis a feminina no caso das causas
+violentas e em particular de homicídios/agressões. Para a população
+masculina, verifica-se o crescimento e não a redução dos AVP como
+seria desejável. Este crescimento é principalmente originado por
+causas externas. Cumpre notar a especial vulnerabilidade dos jovens de
+15 a 24 anos no que tange a causas violentas, tanto pela magnitude das
+perdas como pelas taxas de variação positivas, se bem que
+decrescentes, para os três intervalos definidos no período
+considerado.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EOSMedia - Ambiente para Armazenamento, Recuperação, Interpretação e Análise de Grandes Volumes de Dados Multimídia</title>
+   <link href="http://arademaker.github.com/seminars/2011/02/17/grandes-volumes-dados.html"/>
+   <updated>2011-02-17T00:00:00-02:00</updated>
+   <id>http://arademaker.github.com/seminars/2011/02/17/grandes-volumes-dados</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem: Anselmo Paiva&lt;/li&gt;
+&lt;li&gt;Onde:  FGV (sala 317)&lt;/li&gt;
+&lt;li&gt;Quando: 17 Feb 2011&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Os avanços tecnológicos recentes têm propiciado o uso de várias mídias
+digitais no formato de texto, fotografias, videos e
+aúdio. Particularmente, com a popularização das máquinas digitais e
+ferramentas de anotação e armazenamento dipsoníveis na Web tais como
+Flickr e Youtube, há um grande volume de dados nos formatos de imagem
+e vídeo disponível. Entretanto, à medida que tais volumes de dados
+multimídia aumentam, torna-se necessário desenvolvimento de técnicas e
+plataformas de software que permitam o armazenamento, indexação, e
+busca eficiente de tais recursos. Para tanto, o uso de anotação
+semi-automática e de interpretação de imagens, como reconhecimento de
+faces, torna-se mandatório para se atingir as metas desejadas. Este
+seminário apresenta as idéias e resultados já alcancados do projeto
+EOSMedia que visa o desenvolvimento de técnicas computacionais que
+dêem suporte as atividades de organização, catalogação e
+disponibilização de informações que compõem acervos multimídia, de
+modo a contribuir com as atividades de armazenamento, distribuição,
+visualização e recuperação de repositórios de informações e documentos
+multimídia. Diante dos desafios da área, pretende-se aplicar estes
+métodos e técnicas a problemas específicos tais como a acervos
+institucionais de documentos multimídia e coleções pessoais de
+fotografias e vídeos.&lt;/p&gt;
+
+&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
+ 
  
 </feed>
