@@ -5,4 +5,4 @@ markdown: rdiscount
 redirects: false
 paginate: 10
 pagination: true
-exclude: ["README.md", "mendeley.tex", "mendeley.bib"]
+exclude: ["README.md", "mendeley.tex", "mendeley.bib","pendencias.org","DEPLOY"]
