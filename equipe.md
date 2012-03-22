@@ -6,7 +6,7 @@ section: staff
 
 ## Professores
 
-- [Alexandre Rademaker](/people/alexandre.rademaker.html)
+- [Alexandre Rademaker](/people/alexandre.rademaker.html) 
 - [Antonio Carlos Saraiva Branco](/people/antonio.branco.html)
 - [Asla Medeiros e Sá](/people/asla.sa.html)
 - [Eduardo Wagner](/people/eduardo.wagner.html)

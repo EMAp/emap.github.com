@@ -1,13 +1,15 @@
 ---
 layout: inner-child
-title: Contato
+title: Fale Conosco
 section: contact-us
 ---
 
-Dentre as atividades da EMAp, podemos destacar a atuação em ensino nos
-níveis de [graduação](graduacao/descricao.html) e
-[pós-graduação](pos-graduacao/descricao.html). Também são dignos de
-destaque os projetos de pesquisa e de consultoria, além de parcerias
-institucionais.
+Preencha seus dados para que possamos retornar seu contato e deixe sua mensagem.
 
-{% render_time %}
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dFZJaGZuMHByUExYTDlVcHc4WWZyTnc6MQ&ttl=0"
+ width="530" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+## Ouvidoria da FGV
+
+Se preferir, você também pode fazer contato direto com a [Ouvidoria da FGV](http://portal.fgv.br/ouvidoria).
