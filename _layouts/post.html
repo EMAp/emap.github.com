@@ -51,17 +51,19 @@ stLight.options({publisher:'36073283-96ad-4b8d-8d04-0cb6636cc4d1'});</script>
             {% tag_cloud %}
 
 	    <h3>Arquivo</h3>
+
 	    <ul class="list-type2">
-	      <li>
-		<a href="#">2011</a>
+	      {% for year in site.years %}                                                                                    
+	      <li>{{ year.first.first.date | date: "%Y" }}
 		<ul>
-		  <li><a href="#">novembro</a></li>
-		  <li><a href="#">outubro</a></li>
-		  <li><a href="#">setembro</a></li>
-		  <li><a href="#">agosto</a></li>
+		  {% for month in year %}                                                                                       
+		  <li><a href="/{{ year.first.first.date | date: '%Y'}}/{{ month.first.date | date: '%m'}}/">{{ month.first.date | date: "%B" }}</a></li>
+		  {% endfor %}                                                                                                
 		</ul>
-	      </li>
+              </li>
+	      {% endfor %}
 	    </ul>
+
 	  </div>
 	</div>
 	

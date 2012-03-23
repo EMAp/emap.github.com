@@ -5,5 +5,7 @@ markdown: rdiscount
 redirects: false
 paginate: 10
 pagination: true
+archive_title_prefix: "Arquivo de "
+archive_title_suffix: " "
 exclude: ["README.md", "mendeley.tex", "mendeley.bib", "pendencias.org", "DEPLOY"]
 

@@ -1,0 +1,12 @@
+---
+layout: blog
+---
+
+{% for post in page.period_posts %}
+
+<div class="post">
+  <h2><a href="{{ post.url }}"> {{ post.title }} </a></h2>
+  <p class="text-type1"> {{ post.date | date_to_long_string }} <a href="{{ post.url }}" class="link1">mais</a></p>
+</div>
+
+{% endfor %}

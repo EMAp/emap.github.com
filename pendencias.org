@@ -61,3 +61,5 @@
  - http://johnmacfarlane.net/pandoc/
  - http://brizzled.clapper.org/blog/2010/12/20/some-jekyll-hacks/
  - http://www.marran.com/tech/
+ - http://joseoncode.com/2011/11/27/generating-monthly-archives-with-jekyll/
+
