@@ -2,7 +2,8 @@
 
 * Pendencias
 
-** TODO [#A] Como listar arquivo do blog por ano/mes				    :ALEX:
+** TODO [#A] ordernar lista do arquivo do blog/seminarios por ano/mes 		    :ALEX:
+** TODO [#A] formatacao na lateral da pagina de seminario			    :ALEX:
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
 ** TODO [#B] lista de livros das ementas					    :ALEX:
