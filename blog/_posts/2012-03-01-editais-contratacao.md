@@ -19,7 +19,7 @@ dos processos seletivos para contratação de dois professores para as
 As vagas são para atuação nos cursos de Graduação e Pós-Graduação da
 EMAp e para desenvolver pesquisa nas áreas acima mencionadas.
 
-Os interessados deverão submeter, até o dia 31 de maio, a documentação
+Os interessados deverão submeter, até o dia 15 de junho, a documentação
 requerida por correio eletrônico ao endereço emap@fgv.br. As decisões
-serão anunciadas até o dia 13 de julho de 2012.
+serão anunciadas até o dia 31 de julho de 2012.
 
