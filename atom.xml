@@ -4,13 +4,64 @@
  <title>EMAp - Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-04-02T12:05:59-03:00</updated>
+ <updated>2012-04-17T23:10:32-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Desvendando um pouco da complexidade de processos dinâmicos em Epidemiologia e Imunologia</title>
+   <link href="http://emap.fgv.br/seminars/2012/04/19/desvendendo-complexidade-processos-dinamicos.html"/>
+   <updated>2012-04-19T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2012/04/19/desvendendo-complexidade-processos-dinamicos</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Rita Maria Zorzenon dos Santos&lt;/li&gt;
+&lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
+&lt;li&gt;Quando: 19 Apr 2012 às 16:00&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Neste seminário apresentaremos algumas abordagens que utilizamos
+recentemente no estudo de interação intra e inter hospedeiros em
+doenças infecciosas.&lt;/p&gt;
+
+&lt;p&gt;No primeiro caso mostraremos como o estudo da correlação
+espaço-temporal de novos casos de Tuberculose identificados nos
+setores censitários de Olinda num período de 5 anos podem levar à
+identificação de focos de infecção, à rede de alimentação destes focos
+e ao movimento da doença na cidade. Discutimos também como este estudo
+pode aumentar a eficiência no controle dos tratamentos e na vigilância
+desta doença.&lt;/p&gt;
+
+&lt;p&gt;No segundo caso utilizando uma técnica de agrupamento de dados baseada
+em modelos físicos classificamos series temporais de parasitemia (
+contagem de parasitas) em pacientes com malaria tratados com
+diferentes drogas e protocolos de acordo com as similaridades das
+series. Os resultados analisados a luz dos diferentes tipos de
+resposta definidos pela OMS permitiram agrupar pacientes que
+apresentam o mesmo tipo de resposta, independentemente da droga e do
+protocolo utilizado, permitindo assim detectar a equivalência entre
+certos tratamentos. O conhecimento de tais equivalências abre a
+perspectiva de adoção de tratamentos equivalentes para certas drogas,
+uma vez que o paciente adquira resistência a uma delas.  Havendo
+tempo, mostraremos também um resultado bastante recente, onde usamos
+redes booleanas para reproduzir as diferentes formas clinicas da
+esquistossomose (bem como sua intensidade) observadas na população.&lt;/p&gt;
+
+&lt;h2&gt;Info sobre palestrante&lt;/h2&gt;
+
+&lt;p&gt;Rita Maria é professora do Departamento de Física da Universidade
+Federal de Pernambuco.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Seminário Inaugural da EMAp de 2012</title>
