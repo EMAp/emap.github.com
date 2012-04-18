@@ -48,9 +48,6 @@
   para a a data. A data é de postagem da notícia, não a data do
   tutorial.
 
-- pagina fale conosco/contanto. no menu, nao coube a entrada para
-  fale-conosco, comentada
-  
 - criar conta no delicious
 
 * Bibliografias
