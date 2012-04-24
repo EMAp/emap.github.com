@@ -4,13 +4,52 @@
  <title>EMAp - Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-04-17T23:43:08-03:00</updated>
+ <updated>2012-04-24T09:21:20-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Photo Tagging by Collection-Aware People Recognition</title>
+   <link href="http://emap.fgv.br/seminars/2012/04/26/photo-tagging.html"/>
+   <updated>2012-04-26T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2012/04/26/photo-tagging</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Cristina Nader Vasconcelos&lt;/li&gt;
+&lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
+&lt;li&gt;Quando: 26 Apr 2012 às 16:00&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Some mature ﬁndings in person recognition research restrict their use
+cases for dealing with near frontal face poses under controlled
+environments conditions. Such special pose and environment conditions
+can be accepted if imposed as requirement for security applications,
+but they are not reasonable constraints when dealing with personal
+collections. In this paper is proposed a person recognition approach
+designed for aiding the task of personal collections tagging under
+non-controlled conditions. It can be generally described as a
+collection-aware clustering approach, that evaluates people appearance
+across the photo set. A classiﬁcatory procedure working over a trained
+Kohonen network is proposed. The network is responsible for learning
+people appearance working over a dynamically reduced feature space.&lt;/p&gt;
+
+&lt;h2&gt;Info sobre palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sites.google.com/site/crisnv/&quot;&gt;Cristina Nader Vasconcelos&lt;/a&gt;
+received her PhD in Computer Science from the PUC-Rio in march, 2009
+on Computer Vision Algoruthms on GPU, advised by Professors Marcelo
+Gattass and Paulo Cezar Carvalo.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Desvendando um pouco da complexidade de processos dinâmicos em Epidemiologia e Imunologia</title>
