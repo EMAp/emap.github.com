@@ -1,0 +1,54 @@
+---
+layout: post
+title: Aula Convite da Graduação da EMAp
+author: Paulo Cezar
+tags:
+ - graduacao
+---
+
+A situação descrita abaixo, embora fictícia, é representativa do tipo
+de problema que um Matemático Aplicado é chamado a resolver. Venha
+discuti-la conosco!
+
+h2. Descrição do problema
+
+Um jornaleiro quer decidir quantos exemplares encomendar diariamente
+de um jornal que circula somente nos dias úteis. Ele paga R$ 2,00 por
+exemplar, que é revendido por R$ 3,50. Ele pode devolver os exemplares
+não vendidos para a editora, que paga R$ 1,00 por exemplar. Desde que
+o jornal foi lançado, há quase um ano, o jornaleiro tem encomendado 30
+exemplares por dia. Com isto, ele tem atendido a todos os clientes que
+procuram sua banca, sempre devolvendo exemplares à editora no final do
+dia. Como ele é muito organizado, ele tem um registro do número de
+exemplares devolvidos ao longo do período, resumidos na tabela abaixo,
+que mostra a freqüência de cada número de exemplares devolvidos.
+
+|*Números de exemplares devolvidos no dia* |*Número de dias*|
+|1|2|
+|2|10|
+|3|17|
+|4|25|
+|5|32|
+|6|36|
+|7|39|
+|8|42|
+|9|35|
+|10|28|
+|11|20|
+|12|14|
+|Total|300|
+
+h2. Perguntas
+
+- O jornaleiro teve lucro em todos os dias com o jornal?
+
+- Ele deve continuar a encomendar 30 exemplares por dia? Se não,
+  quantos exemplares você sugere que ele encomende por dia? Em que
+  critérios você se baseia para esta sugestão?
+
+
+Você consegue pensar em outros fatores, não informados acima, que
+poderiam afetar a decisão do jornaleiro? Você consegue relacionar este
+problema com temas de Matemática do Ensino Médio ou com disciplinas
+que espera estudar no futuro?
+
