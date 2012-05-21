@@ -235,3 +235,8 @@ ul.posts span {
 #related h2 {
     margin-bottom: 1em;
 }
+
+div#post_full table td {
+    padding: 1px;
+    margin: 1px;
+}

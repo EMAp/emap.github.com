@@ -784,3 +784,8 @@ div.person_info {
 .index-seminars #rightstrip1 {
 	margin: 0px 0 0;
 }
+
+div#post_full table td {
+    padding: 3px;
+    margin: 3px;
+}
