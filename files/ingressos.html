@@ -1,0 +1,55 @@
+<html>
+<head>
+<script type="text/javascript">
+
+function min (x, y) {
+if (x<y) {
+ return x}
+else {
+ return y}
+}
+
+function max (x, y) {
+if (x<y) {
+ return y}
+else {
+ return x}
+}
+
+function myFunction()
+{
+bv = min (venda.value*1, encomenda.value*1)
+bd = max (encomenda.value - venda.value, 0)
+vc = 40 * encomenda.value
+vv = 70 * bv
+vd = 20 * bd
+lucro = (vv + vd - vc)
+s = "Número de bilhetes vendidos: " + bv
+s = s + "<br>" + "Número de bilhetes devolvidos: " + bd
+s = s + "<br>" + "Valor gasto na compra: " + vc.toFixed(2) + " reais"
+s = s + "<br>" + "Valor obtido nas vendas: " + vv.toFixed(2) + " reais"
+s = s + "<br>" + "Valor obtido na devolução: " + vd.toFixed(2) + " reais"
+s = s + "<br><br>" + "Lucro obtido: " + lucro.toFixed(2)+ " reais"
+
+document.getElementById("demo").innerHTML=s;
+}
+</script>
+</head>
+
+<body>
+
+<h1>Calculadora</h1>
+
+Número de bilhetes comprados: <INPUT TYPE=TEXT NAME="encomenda" value = "25">
+<br>
+
+Número de clientes: <INPUT TYPE=TEXT NAME="venda" value = "20" >
+<br>
+
+<button type="button" onclick="myFunction()">Calcular</button>
+
+<p Id = "demo"> </p>
+</body>
+</html> 
+
+

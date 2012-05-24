@@ -12,16 +12,17 @@ discuti-la conosco!
 
 h2. Descrição do problema
 
-Um jornaleiro quer decidir quantos exemplares encomendar diariamente
-de um jornal que circula somente nos dias úteis. Ele paga R$ 2,00 por
-exemplar, que é revendido por R$ 3,50. Ele pode devolver os exemplares
-não vendidos para a editora, que paga R$ 1,00 por exemplar. Desde que
-o jornal foi lançado, há quase um ano, o jornaleiro tem encomendado 30
-exemplares por dia. Com isto, ele tem atendido a todos os clientes que
-procuram sua banca, sempre devolvendo exemplares à editora no final do
-dia. Como ele é muito organizado, ele tem um registro do número de
-exemplares devolvidos ao longo do período, resumidos na tabela abaixo,
-que mostra a freqüência de cada número de exemplares devolvidos.
+A empresa Entradas.com.br faz vendas antecipadas para um espetáculo
+que está em cartaz há vários meses. A empresa paga R$ 40,00 por um
+ingresso, que é revendido por R$ 70,00. Os ingressos não revendidos
+podem ser devolvidos no dia do espetáculo, para serem vendidos na
+bilheteria; no entanto, a empresa recebe apenas R$ 20,00 por ingresso
+devolvido. Desde a estréia do espetáculo, a empresa tem comprado 30
+ingressos por dia. Com isto, ela tem atendido a todos os clientes que
+procuram por ingressos, sempre devolvendo alguns ingressos no dia do
+espetáculo. A empresa registrou o número de ingressos devolvidos ao
+longo do período, resumidos na tabela abaixo, que mostra a freqüência
+de cada número de ingressos devolvidos.
 
 |*Números de exemplares devolvidos no dia* |*Número de dias*|
 |1|2|
@@ -40,16 +41,21 @@ que mostra a freqüência de cada número de exemplares devolvidos.
 
 h2. Perguntas
 
-- O jornaleiro teve lucro em todos os dias com o jornal?
+- A empresa teve lucro em todos os dias com a venda de ingressos?
 
-- Ele deve continuar a encomendar 30 exemplares por dia? Se não,
-  quantos exemplares você sugere que ele encomende por dia? Em que
-  critérios você se baseia para esta sugestão?
+- Ela deve continuar a comprar 30 ingressos por dia? Se não, quantos
+  ingressos você sugere que ela compre por dia? Em que critérios você se
+  baseia para esta sugestão?
 
 
 Você consegue pensar em outros fatores, não informados acima, que
-poderiam afetar a decisão do jornaleiro? Você consegue relacionar este
+poderiam afetar a decisão da empresa? Você consegue relacionar este
 problema com temas de Matemática do Ensino Médio ou com disciplinas
 que espera estudar no futuro?
 
-Clique "aqui":/files/jornaleiro.xls para download da tabela acima no formato Excel.
+Clique "aqui":/files/problema-ingressos.xls para download da tabela
+acima no formato Excel.
+
+"Esta calculadora":/files/ingressos.html pode ajudar você a pensar no
+problema.
+
