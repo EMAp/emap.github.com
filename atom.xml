@@ -4,7 +4,7 @@
  <title>EMAp - Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-05-21T10:05:45-03:00</updated>
+ <updated>2012-05-24T15:22:29-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -56,16 +56,17 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
 de problema que um Matemático Aplicado é chamado a resolver. Venha&lt;br /&gt;
 discuti-la conosco!&lt;/p&gt;
 &lt;h2&gt;Descrição do problema&lt;/h2&gt;
-&lt;p&gt;Um jornaleiro quer decidir quantos exemplares encomendar diariamente&lt;br /&gt;
-de um jornal que circula somente nos dias úteis. Ele paga R$ 2,00 por&lt;br /&gt;
-exemplar, que é revendido por R$ 3,50. Ele pode devolver os exemplares&lt;br /&gt;
-não vendidos para a editora, que paga R$ 1,00 por exemplar. Desde que&lt;br /&gt;
-o jornal foi lançado, há quase um ano, o jornaleiro tem encomendado 30&lt;br /&gt;
-exemplares por dia. Com isto, ele tem atendido a todos os clientes que&lt;br /&gt;
-procuram sua banca, sempre devolvendo exemplares à editora no final do&lt;br /&gt;
-dia. Como ele é muito organizado, ele tem um registro do número de&lt;br /&gt;
-exemplares devolvidos ao longo do período, resumidos na tabela abaixo,&lt;br /&gt;
-que mostra a freqüência de cada número de exemplares devolvidos.&lt;/p&gt;
+&lt;p&gt;A empresa Entradas.com.br faz vendas antecipadas para um espetáculo&lt;br /&gt;
+que está em cartaz há vários meses. A empresa paga R$ 40,00 por um&lt;br /&gt;
+ingresso, que é revendido por R$ 70,00. Os ingressos não revendidos&lt;br /&gt;
+podem ser devolvidos no dia do espetáculo, para serem vendidos na&lt;br /&gt;
+bilheteria; no entanto, a empresa recebe apenas R$ 20,00 por ingresso&lt;br /&gt;
+devolvido. Desde a estréia do espetáculo, a empresa tem comprado 30&lt;br /&gt;
+ingressos por dia. Com isto, ela tem atendido a todos os clientes que&lt;br /&gt;
+procuram por ingressos, sempre devolvendo alguns ingressos no dia do&lt;br /&gt;
+espetáculo. A empresa registrou o número de ingressos devolvidos ao&lt;br /&gt;
+longo do período, resumidos na tabela abaixo, que mostra a freqüência&lt;br /&gt;
+de cada número de ingressos devolvidos.&lt;/p&gt;
 &lt;table&gt;
 	&lt;tr&gt;
 		&lt;td&gt;&lt;strong&gt;Números de exemplares devolvidos no dia&lt;/strong&gt; &lt;/td&gt;
@@ -125,15 +126,18 @@ que mostra a freqüência de cada número de exemplares devolvidos.&lt;/p&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;
 &lt;h2&gt;Perguntas&lt;/h2&gt;
-&lt;p&gt;- O jornaleiro teve lucro em todos os dias com o jornal?&lt;/p&gt;
-&lt;p&gt;- Ele deve continuar a encomendar 30 exemplares por dia? Se não,&lt;br /&gt;
-  quantos exemplares você sugere que ele encomende por dia? Em que&lt;br /&gt;
-  critérios você se baseia para esta sugestão?&lt;/p&gt;
+&lt;p&gt;- A empresa teve lucro em todos os dias com a venda de ingressos?&lt;/p&gt;
+&lt;p&gt;- Ela deve continuar a comprar 30 ingressos por dia? Se não, quantos&lt;br /&gt;
+  ingressos você sugere que ela compre por dia? Em que critérios você se&lt;br /&gt;
+  baseia para esta sugestão?&lt;/p&gt;
 &lt;p&gt;Você consegue pensar em outros fatores, não informados acima, que&lt;br /&gt;
-poderiam afetar a decisão do jornaleiro? Você consegue relacionar este&lt;br /&gt;
+poderiam afetar a decisão da empresa? Você consegue relacionar este&lt;br /&gt;
 problema com temas de Matemática do Ensino Médio ou com disciplinas&lt;br /&gt;
 que espera estudar no futuro?&lt;/p&gt;
-&lt;p&gt;Clique &lt;a href=&quot;/files/jornaleiro.xls&quot;&gt;aqui&lt;/a&gt; para download da tabela acima no formato Excel.&lt;/p&gt;</content>
+&lt;p&gt;Clique &lt;a href=&quot;/files/problema-ingressos.xls&quot;&gt;aqui&lt;/a&gt; para download da tabela&lt;br /&gt;
+acima no formato Excel.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/ingressos.html&quot;&gt;Esta calculadora&lt;/a&gt; pode ajudar você a pensar no&lt;br /&gt;
+problema.&lt;/p&gt;</content>
  </entry>
  
  <entry>
