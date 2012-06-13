@@ -30,5 +30,7 @@ semânticas e sintáticas. A estrutura das WordNets é extremamente útil
 para processamento de textos em linguagem natural em etapas como, por
 exemplo, resolução de ambiguidades.
 
-
+- [Foto 1](http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040744.JPG)
+- [Foto 2](http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040745.JPG)
+- [Foto 3](http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040742.JPG)
 
