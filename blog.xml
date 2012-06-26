@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>EMAp - Escola de Matemática Aplicada da FGV</title>
+ <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -14,7 +14,7 @@ layout: nil
    <email>arademaker@gmail.com</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.categories.blog %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://emap.fgv.br{{ post.url }}"/>
