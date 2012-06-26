@@ -3,6 +3,7 @@ layout: seminar
 title: Sistemas dedutivos no estilo de dedução natural e cálculo de sequentes para "Geralmente"
 quem: Leonardo Vana
 onde: FGV -- Praia de Botafogo, 190, sala 317
+tex: true
 ---
 
 - Quem:  {{ page.quem }}
