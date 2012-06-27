@@ -3,7 +3,7 @@ layout: post
 title: Nota de falecimento de Ernesto Lacomba Zamora
 author: Jair Koiller
 tags:
- - notícia
+ - noticia
 ---
 
 Faleceu hoje de manhã o eminente matematico mexicano
