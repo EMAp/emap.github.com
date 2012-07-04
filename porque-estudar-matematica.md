@@ -1,6 +1,8 @@
 ---
 layout: inner-child
 title: Por que estudar matemática aplicada?
+incluir:
+ - porque-emap.html
 ---
 
 Muitas das grandes inovações tecnológicas do mundo atual são

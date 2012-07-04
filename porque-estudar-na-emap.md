@@ -1,6 +1,8 @@
 ---
 layout: inner-child
 title: Por que estudar na EMAp?
+incluir:
+ - porque-matematica-aplicada.html
 ---
 
 A Fundação Getúlio Vargas criou a Escola de Matemática Aplicada (EMAp)
