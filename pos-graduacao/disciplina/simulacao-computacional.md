@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Simulação Computacional
 area: Matemática da Informação

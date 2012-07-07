@@ -28,7 +28,9 @@ layout: page
 	  </div>
 
 	  <div id="rightstrip1">
-	    {% include inner-right.html %}
+	  {% for my in page.incluir %}
+	    {% include my %}
+          {% endfor %}
 	  </div>
 	</div>
       </div>

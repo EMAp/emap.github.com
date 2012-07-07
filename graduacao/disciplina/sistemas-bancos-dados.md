@@ -1,5 +1,6 @@
 ---
 layout: disciplina
+section: graduacao
 title: Sistemas de Bancos de Dados
 ---
 

@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Álgebra Linear e Aplicações
 creditos: 3

@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Elaboração de Dissertação
 creditos: 0

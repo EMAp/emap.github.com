@@ -1,6 +1,12 @@
 ---
 layout: inner-child
 title: Processo Seletivo do Mestrado
+section: pos-graduacao
+incluir:
+ - widget-sobre-mestrado.html
+ - widget-linhas-mestrado.html
+ - widget-disciplinas-mestrado.html
+ - widget-perfil-egressos-mestrado.html
 ---
 
 As inscrições para a turma de 2012 do Mestrado em Modelagem Matemática

@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Probabilidade e inferência
 area:  Matemática Geral

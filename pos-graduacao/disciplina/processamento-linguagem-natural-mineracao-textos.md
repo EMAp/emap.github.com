@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Processamento de Linguagem Natural e Mineração de Textos
 creditos: 3

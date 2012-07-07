@@ -1,8 +1,10 @@
 --- 
-layout: equipe-apoio 
+layout: inner-child
 title: Equipe de apoio 
+section: equipe
+incluir:
+ - widget-equipe.html
 ---
-<h1 class="headline1"> {{ page.title }} </h1>		
 <div>
   <div class="person">
     <img src="/images/luciana.silva.jpg" class="equipe-apoio">

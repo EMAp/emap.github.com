@@ -1,5 +1,6 @@
 ---
 layout: disciplina
+section: graduacao
 title: Introdução à Computação 
 ---
 

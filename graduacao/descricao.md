@@ -2,6 +2,9 @@
 layout: inner
 title: Graduação
 section: graduation
+incluir:
+ - widget-disciplinas-graduacao.html
+ - widget-carreira.html
 ---
 
 ## Graduação em Matemática Aplicada

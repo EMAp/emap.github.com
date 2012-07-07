@@ -1,5 +1,6 @@
 ---
-layout: inner-child
+layout: disciplina
+section: graduacao
 title: Álgebra II
 ---
 

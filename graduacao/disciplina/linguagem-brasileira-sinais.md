@@ -1,5 +1,6 @@
 ---
 layout: disciplina
+section: graduacao
 title: Linguagem Brasileira de Sinais
 ---
 

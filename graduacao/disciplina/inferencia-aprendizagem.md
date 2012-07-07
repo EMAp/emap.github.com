@@ -1,5 +1,6 @@
 ---
 layout: disciplina
+section: graduacao
 title: Inferência e Aprendizagem 
 ---
 

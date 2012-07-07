@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Grafos, Redes sociais e Conectividade
 area:  Matemática da Imformação

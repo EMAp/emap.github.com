@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Aprendizagem por Máquinas
 creditos: 3

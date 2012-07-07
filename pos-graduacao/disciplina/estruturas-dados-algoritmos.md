@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Estruturas de Dados e Algoritmos
 creditos: 3

@@ -26,7 +26,8 @@ layout: page
 	  </div>
 
 	  <div id="rightstrip1">
-	    {% include inner-right.html %}
+	    {% capture secao %}widget-disciplinas-{{ page.section }}.html{% endcapture %}
+	    {% include secao %}
 	  </div>
 	</div>
       </div>

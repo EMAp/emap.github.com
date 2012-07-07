@@ -1,5 +1,6 @@
 ---
 layout: disciplina
+section: graduacao
 title: Modelagem Matemática I - Modelos elementares em Ciências Sociais
 ---
 

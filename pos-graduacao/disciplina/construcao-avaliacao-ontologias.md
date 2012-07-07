@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Construção e Avaliação de Ontologias
 creditos: 3

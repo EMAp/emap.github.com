@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Teoria dos Jogos e Modelos Socioeconômicos
 area:  Matemática Geral

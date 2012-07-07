@@ -1,7 +1,12 @@
 ---
 layout: inner
 title: Mestrado
-section: post-graduation
+section: pos-graduacao
+incluir:
+ - widget-linhas-mestrado.html
+ - widget-selecao-mestrado.html
+ - widget-disciplinas-mestrado.html
+ - widget-perfil-egressos-mestrado.html
 ---
 
 ## Mestrado em Modelagem Matemática da Informação

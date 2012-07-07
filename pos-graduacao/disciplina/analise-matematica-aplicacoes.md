@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Análise Matemática para Aplicações
 creditos: 3

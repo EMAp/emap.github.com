@@ -1,10 +1,12 @@
 ---
 layout: inner
-title: Equipe
-section: staff
+title: Professores
+section: equipe
+incluir:
+ - widget-equipe-apoio.html
 ---
 
-## Professores
+## Nossos professores
 
 - [Alexandre Rademaker](/people/alexandre.rademaker.html) - coordenador de projetos internos
 - [Antonio Carlos Saraiva Branco](/people/antonio.branco.html)
@@ -18,7 +20,3 @@ section: staff
 - [Renato Rocha Souza](/people/renato.souza.html) - coordenador da pós-graduação
 - [Walter Wagner Carvalho Sande](/people/walter.sande.html)
 
-
-## Equipe de apoio
-
-- [Equipe de apoio](equipe-apoio.html)

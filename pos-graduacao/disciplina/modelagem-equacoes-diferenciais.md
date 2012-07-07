@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Modelagem com Equações Diferenciais
 area: Matemática Geral

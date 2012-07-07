@@ -50,6 +50,10 @@
 
 - criar conta no delicious
 
+- Moacyr: (1) ausência de link para home (ou melhor descrição do logo
+  ser link para home); (2) confusão em entender que o menu "equipe" é
+  link para a página dos professores.
+
 * Bibliografias
 
  - https://github.com/inukshuk/bibtex-ruby

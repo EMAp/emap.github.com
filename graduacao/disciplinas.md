@@ -1,6 +1,9 @@
 ---
 layout: inner-child
 title: O curso de graduação
+incluir:
+ - widget-sobre-graduacao.html
+ - widget-carreira.html
 ---
 
 ## 1º Periodo

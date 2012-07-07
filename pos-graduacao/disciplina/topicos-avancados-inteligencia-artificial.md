@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Tópicos avançados em Inteligência Artificial
 creditos: 3

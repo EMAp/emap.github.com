@@ -1,6 +1,9 @@
 ---
 layout: inner-child
 title: Carreira em matemática aplicada
+incluir:
+ - widget-sobre-graduacao.html
+ - widget-disciplinas-graduacao.html
 ---
 
 ## Finanças e Produtos Financeiros

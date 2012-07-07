@@ -1,6 +1,12 @@
 ---
 layout: inner-child
 title: Perfil dos Egressos
+section: pos-graduacao
+incluir:
+ - widget-sobre-mestrado.html
+ - widget-linhas-mestrado.html
+ - widget-selecao-mestrado.html
+ - widget-disciplinas-mestrado.html
 ---
 
 O crescimento acelerado da capacidade monitoração de sistemas naturais

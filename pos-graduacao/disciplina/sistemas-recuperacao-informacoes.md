@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Sistemas de Recuperação de Informações
 area: Matemática da Informação

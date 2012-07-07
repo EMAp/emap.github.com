@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Tópicos Avançados em Lógica
 creditos: 3

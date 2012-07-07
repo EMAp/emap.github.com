@@ -1,6 +1,12 @@
 ---
 layout: inner-child
 title: Linhas de Pesquisa da Pós-Graduação
+section: pos-graduacao
+incluir:
+ - widget-sobre-mestrado.html
+ - widget-selecao-mestrado.html
+ - widget-disciplinas-mestrado.html
+ - widget-perfil-egressos-mestrado.html
 ---
 
 O Curso de Mestrado Acadêmico em Modelagem Matemática da Informação,

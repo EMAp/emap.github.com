@@ -1,5 +1,6 @@
 ---
 layout: disciplina
+section: graduacao
 title:  Álgebra, Teoria dos Números e Criptografia 
 ---
 

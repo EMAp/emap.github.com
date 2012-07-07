@@ -1,5 +1,6 @@
 ---
 layout: disciplina
+section: graduacao
 title: Modelagem Matemática III - Sistemas Lineares e Otimização
 ---
 

@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Modelagem e Mineração de Dados
 area: Ciência da Computação

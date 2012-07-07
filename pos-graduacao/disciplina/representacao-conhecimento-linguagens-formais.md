@@ -1,4 +1,5 @@
 ---
+section: pos-graduacao
 layout: disciplina
 title: Representação do Conhecimento e Linguagens Formais
 area: Matemática da Informação
