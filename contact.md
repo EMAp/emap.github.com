@@ -1,5 +1,5 @@
 ---
-layout: inner-child
+layout: inner
 title: Fale Conosco
 section: about
 incluir:
