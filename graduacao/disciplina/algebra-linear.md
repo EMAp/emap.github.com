@@ -18,6 +18,6 @@ apresentação das formas quadráticas.
 
 ## Bibliografía
 
-{% bibliography grad-algebra-linear.md %}
+{% bibliography grad-algebra-linear %}
 
 
