@@ -5,8 +5,7 @@ title: Linguagens de Programação
 ---
 
 - Carga horária:  90 horas (6 aulas semanais)
-- Pré-requisito:
-    - [Introdução à Computação](introducao-computacao.html)
+- Pré-requisito: [Introdução à Computação](introducao-computacao.html)
 
 ## Ementa 
 
@@ -18,4 +17,5 @@ objetos. Programação de interfaces com usuário.
 
 ## Bibliografía
 
-mendeley.emap.linguagens-programacao
+{% bibliography linguagens-programacao %}
+

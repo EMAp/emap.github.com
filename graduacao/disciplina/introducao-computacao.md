@@ -21,4 +21,4 @@ Space. Planilhas eletrônicas: Excel.
 
 ## Bibliografía
 
-mendeley.emap.introducao-computacao
+{% bibliography introducao-computacao %}

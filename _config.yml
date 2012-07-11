@@ -7,5 +7,17 @@ paginate: 10
 pagination: true
 archive_title_prefix: "Arquivo de "
 archive_title_suffix: " "
-exclude: ["README.md", "mendeley.tex", "mendeley.bib", "pendencias.org", "DEPLOY"]
+exclude: ["README.md", "pendencias.org", "DEPLOY"]
+
+scholar:
+  style: mla
+  locale: en
+  sort_by: none
+  order: ascending
+  source: ./_bibliography
+  bibliography: emap.bib
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+  query: "@*"  
 
