@@ -23,5 +23,5 @@ repetição. Vetores e Matrizes.
 
 ## Bibliografia
 
-mendley.emap.estruturas-dados-algoritmos
+{% bibliography mestr-estruturas-dados-algoritmos %}
 

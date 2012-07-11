@@ -18,4 +18,4 @@ problemas intratáveis
 
 ## Bibliografía
 
-mendeley.emap.teoria-computacao
+{% bibliography grad-teoria-computacao %}

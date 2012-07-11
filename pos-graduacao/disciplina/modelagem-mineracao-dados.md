@@ -55,5 +55,5 @@ Casos.
 
 ## Bibliografia
 
-mendley.emap.modelagem-mineracao-dados
+{% bibliography mestr-modelagem-mineracao-dados %}
 

@@ -24,7 +24,7 @@ impróprias.
 
 ## Bibliografía
 
-bibo.calculo-I 
+{% bibliography grad-calculo-I %}
 
 
 

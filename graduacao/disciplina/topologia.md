@@ -19,4 +19,4 @@ Morse. Noções de  geometria computacional e mecânica geométrica.
 
 ## Bibliografía
 
-mendeley.emap.topologia
+{% bibliography grad-topologia %}

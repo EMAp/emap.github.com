@@ -17,5 +17,5 @@ objetos. Programação de interfaces com usuário.
 
 ## Bibliografía
 
-{% bibliography linguagens-programacao %}
+{% bibliography grad-linguagens-programacao %}
 

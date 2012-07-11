@@ -24,5 +24,5 @@ avaliação de ontologias
 
 ## Bibliografia
 
-mendley.emap.construcao-avaliacao-ontologias
+{% bibliography mestr-construcao-avaliacao-ontologias %}
 

@@ -19,4 +19,4 @@ criptografia e El Gamal.
 
 ## Bibliografía
 
-mendeley.emap.algebra-teoria-numeros-criptografia
+{% bibliography grad-algebra-teoria-numeros-criptografia %}

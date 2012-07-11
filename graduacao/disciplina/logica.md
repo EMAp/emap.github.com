@@ -21,4 +21,4 @@ Primeira Ordem
 
 ## Bibliografía
 
-mendeley.emap.logica
+{% bibliography grad-logica %}

@@ -19,4 +19,4 @@ dinâmica. Método de Pontryagin.
 
 ## Bibliografía
 
-mendeley.emap.calculo-IV
+{% bibliography grad-calculo-IV %}

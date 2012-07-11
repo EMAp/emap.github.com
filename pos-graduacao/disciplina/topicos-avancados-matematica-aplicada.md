@@ -79,5 +79,5 @@ PIL. Animações 2D e 3D usando Python e OpenGL: Pyprocessing e Pyglet.
 
 ## Bibliografia
 
-mendley.emap.topicos-avancados-matematica-aplicada
+ não possui
 

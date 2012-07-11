@@ -29,5 +29,5 @@ de Mínima Perda Esperada.
 
 ## Bibliografia
 
-mendley.emap.probabilidade-inferencia
+{% bibliography mestr-probabilidade-inferencia %}
 

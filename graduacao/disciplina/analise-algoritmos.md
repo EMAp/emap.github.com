@@ -21,4 +21,4 @@ grafos, problemas de geometria computacional
 
 ## Bibliografía
 
-mendeley.emap.analise-algoritmos
+{% bibliography grad-analise-algoritmos %}

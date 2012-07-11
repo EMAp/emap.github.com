@@ -25,5 +25,5 @@ inferência Aquisição de Conhecimento
 
 ## Bibliografia
 
-mendley.emap.representacao-conhecimento-linguagens-formais
+{% bibliography mestr-representacao-conhecimento-linguagens-formais %}
 

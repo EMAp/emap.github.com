@@ -17,4 +17,5 @@ redes neurais e kernels.
 
 ## Bibliografía
 
-mendeley.emap.interferencia-aprendizagem
+{% bibliography grad-interferencia-aprendizagem %}
+

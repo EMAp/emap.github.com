@@ -28,5 +28,5 @@ otimização.
 
 ## Bibliografia
 
-mendley.emap.analise-matematica-aplicacoes
+{% bibliography mestr-analise-matematica-aplicacoes %}
 

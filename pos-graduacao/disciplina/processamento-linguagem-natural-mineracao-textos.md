@@ -25,4 +25,4 @@ software para PLN.
 
 ## Bibliografia
 
-mendley.emap.processamento-linguagem-natural-mineracao-textos
+{% bibliography mestr-processamento-linguagem-natural-mineracao-textos %}

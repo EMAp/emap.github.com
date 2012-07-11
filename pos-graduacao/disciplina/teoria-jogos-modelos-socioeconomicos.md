@@ -26,5 +26,5 @@ bayesiano, sinalização, seleção adversa e perigo moral.
 
 ## Bibliografia
 
-mendley.emap.teoria-jogos-modelos-socioeconomicos
+{% bibliography mestr-teoria-jogos-modelos-socioeconomicos %}
 

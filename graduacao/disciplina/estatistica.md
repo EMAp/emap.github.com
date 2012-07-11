@@ -28,7 +28,7 @@ normal. Fundamentos do modelo de regressão linear.
 
 ## Bibliografía
 
-mendeley.emap.estatistica
+{% bibliography grad-estatistica %}
 
 
 

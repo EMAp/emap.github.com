@@ -22,7 +22,7 @@ superfícies. Modelos de iluminação.
 
 ## Bibliografía
 
-mendeley.emap.curvas-superficies
+{% bibliography grad-curvas-superficies %}
 
 
 

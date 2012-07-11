@@ -24,5 +24,5 @@ Visualização Volumétrica. Visualização de Informação
 
 ## Bibliografia
 
-mendley.emap.visualizacao-informacao
+{% bibliography mestr-visualizacao-informacao %}
 

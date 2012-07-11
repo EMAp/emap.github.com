@@ -15,4 +15,4 @@ surdos,Legislação específica, Aspectos Lingüísticos da LIBRA.
 
 ## Bibliografía
 
-mendeley.emap.linguagem-brasileira-sinais
+ não possui

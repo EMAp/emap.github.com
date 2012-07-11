@@ -19,4 +19,4 @@ de Consulta: Álgebra Relacional.  A linguagem SQL.
 
 ## Bibliografía
 
-mendeley.emap.bancos-dados
+{% bibliography grad-sistemas-bancos-dados %}

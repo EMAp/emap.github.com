@@ -18,4 +18,4 @@ aplicações. Introdução à programação não linear.
 
 ## Bibliografía
 
-mendeley.emap.pesquisa-operacional-II
+{% bibliography grad-pesquisa-operacional-II %}

@@ -26,4 +26,4 @@ fisiologia, teoria da informação do DNA até a neurociência, etc.
 
 ## Bibliografía
 
-mendeley.emap.modelagem-matematica-IV
+{% bibliography grad-modelagem-matematica-IV %}

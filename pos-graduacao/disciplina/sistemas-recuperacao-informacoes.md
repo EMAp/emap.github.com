@@ -31,5 +31,5 @@ recuperação em redes Sociais
 
 ## Bibliografia
 
-mendley.emap.sistemas-recuperacao-informacoes
+{% bibliography mestr-sistemas-recuperacao-informacoes %}
 

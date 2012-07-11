@@ -18,4 +18,4 @@ singulares e aplicações.  O método simplex e suas aplicações.
 
 ## Bibliografía
 
-mendeley.emap.modelagem-matematica-III
+{% bibliography grad-modelagem-matematica-III %}

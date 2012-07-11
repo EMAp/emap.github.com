@@ -18,4 +18,4 @@ formas quadráticas; superfícies quádricas.
 
 ## Bibliografía
 
-mendeley.emap.geometria-analitica-vetores
+{% bibliography grad-geometria-analitica-vetores %}

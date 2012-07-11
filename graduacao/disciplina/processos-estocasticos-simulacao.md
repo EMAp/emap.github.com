@@ -16,7 +16,7 @@ Browniano.  Técnicas de Simulação.
 
 ## Bibliografía
 
-mendeley.emap.processos-estocasticos-simulacao
+{% bibliography grad-processos-estocasticos-simulacao %}
 
 
 

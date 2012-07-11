@@ -27,5 +27,6 @@ estocásticos.
 
 ## Bibliografia
 
-mendley.emap.simulacao-computacional
+{% bibliography mestr-simulacao-computacional %}
+
 

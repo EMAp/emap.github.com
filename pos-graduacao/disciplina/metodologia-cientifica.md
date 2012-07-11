@@ -26,5 +26,5 @@ Apresentação do Relatório de Pesquisa.
 
 ## Bibliografia
 
-mendley.emap.metodologia-cientifica
+{% bibliography mestr-metodologia-cientifica %}
 

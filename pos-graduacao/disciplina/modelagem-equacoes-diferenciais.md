@@ -27,5 +27,5 @@ diagnósticos de bifurcações e caos.
 
 ## Bibliografia
 
-mendley.emap.modelagem-equacoes-diferenciais
+{% bibliography mestr-modelagem-equacoes-diferenciais %}
 

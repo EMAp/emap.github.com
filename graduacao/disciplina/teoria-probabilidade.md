@@ -24,7 +24,7 @@ Introdução à Inferência Estatística.
 
 ## Bibliografía
 
-mendeley.emap.probabilidade
+{% bibliography grad-teoria-probabilidade %}
 
 
 

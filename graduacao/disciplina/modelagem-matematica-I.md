@@ -27,4 +27,4 @@ incompleta: Reinforcement Learning / Relative Payoff Sum.
 
 ## Bibliografía
 
-mendeley.emap.modelagem-matematica-I
+{% bibliography grad-modelagem-matematica-I %}

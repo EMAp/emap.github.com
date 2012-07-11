@@ -23,4 +23,4 @@ regulação; comércio internacional.
 
 ## Bibliografía
 
-mendeley.emap.introducao-economia
+{% bibliography grad-introducao-economia %}

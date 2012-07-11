@@ -27,4 +27,4 @@ endereçamento aberto.
 
 ## Bibliografía
 
-mendeley.emap.estruturas-dados-algoritmos
+{% bibliography grad-estruturas-dados-algoritmos %}

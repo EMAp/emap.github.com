@@ -29,5 +29,5 @@ Classificação e análise de sinais multimídia.
 
 ## Bibliografia
 
-mendley.emap.processamento-multimidia
+{% bibliography mestr-processamento-multimidia %}
 

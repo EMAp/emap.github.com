@@ -18,4 +18,4 @@ aplicações. Introdução à programação inteira.
 
 ## Bibliografía
 
-mendeley.emap.pesquisa-operacional-I
+{% bibliography grad-pesquisa-operacional-I %}

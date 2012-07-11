@@ -24,4 +24,4 @@ formais.
 
 ## Bibliografia
 
-mendley.emap.topicos-avancados-logica
+{% bibliography mestr-topicos-avancados-logica %}

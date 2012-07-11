@@ -18,4 +18,4 @@ Discriminante. Análise Canônica. Análise de Correspondências.
 
 ## Bibliografía
 
-mendeley.emap.estatistica-multivariada
+{% bibliography grad-estatistica-multivariada %}
