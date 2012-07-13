@@ -19,8 +19,8 @@ area: Ciência da Computação
 
 Entendo complexidade de algorítmos. Medidas de complexidade de
 algorítmos. Algorítmos para grafos e outras estruturas de dados
-comuns. Tipos de algorítmos: algorítmos gulosos, programação Dinâmica,
-divisão e Conquista etc. Problemas NP-Completos.
+comuns. Tipos de algorítmos: algorítmos gulosos, programação dinâmica,
+divisão e conquista etc. Problemas NP-Completos.
 
 ## Bibliografia
 
