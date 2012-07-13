@@ -14,13 +14,13 @@ area: Mátematica da informação
 ## Docente(s) 
 
 - Alexandre Rademaker
-- Renato Rocha Souza
 
 ## Ementa
 
-Apresentar/aprofundar tópicos básicos e técnicas de lógica, sistemas
-dedutivos e inferência, no escopo da web semântica e das ontologias
-formais.
+Lógica Proposicional: formalização de sentenças, sintaxe e semântica,
+Tableaux para Lógica Proposicional, Completude e Corretude. Lógica de
+Primeira Ordem (FOL): formalização de sentenças, sintaxe e semântica,
+corretude e completude. Sistemas dedutivos para FOL.
 
 ## Bibliografia
 

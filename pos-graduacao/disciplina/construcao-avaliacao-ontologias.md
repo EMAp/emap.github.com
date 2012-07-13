@@ -14,11 +14,12 @@ area: Matemática da Informação
 ## Docente(s) 
 
 - Renato Rocha Souza
+- Alexandre Rademaker
 
 ## Ementa
 
-Representação do Conhecimento e Sistemas de Organização do
-Conhecimento. Dados, Conceitos e Realidade. Modelagem e Representação.
+Representação do conhecimento e sistemas de organização do
+conhecimento. Dados, conceitos e realidade. Modelagem e representação.
 Metodologias para construção de ontologias. Metodologias para
 avaliação de ontologias
 

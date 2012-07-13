@@ -17,9 +17,10 @@ area: Ciência da Computação
 
 ## Ementa
 
-Lógica de Programação e suas representações. Constantes e variáveis.
-Estruturas de controle linear e condicional. Estruturas de controle de
-repetição. Vetores e Matrizes.
+Entendo complexidade de algorítmos. Medidas de complexidade de
+algorítmos. Algorítmos para grafos e outras estruturas de dados
+comuns. Tipos de algorítmos: algorítmos gulosos, programação Dinâmica,
+divisão e Conquista etc. Problemas NP-Completos.
 
 ## Bibliografia
 
