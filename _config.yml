@@ -10,7 +10,7 @@ archive_title_suffix: " "
 exclude: ["README.md", "pendencias.org", "DEPLOY"]
 
 scholar:
-  style: mla
+  style: apa
   locale: en
   sort_by: none
   order: ascending
