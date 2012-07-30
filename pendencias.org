@@ -17,13 +17,11 @@
 ** TODO [#B] Colocar link para lista de divulgação dos seminários		    :ASLA:
 ** TODO [#C] evitar geracao de page2, page3 no raiz				    :ALEX:
 ** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
-** DONE [#B] Tirar equipe-apoio do menu						    :ALEX:
-** DONE [#C] links dos rss dos seminarios e blogs				    :ALEX:
-** DONE [#A] Como listar as categorias existentes				    :ALEX:
-** DONE [#A] links nas categorias dos post para a pagina da categoria		    :ALEX:
-** DONE [#B] Link para FGV e ouvidoria acadêmica da FGV (email 19/03/2012)	    :ALEX:
    
 * Outras
+
+- possivel idea para páginas das grades de disciplinas
+  http://www.cis.jhu.edu/education/graduate-curriculum.php
 
 - revisar nomes de classes/ids do css. Nomes como block1 devem ser
   removidos. Nao usar mesma classe css para diferentes conteudos
