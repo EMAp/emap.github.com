@@ -6,7 +6,7 @@
 ** TODO [#A] formatacao na lateral da pagina de seminario			    :ALEX:
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
-** TODO [#B] lista de livros das ementas					    :ALEX:
+** DONE [#B] lista de livros das ementas					    :ALEX:
 ** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina		    :ALEX:
 ** TODO [#B] histórico de navegação nas páginas internas, breadcrumb		    :ALEX:
 ** TODO [#B] Quote na pagina porque estudar matematica ainda nao funciona	  :FELIPE:
@@ -44,11 +44,13 @@
   para a a data. A data é de postagem da notícia, não a data do
   tutorial.
 
-- criar conta no delicious
+- lista de seminarios home e interna: nome dos autores! Tamanho das fontes.
+
+- paginacao indexada de ZERO
 
 - Moacyr: (1) ausência de link para home (ou melhor descrição do logo
   ser link para home).
-
+  
 * Bibliografias
 
  - https://github.com/inukshuk/bibtex-ruby
