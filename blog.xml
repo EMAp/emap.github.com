@@ -4,13 +4,52 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-08-01T11:31:24-03:00</updated>
+ <updated>2012-08-06T00:30:40-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Professor da EMAp apresenta trabalho no Laboratório de IA do SRI</title>
+   <link href="http://emap.fgv.br/blog/2012/08/03/professor-emap-apresenta-trabalho-sri.html"/>
+   <updated>2012-08-03T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2012/08/03/professor-emap-apresenta-trabalho-sri</id>
+   <content type="html">&lt;p&gt;O professor da EMAp,
+&lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt;, irá
+apresentar no próximo dia 7 de agosto, no
+&lt;a href=&quot;http://www.ai.sri.com&quot;&gt;Laboratório de Inteligência Artificial&lt;/a&gt; do
+&lt;a href=&quot;http://www.sri.com&quot;&gt;SRI&lt;/a&gt;, o seminário &quot;The OpenWordNet-PT and its
+connection to SUMO Ontology&quot;, sobre os avanços na construção da
+OpenWordnet-PT, primeira versão aberta de uma Wordnet para o
+português.&lt;/p&gt;
+
+&lt;p&gt;A construção da Wordnet é um importante passo na criação de recursos
+léxicos da lingua portuguesa que permitam o processamento de textos em
+português. Tal projeto tem, como objetivo maior, a mineração de
+informações e relações entre entidades nos verbetes do Dicionário
+Histórico Brasileiro do &lt;a href=&quot;http://cpdoc.fgv.br&quot;&gt;CPDOC&lt;/a&gt;. A idéia é
+proporcional melhor interação dos usuários com o DHBB através de uma
+interface que possa responder perguntas e relacionar verbetes e
+verbetes a outros sites da Internet.&lt;/p&gt;
+
+&lt;p&gt;O projeto, em sua primeira etapa, trata da criação de recursos léxicos
+para futuros trabalhos de lingüística computacional em português
+semelhante aos existentes em inglês. A ausência desses recursos tem
+sido um obstáculo para muitas pesquisas na área de lingüística
+computacional no Brasil.&lt;/p&gt;
+
+&lt;p&gt;A ideia da apresentação é mostrar a evolução do projeto. O professor
+Alexandre Rademaker coordenou, em novembro do no ano passado, o
+encontro Logics and Ontologies for Portuguese, que apresentou o
+projeto à comunidade acadêmica.&lt;/p&gt;
+
+&lt;p&gt;Mais informações sobre o projeto, clique aqui
+https://github.com/arademaker/wordnet-br.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>FGV oferece bolsas de estudos para graduações no RJ e em SP</title>
