@@ -34,7 +34,7 @@ A ideia da apresentação é mostrar a evolução do projeto. O professor
 Alexandre Rademaker coordenou, em novembro do no ano passado, o
 encontro Logics and Ontologies for Portuguese, que apresentou o
 projeto à comunidade acadêmica.
- 
-Mais informações sobre o projeto, clique aqui
-https://github.com/arademaker/wordnet-br.
+
+Mais informações sobre o projeto no [repositório do projeto](https://github.com/arademaker/wordnet-br).
+
 
