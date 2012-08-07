@@ -4,7 +4,7 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-08-06T00:30:40-03:00</updated>
+ <updated>2012-08-06T23:17:57-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -46,8 +46,7 @@ Alexandre Rademaker coordenou, em novembro do no ano passado, o
 encontro Logics and Ontologies for Portuguese, que apresentou o
 projeto à comunidade acadêmica.&lt;/p&gt;
 
-&lt;p&gt;Mais informações sobre o projeto, clique aqui
-https://github.com/arademaker/wordnet-br.&lt;/p&gt;
+&lt;p&gt;Mais informações sobre o projeto no &lt;a href=&quot;https://github.com/arademaker/wordnet-br&quot;&gt;repositório do projeto&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
