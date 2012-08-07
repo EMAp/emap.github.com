@@ -4,6 +4,7 @@ title: Carreira em matemática aplicada
 incluir:
  - widget-sobre-graduacao.html
  - widget-disciplinas-graduacao.html
+ - widget-vestibular.html
 ---
 
 ## Finanças e Produtos Financeiros

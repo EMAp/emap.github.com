@@ -3,6 +3,7 @@ layout: inner
 title: Graduação
 section: graduation
 incluir:
+ - widget-vestibular.html
  - widget-disciplinas-graduacao.html
  - widget-carreira.html
 ---
