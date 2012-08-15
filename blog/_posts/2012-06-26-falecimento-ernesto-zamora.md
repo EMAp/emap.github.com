@@ -6,7 +6,7 @@ tags:
  - noticia
 ---
 
-Faleceu hoje de manhã o eminente matematico mexicano
+Faleceu no dia 26 de Junho de 2012 o eminente matematico mexicano
 [Ernesto Lacomba Zamora](http://www.genealogy.math.ndsu.nodak.edu/id.php?id=32582).
 Logo após seu doutoramento em Berkeley com Stephen Smale, Ernesto foi
 professor visitante da Universidade de Brasilia, voltando ao Mexico
