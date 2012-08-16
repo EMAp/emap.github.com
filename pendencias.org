@@ -2,6 +2,9 @@
 
 * Pendencias
 
+** TODO [#A] filtro no twitter com tag emap					    :ALEX:
+** TODO [#A] fotos de destaque no banner					  :FELIPE:
+** TODO [#A] blog e seminario atualizacao por Rachel com aviso por email	    :ALEX:
 ** TODO [#A] ordernar lista do arquivo do blog/seminarios por ano/mes 		    :ALEX:
 ** TODO [#A] formatacao na lateral da pagina de seminario			    :ALEX:
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
@@ -19,6 +22,8 @@
 ** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
    
 * Outras
+
+- Mensagens do fale conosco são registradas no sent itens?
 
 - possivel idea para páginas das grades de disciplinas
   http://www.cis.jhu.edu/education/graduate-curriculum.php
