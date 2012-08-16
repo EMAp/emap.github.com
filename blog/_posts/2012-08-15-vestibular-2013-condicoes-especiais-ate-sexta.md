@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Vestibular 2013 - condições especiais terminam sexta-feira
+title: Vestibular 2013 - condiÃ§Ãµes especiais terminam sexta-feira
 author: Rachel Carrijo
 tags:
  - vestibular
 ---
 
-Os interessados em prestar vestibular para a escola de Matemática
-Aplicada da FGV têm até as 18h do dia 17 de agosto (sexta-feira) para
-aproveitar as condições especiais na taxa de inscrição, pagando R$
-75,00.  Após esse horário, será cobrado o valor integral, R$ 150,00.
+Os interessados em prestar vestibular para a escola de MatemÃ¡tica
+Aplicada da FGV tÃªm atÃ© as 18h do dia 17 de agosto (sexta-feira) para
+aproveitar as condiÃ§Ãµes especiais na taxa de inscriÃ§Ã£o, pagando R$
+75,00.  ApÃ³s esse horÃ¡rio, serÃ¡ cobrado o valor integral, R$ 150,00.
 
-As inscrições podem ser feitas pelo
+As inscriÃ§Ãµes podem ser feitas pelo
 [site do vestibular](http://vestibular.fgv.br/curso/curso-de-matematica-aplicada-rj)
-onde os candidatos também poderão acessar o edital do curso.
+onde os candidatos tambÃ©m poderÃ£o acessar o edital do curso.
 
-Serão oferecidas 30 vagas para o curso de Matemática Aplicada na
+SerÃ£o oferecidas 30 vagas para o curso de MatemÃ¡tica Aplicada na
 cidade do Rio de Janeiro.
