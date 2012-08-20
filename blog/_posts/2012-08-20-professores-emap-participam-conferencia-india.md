@@ -40,7 +40,7 @@ Knowledge Organization Systems to the Brazilian Contemporary History
 Domain* apresenta o conjunto de iniciativas que estão sendo
 desenvolvidas pela Escola de Matemática Aplicada em parceria com o
 Centro de Pesquisa e Documentação de História Contemporânea do Brasil
-(CPDOC).  Dentro desse conjunto, podemos citar os projetos de
+(CPDOC). Dentro desse conjunto, podemos citar os projetos de
 reconhecimento de imagens e personagens em fotografias; de alinhamento
 de transcrições de entrevistas, de desenvolvimento de tesauros e
 ontologias e de processamento de linguagem natural.  De acordo com o
@@ -54,8 +54,9 @@ importância de estudos quantitativos aplicados a bancos de processos
 judiciais. O artigo propõe também discutir a relevância do uso de
 técnicas de visualização de informação na análise dos dados.
 
-O [vídeo](http://youtu.be/ohZgKOxW9DA), usado como exemplo
-visual do projeto no congresso, apresenta de forma científica e
-interessante, as decisões do STF, após a promulgação da Constituição
-de 1988.
+O vídeo a seguir, usado como exemplo visual do projeto no congresso,
+apresenta de forma científica e interessante, as decisões do STF, após
+a promulgação da Constituição de 1988.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/ohZgKOxW9DA?rel=0" frameborder="0" allowfullscreen></iframe>
 
