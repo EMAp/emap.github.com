@@ -4,13 +4,39 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-08-17T13:27:40-03:00</updated>
+ <updated>2012-08-20T10:43:05-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>IllustraRes - Interactive Reservoir Modeling and Visualization Group</title>
+   <link href="http://emap.fgv.br/seminars/2012/08/30/interactive-reservoir-modeling.html"/>
+   <updated>2012-08-30T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2012/08/30/interactive-reservoir-modeling</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Emílio Vital Brasil&lt;/li&gt;
+&lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
+&lt;li&gt;Quando: 30 Aug 2012 às 10:00AM&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The IllustraRes is a research group in the Department of Computer
+Science at the University of Calgary. Led by Dr. Mario Costa Sousa The
+group studies the interactive modeling, exploration, visualization and
+analysis of reservoir geoscience and engineering datasets across
+different states of the oil and gas exploration and production life
+cycle. I will present some recent works of the group.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Efficient Pay-per-node Diffusions</title>
