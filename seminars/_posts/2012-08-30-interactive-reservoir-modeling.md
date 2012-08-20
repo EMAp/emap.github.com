@@ -8,7 +8,7 @@ tex: false
 
 - Quem:  {{ page.quem }}
 - Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 10:00AM
+- Quando: {{ page.date | date_to_string }} às 15:00PM
 
 The IllustraRes is a research group in the Department of Computer
 Science at the University of Calgary. Led by Dr. Mario Costa Sousa The
