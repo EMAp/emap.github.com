@@ -54,9 +54,10 @@ importância de estudos quantitativos aplicados a bancos de processos
 judiciais. O artigo propõe também discutir a relevância do uso de
 técnicas de visualização de informação na análise dos dados.
 
-O vídeo a seguir, usado como exemplo visual do projeto no congresso,
-apresenta de forma científica e interessante, as decisões do STF, após
-a promulgação da Constituição de 1988.
+O vídeo a seguir, usado como exemplo visual do projeto na conferência,
+apresenta de forma científica e interessante, as decisões do STF,
+antes e após a promulgação da Constituição de 1988.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/ohZgKOxW9DA?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
