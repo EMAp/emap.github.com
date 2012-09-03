@@ -41,7 +41,7 @@ profissional e social vislumbrado para os anos vindouros. Além disso,
 dá continuidade à estratégia institucional de excelência preconizada
 pela FGV, consolidando sua atuação na área.
 
-   - [Processo seletivo 2012](selecao.html)
+   - [Processo seletivo](selecao.html)
    - [Perfil dos Egressos](perfil-egressos.html)
    - [Linhas de Pesquisa](linhas-pesquisa.html)
    - [Grade Disciplinar](disciplinas.html)
