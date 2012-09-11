@@ -4,13 +4,42 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-09-06T17:56:33-03:00</updated>
+ <updated>2012-09-11T11:06:16-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Projeções bidimensionais para classificação -- aplicações em citometria de fluxo</title>
+   <link href="http://emap.fgv.br/seminars/2012/09/13/projecoes-bidimensionais-para-classificacao.html"/>
+   <updated>2012-09-13T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2012/09/13/projecoes-bidimensionais-para-classificacao</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Carlos Pedreira&lt;/li&gt;
+&lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
+&lt;li&gt;Quando: 13 Sep 2012 às 16:00PM&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Aborda-se o problema de projeção de observações no R2 com o objetivo
+de visualização. Diferentemente de outras abordagens, o foco está
+direcionado à classificação. O principal objetivo é buscar um espaço
+bidimensional no qual se projete as observações otimizando a
+separabilidade entre os agrupamentos existentes no espaço original.
+Usa-se o divergente de Cauchy-Schawartz e a entropia para construir
+uma medida de separabilidade.  O algoritimo proposto, que inclui
+seleção de atributos, é aplicado ao diagnóstico diferencial de
+linfomas/leucemias crônicas por citometria de fluxo.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>IllustraRes - Interactive Reservoir Modeling and Visualization Group</title>
