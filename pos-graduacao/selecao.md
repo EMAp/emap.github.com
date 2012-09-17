@@ -9,8 +9,13 @@ incluir:
  - widget-perfil-egressos-mestrado.html
 ---
 
-As inscrições para a turma de 2013 do Mestrado em Modelagem Matemática
-da Informação serão abertas em dezembro de 2012.
+O Mestrado em Modelagem Matemática da Informação tem duração de 24
+meses. As aulas são oferecidas apenas na cidade do Rio de Janeiro, no
+prédio sede da FGV (Praia de Botafogo 190) e ocorrem duas vezes por
+semana, majoritariamente no período vespertino.
+
+As inscrições para a turma de 2013 do mestrado serão abertas em
+dezembro de 2012.
 
 As informações relativas ao processo seletivo serão divulgadas em
 Novembro. São documentos necessários à inscrição:
@@ -32,18 +37,26 @@ e tecnológico, será indicada a matrícula nas duas disciplinas a serem
 oferecidas em Janeiro de 2013 no Curso de Verão da Escola de
 Matemática Aplicada.
 
-As disciplinas são:
+As disciplinas podem ser oferecidas na parte da manhã ou da tarde, de
+segunda à sexta, durante 4 semanas, com duração de 3h por dia cada
+uma. O valor será informado quando o edital do mestrado for lançado.
+
+As inscrições serão abertas também em dezembro de 2012. As disciplinas
+são:
 
 - Introdução à programação através da linguagem Python;
 - Fundamentos de Matemática.
 
 O processo seletivo para a turma de 2013 acontecerá durante o mês de
-Fevereiro.
-
-Este consistirá de:
+Fevereiro. Este consistirá de:
 
 - Entrevista;
 - Análise do Curriculum Vitae e histórico(s) escolar(es);
 - Análise do desempenho nas disciplinas do curso de verão (para
   aqueles que as cursaram).
+
+## Informações Financeiras 
+
+Para maiores informações sobre o valor do curso e forma de pagamento,
+enviar e-mail para: emap AT fgv DOT br
 

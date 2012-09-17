@@ -1,6 +1,6 @@
 ---
 layout: seminar
-title: Projeções bidimensionais para classificação -- aplicações em citometria de fluxo
+title: Projeções bidimensionais para classificação - aplicações em citometria de fluxo
 quem: Carlos Pedreira
 onde: FGV -- Praia de Botafogo, 190, sala 317
 tex: false
