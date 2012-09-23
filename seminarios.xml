@@ -4,13 +4,54 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-09-16T23:12:10-03:00</updated>
+ <updated>2012-09-23T12:38:15-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Control Theory and Viability Methods for Sustainable Management of Natural Resources</title>
+   <link href="http://emap.fgv.br/seminars/2012/09/25/sustainable-management-natural-resources.html"/>
+   <updated>2012-09-25T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2012/09/25/sustainable-management-natural-resources</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Michel de Lara&lt;/li&gt;
+&lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
+&lt;li&gt;Quando: 25 Sep 2012 às 11:00AM&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;We cover applications of control theory and optimization to the
+management of natural resources. To begin with, we present some
+stylized decision models in climate change mitigation, fisheries
+management, dam management.  We show how a priori conflicting
+objectives such as economic (production) versus ecological
+(preservation) can be formulated as constraints to be satisfied by a
+control dynamical system.  Viability analysis provides conditions
+under which there exist management strategies which allow these
+constraints to be satisfied, on a given horizon. As an application, we
+present a viability analysis of the anchovy--hake couple in the
+Peruvian upwelling ecosystem.  We also develop a notion of ecosystem
+sustainable yields.  When uncertainties affect the dynamics, we show
+how to adapt the above framework and we introduce stochastic
+viability. We propose to rank strategies by their probability to
+achieve given objectives for all times on a given horizon. A numerical
+application to dam management under tourist constraint is given.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cermics.enpc.fr/~delara/exposes/slides_viability_HANDOUT.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Projeções bidimensionais para classificação - aplicações em citometria de fluxo</title>
