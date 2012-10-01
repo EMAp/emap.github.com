@@ -3,7 +3,7 @@ layout: site
 title: Pós-doutorando participa de congresso no Japão.
 author: Rachel Carrijo
 tags:
- - congresso
+ - congressos
 ---
 
 O pós-doutorando Crysttian Paixão esteve recentemente no
