@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: post
 title: Pós-doutorando participa de congresso no Japão.
 author: Rachel Carrijo
 tags:
