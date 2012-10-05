@@ -4,13 +4,57 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-10-01T14:14:55-03:00</updated>
+ <updated>2012-10-05T14:46:00-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>O C-ORAL-BRASIL I - corpus de referência para a fala espontânea informal do português brasileiro</title>
+   <link href="http://emap.fgv.br/seminars/2012/10/04/c-oral-brasil.html"/>
+   <updated>2012-10-04T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2012/10/04/c-oral-brasil</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Quem:  Heliana Ribeiro de Mello&lt;/li&gt;
+&lt;li&gt;Onde:  FGV -- Praia de Botafogo, 190, sala 317&lt;/li&gt;
+&lt;li&gt;Quando: 04 Oct 2012 às 16:00 h&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;O C-ORAL-BRASIL I (RASO &amp;amp; MELLO, 2012) é um corpus de fala espontânea
+informal do português brasileiro, representativo da diatopia do estado
+de Minas Gerais (sobretudo da área metropolitana de Belo Horizonte). O
+corpus foi compilado segundo a mesma arquitetura e critérios de
+segmentação do C-ORAL-ROM (CRESTI &amp;amp; MONEGLIA, 2005), assim como também
+utilizou o mesmo software de alinhamento som-transcrição, o WinPitch
+(@ Pitch Instruments Ltda). O corpus é composto por 139 textos de fala
+informal, 208.130 palavras, 21:08:52 horas de gravação (6.1 GB
+arquivos wav). A média de palavras por texto é de 1.500. As gravações
+foram executadas através de equipamento sem fio, de alta resolução
+acústica, com microfones de lapela monodirecionais e um mixer em
+interações com mais de dois participantes; em algumas poucas ocasiões
+microfones omnidirecionais foram utilizados. Os textos foram
+transcritos utilizando-se o formato CHAT, implementado para anotação
+prosódica. Todos os arquivos de transcrição são etiquetados
+morfossintaticamente através do anotador PALAVRAS (BICK, 2000). Os
+objetivos primários da arquitetura do corpus são a documentação das
+variações diafásicas (atos de fala) e diastráticas (sociolinguísticas)
+do português brasileiro falado, porém, a sua empregabilidade se
+estende, dentre outras áreas, à síntese da fala, processamento da
+linguagem natural, estudos da estrutura informacional e pragmática.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Palavras-chave&lt;/em&gt;: fala espontânea, português brasileiro, compilação de
+corpus, anotação prosódica, anotação morfossintática.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Control Theory and Viability Methods for Sustainable Management of Natural Resources</title>
