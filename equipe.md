@@ -18,5 +18,6 @@ incluir:
 - [Moacyr Alvim Horta Barbosa da Silva](/people/moacyr.silva.html)
 - [Paulo Cezar Pinto Carvalho](/people/paulo.carvalho.html) - coordenador de graduação
 - [Renato Rocha Souza](/people/renato.souza.html) - coordenador da pós-graduação
+- [Vincent Gérard Yannick Guigues](/people/vincent.guigues.html) 
 - [Walter Wagner Carvalho Sande](/people/walter.sande.html)
 
