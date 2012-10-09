@@ -13,6 +13,7 @@ incluir:
 - [Asla Medeiros e Sá](/people/asla.sa.html)
 - [Eduardo Wagner](/people/eduardo.wagner.html)
 - [Flávio Codeço Coelho](/people/flavio.coelho.html)
+- [Hugo Alexander de la Cruz Cansino](/people/hugo.cansino.html)
 - [Jair Koiller](/people/jair.koiller.html)
 - [Maria Izabel Tavares Camacho](/people/maria.camacho.html) - diretora
 - [Moacyr Alvim Horta Barbosa da Silva](/people/moacyr.silva.html)
