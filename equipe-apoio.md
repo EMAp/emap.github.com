@@ -24,5 +24,16 @@ incluir:
       <p>Tel: 3799-5902</p>
     </div>
   </div>
+  
+  <div class="person">
+    <img src="/images/interrogation-1.jpg" class="equipe-apoio"> 
+    <div class="person_info">
+      <h2>Raquel Peixoto Rittmeyer Silva</h2>
+      <p>raquel DOT rittmeyer AT fgv DOT br</p>
+      <p>Comunicação e Marketing</p>
+      <p>Tel: 3799-5810</p>
+    </div>
+  </div>
+  
 </div>
 
