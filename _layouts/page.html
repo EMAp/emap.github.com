@@ -17,6 +17,12 @@
     {% if page.rss != null %} 
     <link href="{{ page.rss }}" rel="alternate" title="RSS Feed" type="application/atom+xml" />
     {% endif %}
+
+    <!-- banner home -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+    <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
+
+    <!-- google analytics -->
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-18960726-2']);
@@ -28,6 +34,76 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     </script>
+
+    {% if page.home %}
+    <style type="text/css">
+      #slideshow { margin: 0px auto; } 
+      #nav { z-index: 50; position: absolute; bottom: 10px; left: 35px }
+      #nav a { margin: 0 5px; padding: 3px 5px; border: 1px solid #ccc; background: #cff; text-decoration: none }
+      #nav a.activeSlide { background: #aaf }
+      #nav a:focus { outline: none; }
+
+      #banner-caption-title {
+        color: white;
+        text-transform: uppercase;
+        margin-top: 5px;
+        margin-bottom: 0;
+        display: block;
+        font-family: 'Zurich Bold', 'Arial Narrow', Arial, Helvetica, Geneva, sans-serif;
+        line-height: 21px;
+        font-size: 20px;
+      }
+
+      #banner-caption-text {
+        color: white;
+        font-family: 'Zurich', 'Arial Narrow', Arial, Helvetica, Geneva, sans-serif;
+        line-height: 17px;
+        font-size: 16px;
+        margin-top: 6px;
+        text-transform: uppercase;
+        margin-bottom: 9px;
+      }
+
+      #banner-caption-link a {
+        background-color: #79002b;
+        color: #ffb0ae;
+        padding: 2px 4px;
+        font-size: 14px;
+      }
+
+      #banner-caption {
+       z-index: 80; 
+       background: rgba(179, 0, 86, 0.7);
+       width: 220px;
+       height: 140px;
+       color: white;
+       padding: 3px 5px; 
+       margin-left: 420px;
+       margin-top: 100px;
+       position: absolute; 
+       bottom: 10px; left: 120px 
+      }
+    </style>
+
+    <!-- http://jquery.malsup.com/cycle/caption.html -->
+    <script type="text/javascript">
+      $(function() {
+        $('#slideshow').cycle({
+         fx:     'turnDown',
+         speed:  'slow',
+         timeout: 5000,
+         pager:  '#nav',
+	 slideExpr: 'img',
+         after: function() {
+            var alink = "<a href=" + $(this).attr("link-url") + ">" + $(this).attr("link-title") + " <img src='/images/seta.png'></a>";
+            $('#banner-caption-text').html($(this).attr("text"));
+            $('#banner-caption-link').html(alink);
+            $('#banner-caption-title').html($(this).attr("title"));
+         }
+        });
+      });
+    </script>
+    {% endif %}
   </head>
 
   {{ content }}
