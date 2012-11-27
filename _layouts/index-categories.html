@@ -1,0 +1,44 @@
+---
+layout: page
+---
+
+<body class="index-{{ page.section }}">
+  <div align="center" id="container">
+    <div id="wrapper">
+
+      <!--Header Starts Here-->
+      {% include header.html %}
+
+      <!--Content Starts Here-->
+      <div id="content">
+
+	<div id="banner-inner">
+	  <div class="block-1">
+	    <div class="block1">
+	      {{ page.title }}
+	    </div>
+	  </div>
+	</div>
+
+	<div class="clear">
+	  <div id="leftstrip1">
+	    
+	    {{ content }}
+
+	  </div> 
+
+	  <div id="rightstrip1">
+	    {% include widget-localizacao.html %}
+
+	    <h3>RSS</h3>
+	    <p><a href="/{{ page.section }}.xml" class="rss">Assine nosso feed</a></p>
+	  </div>
+	</div>
+      </div>
+
+      <!--Footer Starts Here-->
+      {% include footer.html %}
+
+    </div>
+  </div>
+</body>
