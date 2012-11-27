@@ -1,6 +1,6 @@
 --- 
 layout: inner-child
-title: Equipe de apoio 
+title: Equipe Administrativa
 section: equipe
 incluir:
  - widget-equipe.html

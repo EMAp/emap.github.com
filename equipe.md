@@ -3,7 +3,7 @@ layout: inner
 title: Professores
 section: equipe
 incluir:
- - widget-equipe-apoio.html
+ - widget-equipe-admin.html
 ---
 
 ## Nossos professores
