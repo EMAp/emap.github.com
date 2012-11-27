@@ -92,3 +92,9 @@ consultoria. Os temas de interesse da EMAp/FGV incluem:
 - Planejamento estratégico.
 - Monitoramento ambiental.
 
+## Outros documentos
+
+- [Calendário 2012](/files/graduacao-calendario-2012.pdf)
+- [Fluxograma do curso](/files/graduacao-fluxograma.pdf)
+- [Guia do aluno](/files/graduacao-guia-aluno.pdf)
+- [Manual de atividades complementares](/files/graduacao-manual-ac.pdf)

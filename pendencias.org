@@ -3,14 +3,12 @@
 * Pendencias
 
 ** TODO [#A] filtro no twitter com tag emap					    :ALEX:
-** TODO [#A] fotos de destaque no banner					  :FELIPE:
 ** TODO [#A] blog e seminario atualizacao por Rachel com aviso por email	    :ALEX:
 ** TODO [#A] ordernar lista do arquivo do blog/seminarios por ano/mes 		    :ALEX:
 ** TODO [#A] formatacao na lateral da pagina de seminario			    :ALEX:
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
-** DONE [#B] lista de livros das ementas					    :ALEX:
-** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina		    :ALEX:
+** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina 		    :ALEX:
 ** TODO [#B] histórico de navegação nas páginas internas, breadcrumb		    :ALEX:
 ** TODO [#B] Quote na pagina porque estudar matematica ainda nao funciona	  :FELIPE:
 ** TODO [#B] Facebook widget para like pagina EMAp no Facebook na Home		  :FELIPE:
@@ -20,7 +18,8 @@
 ** TODO [#B] Colocar link para lista de divulgação dos seminários		    :ASLA:
 ** TODO [#C] evitar geracao de page2, page3 no raiz				    :ALEX:
 ** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
-   
+** TODO fotos da equipe administrativa devem ser mantidas? 			  :RAQUEL:
+
 * Outras
 
 - Mensagens do fale conosco são registradas no sent itens?
@@ -49,7 +48,8 @@
   para a a data. A data é de postagem da notícia, não a data do
   tutorial.
 
-- lista de seminarios home e interna: nome dos autores! Tamanho das fontes.
+- lista de seminarios home e interna: nome dos autores! Tamanho das
+  fontes.
 
 - paginacao indexada de ZERO
 
