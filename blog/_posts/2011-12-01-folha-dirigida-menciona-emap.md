@@ -3,7 +3,7 @@ layout: post
 title: Folha Dirigida menciona EMAp em especial sobre as novas aplicações da matemática
 author: Alexandre Rademaker
 tags:
- - reportagem
+ - noticia
 ---
 
 Se antes a Matemática era vista como carreira profissional para se dar

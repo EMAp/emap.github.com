@@ -67,3 +67,11 @@
  - http://brizzled.clapper.org/blog/2010/12/20/some-jekyll-hacks/
  - http://www.marran.com/tech/
  - http://joseoncode.com/2011/11/27/generating-monthly-archives-with-jekyll/
+
+Sobre o banner e CSS/Transparency no IE:
+
+- http://jquery.malsup.com/cycle/
+- http://css-tricks.com/rgba-browser-support/ 
+- http://www.mathsisfun.com/hexadecimal-decimal-colors.html
+- http://stackoverflow.com/questions/5571952/ie9-round-corners-and-filter-progiddximagetransform-microsoft-gradient
+- http://msdn.microsoft.com/en-us/library/ms532930(v=vs.85).aspx

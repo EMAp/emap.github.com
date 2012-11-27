@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="author" content="Alexandre Rademaker" />
-    <meta name="keywords" content="Matemática aplicada, matemática, FGV, FGV-RJ, graduação, pós-graduação, pesquisa" />
+    <meta name="keywords" content="matemática aplicada, matemática, EMAp, FGV, FGV-RJ, graduação, pós-graduação, pesquisa" />
     <meta name="description" content="EMAp/FGV - Escola de Matemática Aplicada"/>
     <meta http-equiv="Cache-Control" CONTENT="max-age=3600, must-revalidate" />
     <meta name="robots" content="all" />  
@@ -11,9 +11,11 @@
     <title>EMAp/FGV - Escola de Matemática Aplicada</title>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
     <link href="/css/stylesheet.css" rel="stylesheet" type="text/css"/>
+
     {% if page.tex %} 
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
+
     {% if page.rss != null %} 
     <link href="{{ page.rss }}" rel="alternate" title="RSS Feed" type="application/atom+xml" />
     {% endif %}
@@ -75,7 +77,7 @@
        z-index: 80; 
        background: rgba(179, 0, 86, 0.7);
        width: 220px;
-       height: 140px;
+       height: 130px;
        color: white;
        padding: 3px 5px; 
        margin-left: 420px;
@@ -85,11 +87,21 @@
       }
     </style>
 
-    <!-- http://jquery.malsup.com/cycle/caption.html -->
+    <!--[if IE]>
+    <style type="text/css">
+     #banner-caption { 
+       background:transparent;
+       /* B2 0.7*255 to hexadecimal */
+       filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2B30056,endColorstr=#B2B30056); 
+       zoom: 1;
+     } 
+    </style>
+    <![endif]-->
+
     <script type="text/javascript">
       $(function() {
         $('#slideshow').cycle({
-         fx:     'turnDown',
+         fx:     'turnLeft',
          speed:  'slow',
          timeout: 5000,
          pager:  '#nav',

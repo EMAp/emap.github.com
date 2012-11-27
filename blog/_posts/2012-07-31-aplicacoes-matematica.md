@@ -3,8 +3,8 @@ layout: post
 title: As aplicações da matemática no combate à lavagem de dinheiro
 author: Rachel Carrijo
 tags:
- - matematica
  - profissao
+ - noticia
 ---
 
 No último dia 25 de julho, o Jornal da Globo noticiou uma matéria
