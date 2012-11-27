@@ -3,7 +3,6 @@ layout: inner
 title: Graduação
 section: graduation
 incluir:
- - widget-vestibular.html
  - widget-disciplinas-graduacao.html
  - widget-carreira.html
 ---
@@ -73,7 +72,7 @@ acadêmico do aluno e do cumprimento dos critérios estabelecidos para
 cada Escola.  Para mais detalhes, veja o Regulamento do Curso de
 Graduação.
 
-Para mais detalhes, veja o [Regulamento do Curso de Graduação](/files/regulamento-graduacao.pdf).
+Para mais detalhes, veja o [regulamento do curso](/files/graduacao-regulamento.pdf).
 
 
 ## Quais os campos de atuação da matemática aplicada na EMAp/FGV?
@@ -98,3 +97,4 @@ consultoria. Os temas de interesse da EMAp/FGV incluem:
 - [Fluxograma do curso](/files/graduacao-fluxograma.pdf)
 - [Guia do aluno](/files/graduacao-guia-aluno.pdf)
 - [Manual de atividades complementares](/files/graduacao-manual-ac.pdf)
+- [Regulamento do curso](/files/graduacao-regulamento.pdf)

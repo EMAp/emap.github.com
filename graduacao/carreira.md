@@ -2,7 +2,6 @@
 layout: inner-child
 title: Carreira em matemática aplicada
 incluir:
- - widget-vestibular.html
  - widget-sobre-graduacao.html
  - widget-disciplinas-graduacao.html
 ---
