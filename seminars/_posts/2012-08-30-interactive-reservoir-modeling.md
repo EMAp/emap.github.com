@@ -4,11 +4,8 @@ title: IllustraRes - Interactive Reservoir Modeling and Visualization Group
 quem: Emílio Vital Brasil
 onde: FGV -- Praia de Botafogo, 190, sala 317
 tex: false
+hour: 15:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 15:00PM
 
 The IllustraRes is a research group in the Department of Computer
 Science at the University of Calgary. Led by Dr. Mario Costa Sousa The

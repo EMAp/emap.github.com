@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Pesquisas em Processamento de Linguagem Natural e Ontologias"
+title: Pesquisas em processamento de linguagem natural e ontologias
 quem: Renato Rocha Souza  
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 Foi apresentada, pelo professor Renato, uma das linhas de pesquisa do
 Mestrado em Modelagem Matemática da Informação da EMAp-FGV.

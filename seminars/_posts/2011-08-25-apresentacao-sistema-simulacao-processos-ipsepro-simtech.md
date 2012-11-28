@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: Sistema de simulação de processos IPSEpro e o grupo de pesquisa e estudos em sistemas de apoio à decisão EWG-DSS/EURO
-quem: Fátima C. C. Dargam 
+title: Sistema de simulação de processos IPSEpro e o grupo de pesquisa em sistemas de apoio à decisão EWG-DSS/EURO
+quem: Fátima C. C. Dargam
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem: {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 Esta apresentação tem como objetivo divulgar duas linhas de trabalho: o
 da firma SimTech e o do grupo de trabalho EWG-DSS. 

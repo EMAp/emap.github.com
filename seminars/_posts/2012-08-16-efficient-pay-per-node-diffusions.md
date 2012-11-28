@@ -4,11 +4,8 @@ title: Efficient Pay-per-node Diffusions
 quem: Bruno Ribeiro
 onde: FGV -- Praia de Botafogo, 190, sala 317
 tex: false
+hour: 10:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 10:00AM
 
 Diffusion processes crawl networks visiting nodes through their
 edges. There are a number of different types of network diffusions

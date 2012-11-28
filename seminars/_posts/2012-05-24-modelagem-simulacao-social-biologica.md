@@ -3,11 +3,8 @@ layout: seminar
 title: Modelagem e Simulação Computacional de Sistemas de origem Social e Biológica
 quem: Nuno Crokidakis
 onde: FGV -- Praia de Botafogo, 190, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00
 
 Modelos Computacionais que descrevem problemas de interesse Social e
 Biológico vêm sendo estudados nos últimos 20-30 anos por diversas

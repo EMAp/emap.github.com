@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Editoração em LaTeX" 
+title: Editoração em LaTeX
 quem: Flávio Codeço Coelho
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 Esta palestra teve por finalidade apresentar à equipe de editoração da
 Editora FGV o ambiente de editoração eletronica LateX.  Este ambiente

@@ -1,4 +1,4 @@
-# A quick and dirty plugin for Jekyll by Eli Naeher                                                                               
+# A quick and dirty plugin for Jekyll by Eli Naeher
 #                                                                                                                 
 # This plugin creates a site.years template variable which allow you
 # to group archive links by year and month.  The structure of
@@ -28,6 +28,8 @@ end
 
 module TieredArchives
   def self.find_years(posts)
-    posts.group_by {|post| post.date.year}.values.map {|year| year.group_by {|post| post.date.month}.values};
+    posts.group_by {|post| post.date.year}.values.map {
+      |year| year.group_by {|post| post.date.month}.values.sort{|a, b| b <=> a}
+    };
   end
 end

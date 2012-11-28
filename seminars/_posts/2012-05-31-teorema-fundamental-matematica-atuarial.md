@@ -1,13 +1,10 @@
 ---
 layout: seminar
-title: O Teorema Fundamental da Matemática Atuarial
+title: O teorema fundamental da matemática atuarial
 quem: Sergio Volchan
 onde: FGV -- Praia de Botafogo, 190, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00
 
 Nesta palestra apresentamos o modelo clássico de modelagem de risco
 coletivo em matemática atuarial, ramo não-vida.  Focalizamos o chamado

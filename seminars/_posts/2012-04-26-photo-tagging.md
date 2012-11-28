@@ -2,12 +2,9 @@
 layout: seminar
 title: Photo Tagging by Collection-Aware People Recognition
 quem: Cristina Nader Vasconcelos
-onde: FGV -- Praia de Botafogo, 190, sala 317
+onde: FGV, Praia de Botafogo, 190, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00
 
 Some mature ﬁndings in person recognition research restrict their use
 cases for dealing with near frontal face poses under controlled

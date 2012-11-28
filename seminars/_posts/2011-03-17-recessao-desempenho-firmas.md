@@ -2,12 +2,10 @@
 layout: seminar
 title: "Recessão e Desempenho das Firmas: Uma abordagem multinível de curvas de crescimento" 
 quem: Rafael Goldzsmidt  
+hour: 16:00h
+onde: FGV, Praia de Botafogo, 190, sala 317.
+hosted: Asla Sá
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
-- Hosted by: Asla Sá
 
 Apresentou os principais resultados obtidos em sua tese de doutorado
 sobre esse assunto

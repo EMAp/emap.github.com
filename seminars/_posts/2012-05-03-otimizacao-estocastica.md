@@ -3,11 +3,8 @@ layout: seminar
 title: Otimização estocástica aversa ao risco para problemas multiestágios
 quem: Vincent Guigues
 onde: FGV -- Praia de Botafogo, 190, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00
 
 A otimização estocástica é uma abordagem que permite modelar problemas
 de otimização envolvendo incerteza. Enquanto problemas de otimização

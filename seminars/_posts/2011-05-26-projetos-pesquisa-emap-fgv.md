@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Projetos e Pesquisa na EMAp FGV"
+title: Projetos e pesquisa na EMAp
 quem: Renato Rocha Souza e Flávio Codeço Coelho  
+hour: 16:00h
+onde: FGV, sala 317
 ---
-
-- Quem: {{ page.quem }}
-- Onde: FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 Renato Rocha Souza e Flávio Codeço Coelho falaram sobre um projeto em
 andamento da escola em parceria com a Direito-Rio, o "Supremo em

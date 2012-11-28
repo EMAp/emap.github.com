@@ -20,42 +20,44 @@ layout: page
 	  <div id="leftstrip1">
 	    <h1 class="headline1"> {{ page.title }} </h1>
 	    
-	    <h3> {{ page.date | date_to_long_string }} <span>· {{ page.quem }} </span></h3>
-	    
 	    <div id="post_full">
+
+	      <ul>
+		<li><b>Quem</b>: {{ page.quem }}</li>
+		<li><b>Onde</b>: {{ page.onde }}</li>
+		<li><b>Quando</b>: {{ page.date | localize: "%d de %B de %Y" }} às {{ page.hour }}</li>
+	      </ul>
 	      {{ content }}
+
 	    </div>
 	    
 	    <div id="meta-info">
-	      <p class="categories">Arquivado em: {{ page.tags | array_to_sentence_string }}</p>
-	      <!-- <a href="#">notícias,</a> <a href="#">eventos,</a> <a href="#">parcerias</a> --> 
-	      <script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'36073283-96ad-4b8d-8d04-0cb6636cc4d1'});</script>
+	      <script type="text/javascript">var switchTo5x=false;</script>
+	      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	      <script type="text/javascript">stLight.options({publisher:'36073283-96ad-4b8d-8d04-0cb6636cc4d1'});</script>
 	      <p class="sharing">
-			<span  class='st_twitter_large' ></span><span  class='st_facebook_large' ></span><span  class='st_email_large' ></span>
+		<span  class='st_twitter_large' ></span>
+		<span  class='st_facebook_large' ></span>
+		<span  class='st_email_large' ></span>
 	      </p>
 	    </div>
 	  </div>
 
 	  <div id="rightstrip1">
-	    <h3>Categorias</h3>
-	    <ul class="list-type1">
-	      <li><a href="#">notícias</a></li>
-	      <li><a href="#">eventos</a></li>
-	      <li><a href="#">vídeos</a></li>
-	      <li><a href="#">parcerias</a></li>
-	    </ul>
 	    <h3>Arquivo</h3>
 	    <ul class="list-type2">
-	      <li>
-		<a href="#">2011</a>
+	      {% for year in site.years %}                                                                                    
+	      <li>{{ year.first.first.date | date: "%Y" }}
 		<ul>
-		  <li><a href="#">novembro</a></li>
-		  <li><a href="#">outubro</a></li>
-		  <li><a href="#">setembro</a></li>
-		  <li><a href="#">agosto</a></li>
+		  {% for month in year %}
+		  <li><a href="/{{ month.first.date | date: '%Y'}}/{{ month.first.date | date: '%m'}}/">
+		      {{ month.first.date | localize: "%B" }} ({{month.size}})</a></li>
+		  {% endfor %}
 		</ul>
-	      </li>
+              </li>
+	      {% endfor %}
 	    </ul>
+
 	  </div>
 	</div>
 	

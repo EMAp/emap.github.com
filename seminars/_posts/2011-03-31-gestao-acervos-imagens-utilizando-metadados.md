@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Gestão de acervos de imagens utilizando metadados" 
+title: Gestão de acervos de imagens utilizando metadados
 quem: Marcio Isensee 
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 O objetivo da palestra é abordar as formas de gestão de acervos de
 imagens a partir da exploração de recursos oferecidos por padrões de

@@ -2,11 +2,9 @@
 layout: seminar
 title: "The Role of Information in Multistage R&D Races"
 quem: Angelo Polydoro  
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem: {{ page.quem }}
-- Onde:  FGV
-- Quando:  {{ page.date | date_to_string }}
 
 R&D races typically involve the development of several intermediate
 steps and in some industries information about the competitor’s

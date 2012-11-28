@@ -1,12 +1,11 @@
 ---
 layout: seminar
 title: Projetos de Inovação em Automação, Energia Solar, RFID, e Data Science
+onde: FGV, sala 317
+hosted: Jair Koiler
+hour: 16:00h
+quem: Dan Reznik
 ---
-
-- Quem: Dan Reznik
-- Onde: FGV
-- Quando: {{ page.date | date_to_string }}
-- Hosted by: Jair Koiler
 
 Em 2001 obtive um doutorado em Robótica na UC-Berkeley aonde
 desenvolvi um manipulador multi-objetos baseado numa mesa horizontal

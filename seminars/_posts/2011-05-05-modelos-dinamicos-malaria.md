@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Modelos dinâmicos e ações para reduzir o espalhamento da malária" 
+title: Modelos dinâmicos e ações para reduzir o espalhamento da malária
 quem: Luiz Bevilacqua
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde: FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 A malária é uma doença infecciosa causada por um protozoário do gênero
 Plasmodium que é transmitido de pessoa infectada a pessoa sadia

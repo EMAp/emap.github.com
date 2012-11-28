@@ -1,12 +1,11 @@
 ---
 layout: seminar
-title: "Ontologia aplicada à Biomedicina: a experiência no New York Center of Excellence in Bioinformatics &amp; Life Siences"
+title: "Ontologia aplicada à Biomedicina: a experiência no New York Center of Excellence in Bioinformatics & Life Siences"
+quem: Maurício Almeida 
+hosted: Renato Rocha
+onde: FGV, sala 317.
+hour: 16:00h
 ---
-
-- Quem: Maurício Almeida 
-- Onde: FGV
-- Quando: {{ page.date | date_to_string }}
-- Hosted by: Renato Rocha
 
 A grande quantidade de dados produzidos mundialmente em medicina e
 biologia tem trazido novos desafios para o campo da organização da

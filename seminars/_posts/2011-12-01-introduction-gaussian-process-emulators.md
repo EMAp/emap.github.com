@@ -2,13 +2,9 @@
 layout: seminar
 title: "Introduction to Gaussian Process Emulators "
 quem: Leonardo Bastos 
-onde: FGV 
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }}
-
 
 Simulators, also known as computer models, are mathematical
 representations of a real system implemented in a computer. Simulators

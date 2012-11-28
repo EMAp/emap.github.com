@@ -2,12 +2,10 @@
 layout: seminar
 title: "Localizing Math"
 quem: Isabel Cafezeiro and Ivan da Costa Marques
-onde: FGV (sala 1014)
+onde: FGV, sala 1014
+hour: 16:00h
+hosted: Alexandre Rademaker
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }}
 
 O seminário foi uma palestra do workshop
 [Logics and Ontologies for Portuguese](/events/nlp-2011/).

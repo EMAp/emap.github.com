@@ -4,11 +4,8 @@ title: Control Theory and Viability Methods for Sustainable Management of Natura
 quem: Michel de Lara
 onde: FGV -- Praia de Botafogo, 190, sala 317
 tex: false
+hour: 11:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 11:00AM
 
 We cover applications of control theory and optimization to the
 management of natural resources. To begin with, we present some

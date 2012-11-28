@@ -3,11 +3,8 @@ layout: seminar
 title: Desvendando um pouco da complexidade de processos dinâmicos em Epidemiologia e Imunologia
 quem: Rita Maria Zorzenon dos Santos
 onde: FGV -- Praia de Botafogo, 190, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00
 
 Neste seminário apresentaremos algumas abordagens que utilizamos
 recentemente no estudo de interação intra e inter hospedeiros em

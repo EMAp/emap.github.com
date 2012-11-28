@@ -1,13 +1,10 @@
 ---
 layout: seminar
 title: Consistency of Penalized Likelihood Estimation for Mixture-of-Experts
-quem: Eduardo Mendes -- Univ. of Chicago
-onde: FGV 
+quem: "Eduardo Mendes -- University of Chicago"
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }}
 
 We consider the estimation of the number of components on a
 mixture-of-experts (ME) model, using penalized maximum likelihood. We

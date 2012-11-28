@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "A Sina Masculina- Anos de Vida Perdidos no Brasil e Grandes Regiões-1980-2005"
+title: A sina masculina, anos de vida perdidos no Brasil e grandes regiões (1980-2005)
 quem: Kaizô Iwakami Beltrão 
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 Esta pesquisa analisa a evolução dos anos de vida perdidos (AVP) da
 população jovem e adulta brasileira segundo grandes grupos de causas,

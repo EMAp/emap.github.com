@@ -1,12 +1,9 @@
 ---
 layout: seminar
-title: "Comunicando por meio de uma sintaxe elementar"
+title: Comunicando por meio de uma sintaxe elementar
 quem: Edgardo Brigatti 
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 No final dos anos noventa foi realizado um experimento onde robôs
 conseguiam desenvolver competências lingüísticas relacionadas com as

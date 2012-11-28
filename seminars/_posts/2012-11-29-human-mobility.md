@@ -2,14 +2,11 @@
 layout: seminar
 title: Frequent Trajectories and Human Mobility Based on Call Detail Records
 quem: Carlos André Reis Pinheiro
-onde: FGV -- Praia de Botafogo, 190, sala 317
+onde: FGV, Praia de Botafogo, 190, sala 317
 published: false
+hour: 16:00h
 tex: false
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00 h
 
 Telecommunications’ industry evolves continuously into a high
 competitive marketplace which demands companies to establish a tight

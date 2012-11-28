@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "A Bayesian Framework for Parameter Estimation in Dynamical Models"
-quem: Flávio Codeço Coelho  
+title: A Bayesian framework for parameter estimation in dynamical models
+quem: Flávio Codeço Coelho
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV
-- Quando: {{ page.date | date_to_string }}
 
 Mathematical models in biology are powerful tools for the study and
 exploration of complex dynamics. Nevertheless, bringing theoretical

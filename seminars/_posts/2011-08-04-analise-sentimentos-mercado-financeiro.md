@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Análise de Sentimentos e Mercado Financeiro"
+title: Análise de sentimentos e mercado financeiro
 quem: André Coutinho  
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:   FGV
-- Quando: {{ page.date | date_to_string }}
 
 Este seminário trata de análise de sentimentos do mercado
 financeiro. A análise de sentimentos tem como objetivo extrair

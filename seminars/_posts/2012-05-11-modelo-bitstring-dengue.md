@@ -2,12 +2,9 @@
 layout: seminar
 title: Modelo de bitstring para estudo da propagação da dengue
 quem: Crysttian Arantes
-onde: FGV -- Praia de Botafogo, 190, sala 317
+onde: FGV, Praia de Botafogo, 190, sala 317.
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00
 
 Dengue é uma doença transmitida por mosquitos nas regiões tropicais e
 subtropicais do mundo. Ela é considerada como uma das mais importantes

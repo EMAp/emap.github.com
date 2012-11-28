@@ -2,13 +2,9 @@
 layout: seminar
 title: "Um modelo matemático para a disseminação da Wolbachia em mosquitos"
 quem: Moacyr Alvim Horta Barbosa da Silva  
-onde: FGV (sala 317)
+onde: FGV, sala 317.
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }}
-
 
 A introdução da bactéria Wolbachia na população de mosquitos Aedes
 aegypti tem sido proposta como uma estratégia muito promissora para

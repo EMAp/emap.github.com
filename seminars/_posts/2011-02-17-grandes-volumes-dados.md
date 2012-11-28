@@ -1,12 +1,9 @@
 ---
 layout: seminar
-title: "EOSMedia - Ambiente para Armazenamento, Recuperação, Interpretação e Análise de Grandes Volumes de Dados Multimídia"
+title: EOSMedia, um ambiente para Armazenamento, recuperação, interpretação e análise de grandes volumes de dados multimídia
 quem: Anselmo Paiva 
+hour: 16:00h
 ---
-
-- Quem: {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 Os avanços tecnológicos recentes têm propiciado o uso de várias mídias
 digitais no formato de texto, fotografias, videos e

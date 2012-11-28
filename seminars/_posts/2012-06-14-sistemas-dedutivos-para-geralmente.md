@@ -4,11 +4,8 @@ title: Sistemas dedutivos no estilo de dedução natural e cálculo de sequentes
 quem: Leonardo Vana
 onde: FGV -- Praia de Botafogo, 190, sala 317
 tex: true
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00
 
 Afirmações que contêm noções vagas, tais como "geralmente", "muitos",
 "raramente" etc. ocorrem freqüentemente em linguagem natural e em

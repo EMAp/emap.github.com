@@ -3,11 +3,8 @@ layout: seminar
 title: Quem será o próximo campeão brasileiro? Modelos matemáticos para previsão em esportes
 quem: Paulo Cezar Pinto Carvalho
 onde: FGV 
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }}
 
 Todos os anos, ao se aproximar o final do Campeonato Brasileiro de
 Futebol, são publicadas na midia várias projeções de resultados,

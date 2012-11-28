@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Very Important Faces: yet another Character Annotation Tool "
-quem: Asla Medeiros e Sá, Cristina Nader Vasconcelos, Martina Spohr Goncalves and Paulo Cezar Carvalho 
+title: Very Important Faces, yet another character annotation tool
+quem: Asla Medeiros e Sá, Cristina Nader Vasconcelos, Martina Spohr Goncalves and Paulo Cezar Carvalho
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem: {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 This presentation will describe the ongoing project of creating yet
 another character annotation tool, the Very Important Faces (V.I.F.)

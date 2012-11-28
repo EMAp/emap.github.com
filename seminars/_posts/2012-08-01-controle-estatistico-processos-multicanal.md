@@ -4,11 +4,8 @@ title: Controle Estatístico de Processos Multicanal
 quem: Bruno Simões
 onde: FGV -- Praia de Botafogo, 190, sala 317
 tex: false
+hour: 10:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 10:00AM
 
 Processos Multicanal (PMC) estão presentes nas linhas de produção de
 muitos segmentos industriais, tais como na indústria alimentícia,

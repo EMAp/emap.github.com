@@ -2,13 +2,10 @@
 layout: seminar
 title: O C-ORAL-BRASIL I - corpus de referência para a fala espontânea informal do português brasileiro
 quem: Heliana Ribeiro de Mello
-onde: FGV -- Praia de Botafogo, 190, sala 317
+onde: FGV, Praia de Botafogo, 190, sala 317
+hour: 16:00h
 tex: false
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  {{ page.onde }}
-- Quando: {{ page.date | date_to_string }} às 16:00 h
 
 O C-ORAL-BRASIL I (RASO & MELLO, 2012) é um corpus de fala espontânea
 informal do português brasileiro, representativo da diatopia do estado

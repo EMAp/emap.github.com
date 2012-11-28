@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Reunião Pronex Dengue"
+title: Reunião Pronex Dengue
 quem: Moacyr Silva
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem: {{ page.quem }}
-- Onde: FGV
-- Quando: {{ page.date | date_to_string }}
 
 No âmbito do projeto Pronex Dengue  reuniões de andamento do
 projeto vem sendo realizadas periodicamente sendo sediadas em uma das

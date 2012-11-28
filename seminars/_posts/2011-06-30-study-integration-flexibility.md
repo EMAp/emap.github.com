@@ -1,12 +1,10 @@
 ---
 layout: seminar
-title: "Study of integration of flexibility and robustness to optimization methods"
+title: Study of integration of flexibility and robustness to optimization methods
 quem: Eduardo Laber  
+onde: FGV, sala 317
+hour: 16:00h
 ---
-
-- Quem:  {{ page.quem }}
-- Onde:  FGV (sala 317)
-- Quando: {{ page.date | date_to_string }}
 
 Study of integration of flexibility and robustness to optimization
 methods. Resumo: Resolution of difficult problems of optimization
