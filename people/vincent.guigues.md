@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Vincent Gérard Yannick Guigues
+tex: true
 picture: vincent.guigues.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Adjunto
-- Email: vincent DOT guigues AT fgv DOT br
+- Email: \\( vincent . guigues @ fgv . br \\)
 - Lattes: [http://lattes.cnpq.br/6539383780616623](http://lattes.cnpq.br/6539383780616623)
 
 Possui graduação e mestrado em Informática e Matemática Aplicada pela

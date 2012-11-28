@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Alexandre Rademaker
+tex: true
 picture: alexandre.rademaker.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Adjunto (coordenador de projetos Internos)
-- Email: alexandre DOT rademaker AT fgv DOT br
+- Email: \\( alexandre . rademaker @ fgv . br \\)
 - Homepage: [http://arademaker.github.com](http://arademaker.github.com)
 - Lattes: [http://lattes.cnpq.br/0675365413696898](http://lattes.cnpq.br/0675365413696898)
   

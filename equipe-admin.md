@@ -10,7 +10,7 @@ incluir:
     <img src="/images/luciana.silva.jpg" class="equipe-apoio">
     <div class="person_info">		
       <h2>Luciana Cunha Lauria da Silva</h2>
-      <p>luciana DOT silva AT fgv DOT br</p>
+      <p><script type='text/javascript'>var a = new Array('a@fgv.','a.silv','lucian','br');document.write("<a href='mailto:"+a[2]+a[1]+a[0]+a[3]+"'>"+a[2]+a[1]+a[0]+a[3]+"</a>");</script></p>
       <p>Assessoria Acadêmica</p>
       <p>Tel: 3799-5917</p>
     </div>
@@ -19,7 +19,7 @@ incluir:
     <img src="/images/cristiane.guimaraes.jpg" class="equipe-apoio">
     <div class="person_info">
       <h2>Cristiane Souza Guimarães</h2>
-      <p>cristiane DOT guimaraes AT fgv DOT br</p>
+      <p><script type='text/javascript'>var a = new Array('guimaraes@','cristiane.','fgv.br');document.write("<a href='mailto:"+a[1]+a[0]+a[2]+"'>"+a[1]+a[0]+a[2]+"</a>");</script></p>
       <p>Controle Financeiro</p>
       <p>Tel: 3799-5902</p>
     </div>
@@ -29,7 +29,7 @@ incluir:
     <img src="/images/interrogation-1.jpg" class="equipe-apoio"> 
     <div class="person_info">
       <h2>Raquel Peixoto Rittmeyer Silva</h2>
-      <p>raquel DOT rittmeyer AT fgv DOT br</p>
+      <p><script type='text/javascript'>var a = new Array('r','meyer@fgv.b','raquel.ritt');document.write("<a href='mailto:"+a[2]+a[1]+a[0]+"'>"+a[2]+a[1]+a[0]+"</a>");</script></p>
       <p>Comunicação e Marketing</p>
       <p>Tel: 3799-5810</p>
     </div>

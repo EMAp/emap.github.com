@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Walter Wagner Carvalho Sande
+tex: true
 picture: walter.sande.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Assistente 
-- Email: walter DOT sande AT fgv DOT br
+- Email: \\( walter . sande @ fgv . br \\)
 - Lattes: [http://lattes.cnpq.br/0289400810360557](http://lattes.cnpq.br/0289400810360557)
 
 Mestre em Administração de Empresas, pela COPPEAD/UFRJ. Graduado em

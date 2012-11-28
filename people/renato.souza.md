@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Renato Rocha Souza
+tex: true
 picture: renato.souza.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Adjunto 
-- Email: renato DOT souza AT fgv DOT br
+- Email: \\( renato . souza @ fgv . br \\)
 - Lattes: [http://lattes.cnpq.br/4726949697973381](http://lattes.cnpq.br/4726949697973381)
 
 Possui graduação em Engenharia Elétrica pela Pontifícia Universidade

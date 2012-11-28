@@ -23,8 +23,9 @@ http://emap.fgv.br/2012/11/
 
 ** TODO melhorar proteção dos emails						    :ALEX:
 
-fulano AT site DOT suffixo? Trocar para figura? talvez usando LaTeX e
-js?
+Estou testando duas formas. Nos profesores o mathjax e na equipe:
+
+http://www.projecthoneypot.org/how_to_avoid_spambots_3.php
 
 ** TODO melhor formatação da página de uma tag					    :ALEX:
 

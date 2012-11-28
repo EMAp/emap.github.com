@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Hugo Alexander de la Cruz Cansino
+tex: true
 picture: hugo.cansino.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Adjunto
-- Email: hugocruzc AT gmail DOT com
+- Email: \\( hugocruzc @ gmail . com \\)
 - Lattes: [http://lattes.cnpq.br/0044915261354363](http://lattes.cnpq.br/0044915261354363)
 
 Possui graduação em Matemática pela Universidad de Oriente, Cuba

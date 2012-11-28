@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Paulo Cezar Pinto Carvalho
+tex: true
 picture: paulo.carvalho.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Coordenador Acadêmico   
-- Email: paulo DOT carvalho AT fgv DOT br
+- Email: \\( paulo . carvalho @ fgv . br \\)
 - Homepage: [http://www.impa.br/~pcezar](http://www.impa.br/~pcezar)
 - Lattes: [http://lattes.cnpq.br/7674875576915670](http://lattes.cnpq.br/7674875576915670)
 

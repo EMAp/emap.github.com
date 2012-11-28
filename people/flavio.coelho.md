@@ -1,13 +1,14 @@
 ---
 layout: people
-title: Flávio Codeço Coelho 
+title: Flávio Codeço Coelho
+tex: true
 picture: flavio.coelho.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Associado
-- Email: fccoelho AT fgv DOT br
+- Email: \\( fccoelho @ fgv . br \\)
 - Homepage: [http://fccoelho.github.com](http://fccoelho.github.com)
 - Lattes: [http://lattes.cnpq.br/0309050626285266](http://lattes.cnpq.br/0309050626285266)
 

@@ -2,12 +2,13 @@
 layout: people
 title: Asla Medeiros e Sá
 picture: asla.sa.jpg
+tex: true
 ---
 
 # {{ page.title }}
 
 - Cargo: Professora Adjunta
-- Email: asla DOT sa AT fgv DOT br
+- Email: \\( asla . sa @ fgv . br \\)
 - Homepage: [http://aslasa.googlepages.com/home](http://aslasa.googlepages.com/home)
 - Lattes: [http://lattes.cnpq.br/1427153134693867](http://lattes.cnpq.br/1427153134693867)
 

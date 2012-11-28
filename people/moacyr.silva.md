@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Moacyr Alvim Horta Barbosa da Silva
+tex: true
 picture: moacyr.silva.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Adjunto  
-- Email: moacyr DOT silva AT fgv DOT br
+- Email: \\( moacyr . silva @ fgv . br \\)
 - Lattes: [http://lattes.cnpq.br/9077049649454688](http://lattes.cnpq.br/9077049649454688)
 
 Possui graduação em informática (1991) e em matemática (1996) pela
