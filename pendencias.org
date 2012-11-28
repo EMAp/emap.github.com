@@ -1,11 +1,10 @@
+#+startup: showall 
 #+TAGS: FELIPE ASLA ALEX
 
 * Pendencias
 
 ** TODO [#A] filtro no twitter com tag emap					    :ALEX:
 ** TODO [#A] blog e seminario atualizacao por Rachel com aviso por email	    :ALEX:
-** TODO [#A] ordernar lista do arquivo do blog/seminarios por ano/mes 		    :ALEX:
-** TODO [#A] formatacao na lateral da pagina de seminario			    :ALEX:
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
 ** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina 		    :ALEX:
@@ -15,10 +14,31 @@
 ** TODO [#B] Facebook share de posts do blog e seminarios		     :FELIPE:ALEX:
 ** TODO [#B] metas das paginas title, descrition, date			     :FELIPE:ALEX:
 ** TODO [#B] Nas lista dos seminarios, nome do palestrante e filiação		  :FELIPE:
-** TODO [#B] Colocar link para lista de divulgação dos seminários		    :ASLA:
 ** TODO [#C] evitar geracao de page2, page3 no raiz				    :ALEX:
 ** TODO [#B] link para moodle na lateral das paginas das disciplinas	       :ALEX:ASLA:
 ** TODO fotos da equipe administrativa devem ser mantidas? 			  :RAQUEL:
+** TODO melhor formatação da página mês/ano.					    :ALEX:
+
+http://emap.fgv.br/2012/11/
+
+** TODO melhorar proteção dos emails						    :ALEX:
+
+fulano AT site DOT suffixo? Trocar para figura? talvez usando LaTeX e
+js?
+
+** TODO melhor formatação da página de uma tag					    :ALEX:
+
+http://emap.fgv.br/tag/congressos/
+
+** TODO repensar como listar os anos/meses					    :ALEX:
+
+a lista como está vai ficar grande muito rápido.
+
+** TODO pensar se colocamos ou não formulários para comentários			    :ALEX:
+
+Like do facebook? Disqus?
+
+** TODO separar, na listagem dos posts de um dado mês/ano, blog e seminários?	    :ALEX:
 
 * Outras
 
@@ -30,23 +50,11 @@
 - revisar nomes de classes/ids do css. Nomes como block1 devem ser
   removidos. Nao usar mesma classe css para diferentes conteudos
 
-- limpar arquivos desnecessarios (imagens, fontes etc)
-
 - rever urls em todo o site, http://www.w3.org/Provider/Style/URI.html
 
 - mais imagens para as páginas internas. Paginas como "porque estudar
   na EMAp" precisam de imagens mais dinâmicas, animadas. A foto dos
   livros está muito ruim. Talvez usar fotos CC do Flinckr?
-
-- post de blog e seminario tem logo abaixo do titulo data e nome. Acho
-  que pode confundir... No caso do post, o nome é de quem postou a
-  notícia. No caso do seminário o nome é de quem irá apresentar. Veja o
-  post sobre o tutorial que será apresentado pelo Alvaro mas consta meu
-  nome como quem postou a notícia. Pode parecer que eu é que irei
-  apresentar o tutorial. Temos que pensar em apresentar de forma
-  diferente a autoria de post (que é importante ser mostrada). O mesmo
-  para a a data. A data é de postagem da notícia, não a data do
-  tutorial.
 
 - lista de seminarios home e interna: nome dos autores! Tamanho das
   fontes.
@@ -75,3 +83,7 @@ Sobre o banner e CSS/Transparency no IE:
 - http://www.mathsisfun.com/hexadecimal-decimal-colors.html
 - http://stackoverflow.com/questions/5571952/ie9-round-corners-and-filter-progiddximagetransform-microsoft-gradient
 - http://msdn.microsoft.com/en-us/library/ms532930(v=vs.85).aspx
+
+Locales no Jekyll para datas:
+
+- http://stackoverflow.com/questions/10714980/locale-specific-date-in-jekyll

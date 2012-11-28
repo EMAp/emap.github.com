@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FGV cria serviço integrado de computação em nuvem para comunidade acadêmica
-author: Raquel Peixoto Rittmeyer Silva
+author: FGV Noticia
 tags:
  - noticia
 ---
