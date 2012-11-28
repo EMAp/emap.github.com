@@ -405,11 +405,9 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 0 25px 0;
 }
 
-.inner-child #leftstrip1 h1, .index-seminars #leftstrip1 h1,
-.people #leftstrip1 h1, .disciplina #leftstrip1 h1,
-.blog #leftstrip1 h1, .equipe_apoio #leftstrip1 h1 {
+.inner-child #leftstrip1 h1, .people #leftstrip1 h1, 
+.disciplina #leftstrip1 h1,  .equipe_apoio #leftstrip1 h1 {
     border-bottom: 1px solid #cccccc;
-    padding: 0 0 25px 0;
     margin: 0 0 20px;
 }
 
@@ -649,7 +647,11 @@ h1, h2, h3, h4, h5, h6 {
     background: url(/images/banner-research.jpg) no-repeat left top
 }
 
-.seminars #banner-inner {
+.index-seminars #banner-inner {
+    background: url(/images/banner-seminars.jpg) no-repeat left top
+}
+
+.index-blog #banner-inner {
     background: url(/images/banner-seminars.jpg) no-repeat left top
 }
 
@@ -676,6 +678,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 0 20px 0;
     font-size: 15px;
 }
+
 #post_full p a {
     text-decoration: underline;
 }

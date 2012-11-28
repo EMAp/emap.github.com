@@ -4,7 +4,7 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-11-27T10:05:07-02:00</updated>
+ <updated>2012-11-28T07:35:36-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -13,10 +13,28 @@
 
  
  <entry>
+   <title>FGV cria serviço integrado de computação em nuvem para comunidade acadêmica</title>
+   <link href="http://emap.fgv.br/blog/2012/11/28/cloud-academica.html"/>
+   <updated>2012-11-28T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2012/11/28/cloud-academica</id>
+   <content type="html">&lt;p&gt;A Diretoria de Operações, através da gerência de Tecnologia de
+Informação (TIC), desenvolveu uma &lt;em&gt;cloud&lt;/em&gt; de uso exclusivo de
+professores e pesquisadores da FGV. Chamada Cloud Acadêmica, a solução
+foi desenvolvida a pedido da presidência usando o conceito de
+computação em nuvem (ou cloud computing) para atender à necessidade de
+processamento e armazenamento de dados de alto desempenho exigidos
+especialmente nas áreas de Economia, Administração e Matemática
+Aplicada.&lt;/p&gt;
+
+&lt;p&gt;Confira a &lt;a href=&quot;http://fgvnoticias.fgv.br/noticia/fgv-cria-servico-integrado-de-computacao-em-nuvem-para-comunidade-academica&quot;&gt;matéria na íntegra&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>EMAp participa de encontro da PythonBrasil</title>
-   <link href="http://emap.fgv.br/blog/2012/12/23/python-brasil.html"/>
-   <updated>2012-12-23T00:00:00-02:00</updated>
-   <id>http://emap.fgv.br/blog/2012/12/23/python-brasil</id>
+   <link href="http://emap.fgv.br/blog/2012/11/23/python-brasil.html"/>
+   <updated>2012-11-23T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2012/11/23/python-brasil</id>
    <content type="html">&lt;p&gt;A PythonBrasil, numa parceria com a EMAp, realiza esta semana na FGV,
 no Rio de Janeiro, o maior encontro da comunidade brasileira de
 utilizadores e desenvolvedores da linguagem de programação de código
