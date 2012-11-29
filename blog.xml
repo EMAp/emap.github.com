@@ -4,13 +4,91 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-11-28T14:31:26-02:00</updated>
+ <updated>2012-11-28T22:59:54-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Oportunidade de estágio/pesquisa na FGV</title>
+   <link href="http://emap.fgv.br/blog/2012/11/28/oportunidade-estagio-pesquisa.html"/>
+   <updated>2012-11-28T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2012/11/28/oportunidade-estagio-pesquisa</id>
+   <content type="html">&lt;p&gt;A EMAp e o CPDOC, unidades da Fundação Getulio Vargas (FGV), estão com
+uma vaga para estágio e/ou bolsa de pesquisa no contexto do projeto
+MIST - Mineração em Imagem, Som e Texto.&lt;/p&gt;
+
+&lt;p&gt;A vaga é para alunos de computação: graduação, mestrado ou doutorado
+interessados em trabalhar com
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Semantic_Web&quot;&gt;Web Semântica&lt;/a&gt;,
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Open_data&quot;&gt;Open Data&lt;/a&gt; e
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Linked_Data&quot;&gt;Linked Data&lt;/a&gt; na construção
+de um protótipo para abertura e &quot;triplificação&quot; dos dados do CPDOC.&lt;/p&gt;
+
+&lt;h2&gt;Quem é candidato?&lt;/h2&gt;
+
+&lt;p&gt;Alunos de computação com boa experiência em programação (de
+preferência fluente em mais de uma linguagem de programação e com
+disposição de aprender novas) e facilidade de aprender novas
+tecnologias. Dentre as tecnologias utilizadas, estão:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/&quot;&gt;Apache Solr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.franz.com/agraph/allegrograph/&quot;&gt;Allegro Graph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Python, Common Lisp, Ruby e/ou outras linguagens dinâmicas&lt;/li&gt;
+&lt;li&gt;HTML, RDF, XML etc.&lt;/li&gt;
+&lt;li&gt;bash, Linux, Amazon S3 etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Pessoas capazes de trabalhar sozinhas e com boa capacidade de
+organização.&lt;/p&gt;
+
+&lt;p&gt;Alunos de mestrado ou doutorado interessados em projeto de pesquisa
+também estão convidados para conversar sobre possível orientação e/ou
+co-orientação.&lt;/p&gt;
+
+&lt;h2&gt;Valor da bola&lt;/h2&gt;
+
+&lt;p&gt;O valor da bolsa é de até R$ 4.000,00/mês, depedendo da experiência e
+grau de formação do candidato. Será exigido do(s) candidato(s)
+selecionado(s) o comprovante de matrícula de graduação, mestrado ou
+doutorado.&lt;/p&gt;
+
+&lt;h2&gt;Como aplicar ou saber mais?&lt;/h2&gt;
+
+&lt;p&gt;Envie email para &lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt; com seu CV,
+breve descrição de suas experiências e interesses, &lt;strong&gt;até o dia 3 de dezembro&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Sobre o CPDOC&lt;/h2&gt;
+
+&lt;p&gt;O &lt;a href=&quot;http://cpdoc.fgv.br&quot;&gt;Centro de Pesquisa e Documentação de História Contemporânea do Brasil (CPDOC)&lt;/a&gt;
+é considerado um centro de referência dedicado ao estudo e à
+preservação da memória do país, e é conhecido por abrigar e
+disponibilizar um importante acervo histórico documental. Esse acervo
+totaliza cerca de 1,8 milhão de documentos dentre manuscritos, livros,
+periódicos, mapas, fotografias, arquivos sonoros e audiovisuais. O
+Centro também é responsável pelo desenvolvimento de obras de
+referência, como o Dicionário Histórico-Biográfico Brasileiro e o
+Dicionário da Política Republicana Fluminense, concentrando cerca de
+10 mil verbetes temáticos e biográficos. O CPDOC está engajado em
+ampliar o processo de universalização do acesso gratuito a estes
+conteúdos através da Internet e desenvolver soluções que potencializem
+sua difusão de forma inteligente e integrada.&lt;/p&gt;
+
+&lt;h2&gt;Sobre a EMAp&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://emap.fgv.br/&quot;&gt;Escola de Matemática Aplicada (EMAp)&lt;/a&gt; da FGV,
+criada em 2008, tem como missão atuar na aquisição e repasse do
+conhecimento científico e tecnológico de base matemática aplicáveis,
+principalmente, nas áreas relacionadas às Ciências Sociais em sentido
+amplo, isto é, ciências sociais, história e documentação, direito,
+economia, administração e outras áreas do conhecimento humano.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>FGV cria serviço integrado de computação em nuvem para comunidade acadêmica</title>
