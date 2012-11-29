@@ -3,7 +3,7 @@ layout: post
 title: Editais de contratação de professores
 author: Maria Izabel Camacho
 tags:
- - avisos
+ - oportunidade
 ---
 
 A escola de Matemática Aplicada da FGV – EMAp torna público os editais
