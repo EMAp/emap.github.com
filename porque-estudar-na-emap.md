@@ -15,7 +15,7 @@ atender às demandas por formalização matemática e computacional de
 problemas oriundos das mais diversas áreas de atividade.  A
 instituição, que atua de forma diferenciada nas áreas de
 Administração, Economia, Direito, Ciências Sociais e História, parte
-assim para mais uma frente de ensino.  .  A EMAp foi idealizada
+assim para mais uma frente de ensino. A EMAp foi idealizada
 visando formar profissionais capazes de aplicar a matemática de forma
 inovadora em contextos como planejamento estratégico, monitoramento
 ambiental, mercado financeiro. entre outros, atendendo à demanda
