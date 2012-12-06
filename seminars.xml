@@ -4,13 +4,48 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2012-12-04T15:49:52-02:00</updated>
+ <updated>2012-12-06T13:34:37-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>An introduction to combinatorial designs and graph decompositions</title>
+   <link href="http://emap.fgv.br/seminars/2012/12/10/introduction-combinatorial-designs.html"/>
+   <updated>2012-12-10T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/seminars/2012/12/10/introduction-combinatorial-designs</id>
+   <content type="html">&lt;p&gt;Combinatorial design theory is the study of arranging elements of a
+finite set into patterns (subsets, words, arrays) according to
+specified rules. Some of its first results date from the eighteenth
+and nineteenth centuries in the research of Euler, Kirkman, Cayley,
+Sylvester and others, but it was in the twentieth century that the
+study of combinatorial designs emerged as an academic subject in its
+own right. When Fisher and his colleagues developed the mathematics of
+experimental design in the 1920s, combinatorial design theory was born
+as a field intimately linked to its applications.&lt;/p&gt;
+
+&lt;p&gt;Design theory today is an active area of combinatorics with close ties
+to several other areas of mathematics including group theory, the
+theory of finite fields, the theory of finite geometries, number
+theory, combinatorial matrix theory, and graph theory, and with a wide
+range of applications in areas such as information theory, statistics
+and computer science.&lt;/p&gt;
+
+&lt;p&gt;The aim of this talk is to give a brief overview of some parts of the
+theory of combinatorial designs and graph decompositions, touching on
+some of the problems that are studied in the field, describing
+algebraic methods and constructions and mentioning some of the many
+applications of designs and decompositions.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Resultados Recentes de Data Science no NTT/Coppe</title>
