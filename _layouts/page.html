@@ -11,18 +11,31 @@
     <title>EMAp/FGV - Escola de Matemática Aplicada</title>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
     <link href="/css/stylesheet.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
 
     {% if page.tex %} 
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
     {% endif %}
 
     {% if page.rss != null %} 
     <link href="{{ page.rss }}" rel="alternate" title="RSS Feed" type="application/atom+xml" />
     {% endif %}
 
-    <!-- banner home -->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
-    <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
+    {% if page.toc %}
+    <script src="/js/jquery.tableofcontents.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" charset="utf-8">
+      $(document).ready(function(){ 
+      $("#toc").tableOfContents(
+      $("#post_full"),   // Scoped to div#post
+       {
+        startLevel: 2,   // H2 and up
+        depth:      4,   // H2 through H4,
+        topLinks: true   // Add "Top" Links to Each Header
+       });
+       });
+    </script>
+    {% endif %}
 
     <!-- google analytics -->
     <script type="text/javascript">
@@ -38,6 +51,7 @@
     </script>
 
     {% if page.home %}
+    <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
     <style type="text/css">
       #slideshow { margin: 0px auto; } 
       #nav { z-index: 50; position: absolute; bottom: 10px; left: 35px }

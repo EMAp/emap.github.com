@@ -20,6 +20,10 @@ layout: page
 	  <div id="leftstrip1">
 	    <div id="post_full">
 	      <h1 class="headline1"> {{ page.title }} </h1>
+
+	      {% if page.toc %}
+	        <ol id="toc"></ol> 
+	      {% endif %}
 	      
 	      {{ content }}
 	    </div>

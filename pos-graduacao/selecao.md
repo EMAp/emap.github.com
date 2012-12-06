@@ -2,6 +2,7 @@
 layout: inner-child
 title: Processo Seletivo do Mestrado
 section: pos-graduacao
+toc: true
 incluir:
  - widget-sobre-mestrado.html
  - widget-linhas-mestrado.html
@@ -11,17 +12,16 @@ incluir:
 
 O Mestrado em Modelagem Matemática da Informação tem duração de 24
 meses. As aulas são oferecidas apenas na cidade do Rio de Janeiro, no
-prédio sede da FGV (Praia de Botafogo 190) e ocorrem duas vezes por
-semana, majoritariamente no período vespertino.
+prédio sede da FGV - Praia de Botafogo, 190 - e ocorrem duas vezes por
+semana, das 15h às 18h.
 
-As inscrições para a turma de 2013 do mestrado serão abertas em
-dezembro de 2012.
+As inscrições para a turma de 2013 do mestrado estarão abertas até 16
+de dezembro de 2012 e devem ser feitas online
+[neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP).
 
-As informações relativas ao processo seletivo serão divulgadas em
-Novembro. São documentos necessários à inscrição:
+São documentos necessários à inscrição:
 
-- Ficha de inscrição preenchida (a ser disponibilizada no site da
-  EMAp);
+- Ficha de inscrição preenchida;
 - Cópia(s) do(s) diploma(s) de nível superior e de pós-graduação
   autenticada(s);
 - Cópia do histórico escolar da graduação;
@@ -29,34 +29,43 @@ Novembro. São documentos necessários à inscrição:
 - Cópia do CPF;
 - Curriculum Vitae;
 - Três fotos (3x4) coloridas;
-- Comprovante de pagamento da taxa de inscrição (através de link a ser
-  disponibilizado no site da EMAp).
+- Comprovante de pagamento da taxa de inscrição.
 
 Para aqueles que não provêm de cursos de graduação de cunho matemático
 e tecnológico, será indicada a matrícula nas duas disciplinas a serem
 oferecidas em Janeiro de 2013 no Curso de Verão da Escola de
-Matemática Aplicada.
+Matemática Aplicada (vide abaixo).
 
-As disciplinas podem ser oferecidas na parte da manhã ou da tarde, de
-segunda à sexta, durante 4 semanas, com duração de 3h por dia cada
-uma. O valor será informado quando o edital do mestrado for lançado.
+O processo seletivo para a turma de mestrado de 2013 consistirá em:
 
-As inscrições serão abertas também em dezembro de 2012. As disciplinas
-são:
+- Inscrição: 05/12 a 16/12
+  ([neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP))
+- Entrega dos documentos: 05/12 a 21/12
+- Análise do Curriculum Vitae e histórico(s) escolar(es): 26/12 e 27/12
+- Divulgação das indicações dos candidatos para o Curso de Verão: 28/12
+- Seleção Final (entrevistas): 18/02 a 21/02
+- Divulgação do resultado da seleção do Mestrado: 22/02
+- Início das aulas: 25/02
 
-- Introdução à programação através da linguagem Python;
+
+## Curso de Verão
+
+O Curso de Verão ocorrerá no período de 02/01 a 01/02, de segunda à
+sexta-feira das 09h às 12h e das 14h às 17h, sem valor adicional para
+os alunos que concorrem ao processo seletivo do mestrado.
+
+As disciplinas do Curso de Verão são:
+
+- Introdução à programação através da linguagem Python; e
 - Fundamentos de Matemática.
 
-O processo seletivo para a turma de 2013 acontecerá durante o mês de
-Fevereiro. Este consistirá de:
+Interessados no curso de versão, candidatos ao mestrado na EMAp ou
+não, devem se inscrever
+[neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP)
+até 16/12/2012.
 
-- Entrevista;
-- Análise do Curriculum Vitae e histórico(s) escolar(es);
-- Análise do desempenho nas disciplinas do curso de verão (para
-  aqueles que as cursaram).
 
-## Informações Financeiras 
+## Informações Financeiras
 
 Para maiores informações sobre o valor do curso e forma de pagamento,
-enviar e-mail para: emap AT fgv DOT br
-
+enviar e-mail para: <script type='text/javascript'>var a = new Array('br','gv.','p@f','ema');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>. Para fazer sua inscrição, clique aqui.

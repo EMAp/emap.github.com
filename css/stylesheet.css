@@ -852,3 +852,19 @@ div#post_full table td {
     padding: 3px;
     margin: 3px;
 }
+
+#toc {
+    float: right;
+    font-size: 10pt;
+    width: 250px; 
+    padding: 10px 10px 10px 20px;
+    background: #EFFFB1;
+    text-align: left;
+    border: solid 1px #CCD136;
+    margin: 0 0 10px 15px;
+}
+
+.toc-top-link {
+    margin: 0 0 0 10px;
+    font-size: 9pt;
+}

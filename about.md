@@ -9,7 +9,7 @@ incluir:
  - widget-fgv.html 
 ---
 
-A Escola de Matemática Aplicada (EMAp) da FGV, criada em 2008, tem
+A Escola de Matemática Aplicada (EMAp) da FGV, criada em 2009, tem
 como missão atuar na aquisição e repasse do conhecimento científico e
 tecnológico de base matemática aplicáveis, principalmente, nas áreas
 relacionadas às Ciências Sociais em sentido amplo, isto é, ciências
