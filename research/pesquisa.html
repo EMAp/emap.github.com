@@ -18,6 +18,19 @@
     
 
     
+    <script src="/js/jquery.tableofcontents.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" charset="utf-8">
+      $(document).ready(function(){ 
+      $("ol#toc").tableOfContents(
+      $("#post_full"),   // Scoped to div#post
+       {
+        startLevel: 2,   // H2 and up
+        depth:      4,   // H2 through H4,
+        topLinks: true   // Add "Top" Links to Each Header
+       });
+       });
+    </script>
+    
 
     <!-- google analytics -->
     <script type="text/javascript">
@@ -317,6 +330,14 @@ estudos de corpora e projetos experimentais sobre a linguagem.</p>
 	  </div>
 
 	  <div id="rightstrip1">
+	  
+	     <div id="toc">
+  <h3>Nesta página</h3>
+  <ol id="toc"></ol> 
+</div>
+
+	  
+
 	  
 	  </div>
 	</div>

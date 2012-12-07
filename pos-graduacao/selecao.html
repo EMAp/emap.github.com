@@ -21,7 +21,7 @@
     <script src="/js/jquery.tableofcontents.min.js" type="text/javascript" charset="utf-8"></script>
     <script type="text/javascript" charset="utf-8">
       $(document).ready(function(){ 
-      $("#toc").tableOfContents(
+      $("ol#toc").tableOfContents(
       $("#post_full"),   // Scoped to div#post
        {
         startLevel: 2,   // H2 and up
@@ -107,10 +107,6 @@
 	    <div id="post_full">
 	      <h1 class="headline1"> Processo Seletivo do Mestrado </h1>
 
-	      
-	        <ol id="toc"></ol> 
-	      
-	      
 	      <p>O Mestrado em Modelagem Matemática da Informação tem duração de 24
 meses. As aulas são oferecidas apenas na cidade do Rio de Janeiro, no
 prédio sede da FGV - Praia de Botafogo, 190 - e ocorrem duas vezes por
@@ -176,12 +172,20 @@ até 16/12/2012.</p>
 <h2>Informações Financeiras</h2>
 
 <p>Para maiores informações sobre o valor do curso e forma de pagamento,
-enviar e-mail para: <script type='text/javascript'>var a = new Array('br','gv.','p@f','ema');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>. Para fazer sua inscrição, clique aqui.</p>
+enviar e-mail para: <script type='text/javascript'>var a = new Array('br','gv.','p@f','ema');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>.</p>
 
 	    </div>
 	  </div>
 
 	  <div id="rightstrip1">
+	  
+	     <div id="toc">
+  <h3>Nesta página</h3>
+  <ol id="toc"></ol> 
+</div>
+
+	  
+
 	  
 	    <h3>Sobre o mestrado</h3>
 <p>Conheça o curso de Mestrado em Modelagem Matemática da Informação. <a href="/pos-graduacao/descricao.html" class="mais">saiba mais</a></p>
@@ -191,7 +195,9 @@ enviar e-mail para: <script type='text/javascript'>var a = new Array('br','gv.',
 <p>Conheça as linhas de pesquisa em desenvolvimento da EMAp. <a href="/pos-graduacao/linhas-pesquisa.html" class="mais">saiba mais</a></p>
 
           
-	    Included file 'widget-disciplinas-mestrado.html' not found in _includes directory
+	    <h3>Grade de disciplinas</h3>
+<p>Confira as disciplinas oferecidas no mestrado. <a href="/pos-graduacao/disciplinas.html" class="mais">saiba mais</a></p>
+
           
 	    <h3>Perfil dos egressos</h3>
 <p>Conheça o perfil dos egressos do mestrado. <a href="/pos-graduacao/perfil-egressos.html" class="mais">saiba mais</a></p>
