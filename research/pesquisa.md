@@ -1,6 +1,7 @@
 ---
 layout: inner
 title: Pesquisa
+toc: true
 section: research
 ---
 

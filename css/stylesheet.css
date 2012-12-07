@@ -853,15 +853,15 @@ div#post_full table td {
     margin: 3px;
 }
 
-#toc {
-    float: right;
-    font-size: 10pt;
-    width: 250px; 
-    padding: 10px 10px 10px 20px;
-    background: #EFFFB1;
+div#toc {
+    width: 100%;
     text-align: left;
-    border: solid 1px #CCD136;
-    margin: 0 0 10px 15px;
+    margin-bottom: 80px;
+}
+
+div#toc ol li {
+    margin-bottom: 7px;
+    width: 100%;
 }
 
 .toc-top-link {

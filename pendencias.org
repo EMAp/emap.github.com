@@ -4,7 +4,6 @@
 * Pendencias
 
 ** TODO [#A] filtro no twitter com tag emap					    :ALEX:
-** TODO [#A] blog e seminario atualizacao por Rachel com aviso por email	    :ALEX:
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
 ** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina 		    :ALEX:

@@ -28,6 +28,10 @@ layout: page
 	  </div>
 
 	  <div id="rightstrip1">
+	  {% if page.toc %}
+	     {% include toc.html %}
+	  {% endif %}
+
 	  {% for my in page.incluir %}
 	    {% include my %}
           {% endfor %}

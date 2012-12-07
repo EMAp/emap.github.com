@@ -6,7 +6,7 @@ toc: true
 incluir:
  - widget-sobre-mestrado.html
  - widget-linhas-mestrado.html
- - widget-disciplinas-mestrado.html
+ - widget-disciplinas-pos-graduacao.html
  - widget-perfil-egressos-mestrado.html
 ---
 
@@ -68,4 +68,4 @@ até 16/12/2012.
 ## Informações Financeiras
 
 Para maiores informações sobre o valor do curso e forma de pagamento,
-enviar e-mail para: <script type='text/javascript'>var a = new Array('br','gv.','p@f','ema');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>. Para fazer sua inscrição, clique aqui.
+enviar e-mail para: <script type='text/javascript'>var a = new Array('br','gv.','p@f','ema');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>. 
