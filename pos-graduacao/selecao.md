@@ -6,7 +6,7 @@ toc: true
 incluir:
  - widget-sobre-mestrado.html
  - widget-linhas-mestrado.html
- - widget-disciplinas-pos-graduacao.html
+ - widget-disciplinas-mestrado.html
  - widget-perfil-egressos-mestrado.html
 ---
 
@@ -47,6 +47,11 @@ O processo seletivo para a turma de mestrado de 2013 consistirá em:
 - Divulgação do resultado da seleção do Mestrado: 22/02
 - Início das aulas: 25/02
 
+O valor da taxa de inscrição é de R$200,00. O investimento no curso de
+mestrado é de 24 parcelas de R$ 1500,00. Há possibilidade de concessão
+de bolsa de estudos, mediante um processo de avaliação que leva em
+consideração o desempenho na seleção e as condições socioeconômicas do
+candidato.
 
 ## Curso de Verão
 
@@ -59,13 +64,11 @@ As disciplinas do Curso de Verão são:
 - Introdução à programação através da linguagem Python; e
 - Fundamentos de Matemática.
 
-Interessados no curso de versão, candidatos ao mestrado na EMAp ou
+Interessados no curso de verão, candidatos ao mestrado na EMAp ou
 não, devem se inscrever
 [neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP)
 até 16/12/2012.
 
+O valor do curso de verão é de R$200,00. Candidatos ao mestrado serão
+isentos do pagamento do curso.
 
-## Informações Financeiras
-
-Para maiores informações sobre o valor do curso e forma de pagamento,
-enviar e-mail para: <script type='text/javascript'>var a = new Array('br','gv.','p@f','ema');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>. 
