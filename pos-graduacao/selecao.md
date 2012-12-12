@@ -47,6 +47,10 @@ O processo seletivo para a turma de mestrado de 2013 consistirá em:
 - Divulgação do resultado da seleção do Mestrado: 22/02
 - Início das aulas: 25/02
 
+Os documentos deverão ser entregues na Secretaria de Registros
+Acadêmicos (SRA) localizada na Praia de Botafogo, 190 sala 314,
+Botafogo, Rio de Janeiro, RJ.
+
 O valor da taxa de inscrição é de R$200,00. O investimento no curso de
 mestrado é de 24 parcelas de R$ 1500,00. Há possibilidade de concessão
 de bolsa de estudos, mediante um processo de avaliação que leva em
