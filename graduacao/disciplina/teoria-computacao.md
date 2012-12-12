@@ -16,6 +16,6 @@ Turing. Funções recursivas. Algoritmos de Markov. A tese de
 Church-Turing. Indecidibilidade . Problemas intratáveis. Classes de
 problemas intratáveis
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-teoria-computacao %}

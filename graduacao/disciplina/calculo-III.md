@@ -19,7 +19,6 @@ sistemas não lineares; retrato de fase; linearização de pontos de
 equilíbrio, estabilidade; introdução ao cálculo das variações: Euler
 Lagrange.
 
-
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-calculo-III %}

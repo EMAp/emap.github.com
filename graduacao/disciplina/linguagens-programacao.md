@@ -25,7 +25,7 @@ Na segunda parte do curso apresentamos alguns projetos de programação
 tornando o curso mais prático onde os alunos aplicam os conceitos
 aprendidos na resolução de problemas.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-linguagens-programacao %}
 

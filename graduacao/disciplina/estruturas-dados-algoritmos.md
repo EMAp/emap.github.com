@@ -25,6 +25,6 @@ disjuntos, Aplicações. Tabelas de dispersão: Funções de dispersão,
 Tratamento de colisões por encadeamento, Tratamento de colisões por
 endereçamento aberto.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-estruturas-dados-algoritmos %}

@@ -13,6 +13,6 @@ title: Economia e Temas Atuais
 Aplicação de conceitos econômicos na modelagem de temas de interesse
 atual: governo, regulação, crime, direitos autorais, raça.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-economia-temas-atuais %}

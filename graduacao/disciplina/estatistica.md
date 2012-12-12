@@ -26,9 +26,7 @@ aplicações; a abordagem de Neyman-Pearson. A potência de
 testes. Principais testes associados à distribuição
 normal. Fundamentos do modelo de regressão linear.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-estatistica %}
-
-
 

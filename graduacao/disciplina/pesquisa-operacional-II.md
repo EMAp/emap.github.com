@@ -15,7 +15,6 @@ Programação Linear Inteira. Algoritmo de Branch and Bound. Problemas
 sobre grafos: caminho mínimo e fluxo máximo. Programação Dinâmica e
 aplicações. Introdução à programação não linear.
 
-
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-pesquisa-operacional-II %}

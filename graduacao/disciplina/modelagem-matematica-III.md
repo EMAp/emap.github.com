@@ -15,7 +15,6 @@ Estudo de problemas que recaem em resolução de sistemas lineares,
 inclusive com mais equações do que incógnitas. Decomposição em valores
 singulares e aplicações.  O método simplex e suas aplicações.
 
-
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-modelagem-matematica-III %}

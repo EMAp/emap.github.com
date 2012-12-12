@@ -14,7 +14,7 @@ Cadeias de Markov. Processo de Poisson e generalizações. Aplicações a
 seguros.  Cadeias de Markov em tempo contínuo. Introdução ao Movimento
 Browniano.  Técnicas de Simulação.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-processos-estocasticos-simulacao %}
 

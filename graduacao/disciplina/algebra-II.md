@@ -18,6 +18,6 @@ demonstração automática de teoremas, programação inteira, integração
 de funções racionais, robótica.
 
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-algebra-II %}

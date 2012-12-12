@@ -16,8 +16,7 @@ núcleo e imagem, autovetores e autovalores, diagonalização, produto
 interno, ortogonalização e projeções, finalizando com uma pequena
 apresentação das formas quadráticas.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-algebra-linear %}
-
 

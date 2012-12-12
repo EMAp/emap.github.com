@@ -25,6 +25,6 @@ modelos de Cournot e Bertrand. Jogador com informação completa:
 racional; melhor resposta (best-reply). Jogador com informação
 incompleta: Reinforcement Learning / Relative Payoff Sum.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-modelagem-matematica-I %}

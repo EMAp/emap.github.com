@@ -14,6 +14,6 @@ Leis de Newton, queda livre de corpos, movimento de projéteis,
 sistemas massa-mola, pêndulo, movimento harmônico, Leis de
 Kepler. Ótica.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-modelagem-matematica-II %}

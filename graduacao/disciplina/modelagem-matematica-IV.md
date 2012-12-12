@@ -24,6 +24,6 @@ tumores.  Seminários dos alunos sobre temas de interesse, como por
 exemplo: movimento biológico, da escala celular até a locomoção,
 fisiologia, teoria da informação do DNA até a neurociência, etc.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-modelagem-matematica-IV %}

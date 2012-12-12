@@ -12,7 +12,6 @@ title: Linguagem Brasileira de Sinais
 Conceito de LIBRAS, Fundamentos históricos da educação de
 surdos,Legislação específica, Aspectos Lingüísticos da LIBRA.
 
+## Bibliografia
 
-## Bibliografía
-
- não possui
+Não possui

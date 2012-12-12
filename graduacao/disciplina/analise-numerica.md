@@ -21,6 +21,6 @@ Métodos numéricos em EDOS: Runge-Kutta, métodos multi-passo,
 convergência e estabilidade. Métodos numéricos em EDPs (parabólicas,
 elípticas e hiperbólicas): diferenças finitas e elementos finitos.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-analise-numerica %}

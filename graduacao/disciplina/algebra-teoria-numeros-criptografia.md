@@ -17,6 +17,6 @@ Chinês do Resto, grupos, subgupos, função de Euler, Teorema de
 Lagrange, números de Mersenne e Fermat, teste da primalidade,
 criptografia e El Gamal. 
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-algebra-teoria-numeros-criptografia %}

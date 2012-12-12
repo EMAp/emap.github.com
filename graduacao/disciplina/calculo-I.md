@@ -22,11 +22,7 @@ do Cálculo. Integrais indefinidas. Integrais por substituição e por
 partes. Integrais de funções racionais por frações parciais. Integrais
 impróprias.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-calculo-I %}
-
-
-
-
 

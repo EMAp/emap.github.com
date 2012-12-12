@@ -26,7 +26,6 @@ SQL. Noções de data mining e data warehouse. Processos de
 desenvolvimento de software. Introdução à programação com
 Python. Robótica e Automação.
 
-
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-introducao-computacao %}

@@ -16,6 +16,6 @@ Principais. Análise Fatorial. Análise de Conglomerados ou
 Agrupamentos. Escalonamento Multidimensional. Análise
 Discriminante. Análise Canônica. Análise de Correspondências.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-estatistica-multivariada %}

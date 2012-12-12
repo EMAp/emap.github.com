@@ -16,6 +16,6 @@ plano; vetores no espaço; sistemas de equações com três incógnitas;
 matrizes de ordem 3; determinantes; transformações lineares no espaço;
 formas quadráticas; superfícies quádricas.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-geometria-analitica-vetores %}

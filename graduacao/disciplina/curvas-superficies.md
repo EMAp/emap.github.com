@@ -20,9 +20,7 @@ implícitas. Plano tangente e vetor normal. Curvaturas média e
 gaussiana. Geodésicas. Teorema de Gauss-Bonnet. Visualização de
 superfícies. Modelos de iluminação.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-curvas-superficies %}
-
-
 

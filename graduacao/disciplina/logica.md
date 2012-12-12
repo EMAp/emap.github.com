@@ -19,6 +19,6 @@ linguagem de primeira ordem. Definibilidade, homomorfismos entre
 estruturas. O sistema de Dedução Natural para a lógica clássica de
 Primeira Ordem
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-logica %}

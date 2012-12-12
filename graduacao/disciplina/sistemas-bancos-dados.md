@@ -17,6 +17,6 @@ Dados Relacional. Atributos-chaves de uma relação. Esquemas de Bases
 de Dados Relacionais e Restrições de integridade.  Linguagens Formais
 de Consulta: Álgebra Relacional.  A linguagem SQL.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-sistemas-bancos-dados %}

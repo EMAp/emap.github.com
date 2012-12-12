@@ -19,7 +19,7 @@ primeira e segunda ordem. Lagrangeanos. Kuhn- Tucker. Significado dos
 multiplicadores de Lagrange. Teorema do Envelope. Integrais duplas e
 triplas;
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-calculo-II %}
 

@@ -17,6 +17,6 @@ diferenciais parciais (equação do calor; Black and Scholes).
 Introdução a Análise Funcional. Cálculo das Variações. Programação
 dinâmica. Método de Pontryagin.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-calculo-IV %}

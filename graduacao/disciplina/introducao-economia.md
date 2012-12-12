@@ -20,7 +20,6 @@ firma: custos, lucros, custos de oportunidade; abordagem da
 contabilidade; curto e longo prazos; mercados competitivos; taxação;
 regulação; comércio internacional.
 
-
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-introducao-economia %}

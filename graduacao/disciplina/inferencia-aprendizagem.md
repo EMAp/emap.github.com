@@ -15,7 +15,7 @@ supervisionada.  Métodos lineares: regressão, discriminação,
 componentes principais e análise fatorial.  Métodos não lineares:
 redes neurais e kernels.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-interferencia-aprendizagem %}
 

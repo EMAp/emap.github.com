@@ -22,9 +22,7 @@ aplicações. Teoria Central do Limite – situação do problema; Teorema
 Central do Limite; aplicações. Distribuições amostrais (t,qui-quadrado e F).
 Introdução à Inferência Estatística.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-teoria-probabilidade %}
-
-
 

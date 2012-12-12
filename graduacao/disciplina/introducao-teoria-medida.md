@@ -18,6 +18,6 @@ completicidade. Modos de convergência: na média, uniforme, em medida,
 teoremas de Egoroff e Vitali. Geração e decomposição de
 medidas. Teoremas de Tonelli e Fubini.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-introducao-teoria-medida %}

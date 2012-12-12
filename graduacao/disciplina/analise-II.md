@@ -17,6 +17,6 @@ funções. Teorema da função inversa; funções implícitas; teorema do
 posto; multiplicadores de Lagrange. Integrais múltiplas. Mudanças de
 variáveis em integrais múltiplas.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-analise-II %}

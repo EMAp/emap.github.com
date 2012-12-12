@@ -16,6 +16,6 @@ Linear. Método simplex. Dualidade. Método simplex dual e
 primal-dual. Análise de sensibilidade. Problema de transporte e
 aplicações. Introdução à programação inteira.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-pesquisa-operacional-I %}

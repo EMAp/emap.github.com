@@ -19,6 +19,6 @@ dinâmica. Análise de problemas: busca e ordenação, problemas em
 grafos, problemas de geometria computacional
 
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-analise-algoritmos %}

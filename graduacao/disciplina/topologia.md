@@ -17,6 +17,6 @@ das superfícies.  Introdução à topologia diferenciável: valores
 regulares, teorema de Sard, teoria do grau, noções de teoria de
 Morse. Noções de  geometria computacional e mecânica geométrica.
 
-## Bibliografía
+## Bibliografia
 
 {% bibliography grad-topologia %}
