@@ -15,7 +15,7 @@ meses. As aulas são oferecidas apenas na cidade do Rio de Janeiro, no
 prédio sede da FGV - Praia de Botafogo, 190 - e ocorrem duas vezes por
 semana, das 15h às 18h.
 
-As inscrições para a turma de 2013 do mestrado estarão abertas até 16
+As inscrições para a turma de 2013 do mestrado estarão abertas até 28
 de dezembro de 2012 e devem ser feitas online
 [neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP).
 
@@ -38,10 +38,10 @@ Matemática Aplicada (vide abaixo).
 
 O processo seletivo para a turma de mestrado de 2013 consistirá em:
 
-- Inscrição: 05/12 a 16/12
+- Inscrição: 05/12 a 28/12
   ([neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP))
-- Entrega dos documentos: 05/12 a 21/12
-- Análise do Curriculum Vitae e histórico(s) escolar(es): 26/12 e 27/12
+- Entrega dos documentos: 05/12 a 28/12 (17h30)
+- Análise do Curriculum Vitae e histórico(s) escolar(es): 26/12 e 28/12
 - Divulgação das indicações dos candidatos para o Curso de Verão: 28/12
 - Seleção Final (entrevistas): 18/02 a 21/02
 - Divulgação do resultado da seleção do Mestrado: 22/02
@@ -71,8 +71,18 @@ As disciplinas do Curso de Verão são:
 Interessados no curso de verão, candidatos ao mestrado na EMAp ou
 não, devem se inscrever
 [neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP)
-até 16/12/2012.
+até 21/12/2012.
+
+São documentos necessários à inscrição:
+
+- Cópia da carteira de identidade;
+- Cópia do CPF;
+- Duas fotos (3x4) coloridas;
+- Comprovante de pagamento da taxa de inscrição.
+
+Os documentos deverão ser entregues até o dia 21/12/2012 na Secretaria
+de Registros Acadêmicos (SRA) localizada na Praia de Botafogo, 190
+sala 314, Botafogo, Rio de Janeiro, RJ.
 
 O valor do curso de verão é de R$200,00. Candidatos ao mestrado serão
 isentos do pagamento do curso.
-

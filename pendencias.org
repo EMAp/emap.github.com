@@ -40,6 +40,7 @@ Like do facebook? Disqus?
 
 ** TODO separar, na listagem dos posts de um dado mês/ano, blog e seminários?	    :ALEX:
 
+
 * Outras
 
 - Mensagens do fale conosco são registradas no sent itens?
@@ -63,6 +64,10 @@ Like do facebook? Disqus?
 
 - Moacyr: (1) ausência de link para home (ou melhor descrição do logo
   ser link para home).
+
+- post por mes/ano melhorar com ajuda Jefferson
+
+- terminar pagina de recursos para os alunos
   
 * Bibliografias
 
