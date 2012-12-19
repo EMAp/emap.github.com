@@ -2,7 +2,6 @@
 layout: inner-child
 title: Processo Seletivo do Mestrado
 section: pos-graduacao
-toc: true
 incluir:
  - widget-sobre-mestrado.html
  - widget-linhas-mestrado.html
@@ -33,8 +32,7 @@ São documentos necessários à inscrição:
 
 Para aqueles que não provêm de cursos de graduação de cunho matemático
 e tecnológico, será indicada a matrícula nas duas disciplinas a serem
-oferecidas em Janeiro de 2013 no Curso de Verão da Escola de
-Matemática Aplicada (vide abaixo).
+oferecidas em Janeiro de 2013 no [Curso de Verão da EMAp](curso-verao.html).
 
 O processo seletivo para a turma de mestrado de 2013 consistirá em:
 
@@ -57,32 +55,3 @@ de bolsa de estudos, mediante um processo de avaliação que leva em
 consideração o desempenho na seleção e as condições socioeconômicas do
 candidato.
 
-## Curso de Verão
-
-O Curso de Verão ocorrerá no período de 02/01 a 01/02, de segunda à
-sexta-feira das 09h às 12h e das 14h às 17h, sem valor adicional para
-os alunos que concorrem ao processo seletivo do mestrado.
-
-As disciplinas do Curso de Verão são:
-
-- Introdução à programação através da linguagem Python; e
-- Fundamentos de Matemática.
-
-Interessados no curso de verão, candidatos ao mestrado na EMAp ou
-não, devem se inscrever
-[neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP)
-até 21/12/2012.
-
-São documentos necessários à inscrição:
-
-- Cópia da carteira de identidade;
-- Cópia do CPF;
-- Duas fotos (3x4) coloridas;
-- Comprovante de pagamento da taxa de inscrição.
-
-Os documentos deverão ser entregues até o dia 21/12/2012 na Secretaria
-de Registros Acadêmicos (SRA) localizada na Praia de Botafogo, 190
-sala 314, Botafogo, Rio de Janeiro, RJ.
-
-O valor do curso de verão é de R$200,00. Candidatos ao mestrado serão
-isentos do pagamento do curso.
