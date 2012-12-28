@@ -8,9 +8,10 @@ incluir:
  - widget-selecao-mestrado.html
 ---
 
-O Curso de Verão ocorrerá no período de 02/01 a 01/02, de segunda à
-sexta-feira das 09h às 12h e das 14h às 17h, sem valor adicional para
-os alunos que concorrem ao processo seletivo do mestrado.
+O Curso de Verão ocorrerá no período de 07/01/2013 a 01/02/2013, de
+segunda à sexta-feira das 09h às 12h e das 14h às 17h, sem valor
+adicional para os alunos que concorrem ao processo seletivo do
+mestrado.
 
 As disciplinas do Curso de Verão são:
 
