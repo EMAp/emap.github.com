@@ -1,6 +1,6 @@
 ---
 layout: inner-child
-title: Cursos de Verão 2013
+title: Curso de Verão 2013
 section: pos-graduacao
 toc: true
 incluir:
