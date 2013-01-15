@@ -4,13 +4,36 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-01-09T16:22:43-02:00</updated>
+ <updated>2013-01-15T13:45:59-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Workshop em Geometria, Mecânica e Computação</title>
+   <link href="http://emap.fgv.br/blog/2013/01/15/workshop.html"/>
+   <updated>2013-01-15T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2013/01/15/workshop</id>
+   <content type="html">&lt;p&gt;A EMAp realizará juntamente com a PUC-RJ, o Conselho Nacional de
+Desenvolvimento Científico e Tecnológico (CNPq) e o Ciências Sem
+Fronteiras, o workshop de verão em Geometria, Mecânica e Computação,
+no período de 4 a 8 de fevereiro.&lt;/p&gt;
+
+&lt;p&gt;O programa faz parte de uma etapa preparatória para a Escola de Altos
+Estudos da CAPES, que será ministrada pelo professor
+&lt;a href=&quot;http://www2.imperial.ac.uk/~dholm/&quot;&gt;Darry Holm&lt;/a&gt;, do Imperial College,
+Londres.  Serão abordados aspectos da geometria e da dinâmica de
+sistemas físicos cujos estados são elementos de um grupo de
+transformações do plano e do espaço, com ênfase à dinâmica de fluidos
+ideais, ao registro de imagens e à computação gráfica.&lt;/p&gt;
+
+&lt;p&gt;O evento será realizado na PUC-RJ. Mais informações,
+&lt;a href=&quot;http://zeus.mat.puc-rio.br/tomlew/gmc2013/index.html&quot;&gt;clique aqui&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp é considerada inovadora em projetos relacionados à TIC</title>
