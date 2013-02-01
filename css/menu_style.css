@@ -102,7 +102,7 @@
 }
 
 .nav .current .show {
-    z-index: 10;
+    z-index:10;
 }
 
 .nav .select :hover .sub li a, .nav .current .show .sub li a {
@@ -122,7 +122,7 @@
 }
 
 .nav .select .sub li a {
-    font-weight:normal;
+	font-weight:normal;
 }
 
 .nav .select :hover .sub li a:hover, .nav .current .sub li a:hover {

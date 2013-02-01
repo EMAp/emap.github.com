@@ -103,7 +103,6 @@ h1, h2, h3, h4, h5, h6 {
     height: 60px;
     float: left;
 }
-
 #menu {
     width: 780px;
     height: 38px;
@@ -112,11 +111,9 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 10;
     background: url("/images/bg-menu.gif") no-repeat scroll left top transparent;
 }
-
 #menu ul {
     float: left;
 }
-
 #menu ul li {
     line-height: 38px;
     font-size: 13px;
