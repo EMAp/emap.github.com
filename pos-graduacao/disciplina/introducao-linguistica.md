@@ -3,10 +3,11 @@ section: pos-graduacao
 layout: disciplina
 title: Introdução à Linguística
 creditos: 3
-area: Ciência da Informação
+area: Visualização
 ---
 
 - Área: {{ page.area }}   
+- Código: 701-030
 - Carga horária: 45 horas  
 - Créditos: {{ page.creditos }}   
 
