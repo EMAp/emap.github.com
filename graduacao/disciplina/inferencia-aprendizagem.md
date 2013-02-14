@@ -17,5 +17,5 @@ redes neurais e kernels.
 
 ## Bibliografia
 
-{% bibliography grad-interferencia-aprendizagem %}
+{% bibliography grad-inferencia-aprendizagem %}
 

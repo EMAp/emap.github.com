@@ -16,6 +16,7 @@ incluir:
 - [Elaboração de Dissertação](disciplina/elaboracao-dissertacao.html)
 - [Estruturas de Dados e Algoritmos](disciplina/estruturas-dados-algoritmos.html)
 - [Grafos, Redes sociais e Conectividade](disciplina/grafos-redes-sociais-conectividade.html)
+- [Introdução à Linguística](disciplina/introducao-linguistica.html)
 - [Metodologia Científica](disciplina/metodologia-cientifica.html)
 - [Modelagem com Equações Diferenciais](disciplina/modelagem-equacoes-diferenciais.html)
 - [Modelagem e Mineração de Dados](disciplina/modelagem-mineracao-dados.html)
