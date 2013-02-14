@@ -4,7 +4,7 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-02-08T14:16:25-02:00</updated>
+ <updated>2013-02-14T12:12:04-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -152,8 +152,7 @@
 		&lt;td&gt; Aprovado   &lt;/td&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;O link para inscrição estará disponível nesta página a partir do dia&lt;br /&gt;
-14/02/2013.&lt;/p&gt;</content>
+&lt;p&gt;O link para inscrição está disponível &lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;nesta página&lt;/a&gt;.&lt;/p&gt;</content>
  </entry>
  
  <entry>
