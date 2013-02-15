@@ -14,11 +14,29 @@ meses. As aulas são oferecidas apenas na cidade do Rio de Janeiro, no
 prédio sede da FGV - Praia de Botafogo, 190 - e ocorrem duas vezes por
 semana, das 15h às 18h.
 
-As inscrições para a turma de 2013 do mestrado estarão abertas até 28
-de dezembro de 2012 e devem ser feitas online
-[neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP).
+*atenção*: os candidatos aprovados devem usar este
+[link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP)
+para inscrição no mestrado da EMAp. 
 
-São documentos necessários à inscrição:
+## Etapas
+
+O processo seletivo para a turma de mestrado de 2013 consiste nas
+seguintes etapas:
+
+- 05/12/12 - 28/12/12: inscrição para processo seletivo
+- 05/12/12 - 28/12/12 (17h30): entrega dos documentos
+- 26/12/12 - 28/12/12: análise dos CV e históricos escolares
+- 28/12/12: divulgação das indicações dos candidatos para o Curso de Verão
+- 18/02/13 - 21/02/13: entrevistas e seleção final
+- 22/12/13: divulgação do resultado da seleção e aprovados
+- 14/02/13: inscrição para o curso
+- 25/02/13: início das aulas
+
+Para aqueles que não provêm de cursos de graduação de cunho matemático
+e tecnológico, será indicada a matrícula nas duas disciplinas a serem
+oferecidas em Janeiro de 2013 no [Curso de Verão da EMAp](curso-verao.html).
+
+## Documentos para processo seletivo
 
 - Ficha de inscrição preenchida;
 - Cópia(s) do(s) diploma(s) de nível superior e de pós-graduação
@@ -30,24 +48,11 @@ São documentos necessários à inscrição:
 - Três fotos (3x4) coloridas;
 - Comprovante de pagamento da taxa de inscrição.
 
-Para aqueles que não provêm de cursos de graduação de cunho matemático
-e tecnológico, será indicada a matrícula nas duas disciplinas a serem
-oferecidas em Janeiro de 2013 no [Curso de Verão da EMAp](curso-verao.html).
-
-O processo seletivo para a turma de mestrado de 2013 consistirá em:
-
-- Inscrição: 05/12 a 28/12
-  ([neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP))
-- Entrega dos documentos: 05/12 a 28/12 (17h30)
-- Análise do Curriculum Vitae e histórico(s) escolar(es): 26/12 e 28/12
-- Divulgação das indicações dos candidatos para o Curso de Verão: 28/12
-- Seleção Final (entrevistas): 18/02 a 21/02
-- Divulgação do resultado da seleção do Mestrado: 22/02
-- Início das aulas: 25/02
-
 Os documentos deverão ser entregues na Secretaria de Registros
 Acadêmicos (SRA) localizada na Praia de Botafogo, 190 sala 314,
 Botafogo, Rio de Janeiro, RJ.
+
+## Taxa de inscrição para o processo seletivo
 
 O valor da taxa de inscrição é de R$200,00. O investimento no curso de
 mestrado é de 24 parcelas de R$ 1500,00. Há possibilidade de concessão

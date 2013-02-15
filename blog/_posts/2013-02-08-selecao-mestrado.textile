@@ -6,7 +6,7 @@ tags:
  - mestrado
 ---
 
-Divulgamos a seguir o resultado da seleção do mestrado da EMAp de 2013. 
+Divulgamos a seguir o resultado da seleção do mestrado da EMAp de 2013. Os candidatos aprovados devem clicar "aqui":http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP para inscrição no mestrado da EMAp. Maiores informações "na página":/pos-graduacao/selecao.html.
 
 | *Nome*                                     |*Resultado* |
 | Anna Carolina dos Santos Barros            | Aprovado   |
@@ -42,5 +42,6 @@ Divulgamos a seguir o resultado da seleção do mestrado da EMAp de 2013.
 | Tiago de Andréa Vilas Bôas Hacker          | Excedente  |
 | Vitor Gonçalves da Silva Caldeira Loureiro | Aprovado   |
 
-O link para inscrição está disponível "nesta página":/pos-graduacao/selecao.html.
+
+
 
