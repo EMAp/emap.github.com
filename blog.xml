@@ -4,13 +4,27 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-02-15T13:09:01-02:00</updated>
+ <updated>2013-02-19T22:45:43-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Aula Magna com Carlos Ivan Simonsen</title>
+   <link href="http://emap.fgv.br/blog/2013/02/19/aula-magna.html"/>
+   <updated>2013-02-19T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/02/19/aula-magna</id>
+   <content type="html">&lt;p&gt;Na próxima sexta-feira, dia 22, o presidente da FGV Carlos Ivan
+Simonsen irá realizar a aula magna do curso de graduação da EMAp.&lt;/p&gt;
+
+&lt;p&gt;O evento tem como objetivo marcar o início do ano letivo, além de dar
+boas vindas a todos os alunos. A aula magna será realizada no
+auditório 1333 às 11 horas.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Resultado da Seleção do Mestrado da EMAp de 2013</title>
