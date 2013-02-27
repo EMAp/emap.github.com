@@ -4,13 +4,80 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-02-26T11:04:43-03:00</updated>
+ <updated>2013-02-27T11:17:59-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Solving problems with visual analytics: challenges and applications</title>
+   <link href="http://emap.fgv.br/seminars/2013/03/07/visual-analytics.html"/>
+   <updated>2013-03-07T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/03/07/visual-analytics</id>
+   <content type="html">&lt;p&gt;Never before in history data is generated and collected at such high
+volumes as it is today. As the volumes of data available to business
+people, scientists, and the public increase, their effective use
+becomes more challenging. Keeping up to date with the flood of data,
+using standard tools for data analysis and exploration, is fraught
+with difficulty. The field of visual analytics seeks to provide people
+with better and more effective ways to understand and analyze large
+datasets, while also enabling them to act upon their findings
+immediately. Visual analytics integrates the analytic capabilities of
+the computer and the abilities of the human analyst, allowing novel
+discoveries and empowering individuals to take control of the
+analytical process. Visual analytics enables unexpected and hidden
+insights, which may lead to beneficial and profitable innovation. The
+talk presents the challenges of visual analytics and exemplifies them
+with several application examples, which illustrate the exiting
+potential of current visual analysis techniques but also their
+limitations.&lt;/p&gt;
+
+&lt;h2&gt;Short Bios&lt;/h2&gt;
+
+&lt;p&gt;DANIEL A. KEIM is full professor and head of the Information
+Visualization and Data Analysis Research Group in the Computer Science
+Department of the University of Konstanz, Germany. He has been
+actively involved in data analysis and information visualization
+research for about 20 years and developed a number of novel visual
+analysis techniques for very large data sets. He is coordinator of the
+German Strategic Research Initiative (SPP) on Scalable Visual
+Analytics and the scientific coordinator of the EU Coordination Action
+on Visual Analytics.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;O seminário será realizado em inglês.&lt;/li&gt;
+&lt;li&gt;A presença é gratuíta e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Apresentação das linhas de pesquisa da EMAp</title>
+   <link href="http://emap.fgv.br/seminars/2013/02/28/seminario-inaugural.html"/>
+   <updated>2013-02-28T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/02/28/seminario-inaugural</id>
+   <content type="html">&lt;p&gt;O Seminário Inaugural terá como tema a apresentação das linhas de
+pesquisa dos professores do mestrado e dos projetos desenvolvidos pela
+EMAp/FGV.&lt;/p&gt;
+
+&lt;p&gt;O objetivo do evento é contextualizar os alunos no atual cenário da
+Escola e atentá-los para as possibilidades das áreas de
+estudo/pesquisa.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
+entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>An introduction to combinatorial designs and graph decompositions</title>
