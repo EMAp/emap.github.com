@@ -4,7 +4,7 @@ title: EMAp realiza curso de verão para estudantes de Ensino Médio
 author: Raquel Peixoto Rittmeyer Silva
 tags:
  - noticia
- - curso
+ - cursos
 ---
 
 Em parceria com o

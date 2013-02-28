@@ -3,7 +3,6 @@ layout: post
 title: EMAp abre inscrições para a atividade complementar em "Neurociência, Matemática e Ciências Sociais Aplicadas"
 author: Raquel Rittmeyer
 tags:
- - noticia
  - cursos
 ---
 
