@@ -40,6 +40,6 @@ on Visual Analytics.
 ## Observação para visitantes
 
 - O seminário será realizado em inglês.
-- A presença é gratuíta e não exige confirmação.
+- A presença é gratuíta mas exige a confirmação pelo email <script type='text/javascript'>var a = new Array('gv.br','emap@f');document.write("<a href='mailto:"+a[1]+a[0]+"'>"+a[1]+a[0]+"</a>");</script>.
 - A FGV não permite a entrada de pessoas vestindo bermuda e/ou
   chinelos.

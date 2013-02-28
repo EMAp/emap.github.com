@@ -25,7 +25,7 @@ intensos recursos computacionais e métodos sofisticados de análise.
 Serão realizadas dez discussões no período de 11 de março a 27 de
 maio, todas às segundas-feiras, das 13h às 16h.
 
-Para mais informações, entrar em contato pelo email jair.koiller@fgv.br.
+Para mais informações, entrar em contato pelo email <script type='text/javascript'>var a = new Array('v.br','er@fg','jair.','koill');document.write("<a href='mailto:"+a[2]+a[3]+a[1]+a[0]+"'>"+a[2]+a[3]+a[1]+a[0]+"</a>");</script>.
 
 Inscrições podem ser feitas também no Núcleo de Apoio Pedagógico, sala
 309.
