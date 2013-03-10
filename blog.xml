@@ -4,13 +4,51 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-03-08T15:16:40-03:00</updated>
+ <updated>2013-03-10T15:33:46-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Daniel Keim apresenta aplicações da "visual analytics" na EMAp</title>
+   <link href="http://emap.fgv.br/blog/2013/03/08/visual-analytics-daniel-keim.html"/>
+   <updated>2013-03-08T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/03/08/visual-analytics-daniel-keim</id>
+   <content type="html">&lt;p&gt;Nesta semana a EMAp recebeu Daniel Keim -- referência na área de
+visualização de informação -- para realizar o Seminário &quot;Solving
+Problems with Visual Analytics&quot; e ministrar uma aula aos mestrandos em
+Modelagem Matemática da Informação, enfatizando as técnicas de
+visualização de grandes volumes de textos.&lt;/p&gt;
+
+&lt;p&gt;O aluno do mestrado da EMAp, Marlon Pirchiner, ressaltou que Keim
+apresentou no Seminário como a área de pesquisa definida como &quot;visual
+analytics&quot; pode colaborar com os mais diversos domínios de
+conhecimento: &quot;Trabalhar com grandes volumes de dados é uma tarefa
+extremamente contemporânea que exige soluções inovadoras para
+sintetizar uma enorme quantidade de informação. Escolher em que
+momento o ser humano deve interagir e decidir exige o melhor da
+visualização e da capacidade analítica dos computadores. Disso se
+trata a visual analitycs, não somente de compreender os dados
+iniciais, ou de apresentar resultados, mas de otimizar o processo por
+inteiro.&quot;, destacou.&lt;/p&gt;
+
+&lt;p&gt;Para Luis Gustavo Neves, também aluno da EMAp, as palestras foram
+extremamente inspiradoras e de surpreendente clareza. &quot;Não vi uma
+pessoa que assistiu e não saiu querendo saber mais sobre algum assunto
+abordado ou até planejando reproduzir alguma implementação dentre a
+enorme variedade de soluções e técnicas inovadoras apresentadas pelo
+brilhante professor Daniel Keim&quot;, comentou.&lt;/p&gt;
+
+&lt;p&gt;Além de ser professor da University of Konstanz, da Alemanha, Keim
+desenvolve há mais de vinte anos pesquisas na área. É autor e
+colaborador de diversas publicações, incluindo o livro &quot;Interactive
+Data Visualization: Foundations, Techniques and Applications&quot;
+publicado em 2010.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp abre inscrições para a atividade complementar em "Neurociência, Matemática e Ciências Sociais Aplicadas"</title>
