@@ -9,7 +9,6 @@ picture: alexandre.evsukoff.jpg
 
 - Cargo: Professor Visitante
 - Email: \\( alexandre . evsukoff @ fgv . br \\)
-- Homepage: NI
 - Lattes: [http://lattes.cnpq.br/6443456845137235](http://lattes.cnpq.br/6443456845137235)
 
 Alexandre G. Evsukoff concluiu graduação em Engenharia Mecânica na
@@ -28,9 +27,8 @@ da Fundação Getúlio Vargas.
 
 ## Áreas de Interesse
 
-NI
-
-
-
-
+- Inteligência Computacional e Aprendizagem por Máquina
+- Mineração e visualização de dados
+- Processamento de Linguagem Natural
+- Redes Complexas
 
