@@ -4,7 +4,6 @@
 * Pendencias
 
 ** TODO Corrigir h3 nas paginas e posts do blog
-** TODO Colocar novas fotos 
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
 ** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina 		    :ALEX:
