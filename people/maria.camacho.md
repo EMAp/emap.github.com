@@ -1,14 +1,14 @@
 ---
 layout: people
 title: Maria Izabel Tavares Camacho
-tex: true
+tex: false
 picture: maria.camacho.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Diretora 
-- Email: \\( izabel . camacho @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('izabel.cam','acho@fgv.b','r');document.write("<a href='mailto:"+a[0]+a[1]+a[2]+"'>"+a[0]+a[1]+a[2]+"</a>");</script>
 - Lattes:
   [http://lattes.cnpq.br/0206961561900999](http://lattes.cnpq.br/0206961561900999)
   

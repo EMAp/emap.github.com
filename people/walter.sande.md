@@ -8,7 +8,7 @@ picture: walter.sande.jpg
 # {{ page.title }}
 
 - Cargo: Professor Assistente 
-- Email: \\( walter . sande @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('ande','er.s','walt','@fgv','.br');document.write("<a href='mailto:"+a[2]+a[1]+a[0]+a[3]+a[4]+"'>"+a[2]+a[1]+a[0]+a[3]+a[4]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/0289400810360557](http://lattes.cnpq.br/0289400810360557)
 
 Mestre em Administração de Empresas, pela COPPEAD/UFRJ. Graduado em

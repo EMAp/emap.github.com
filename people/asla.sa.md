@@ -8,7 +8,7 @@ tex: true
 # {{ page.title }}
 
 - Cargo: Professora Adjunta
-- Email: \\( asla . sa @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('a@fgv.','asla.s','br');document.write("<a href='mailto:"+a[1]+a[0]+a[2]+"'>"+a[1]+a[0]+a[2]+"</a>");</script>
 - Homepage: [http://aslasa.googlepages.com/home](http://aslasa.googlepages.com/home)
 - Lattes: [http://lattes.cnpq.br/1427153134693867](http://lattes.cnpq.br/1427153134693867)
 

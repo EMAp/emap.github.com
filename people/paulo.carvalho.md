@@ -8,7 +8,7 @@ picture: paulo.carvalho.jpg
 # {{ page.title }}
 
 - Cargo: Coordenador Acadêmico   
-- Email: \\( paulo . carvalho @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('fgv','ho@','val','lo.','pau','car','.br');document.write("<a href='mailto:"+a[4]+a[3]+a[5]+a[2]+a[1]+a[0]+a[6]+"'>"+a[4]+a[3]+a[5]+a[2]+a[1]+a[0]+a[6]+"</a>");</script>
 - Homepage: [http://www.impa.br/~pcezar](http://www.impa.br/~pcezar)
 - Lattes: [http://lattes.cnpq.br/7674875576915670](http://lattes.cnpq.br/7674875576915670)
 

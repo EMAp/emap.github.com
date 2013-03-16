@@ -3,7 +3,8 @@
 
 * Pendencias
 
-** TODO corrigir h3 nas paginas e posts do blog
+** TODO Corrigir h3 nas paginas e posts do blog
+** TODO Colocar novas fotos 
 ** TODO [#B] verificar lista dos blogs por tag, inicio dos textos nao formatados    :ALEX:
 ** TODO [#A] search: http://www.google.com/cse/					    :ALEX:
 ** TODO [#B] links cross-ref dentro do site. ex: prof vs disciplina 		    :ALEX:
@@ -20,12 +21,6 @@
 
 http://emap.fgv.br/2012/11/
 
-** TODO melhorar proteção dos emails						    :ALEX:
-
-Estou testando duas formas. Nos profesores o mathjax e na equipe:
-
-http://www.projecthoneypot.org/how_to_avoid_spambots_3.php
-
 ** TODO melhor formatação da página de uma tag					    :ALEX:
 
 http://emap.fgv.br/tag/congressos/
@@ -39,6 +34,12 @@ a lista como está vai ficar grande muito rápido.
 Like do facebook? Disqus?
 
 ** TODO separar, na listagem dos posts de um dado mês/ano, blog e seminários?	    :ALEX:
+
+** DONE melhorar proteção dos emails						    :ALEX:
+
+Estou testando duas formas. Nos profesores o mathjax e na equipe:
+
+http://www.projecthoneypot.org/how_to_avoid_spambots_3.php
 
 
 * Outras

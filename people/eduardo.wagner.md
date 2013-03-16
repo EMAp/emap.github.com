@@ -8,7 +8,7 @@ picture: eduardo.wagner.jpg
 # {{ page.title }}
 
 - Cargo: Professor Adjunto
-- Email: \\( eduardo . wagner @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('r','.b','gv','er','wa','o.','rd','ed','ua','gn','@f');document.write("<a href='mailto:"+a[7]+a[8]+a[6]+a[5]+a[4]+a[9]+a[3]+a[10]+a[2]+a[1]+a[0]+"'>"+a[7]+a[8]+a[6]+a[5]+a[4]+a[9]+a[3]+a[10]+a[2]+a[1]+a[0]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/1600873874151137](http://lattes.cnpq.br/1600873874151137)
 
 Mestre em Matemática pelo IMPA.Engenheiro civil pela UFRJ.Professor do

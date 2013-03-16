@@ -8,7 +8,7 @@ picture: antonio.branco.jpg
 # {{ page.title }}
 
 - Cargo: Professor Adjunto
-- Email: \\( antonio . branco @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('gv.br','antonio.','branco@f');document.write("<a href='mailto:"+a[1]+a[2]+a[0]+"'>"+a[1]+a[2]+a[0]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/9633843951032097](http://lattes.cnpq.br/9633843951032097)
 
 Graduado em Engenharia de Telecomunicações pelo IME - 1973,

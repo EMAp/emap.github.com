@@ -8,7 +8,7 @@ picture: renato.souza.jpg
 # {{ page.title }}
 
 - Cargo: Professor Adjunto 
-- Email: \\( renato . souza @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('souza@f','renato.','gv.br');document.write("<a href='mailto:"+a[1]+a[0]+a[2]+"'>"+a[1]+a[0]+a[2]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/4726949697973381](http://lattes.cnpq.br/4726949697973381)
 
 Possui graduação em Engenharia Elétrica pela Pontifícia Universidade

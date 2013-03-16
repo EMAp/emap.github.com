@@ -8,7 +8,7 @@ picture: flavio.coelho.jpg
 # {{ page.title }}
 
 - Cargo: Professor Associado
-- Email: \\( fccoelho @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('fgv','ho@','oel','fcc','.br');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+a[4]+"'>"+a[3]+a[2]+a[1]+a[0]+a[4]+"</a>");</script>
 - Homepage: [http://fccoelho.github.com](http://fccoelho.github.com)
 - Lattes: [http://lattes.cnpq.br/0309050626285266](http://lattes.cnpq.br/0309050626285266)
 

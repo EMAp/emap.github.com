@@ -8,7 +8,7 @@ picture: alexandre.evsukoff.jpg
 # {{ page.title }}
 
 - Cargo: Professor Visitante
-- Email: \\( alexandre . evsukoff @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('vsukoff@fgv','alexandre.e','.br');document.write("<a href='mailto:"+a[1]+a[0]+a[2]+"'>"+a[1]+a[0]+a[2]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/6443456845137235](http://lattes.cnpq.br/6443456845137235)
 
 Alexandre G. Evsukoff concluiu graduação em Engenharia Mecânica na

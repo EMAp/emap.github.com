@@ -8,7 +8,7 @@ picture: moacyr.silva.jpg
 # {{ page.title }}
 
 - Cargo: Professor Adjunto  
-- Email: \\( moacyr . silva @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('moacyr.sil','va@fgv.br');document.write("<a href='mailto:"+a[0]+a[1]+"'>"+a[0]+a[1]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/9077049649454688](http://lattes.cnpq.br/9077049649454688)
 
 Possui graduação em informática (1991) e em matemática (1996) pela

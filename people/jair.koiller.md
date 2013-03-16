@@ -8,7 +8,7 @@ picture: jair.koiller.jpg
 # {{ page.title }}
 
 - Cargo: Professor Associado
-- Email: \\( jair . koiller @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('jair.koill','er@fgv.br');document.write("<a href='mailto:"+a[0]+a[1]+"'>"+a[0]+a[1]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/5716929151556664](http://lattes.cnpq.br/5716929151556664)
 
 Graduado e mestre em Matematica pela Pontifícia Universidade Católica

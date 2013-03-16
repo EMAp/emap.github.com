@@ -8,7 +8,7 @@ picture: vincent.guigues.jpg
 # {{ page.title }}
 
 - Cargo: Professor Adjunto
-- Email: \\( vincent . guigues @ fgv . br \\)
+- Email: <script type='text/javascript'>var a = new Array('fg','s@','ue','ig','t.','nc','vi','en','gu','v.','br');document.write("<a href='mailto:"+a[6]+a[5]+a[7]+a[4]+a[8]+a[3]+a[2]+a[1]+a[0]+a[9]+a[10]+"'>"+a[6]+a[5]+a[7]+a[4]+a[8]+a[3]+a[2]+a[1]+a[0]+a[9]+a[10]+"</a>");</script>
 - Lattes: [http://lattes.cnpq.br/6539383780616623](http://lattes.cnpq.br/6539383780616623)
 
 Possui graduação e mestrado em Informática e Matemática Aplicada pela
