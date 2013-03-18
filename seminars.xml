@@ -4,13 +4,60 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-03-15T23:23:28-03:00</updated>
+ <updated>2013-03-18T12:07:05-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Dinâmica de Epidemias em Redes Sociais: quando a diversidade nos torna mais vulneráveis</title>
+   <link href="http://emap.fgv.br/seminars/2013/03/21/epidemias-redes-sociais.html"/>
+   <updated>2013-03-21T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/03/21/epidemias-redes-sociais</id>
+   <content type="html">&lt;p&gt;Modelos estocásticos de dinâmicas populacionais vêm sendo cada vez
+mais estudados por diversas áreas do conhecimento como matemática,
+biologia, física e computação. Com o surgimento de redes de interação
+social cada vez mais sofisticadas tornou-se fundamental entender como
+doenças, rumores, informações e crenças se espalham entre os
+indivíduos.&lt;/p&gt;
+
+&lt;p&gt;Neste seminário será discutido um modelo de espalhamento de epidemias
+em uma rede complexa onde a taxa de infecção cai com o tempo. Este
+tipo de variação temporal já foi observado em doenças em plantas e em
+macacos.&lt;/p&gt;
+
+&lt;p&gt;No caso deste modelo, o decaimento é controlado por dois parâmetros
+que podem ser homogêneos na população ou podem variar entre os
+agentes. Na pesquisa, a solução analítica do modelo foi apresentada no
+caso mais simples, onde os dois parâmetros são homogêneos. O modelo
+também foi simulado em outros três casos mais heterogêneos.&lt;/p&gt;
+
+&lt;p&gt;Como conclusão principal observou-se que quanto maior a diversidade
+entre os indivíduos, mais facilmente a epidemia se espalha pela
+população.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Nuno Crokidakis é doutor em Física pela Universidade Federal
+Fluminense e atualmente é Pós-Doc no Departamento de Física da
+PUC-Rio. Seu principal interesse em pesquisa é a modelagem estatística
+e computacional de sistemas complexos, em especial dinâmicas
+estocásticas de populações, redes complexas e sistemas de interesse
+social e biológico.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Empacotamento de objetos de arte únicos utilizando técnicas de scanner e impressão 3D</title>
