@@ -1,4 +1,4 @@
-﻿---
+---
 layout: seminar
 title: Text mining temporal para identificação de tendências em streaming de notícias
 quem: Miguel Zacur

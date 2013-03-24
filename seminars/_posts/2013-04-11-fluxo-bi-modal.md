@@ -1,4 +1,4 @@
-﻿---
+---
 layout: seminar
 title: Processos Difusivos com Distribuição de Fluxo Bi-modal 
 quem: Luiz Bevilacque
