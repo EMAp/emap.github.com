@@ -27,5 +27,5 @@ aprendidos na resolução de problemas.
 
 ## Bibliografia
 
-{% bibliography grad-linguagens-programacao %}
+{% bibliography --file grad-linguagens-programacao %}
 

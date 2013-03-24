@@ -25,4 +25,4 @@ software para PLN.
 
 ## Bibliografia
 
-{% bibliography mestr-processamento-linguagem-natural-mineracao-textos %}
+{% bibliography --file mestr-processamento-linguagem-natural-mineracao-textos %}

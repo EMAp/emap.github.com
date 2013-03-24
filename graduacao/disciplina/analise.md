@@ -18,6 +18,6 @@ funções,convergência simples e uniforme, Série de Taylor.
 
 ## Bibliografia
 
-{% bibliography grad-analise %}
+{% bibliography --file grad-analise %}
 
 

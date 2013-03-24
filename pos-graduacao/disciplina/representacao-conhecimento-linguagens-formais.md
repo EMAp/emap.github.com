@@ -25,5 +25,5 @@ inferência Aquisição de Conhecimento
 
 ## Bibliografia
 
-{% bibliography mestr-representacao-conhecimento-linguagens-formais %}
+{% bibliography --file mestr-representacao-conhecimento-linguagens-formais %}
 

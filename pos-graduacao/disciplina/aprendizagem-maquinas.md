@@ -25,5 +25,5 @@ de Regressão. Classificação. Máquinas de Vetores de Suporte
 
 ## Bibliografia
 
-{% bibliography mestr-aprendizagem-maquinas %}
+{% bibliography --file mestr-aprendizagem-maquinas %}
 

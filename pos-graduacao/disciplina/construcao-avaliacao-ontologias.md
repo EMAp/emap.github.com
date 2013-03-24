@@ -25,5 +25,5 @@ avaliação de ontologias
 
 ## Bibliografia
 
-{% bibliography mestr-construcao-avaliacao-ontologias %}
+{% bibliography --file mestr-construcao-avaliacao-ontologias %}
 

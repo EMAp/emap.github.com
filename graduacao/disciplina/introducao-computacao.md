@@ -28,4 +28,4 @@ Python. Robótica e Automação.
 
 ## Bibliografia
 
-{% bibliography grad-introducao-computacao %}
+{% bibliography --file grad-introducao-computacao %}

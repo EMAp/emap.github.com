@@ -29,5 +29,5 @@ de Mínima Perda Esperada.
 
 ## Bibliografia
 
-{% bibliography mestr-probabilidade-inferencia %}
+{% bibliography --file mestr-probabilidade-inferencia %}
 

@@ -24,4 +24,4 @@ corretude e completude. Sistemas dedutivos para FOL.
 
 ## Bibliografia
 
-{% bibliography mestr-topicos-avancados-logica %}
+{% bibliography --file mestr-topicos-avancados-logica %}

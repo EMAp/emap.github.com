@@ -21,4 +21,4 @@ grafos, problemas de geometria computacional
 
 ## Bibliografia
 
-{% bibliography grad-analise-algoritmos %}
+{% bibliography --file grad-analise-algoritmos %}

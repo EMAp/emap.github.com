@@ -21,5 +21,5 @@ triplas;
 
 ## Bibliografia
 
-{% bibliography grad-calculo-II %}
+{% bibliography --file grad-calculo-II %}
 

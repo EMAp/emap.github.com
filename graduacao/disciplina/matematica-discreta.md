@@ -15,5 +15,5 @@ Funções geradoras. Aplicações à combinatória.
 
 ## Bibliografia
 
-{% bibliography grad-matematica-discreta %}
+{% bibliography --file grad-matematica-discreta %}
 

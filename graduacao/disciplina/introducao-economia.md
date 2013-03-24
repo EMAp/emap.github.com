@@ -22,4 +22,4 @@ regulação; comércio internacional.
 
 ## Bibliografia
 
-{% bibliography grad-introducao-economia %}
+{% bibliography --file grad-introducao-economia %}

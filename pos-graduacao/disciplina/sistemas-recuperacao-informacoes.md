@@ -31,5 +31,5 @@ recuperação em redes Sociais
 
 ## Bibliografia
 
-{% bibliography mestr-sistemas-recuperacao-informacoes %}
+{% bibliography --file mestr-sistemas-recuperacao-informacoes %}
 

@@ -17,4 +17,4 @@ aplicações. Introdução à programação não linear.
 
 ## Bibliografia
 
-{% bibliography grad-pesquisa-operacional-II %}
+{% bibliography --file grad-pesquisa-operacional-II %}

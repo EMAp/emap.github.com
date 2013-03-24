@@ -55,5 +55,5 @@ Casos.
 
 ## Bibliografia
 
-{% bibliography mestr-modelagem-mineracao-dados %}
+{% bibliography --file mestr-modelagem-mineracao-dados %}
 

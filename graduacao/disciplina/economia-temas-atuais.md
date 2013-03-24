@@ -15,4 +15,4 @@ atual: governo, regulação, crime, direitos autorais, raça.
 
 ## Bibliografia
 
-{% bibliography grad-economia-temas-atuais %}
+{% bibliography --file grad-economia-temas-atuais %}

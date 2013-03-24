@@ -23,4 +23,4 @@ elípticas e hiperbólicas): diferenças finitas e elementos finitos.
 
 ## Bibliografia
 
-{% bibliography grad-analise-numerica %}
+{% bibliography --file grad-analise-numerica %}

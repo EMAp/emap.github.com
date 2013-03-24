@@ -29,5 +29,5 @@ Classificação e análise de sinais multimídia.
 
 ## Bibliografia
 
-{% bibliography mestr-processamento-multimidia %}
+{% bibliography --file mestr-processamento-multimidia %}
 

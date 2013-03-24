@@ -20,4 +20,4 @@ de funções racionais, robótica.
 
 ## Bibliografia
 
-{% bibliography grad-algebra-II %}
+{% bibliography --file grad-algebra-II %}

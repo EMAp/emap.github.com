@@ -24,5 +24,5 @@ divisão e conquista etc. Problemas NP-Completos.
 
 ## Bibliografia
 
-{% bibliography mestr-estruturas-dados-algoritmos %}
+{% bibliography --file mestr-estruturas-dados-algoritmos %}
 

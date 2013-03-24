@@ -21,4 +21,4 @@ Primeira Ordem
 
 ## Bibliografia
 
-{% bibliography grad-logica %}
+{% bibliography --file grad-logica %}

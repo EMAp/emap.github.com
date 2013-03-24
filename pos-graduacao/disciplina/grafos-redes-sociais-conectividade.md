@@ -29,5 +29,5 @@ Modelos determinísticos e estocásticos. Discussão de aplicações
 
 ## Bibliografia
 
-{% bibliography mestr-grafos-redes-sociais-conectividade %}
+{% bibliography --file mestr-grafos-redes-sociais-conectividade %}
 

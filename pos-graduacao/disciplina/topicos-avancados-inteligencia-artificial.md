@@ -27,5 +27,5 @@ decisão, ou qualquer outro tema que represente o estado da arte em IA.
 
 ## Bibliografia
 
-{% bibliography mestr-topicos-avancados-inteligencia-artificial %}
+{% bibliography --file mestr-topicos-avancados-inteligencia-artificial %}
 

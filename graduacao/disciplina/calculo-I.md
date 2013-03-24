@@ -24,5 +24,5 @@ impróprias.
 
 ## Bibliografia
 
-{% bibliography grad-calculo-I %}
+{% bibliography --file grad-calculo-I %}
 

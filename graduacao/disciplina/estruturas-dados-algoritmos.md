@@ -27,4 +27,4 @@ endereçamento aberto.
 
 ## Bibliografia
 
-{% bibliography grad-estruturas-dados-algoritmos %}
+{% bibliography --file grad-estruturas-dados-algoritmos %}

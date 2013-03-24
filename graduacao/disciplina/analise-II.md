@@ -19,4 +19,4 @@ variáveis em integrais múltiplas.
 
 ## Bibliografia
 
-{% bibliography grad-analise-II %}
+{% bibliography --file grad-analise-II %}

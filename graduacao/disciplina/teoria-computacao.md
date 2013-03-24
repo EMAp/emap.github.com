@@ -18,4 +18,4 @@ problemas intratáveis
 
 ## Bibliografia
 
-{% bibliography grad-teoria-computacao %}
+{% bibliography --file grad-teoria-computacao %}

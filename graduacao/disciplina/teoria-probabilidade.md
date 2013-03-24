@@ -24,5 +24,4 @@ Introdução à Inferência Estatística.
 
 ## Bibliografia
 
-{% bibliography grad-teoria-probabilidade %}
-
+{% bibliography --file grad-teoria-probabilidade %}

@@ -24,5 +24,5 @@ Visualização Volumétrica. Visualização de Informação
 
 ## Bibliografia
 
-{% bibliography mestr-visualizacao-informacao %}
+{% bibliography --file mestr-visualizacao-informacao %}
 

@@ -19,4 +19,4 @@ Morse. Noções de  geometria computacional e mecânica geométrica.
 
 ## Bibliografia
 
-{% bibliography grad-topologia %}
+{% bibliography --file grad-topologia %}

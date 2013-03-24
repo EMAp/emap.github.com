@@ -28,5 +28,5 @@ otimização.
 
 ## Bibliografia
 
-{% bibliography mestr-analise-matematica-aplicacoes %}
+{% bibliography --file mestr-analise-matematica-aplicacoes %}
 

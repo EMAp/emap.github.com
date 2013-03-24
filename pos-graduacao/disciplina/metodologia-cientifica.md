@@ -26,5 +26,5 @@ Apresentação do Relatório de Pesquisa.
 
 ## Bibliografia
 
-{% bibliography mestr-metodologia-cientifica %}
+{% bibliography --file mestr-metodologia-cientifica %}
 

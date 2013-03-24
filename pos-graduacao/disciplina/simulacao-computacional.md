@@ -27,6 +27,6 @@ estocásticos.
 
 ## Bibliografia
 
-{% bibliography mestr-simulacao-computacional %}
+{% bibliography --file mestr-simulacao-computacional %}
 
 

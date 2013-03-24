@@ -16,4 +16,4 @@ Kepler. Ótica.
 
 ## Bibliografia
 
-{% bibliography grad-modelagem-matematica-II %}
+{% bibliography --file grad-modelagem-matematica-II %}

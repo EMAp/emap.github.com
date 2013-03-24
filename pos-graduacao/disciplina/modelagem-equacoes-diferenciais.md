@@ -27,5 +27,5 @@ diagnósticos de bifurcações e caos.
 
 ## Bibliografia
 
-{% bibliography mestr-modelagem-equacoes-diferenciais %}
+{% bibliography --file mestr-modelagem-equacoes-diferenciais %}
 

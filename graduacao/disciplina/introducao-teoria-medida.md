@@ -20,4 +20,4 @@ medidas. Teoremas de Tonelli e Fubini.
 
 ## Bibliografia
 
-{% bibliography grad-introducao-teoria-medida %}
+{% bibliography --file grad-introducao-teoria-medida %}

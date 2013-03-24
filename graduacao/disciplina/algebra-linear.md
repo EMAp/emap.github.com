@@ -18,5 +18,5 @@ apresentação das formas quadráticas.
 
 ## Bibliografia
 
-{% bibliography grad-algebra-linear %}
+{% bibliography --file grad-algebra-linear %}
 

@@ -24,5 +24,5 @@ Corpus e Linguística Computacional.
 
 ## Bibliografia
 
-{% bibliography mestr-introducao-linguistica %}
+{% bibliography --file mestr-introducao-linguistica %}
 

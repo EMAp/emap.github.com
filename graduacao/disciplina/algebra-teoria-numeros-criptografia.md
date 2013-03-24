@@ -19,4 +19,4 @@ criptografia e El Gamal.
 
 ## Bibliografia
 
-{% bibliography grad-algebra-teoria-numeros-criptografia %}
+{% bibliography --file grad-algebra-teoria-numeros-criptografia %}

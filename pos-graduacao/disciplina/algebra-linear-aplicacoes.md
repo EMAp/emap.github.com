@@ -28,5 +28,5 @@ principais; algoritmo PageRank e similares.
 
 ## Bibliografia
 
-{% bibliography mestr-algebra-linear-aplicacoes %}
+{% bibliography --file mestr-algebra-linear-aplicacoes %}
 

@@ -19,4 +19,4 @@ de Consulta: Álgebra Relacional.  A linguagem SQL.
 
 ## Bibliografia
 
-{% bibliography grad-sistemas-bancos-dados %}
+{% bibliography --file grad-sistemas-bancos-dados %}

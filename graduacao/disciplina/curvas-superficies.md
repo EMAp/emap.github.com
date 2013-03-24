@@ -22,5 +22,5 @@ superfícies. Modelos de iluminação.
 
 ## Bibliografia
 
-{% bibliography grad-curvas-superficies %}
+{% bibliography --file grad-curvas-superficies %}
 

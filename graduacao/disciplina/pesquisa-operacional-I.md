@@ -18,4 +18,4 @@ aplicações. Introdução à programação inteira.
 
 ## Bibliografia
 
-{% bibliography grad-pesquisa-operacional-I %}
+{% bibliography --file grad-pesquisa-operacional-I %}
