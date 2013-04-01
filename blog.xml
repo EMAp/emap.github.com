@@ -4,13 +4,62 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-03-24T09:00:49-03:00</updated>
+ <updated>2013-04-01T13:34:48-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>FGV/EMAp promove curso em "consequência lógica e estruturas de informação"</title>
+   <link href="http://emap.fgv.br/blog/2013/04/01/minicurso-consequencia-logica.html"/>
+   <updated>2013-04-01T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/04/01/minicurso-consequencia-logica</id>
+   <content type="html">&lt;p&gt;Nos dias 08 e 09 de abril, a FGV/EMAp realizará o Minicurso
+Consequência Lógica e Estruturas de Informação com o PhD pela National
+Academy of Sciences of Ukraine, professor Yaroslav Shramko.&lt;/p&gt;
+
+&lt;p&gt;O curso será ministrado em inglês e ocorrerá das 14h às 15h30 na Praia
+de Botafogo, 190, sala 1014. Para participar, é necessário confirmar
+presença pelo email &lt;script type='text/javascript'&gt;var a = new Array('gv.br','emap@f');document.write(&quot;&lt;a href='mailto:&quot;+a[1]+a[0]+&quot;'&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Resumo&lt;/h2&gt;
+
+&lt;p&gt;No nível da linguagem objeto, a relação de consequência lógica pode
+ser representada por um conectivo proposicional de implicação devido
+ao bem conhecido teorema da dedução. A consequência lógica e a
+implicação, na lógica clássica, estão sujeitas a certas
+características que têm sido frequentemente caracterizadas como
+&quot;paradoxais&quot;. Sentenças logicamente falsas tem como consequência
+lógica qualquer sentença, e qualquer sentença tem como consequência
+lógica, sentenças verdadeiras.  Isto é, a relação de consequência
+lógica na lógica clássica não garante relevância entre premissas e
+conclusão. É possível, no entanto, a construção de uma &quot;lógica
+relevante&quot;, com implicação e consequência lógica livres dos paradoxos
+da relevância. Esta lógica relevante é muito útil para a modelagem
+lógica de estruturas de informação e pode ser efetivamente empregada
+para um raciocínio assistido por computador.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Yaroslav Shramko é PhD pela National Academy of Sciences of Ukraine,
+Kyiv; professor em Lógica e Filosofia; e pesquisador visitante na
+Humboldt-University Berlin (Alemanha), Uppsala University (Suécia),
+Indiana University (EUA) e Dresden University of Technology
+(Germany). Também é autor de cinco livros, incluindo &quot;Truth and False
+hood&quot;, e de mais de oitenta publicações na área.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Daniel Keim apresenta aplicações da "visual analytics" na EMAp</title>
