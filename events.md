@@ -6,5 +6,5 @@ section: events
 
 # {{ page.title }}
 
-- [1st Workshop on Logics and Ontologies for Portuguese](/NLP-2011/)
-- [4th Workshop on Interactive Data Visualization](/WVC-2013/)
+- <a href="/NLP-2011/" target="_blank">1st Workshop on Logics and Ontologies for Portuguese</a>
+- <a href="/WVC-2013/" target="_blank">4th Workshop on Interactive Data Visualization</a>
