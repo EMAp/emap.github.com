@@ -659,6 +659,10 @@ h1, h2, h3, h4, h5, h6 {
     background: url(/images/banner-equipe.jpg) no-repeat left top
 }
 
+.events #banner-inner {
+    background: url(/images/banner-about.jpg) no-repeat left top
+}
+
 #banner-inner .block-1 {
     position: relative;
     left: -20px;
