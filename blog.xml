@@ -4,13 +4,40 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-04-17T13:38:21-03:00</updated>
+ <updated>2013-04-24T15:40:57-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Hans Hosling mostra em visualização de dados cenário da mortalidade infantil</title>
+   <link href="http://emap.fgv.br/blog/2013/04/19/hans-rosling.html"/>
+   <updated>2013-04-19T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/04/19/hans-rosling</id>
+   <content type="html">&lt;p&gt;Hans Rosling é um nome pioneiro quando se trata de apresentar grandes
+massas de dados visualmente.&lt;/p&gt;
+
+&lt;p&gt;Autor de muitas palestras marcantes em eventos de formação de opinião
+como o &lt;a href=&quot;http://www.ted.com/talks&quot;&gt;TED Talks&lt;/a&gt;, Rosling se tornou uma
+das 100 personalidades mais influentes no mundo, segundo a revista
+&lt;a href=&quot;http://www.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112170,00.html&quot;&gt;TIME&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em seu video “The River of Myths”, o autor retrata sob um ângulo muito
+convincente, o cenário mundial da mortalidade infantil. De acordo com
+o site
+&lt;a href=&quot;http://www.freakonomics.com/2013/02/22/taking-on-the-myths-of-child-mortality/&quot;&gt;Freaknominics&lt;/a&gt;,
+esta produção foi programada para coincidir com a
+&lt;a href=&quot;http://annualletter.gatesfoundation.org/#nav=intro&quot;&gt;Carta Anual de 2013 de Bill Gates&lt;/a&gt;,
+na qual o co-presidente da Fundação Bill &amp;amp; Melinda Gates destaca a
+importância da medição para a melhoria da condição humana.&lt;/p&gt;
+
+&lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/OwII-dwh-bk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>FGV/EMAp promove curso em "consequência lógica e estruturas de informação"</title>
