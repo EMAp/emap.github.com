@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hans Hosling mostra em visualização de dados cenário da mortalidade infantil
+title: Hans Rosling mostra em visualização de dados cenário da mortalidade infantil
 author: Raquel Rittmeyer
 tags:
  - visualizacao
