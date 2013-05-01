@@ -40,7 +40,6 @@ Estou testando duas formas. Nos profesores o mathjax e na equipe:
 
 http://www.projecthoneypot.org/how_to_avoid_spambots_3.php
 
-
 * Outras
 
 - Mensagens do fale conosco são registradas no sent itens?
@@ -92,3 +91,4 @@ Sobre o banner e CSS/Transparency no IE:
 Locales no Jekyll para datas:
 
 - http://stackoverflow.com/questions/10714980/locale-specific-date-in-jekyll
+
