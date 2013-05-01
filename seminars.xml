@@ -4,13 +4,46 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-04-26T16:55:25-03:00</updated>
+ <updated>2013-05-01T12:20:21-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Dengue: colaboração FGV/EMAp, FIOCRUZ, UFF e INRIA</title>
+   <link href="http://emap.fgv.br/seminars/2013/05/02/dengue.html"/>
+   <updated>2013-05-02T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/05/02/dengue</id>
+   <content type="html">&lt;p&gt;O seminário consistirá de várias apresentações curtas sobre algumas
+das pesquisas em andamento nesta colaboração, iniciada durante a
+epidemia de 2008. Entre outros tópicos de nossos estudos, em que a
+análise matemática pode ser útil aos usuários finais (autoridades e
+técnicos da área de saúde), mencionamos a resistência a inseticidas, a
+eficácia da introdução da Wolbachia (uma bactéria introduzida
+artificialmente no Aedes Aegypti) como possível controle, a estimação
+da população adulta a partir de dados sobre as larvas, e novos métodos
+matemáticos, como a análise multiescala.&lt;/p&gt;
+
+&lt;p&gt;Na equipe brasileira, destacamos Crysttian Paixão, Flavio C. Coelho,
+Moacyr Alvim, da FGV/EMAp, Max Souza, da UFF, e Hélio Schechtman,
+Claudia Codeço e seus alunos Raquel Lana e Felipe Figueiredo, da
+Fiocruz.  O projeto conta com o apoio do CNPq/Pronex e do programa
+Capes/Cofecub (França).  A equipe francesa, do INRIA/Nancy e
+Université de Lorraine é liderada por Gauthier Sallet e Abderrahman
+Iggidr, que será um dos palestrantes do seminário.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Bancos de Dados NoSQL - Uma Visão Geral</title>
