@@ -1,6 +1,6 @@
-﻿---
+---
 layout: inner-child
-title: Núcleo de Apoio Pedagógico
+title: Núcleo de apoio pedagógico
 incluir:
  - widget-sobre-graduacao.html
  - widget-colocacao-profissional.html
