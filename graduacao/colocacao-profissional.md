@@ -4,6 +4,7 @@ title: Estágio e Colocação Profissional
 incluir:
  - widget-sobre-graduacao.html
  - widget-disciplinas-graduacao.html
+ - widget-nap.html
 ---
 
 O setor de Estágio e Colocação Profissional funciona como um canal de
@@ -31,4 +32,5 @@ Luziel Claret e Vanessa Framil
 
 - Telefones: +55 (21) 3799-5437, 3799-5672 ou 3799-5478.
 - Sala: 305
-- E-mail: cp@fgv.br
+- E-mail: <script type='text/javascript'>var a = new Array('r','cp@f','gv.b');document.write("<a href='mailto:"+a[1]+a[2]+a[0]+"'>"+a[1]+a[2]+a[0]+"</a>");</script>
+
