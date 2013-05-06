@@ -4,13 +4,55 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-05-04T14:25:41-03:00</updated>
+ <updated>2013-05-06T16:23:24-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Previsão de comportamento de mídias sociais baseada em simulação</title>
+   <link href="http://emap.fgv.br/seminars/2013/05/09/simulacao-midias-sociais.html"/>
+   <updated>2013-05-09T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/05/09/simulacao-midias-sociais</id>
+   <content type="html">&lt;p&gt;Neste seminário será abordado o projeto SMSim (Social Media
+SIMulation) - previsão de comportamento de mídias sociais baseada em
+simulação.&lt;/p&gt;
+
+&lt;p&gt;O projeto que teve início em 2012, conta com um grupo interdisciplinar
+e de muitos desafios. Nele, existem cinco grandes áreas que precisam
+ser combinadas: ciências sociais, inteligência artificial,
+processamentode linguagem natural, análise de redes sociais e big
+data.&lt;/p&gt;
+
+&lt;p&gt;Será apresentada a metodologia que está sendo usada para integrar
+essas áreas e construir uma ferramenta, cujo objetivo é utilizá-la
+para antecipar o comportamento em resposta a determinadas ações, tais
+como campanha de marketing e entendimento e controle de comportamento
+viral.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://researcher.ibm.com/researcher/view.php?person=br-mairacg&quot;&gt;Maíra Gatti&lt;/a&gt;
+é pesquisadora da
+&lt;a href=&quot;http://www.research.ibm.com/labs/brazil/index.shtml&quot;&gt;IBM Research - Brazil&lt;/a&gt;
+desde 2011. Possui doutorado pela PUC-Rio (2009) com período
+colaborativo na Universidade de Waterloo, Canadá (2008) e King's
+College London, Inglaterra (2009). Sua principal área de atuação é em
+Modelagem Computacional de Sistemas Complexos e em Sistemas
+Distribuídos&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Dengue: colaboração FGV/EMAp, FIOCRUZ, UFF e INRIA</title>
