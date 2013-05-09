@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-      "Bibliography #{@text} not rendered #{Time.now}"
+      "Bibliography #{@text} not rendered at #{Time.now}"
     end
   end
 end
