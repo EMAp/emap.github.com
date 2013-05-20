@@ -1,7 +1,7 @@
 ---
 section: pos-graduacao
 layout: disciplina
-title: Tópicos Avançados em Matemática Aplicada
+title: Tópicos avançados em matemática aplicada
 area: Matemática Geral
 creditos: 3
 ---
@@ -12,22 +12,25 @@ creditos: 3
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
-A serem definidos, de acordo com a temática específica
+
+A serem definidos, de acordo com a temática específica.
 
 ## Ementa
 
-Neste curso [A linguagem de programação Python](http://www.python.org/)
-é introduzida como uma plataforma
-opensource para o desenvolvimento e implementação de métodos
-computacionais associados à matemática aplicada, em suas diversas
-facetas.  A linguagem Python, por sua clareza sintática, natureza
-dinâmica e ampla penetração e adoção em diversas disciplinas
-científicas, apresenta-se como plataforma ideal para o desenvolvimento
-de aplicações científicas de alto nível.  Durante o curso, os alunos
-são apresentados não somente à linguagem como também a:
+Neste curso [A linguagem de programação Python](http://www.python.org/) é
+introduzida como uma plataforma opensource para o desenvolvimento e
+implementação de métodos computacionais associados à matemática
+aplicada, em suas diversas facetas.  A linguagem Python, por sua
+clareza sintática, natureza dinâmica e ampla penetração e adoção em
+diversas disciplinas científicas, apresenta-se como plataforma ideal
+para o desenvolvimento de aplicações científicas de alto nível.
+Durante o curso, os alunos são apresentados não somente à linguagem
+como também a:
 
 - Ferramentas de controle de versões que deverão utilizar durante a execução das tarefas.
-- Metodologias ágeis de desenvolvimento, em especial o desenvolvimento orientado a testes ou [TDD](http://pt.wikipedia.org/wiki/Test_Driven_Development).
+- Metodologias ágeis de desenvolvimento, em especial o desenvolvimento
+  orientado a testes ou
+  [TDD](http://pt.wikipedia.org/wiki/Test_Driven_Development).
 
 No início de cada bloco temático da disciplina, Os alunos receberão um
 problema para resolver. E o link para um respositório de código
@@ -79,5 +82,6 @@ PIL. Animações 2D e 3D usando Python e OpenGL: Pyprocessing e Pyglet.
 
 ## Bibliografia
 
- não possui
+Não possui.
+
 

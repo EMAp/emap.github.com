@@ -1,7 +1,7 @@
 ---
 section: pos-graduacao
 layout: disciplina
-title: Tópicos Avançados em Lógica
+title: Tópicos avançados em lógica
 creditos: 3
 area: Mátematica da informação
 ---
