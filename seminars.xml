@@ -4,7 +4,7 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-05-18T20:42:12-03:00</updated>
+ <updated>2013-05-19T23:16:26-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -39,7 +39,7 @@ viral.&lt;/p&gt;
 é pesquisadora da
 &lt;a href=&quot;http://www.research.ibm.com/labs/brazil/index.shtml&quot;&gt;IBM Research - Brazil&lt;/a&gt;
 desde 2011. Possui doutorado pela PUC-Rio (2009) com período
-colaborativo na Universidade de Waterloo, Canadá (2008) e King's
+colaborativo na Universidade de Waterloo, Canadá (2008) e King&#39;s
 College London, Inglaterra (2009). Sua principal área de atuação é em
 Modelagem Computacional de Sistemas Complexos e em Sistemas
 Distribuídos&lt;/p&gt;
@@ -364,7 +364,7 @@ on Visual Analytics.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;O seminário será realizado em inglês.&lt;/li&gt;
-&lt;li&gt;A presença é gratuíta mas exige a confirmação pelo email &lt;script type='text/javascript'&gt;var a = new Array('gv.br','emap@f');document.write(&quot;&lt;a href='mailto:&quot;+a[1]+a[0]+&quot;'&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/li&gt;
+&lt;li&gt;A presença é gratuíta mas exige a confirmação pelo email &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;gv.br&#39;,&#39;emap@f&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/li&gt;
 &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1028,7 +1028,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <content type="html">&lt;p&gt;O seminário foi uma palestra do workshop
 &lt;a href=&quot;/events/nlp-2011/&quot;&gt;Logics and Ontologies for Portuguese&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We start from the analysis of Turing's work in On computable numbers,
+&lt;p&gt;We start from the analysis of Turing&#39;s work in On computable numbers,
 with an application to the Entscheidungsproblem raising evidences
 about how he proceeded to build the definition of
 computability. Taking advantage of his stepwise construction that
