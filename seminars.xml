@@ -4,7 +4,7 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-05-20T22:17:11-03:00</updated>
+ <updated>2013-05-21T13:15:18-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Fomentando o empreendedorismo e a inovação nacional com os conceitos de computação em nuvem e Amazon Web Services</title>
-   <link href="http://emap.fgv.br/seminars/2013/05/22/computacao-nuvem.html"/>
-   <updated>2013-05-22T00:00:00-03:00</updated>
-   <id>http://emap.fgv.br/seminars/2013/05/22/computacao-nuvem</id>
+   <link href="http://emap.fgv.br/seminars/2013/05/23/computacao-nuvem.html"/>
+   <updated>2013-05-23T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/05/23/computacao-nuvem</id>
    <content type="html">&lt;p&gt;O empreendedorismo e a inovação são uma realidade cada vez mais
 presente no cenário nacional, e a tecnologia é uma das ferramentas que
 alavanca estes processos. A computação em nuvem oferece uma série de
