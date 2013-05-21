@@ -4,13 +4,53 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-05-19T23:27:28-03:00</updated>
+ <updated>2013-05-20T22:17:11-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Fomentando o empreendedorismo e a inovação nacional com os conceitos de computação em nuvem e Amazon Web Services</title>
+   <link href="http://emap.fgv.br/seminars/2013/05/22/computacao-nuvem.html"/>
+   <updated>2013-05-22T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/05/22/computacao-nuvem</id>
+   <content type="html">&lt;p&gt;O empreendedorismo e a inovação são uma realidade cada vez mais
+presente no cenário nacional, e a tecnologia é uma das ferramentas que
+alavanca estes processos. A computação em nuvem oferece uma série de
+vantagens que auxilia empresas nascentes, proporcionando a base da
+infraestrutura tecnológica por um preço acessível e direcionado às
+necessidades de cada empresa.&lt;/p&gt;
+
+&lt;p&gt;Este seminário apresentará, num primeiro momento, o percurso seguido
+por uma startup brasileira da área de tecnologia da informação. Essa
+pequena empresa surgiu no âmbito acadêmico com projetos inovadores e
+sociais e, com o auxílio da computação em nuvem, pôde se firmar no
+mercado corporativo. Num segundo momento, será apresentado os
+conceitos fundamentais da computação em nuvem e como ela auxilia a
+inovação tecnológica. Como um exemplo prático e real, será mostrada a
+plataforma de serviços em nuvem Amazon Web Services (AWS) e como ela é
+utilizada no dia-a-dia de uma empresa nascente.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Fábio Fonseca é mestre em Engenharia de Produção com ênfase em Gestão
+da Inovação (COPPE/UFRJ), e Hugo Carvalho é mestre em Engenharia
+Elétrica (COPPE/UFRJ). Ambos são sócios da empresa Makinn Solutions,
+que desenvolve soluções de tecnologia para o mercado corporativo.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Previsão de comportamento de mídias sociais baseada em simulação</title>
