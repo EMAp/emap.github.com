@@ -4,13 +4,37 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-05-21T13:15:18-03:00</updated>
+ <updated>2013-06-02T03:59:54-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>EMAp realiza Workshop de Visualização Interativa</title>
+   <link href="http://emap.fgv.br/blog/2013/05/27/workshop-visualizacao.html"/>
+   <updated>2013-05-27T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/05/27/workshop-visualizacao</id>
+   <content type="html">&lt;p&gt;Nos dias 06 e 07 de junho será realizado no Rio de Janeiro o &quot;Workshop
+de Visualização Interativa&quot; - uma parceria da Escola de Matemática
+Aplicada da FGV com a Universidade Federal do Rio Grande do Sul.&lt;/p&gt;
+
+&lt;p&gt;Em sua quarta edição, o evento é um complemento do
+&lt;a href=&quot;http://www2.ic.uff.br/~wvc2013/&quot;&gt;Workshop de Visão Computacional 2013 (WVC)&lt;/a&gt;.
+Entre os palestrantes convidados, estarão presentes Enrico Bertini, da
+New York University, Luis Gustavo Nonato e Maria Cristina Ferreira, da
+USP, João Comba e Carla Freitas, da UFRGS, e Pablo Cerdeira, da
+FGV/DIREITO RIO.&lt;/p&gt;
+
+&lt;p&gt;O evento também terá uma sessão de pôster, onde treze trabalhos serão
+expostos no dia 06 de junho.&lt;/p&gt;
+
+&lt;p&gt;Para informações e inscrições do evento,
+&lt;a href=&quot;http://emap.fgv.br/WVC-2013/index.html&quot;&gt;acesse aqui&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp apresenta profissão em Matemática Aplicada para alunos do ensino médio</title>
