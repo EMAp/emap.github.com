@@ -4,13 +4,40 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-06-02T03:59:54-03:00</updated>
+ <updated>2013-06-09T07:49:04-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Visualização Interativa</title>
+   <link href="http://emap.fgv.br/seminars/2013/06/06/visualizacao-interativa.html"/>
+   <updated>2013-06-06T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/06/06/visualizacao-interativa</id>
+   <content type="html">&lt;p&gt;O pesquisador Enrico Bertini, da New York University, apresentará sua
+palestra no IV Workshop de Visualização Interativa, que será realizado
+nos dias 06 e 07 de junho.&lt;/p&gt;
+
+&lt;p&gt;Enrico é pesquisador na área de visualização de informação, interação
+humano-computador e &quot;visual analytics&quot;. Sua pesquisa tem como foco o
+desenvolvimento de novas técnicas e aplicações, bem como o
+entendimento de como as pessoas interagem com tais técnicas. É também
+autor do Fell in Love with Data, um blog de visualização de dados que
+visa fazer uma ponte entre pesquisadores e usuários de técnicas de
+visualização.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Fomentando o empreendedorismo e a inovação nacional com os conceitos de computação em nuvem e Amazon Web Services</title>
