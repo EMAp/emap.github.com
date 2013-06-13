@@ -4,13 +4,53 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-06-11T15:03:24-03:00</updated>
+ <updated>2013-06-13T18:42:38-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Os grandes desafios do Big Data</title>
+   <link href="http://emap.fgv.br/blog/2013/06/13/big-data.html"/>
+   <updated>2013-06-13T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/06/13/big-data</id>
+   <content type="html">&lt;p&gt;O fenômeno do Big Data na Ciência pré-data, de certa forma, o conceito
+atual de Big Data - muito atrelado à montanha de dados gerada
+continuamente em serviços de internet, como redes sociais e sítios de
+proteção de conteúdo, por exemplo, Youtube e Flickr. Disciplinas como
+física de partículas, meteorologia e astronomia, já lidam com grandes
+volumes de dados há décadas.&lt;/p&gt;
+
+&lt;p&gt;O artigo &quot;Biology: The big challenges of Big Data&quot;, de Vivien Marx,
+publicado pela &lt;a href=&quot;http://www.nature.com/nature/index.html&quot;&gt;Nature&lt;/a&gt;,
+mostra que com o avanço e barateamento da tecnologia de sequenciamento
+genômico, a biologia adentra a seara do Big Data Científico, com
+grandes laboratórios de Biologia Molecular, como o EMBL (Laboratório
+Europeu de Biologia Molecular), mantendo acervos de dados com dezenas
+de petabytes que dobram de tamanho a cada ano -- e isto é apenas um
+décimo do volume de dados armazenado no Centro Europeu de Pesquisa
+Nuclear (CERN), que opera o LHC, o maior acelerador de partículas do
+mundo.&lt;/p&gt;
+
+&lt;p&gt;A publicação aponta que um dos mais importantes gargalos atuais da
+ciência do Big Data é a movimentação destes dados. Devido ao seu
+volume, eles ultrapassam a capacidade analítica de um único
+laboratório, precisando ser compartilhado com parceiros de outras
+instituições ao redor do globo. Tamanho fluxo de informações desafia
+a arquitetura atual da internet, que ainda não é capaz de transmitir
+um alto volume de informação eficientemente. Como qualquer desafio, a
+necessidade de dar mobilidade a estes dados converteu-se em grande
+oportunidade para empresas de tecnologia que estão desenvolvendo desde
+novos protocolos de comunicação até ambientes integrados na nuvem para
+análise colaborativa de dados.&lt;/p&gt;
+
+&lt;p&gt;Para ler o artigo &quot;Biology: The big challenges of Big Data&quot;,
+&lt;a href=&quot;http://www.nature.com/nature/journal/v498/n7453/full/498255a.html&quot;&gt;acesse aqui&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp realiza Workshop de Visualização Interativa</title>
