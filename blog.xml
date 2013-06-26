@@ -4,7 +4,7 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-06-25T23:43:27-03:00</updated>
+ <updated>2013-06-26T00:08:54-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -410,7 +410,11 @@ auditório 1333 às 11 horas.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2013/02/08/selecao-mestrado.html"/>
    <updated>2013-02-08T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/02/08/selecao-mestrado</id>
-   <content type="html">&lt;p&gt;Divulgamos a seguir o resultado da seleção do mestrado da EMAp de 2013. Os candidatos aprovados devem clicar &lt;a href=&quot;http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&amp;amp;p_empresa=EMAP&quot;&gt;aqui&lt;/a&gt; para inscrição no mestrado da EMAp. Maiores informações &lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;na página&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Divulgamos a seguir o resultado da seleção do mestrado da EMAp de&lt;br /&gt;
+2013. Os candidatos aprovados devem acessar o sistema acadêmico da &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;&lt;br /&gt;
+(link removido) para completar sua inscrição no mestrado da&lt;br /&gt;
+EMAp. Maiores informações na página sobre o &lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;processo seletivo da&lt;br /&gt;
+EMAp&lt;/a&gt;.&lt;/p&gt;
 &lt;table&gt;
 	&lt;tr&gt;
 		&lt;td&gt; &lt;strong&gt;Nome&lt;/strong&gt;                                     &lt;/td&gt;
