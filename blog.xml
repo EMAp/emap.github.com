@@ -4,13 +4,51 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-06-18T13:30:16-03:00</updated>
+ <updated>2013-06-25T23:43:27-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Estudantes vencedores da Olimpíada Brasileira de Matemática das Escolas Públicas são premiados no Rio de Janeiro</title>
+   <link href="http://emap.fgv.br/blog/2013/06/25/obmep.html"/>
+   <updated>2013-06-25T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/06/25/obmep</id>
+   <content type="html">&lt;p&gt;Na última quarta-feira (19/06) foi realizada a cerimônia de premiação
+dos medalhistas da 8ª Olimpíada Brasileira de Matemática das Escolas
+Públicas (&lt;a href=&quot;http://www.obmep.org.br/&quot;&gt;OBMEP&lt;/a&gt;), edição 2012. No evento,
+foram premiados 500 medalhistas de ouro, num universo de
+aproximadamente 20 milhões participantes, e 27 professores, em virtude
+do desempenho de seus alunos.&lt;/p&gt;
+
+&lt;p&gt;A primeira colocada foi a aluna do Colégio Estadual Augusto Spinelli,
+de Nova Friburgo, Thatiana Lisboa Pereira, que conquistou a medalha
+pela primeira vez.  Segundo a estudante, a premiação é um incentivo
+para todos os alunos da rede pública.&lt;/p&gt;
+
+&lt;p&gt;A OBMEP tem como objetivo principal estimular o estudo da Matemática
+por meio da resolução de problemas que despertem o interesse e a
+curiosidade de professores e estudantes. Podem participar alunos do 6º
+ao 9º ano do Ensino Fundamental e das três séries do Ensino Médio. Em
+2012, 99,4% dos municípios brasileiros estiveram representados.&lt;/p&gt;
+
+&lt;p&gt;Os alunos medalhistas da OBMEP podem participar do Programa de
+Iniciação Científica e Mestrado (PICME), que oferece a oportunidade de
+realizar estudos avançados em Matemática simultaneamente com sua
+graduação.&lt;/p&gt;
+
+&lt;p&gt;Em março de 2013, a EMAp passou a integrar o programa oferecendo dois
+tipos de bolsas de estudos: PICME com aulas e PICME com orientação.&lt;/p&gt;
+
+&lt;p&gt;Acesse este &lt;a href=&quot;/graduacao/picme.html&quot;&gt;link&lt;/a&gt; para obter mais informações
+sobre o programa.&lt;/p&gt;
+
+&lt;p&gt;Fonte: Secretaria de Estado de Educação (SEEDUC).&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Os grandes desafios do Big Data</title>
