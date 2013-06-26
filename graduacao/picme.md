@@ -6,13 +6,10 @@ incluir:
  - widget-carreira.html
 ---
 
-## Inscrições Abertas!
-
-Estão abertas até o dia 23 de março as inscrições para a seleção de
-bolsistas do PICME. Se você já foi medalhista da OBMEP ou da OBM e
-está matriculado em algum curso de graduação, você está apto a
-participar do processo de seleção. Os candidatos que forem
-selecionados receberão uma bolsa de iniciação científica.
+Se você já foi medalhista da OBMEP ou da OBM e está matriculado em
+algum curso de graduação, você está apto a participar do processo de
+seleção. Os candidatos que forem selecionados receberão uma bolsa de
+iniciação científica.
 
 ## O que é o PICME?
 
