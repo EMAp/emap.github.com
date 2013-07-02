@@ -4,13 +4,52 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-07-01T14:04:44-03:00</updated>
+ <updated>2013-07-02T20:54:16-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Engenharia de Requisitos - Análise de Negócio</title>
+   <link href="http://emap.fgv.br/seminars/2013/07/04/engenharia-requisitos.html"/>
+   <updated>2013-07-04T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/07/04/engenharia-requisitos</id>
+   <content type="html">&lt;p&gt;Uma das partes mais desafiadoras da construção de um sistema de
+software é decidir o que construir.&lt;/p&gt;
+
+&lt;p&gt;&quot;Nenhuma parte do trabalho danifica tanto o sistema resultante se for
+feita de forma incorreta. Nenhuma outra parte é mais difícil de se
+consertar depois.&quot; (Fred Brooks)&lt;/p&gt;
+
+&lt;p&gt;A Engenharia de Requisitos é a disciplina da Engenharia de Software
+que compreende as atividades de levantamento, análise, negociação,
+especificação e gestão dos requisitos de um sistema. O objetivo dessa
+disciplina é ajudar os engenheiros de software a entender o real
+problema dos seus clientes, antes de definir os requisitos de uma
+solução, e aprender a comunicar esses requisitos de forma eficiente.&lt;/p&gt;
+
+&lt;p&gt;O principal objetivo da oficina é aprofundar o conhecimento sobre as
+técnicas utilizadas nessa disciplina e discutir sobre os desafios
+ainda vigentes na área.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Verônica Taquette Vaz é formada em Engenharia de Computação na UFRJ, e
+mestranda no laboratório de Engenharia de Software Experimental da
+COPPE. Trabalha com engenharia de requisitos há cinco anos.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Internet e política no Brasil</title>
