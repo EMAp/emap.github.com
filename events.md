@@ -6,7 +6,7 @@ section: events
 
 ## Próximos Eventos
 
-TBA
+- [Workshop Rio's 2013 - Research in Optimization and Statistics 22-26 de Julho de 2013](/blog/2013/07/15/RIOs.html).
 
 ## Eventos organizados
 
