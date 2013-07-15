@@ -4,13 +4,86 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-07-02T20:54:16-03:00</updated>
+ <updated>2013-07-15T14:29:40-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>EMAp realiza workshop em otimização, estatística e otimização estocástica</title>
+   <link href="http://emap.fgv.br/blog/2013/07/15/RIOs.html"/>
+   <updated>2013-07-15T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/07/15/RIOs</id>
+   <content type="html">&lt;p&gt;O workshop Rio&#39;s - Research in Optimization and Statistics - será
+realizado do dia 22 ao 26/07, na FGV Sede, onde serão apresentados
+resultados recentes em otimização, estatística e otimização
+estocástica.  O programa é dedicado a pesquisadores, alunos de
+mestrado e doutorado e usuários finais da indústria, e o seu conteúdo
+mistura teoria e aplicações no setor energético. Para se inscrever,
+os interessados devem encaminhar um email para vguigues@fgv.br
+mencionando seu nome e sua instituição.&lt;/p&gt;
+
+&lt;h2&gt;Informações básicas&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data: 22 a 26.07 de 2013&lt;/li&gt;
+&lt;li&gt;Horário: 9h30 às 17h&lt;/li&gt;
+&lt;li&gt;Local: Praia de Botafogo, 190, sala 1333, Rio de Janeiro&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Programação&lt;/h2&gt;
+
+&lt;h3&gt;22/07&lt;/h3&gt;
+
+&lt;p&gt;Alexander Shapiro, Georgia Tech, EUA Risk measures and time
+consistency.&lt;/p&gt;
+
+&lt;h3&gt;23/07&lt;/h3&gt;
+
+&lt;p&gt;Michel de Lara, CERMICS, França Stochastic dynamic programming,
+stochastic viability, time consistency, and decomposition-coordination
+methods.&lt;/p&gt;
+
+&lt;h3&gt;24/07 (manhã)&lt;/h3&gt;
+
+&lt;p&gt;Arkadi Nemirovski, Georgia Tech, EUA - Interior point methods.&lt;/p&gt;
+
+&lt;h3&gt;24/07 (tarde)&lt;/h3&gt;
+
+&lt;p&gt;Mario Veiga Pereira, PSR, Brasil - Multistage stochastic optimization
+applied to energy problems.&lt;/p&gt;
+
+&lt;p&gt;Vincent Guigues, FGV, Brasil - Joint dynamic chance constraints with
+projected linear decision rules for some multistage stochastic
+programs.&lt;/p&gt;
+
+&lt;p&gt;Bruno Flach, IBM, Brasil - An overview of collaborative research on
+reservoir management.&lt;/p&gt;
+
+&lt;p&gt;Alfredo Iusem, IMPA, Brasil - An explicit algorithm for monotone
+variational inequalities.&lt;/p&gt;
+
+&lt;p&gt;Benar Svaiter, IMPA, Brasil - A first-order block-decomposition method
+for solving two-easy-block structured semidefinite programs.&lt;/p&gt;
+
+&lt;h3&gt;25/07&lt;/h3&gt;
+
+&lt;p&gt;Arkadi Nemirovski, Georgia Tech, EUA Proximal type first order
+methods: deterministic and stochastic, conditional gradient type first
+order methods.&lt;/p&gt;
+
+&lt;h3&gt;26/07&lt;/h3&gt;
+
+&lt;p&gt;Anatoli Iouditski, UJF, França Convex optimization for nonparametric
+estimation and testing Recovery of sparse signals by L1minimization
+and testing of sparse hypotheses Randomized algorithms of L1
+minimization.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Estudantes vencedores da Olimpíada Brasileira de Matemática das Escolas Públicas são premiados no Rio de Janeiro</title>
