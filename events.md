@@ -7,6 +7,7 @@ section: events
 ## Próximos Eventos
 
 - [Workshop Rio's 2013 - Research in Optimization and Statistics 22-26 de Julho de 2013](/blog/2013/07/15/RIOs.html).
+- [1st Symposium on Big Data and Public Health, 23-25 de Outubro de 2013](/BDPH2013/).
 
 ## Eventos organizados
 
