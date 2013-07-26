@@ -4,13 +4,36 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-07-22T17:31:50-03:00</updated>
+ <updated>2013-07-26T11:11:38-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Professores da EMAp participam do Colóquio Brasileiro de Matemática</title>
+   <link href="http://emap.fgv.br/blog/2013/07/25/coloquio-matematica.html"/>
+   <updated>2013-07-25T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/07/25/coloquio-matematica</id>
+   <content type="html">&lt;p&gt;Nesta e na próxima semana acontece o XXIX Colóquio Brasileiro de
+Matemática, no Instituto Nacional de Matemática Pura e Aplicada. Entre
+as sessões temáticas está a de &quot;Biologia Matemática&quot;, coordenado pelos
+professores da EMAp &lt;a href=&quot;/people/jair.koiller.html&quot;&gt;Jair Koiller&lt;/a&gt; e
+&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim&lt;/a&gt;, além do professor Max de
+Souza, da UFF, e Claudia Codeço, da Fiocruz.&lt;/p&gt;
+
+&lt;p&gt;A sessão engloba temas como evolução, ecologia, genética,
+epidemiologia, dengue, neurociência, bioinformática e aplicações
+médicas, e tem o objetivo é apresentar algumas áreas de pesquisa onde
+as ciências da vida e as ciências exatas têm se beneficiado
+mutuamente.&lt;/p&gt;
+
+&lt;p&gt;Para acessar a &lt;a href=&quot;http://goo.gl/vZwThc&quot;&gt;programação completa&lt;/a&gt;
+do evento siga o link.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp realiza workshop em otimização, estatística e otimização estocástica</title>
