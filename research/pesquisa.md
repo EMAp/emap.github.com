@@ -107,11 +107,11 @@ Tribunal Federal.
 - Status: em andamento
 
 Utiliza-se ferramentas de geometria diferencial e geometria simplética
-no estudo de sistemas fisicos, de engenharia e biológicos. Apoio da
+no estudo de sistemas físicos, de engenharia e biológicos. Apoio da
 rede internacional [GMC](http://www.gmcnetwork.org), envolvendo vários
 pesquisadores, jovens e em meio de carreira na comunidade matemática
-do Rio. Os contatos internacionais abrangem paises de todos os
-continentes, destacando USA, Espanha/Portugal e Russia.  Potencial
+do Rio. Os contatos internacionais abrangem países de todos os
+continentes, destacando USA, Espanha/Portugal e Rússia. Potencial
 aplicações da área também em processamento de informações em imagens
 médicas (Holm, Ratiu, Desbrun, Michor etc).
 
@@ -126,10 +126,10 @@ médicas (Holm, Ratiu, Desbrun, Michor etc).
 
 Pesquisa com apoio do convênio Capes/Cofecub, 2011-2012 (coordenada
 pela EMAP) e por dois projetos Pronex-Dengue coordenados pela Fiocruz
-(e com uma extensa lista de instutuições parceiras). Utiliza-se
-sistemas de equações diferenciais ordinárias acopladas e distribuidas
+(e com uma extensa lista de instituições parceiras). Utiliza-se
+sistemas de equações diferenciais ordinárias acopladas e distribuídas 
 em nós de uma rede, e técnicas da teoria de controle, para estimar
-parametros e otimizar funções objetivo; no biênio 2013-2014, se
+parâmetros e otimizar funções objetivo; no biênio 2013-2014, se
 renovado, pretende-se dar foco em técnicas de AI.
 
 ## Portal Semântico do CPDOC

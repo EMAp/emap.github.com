@@ -9,12 +9,12 @@ incluir:
  - widget-disciplinas-mestrado.html
 ---
 
-O crescimento acelerado da capacidade monitoração de sistemas naturais
-e sociais complexos, aliado à viabilização do armazenamento e
+O crescimento acelerado da capacidade de monitoração de sistemas
+naturais e sociais complexos, aliado à viabilização do armazenamento e
 disponibilização de grandes conjuntos de dados, têm gerado uma
 [demanda crescente][demanda] por profissionais capazes de acessar,
-integrar, analizar e visualizar grandes [volumes de dados][dados]. A
-formação de tais profissionals é o foco central deste programa de
+integrar, analisar e visualizar grandes [volumes de dados][dados]. A
+formação de tais profissionais é o foco central deste programa de
 pós-graduação.
 
 São as seguintes competências e habilidades que o mestrado visa a
@@ -46,5 +46,4 @@ percebidas nos contextos nacional e mudial, na atualidade.
 
 [demanda]: http://flowingdata.com/2009/06/04/rise-of-the-data-scientist
 [dados]: http://radar.oreilly.com/2010/06/what-is-data-science.html
-
 
