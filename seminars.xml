@@ -4,13 +4,56 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-08-01T10:51:45-03:00</updated>
+ <updated>2013-08-02T14:28:01-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>O Algoritmo do Elipsóide</title>
+   <link href="http://emap.fgv.br/seminars/2013/08/08/elipsoide-arkadi.html"/>
+   <updated>2013-08-08T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/08/08/elipsoide-arkadi</id>
+   <content type="html">&lt;p&gt;O &quot;Algoritmo do Elipsóide&quot; (1976) é um método de minimização para
+funções convexas sobre domínios convexos.  Ele é a base para a maioria
+dos resultados relativos à resolução eficiente de problemas convexos
+em geral e, em particular, para o famoso resultado de Leonid Khachiyan
+(1978), que mostrou que problemas de programação linear com dados
+racionais podem ser resolvidos em tempo polinomial.  Nesta palestra, o
+algoritmo do Elipsóide será descrito juntamente com seus &quot;ancestrais e
+descendentes&quot; e será esboçada a prova do resultado de Khachiyan.&lt;/p&gt;
+
+&lt;p&gt;O seminário será realizado em inglês.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Arkadi Nemirovski é um dos fundadores da moderna abordagem, baseada em
+complexidade, para otimização. Recebeu três dos prêmios de maior
+prestígio em Matemática Aplicada:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Prêmio Fulkerson (1982), pela invenção do método do Elipsóide e suas
+consequências para a Programação Linear.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Prêmio Dantzig (1991), por suas contribuições à Programação
+Matemática, notadamente em otimização convexa.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Prêmio Von Neumann (2003), por seu trabalho no estudo dos métodos de
+pontos interiores e em otimização robusta.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Engenharia de Requisitos - Análise de Negócio</title>
