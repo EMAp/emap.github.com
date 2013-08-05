@@ -58,7 +58,7 @@ module Jekyll
       (1..pages).each do |num_page|
       
         # the CategoryPager handles the paging and category data
-        pager = CategoryPager.new(site.config, num_page, category_posts, page.data['category'], pages)
+        pager = CategoryPager.new(site, num_page, category_posts, page.data['category'], pages)
 
         # the first page is the index, so no page needs to be created. However, the subsequent pages need to be generated
         if num_page > 1
@@ -84,9 +84,9 @@ module Jekyll
     end
     
     # same as the base class, but includes the category value
-    def initialize(config, page, all_posts, category, num_pages = nil)
-    	@category = category
-      super config, page, all_posts, num_pages
+    def initialize(site, page, all_posts, category, num_pages = nil)
+      @category = category
+      super site, page, all_posts, num_pages
     end
 
     # use the original to_liquid method, but add in category info
