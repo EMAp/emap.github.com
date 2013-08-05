@@ -3,7 +3,7 @@ layout: post
 title: EMAp lança curso de atualização em Big Data
 author: Raquel Rittmeyer
 tags:
- - curso
+ - cursos
  - big-data
 ---
 
