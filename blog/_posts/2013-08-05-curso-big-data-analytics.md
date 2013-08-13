@@ -22,7 +22,7 @@ negócio. O Big Data tem impacto em praticamente todos os setores
 econômicos e depende de um profissional altamente qualificado, de
 competências multidisciplinares, cada vez mais valorizado no mercado.
 
-De acordo com o coordenador do curso professor Alexandre Evsukoff, as
+De acordo com o coordenador do curso, professor Alexandre Evsukoff, as
 aulas mesclam teoria e prática, ressaltando o papel do analista de
 dados como fator fundamental do sucesso de uma aplicação do Big
 Data. "O curso apresenta desde os fundamentos da estatística até os
