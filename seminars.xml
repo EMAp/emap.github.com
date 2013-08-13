@@ -4,13 +4,51 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-08-05T20:47:57-03:00</updated>
+ <updated>2013-08-13T18:34:18-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>O uso de técnicas de otimização na economia dos recursos naturais</title>
+   <link href="http://emap.fgv.br/seminars/2013/08/15/otimizacao-recursos-naturais.html"/>
+   <updated>2013-08-15T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/08/15/otimizacao-recursos-naturais</id>
+   <content type="html">&lt;p&gt;Neste seminário será abordada uma forma de planejamento da exploração
+de recursos naturais, que maximize a renda gerada sob a consideração
+da taxa de reposição dos recursos renováveis e do limite das reservas
+dos recursos não renováveis.&lt;/p&gt;
+
+&lt;p&gt;É interessante notar que se busca a economia em recursos renováveis,
+mas estes se encontram sob ameaça. Em paralelo, a evolução tecnológica
+e a descoberta de novas reservas fizeram com que recursos não
+renováveis estejam disponíveis por mais tempo do que se estimava.&lt;/p&gt;
+
+&lt;p&gt;Será apresentada a metodologia de planejamento com dois exemplos de
+aplicação: um para a exploração de carvão e arroz no sul de Santa
+Catarina, e outro para redução das emissões de gases de efeito estufa
+pela aviação civil.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Adriano Bandeira é professor dos cursos de graduação em Engenharia, e
+de pós-graduação em Engenharia de Transportes do IME. Possui doutorado
+em Recursos Hídricos e Saneamento Ambiental com ênfase em Gestão
+Integrada de Recursos Hídricos (UFRGS). Sua principal área de atuação
+é Planejamento e Gestão de Recursos Naturais.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>O Algoritmo do Elipsóide</title>
