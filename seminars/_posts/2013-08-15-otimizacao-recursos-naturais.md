@@ -1,7 +1,7 @@
 ---
 layout: seminar
 title: O uso de técnicas de otimização na economia dos recursos naturais
-quem: Arkadi Nemirovski 
+quem: Adriano Bandeira
 onde: FGV - Praia de Botafogo, 190, sala 317
 tex: false
 hour: 16:00h
