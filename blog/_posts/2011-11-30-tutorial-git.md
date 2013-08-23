@@ -3,8 +3,7 @@ layout: post
 title: Tutorial do software Git para controle de versão de arquivos
 author: Alexandre Rademaker
 tags:
- - mini-course
-quem: Álvaro Justen
+ - cursos
 ---
 
 No dia 08 de dezembro de 2011, Álvaro Justen irá ministrar um
