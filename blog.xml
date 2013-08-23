@@ -4,13 +4,45 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-08-14T12:27:38-03:00</updated>
+ <updated>2013-08-23T17:33:20-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Emap realiza Simpósio em Big Data e Saúde Pública</title>
+   <link href="http://emap.fgv.br/blog/2013/08/22/simposio-big-data.html"/>
+   <updated>2013-08-22T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2013/08/22/simposio-big-data</id>
+   <content type="html">&lt;p&gt;A Escola de Matemática Aplicada, em parceria com a Fiocruz e Instituto
+Nacional de Pesquisas Espaciais (INPE), realizará o
+&lt;a href=&quot;/BDPH2013/&quot;&gt;I Simpósio em Big Data e Saúde Pública&lt;/a&gt; nos dias 24 e 25
+de outubro, na Fundação Getulio Vargas, no Rio de Janeiro.&lt;/p&gt;
+
+&lt;p&gt;O evento, que apresentará a complexidade da coleta, gestão e análise
+de dados relacionados aos problemas de saúde pública, terá como
+convidados, especialistas de diversas disciplinas acadêmicas e líderes
+de setores governamentais para discutir os desafios entre Big Data e
+Saúde Pública no século 21.&lt;/p&gt;
+
+&lt;p&gt;Segundo o professor da EMAp e organizador do evento,
+&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt;, existe um campo
+ainda pouco explorado que é o desenvolvimento das ferramentas
+computacionais, matemáticas e estatísticas necessárias para uma
+análise eficaz das questões de saúde pública. Além disso, a coleta e
+gestão dos dados que alimentam tais análises, também apresentam
+desafios inéditos quanto à integração e acessibilidade dos mesmos.&lt;/p&gt;
+
+&lt;p&gt;As inscrições podem ser feitas online e serão aceitas propostas para
+apresentação de pôster ou palestra. O evento será realizado em inglês,
+sem tradução simultânea.&lt;/p&gt;
+
+&lt;p&gt;Saiba mais sobre o programa e &lt;a href=&quot;/BDPH2013/&quot;&gt;inscreva-se&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp lança curso de atualização em Big Data</title>
@@ -32,11 +64,12 @@ negócio. O Big Data tem impacto em praticamente todos os setores
 econômicos e depende de um profissional altamente qualificado, de
 competências multidisciplinares, cada vez mais valorizado no mercado.&lt;/p&gt;
 
-&lt;p&gt;De acordo com o coordenador do curso, professor Alexandre Evsukoff, as
-aulas mesclam teoria e prática, ressaltando o papel do analista de
-dados como fator fundamental do sucesso de uma aplicação do Big
-Data. &quot;O curso apresenta desde os fundamentos da estatística até os
-mais avançados algoritmos de análise de dados, de textos e das redes
+&lt;p&gt;De acordo com o coordenador do curso professor
+&lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;, as aulas
+mesclam teoria e prática, ressaltando o papel do analista de dados
+como fator fundamental do sucesso de uma aplicação do Big Data. &quot;O
+curso apresenta desde os fundamentos da estatística até os mais
+avançados algoritmos de análise de dados, de textos e das redes
 sociais. Além disso, serão abordados aspectos legais de utilização e
 privacidade de dados, bem como as questões de gestão e qualidade de
 dados&quot;, explica.&lt;/p&gt;
@@ -47,26 +80,21 @@ principais ferramentas do mercado. Na ocasião, os alunos terão acesso
 a cerca de dez softwares, entre eles o Microsoft SQL Server 2008 R2,
 Oracle Data Mining, SAS Text Miner Desktope e IBM SPSS Statistics.&lt;/p&gt;
 
-&lt;p&gt;A pesquisadora Maira Gatti, uma das professoras do curso, realizará no
-dia 08 de agosto a palestra
-&lt;a href=&quot;http://mgm-rio.fgv.br/eventos-detalhes/2013/08/08/desafios-e-oportunidades-previsao-comportamento-em-midias-sociais&quot;&gt;Desafios e Oportunidades na Previsão de Comportamento em Mídias Sociais&lt;/a&gt;,
-onde será apresentado o impacto do Big Data num projeto que engloba
-ciências sociais, inteligência artificial, processamento de linguagem
-natural e análise de redes sociais. O evento faz parte do Ciclo de
-Palestras do FGV Empresarial, que tem como proposta proporcionar um
-espaço de discussão sobre as áreas dos cursos oferecidos.&lt;/p&gt;
+&lt;p&gt;No dia 03 de setembro será realizada uma aula inaugural para os alunos
+inscritos, com apresentação do coordenador,
+&lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;, do corpo
+docente e dos colaboradores do curso.&lt;/p&gt;
 
 &lt;p&gt;Informações adicionais sobre o curso &quot;Big Data Analytics&quot;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Início: 02 de setembro&lt;/li&gt;
+&lt;li&gt;Início: 09 de setembro&lt;/li&gt;
 &lt;li&gt;Data: Segundas e terças-feiras das 18h30min às 22h&lt;/li&gt;
 &lt;li&gt;Local: FGV - Praia de Botafogo, 190&lt;/li&gt;
 &lt;li&gt;Carga Horária: 100h&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mgm-rio.fgv.br/cursos-detalhes/big-data-analytics&quot;&gt;Mais informações&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;p&gt;Mais informações, &lt;a href=&quot;http://mgm-rio.fgv.br/cursos-detalhes/big-data-analytics&quot;&gt;acesse o site do curso&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
