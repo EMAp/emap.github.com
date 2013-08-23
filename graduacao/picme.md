@@ -13,30 +13,29 @@ iniciação científica.
 
 ## O que é o PICME?
 
-O [PICME](http://picme.obmep.org.br/) é um programa que oferece aos
+O [PICME](http://picme.obmep.org.br) é um programa que oferece aos
 estudantes universitários que se destacaram nas Olimpíadas de
 Matemática (medalhistas da OBMEP ou da OBM), a oportunidade de
 realizar estudos avançados em Matemática simultaneamente com sua
 graduação. Os participantes recebem as bolsas através de uma parceria
-com o [CNPq](www.cnpq.br/) (Iniciação Científica) e com a
-[CAPES](www.capes.gov.br/) (Mestrado).
+com o [CNPq](http://www.cnpq.br) (Iniciação Científica) e com a
+[CAPES](http://www.capes.gov.br) (Mestrado).
 
 O PICME é coordenado em nível nacional pelo
-[Instituto de Matemática Pura e Aplicada](www.impa.br/) (IMPA) e
+[Instituto de Matemática Pura e Aplicada](http://www.impa.br) (IMPA) e
 ofertado por programas de Pós-graduação em Matemática de diversas
 universidades do país. Em março de 2013, a Escola de Matematica
-Aplicada da Fundacao Getulio Vargas [FGV/EMAp](http://emap.fgv.br/)
-passou a integrar o programa.
+Aplicada da Fundacao Getulio Vargas passou a integrar o programa.
 
 ## Quais os pré-requisitos para participar do PICME?
 
 1. Estar regularmente matriculado e cursando nível superior em
-qualquer área em instituições públicas ou privadas.
+   qualquer área em instituições públicas ou privadas.
 1. Ter sido medalhista na OBMEP ou na OBM, em pelo menos uma de suas
-edições.
+   edições.
 1. Estar em condições de acompanhar as atividades. Atenção: O PICME é
-um programa presencial, portanto, você deve fazer uma escolha
-cuidadosa para ter condições de atendê-lo.
+   um programa presencial, portanto, você deve fazer uma escolha
+   cuidadosa para ter condições de atendê-lo.
 
 A Iniciação Cientifica do PICME é um programa com duração de dois
 anos, sendo que as bolsas têm vigência de doze meses e são renovadas
