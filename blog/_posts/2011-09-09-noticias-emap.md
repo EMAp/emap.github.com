@@ -4,7 +4,6 @@ title: Participação em congressos e evento sobre Matemática Aplicada
 author: Alexandre Rademaker
 tags:
  - eventos
- - congressos
 ---
 
 Os pesquisadores [Flávio Coelho](/people/flavio.coelho.html) e

@@ -3,7 +3,7 @@ layout: post
 title: EMAp lança curso de atualização em Big Data
 author: Raquel Rittmeyer
 tags:
- - curso
+ - cursos
 ---
 
 A Escola de Matemática Aplicada da Fundação Getulio Vargas (EMAp/FGV),

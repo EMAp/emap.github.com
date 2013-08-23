@@ -4,7 +4,6 @@ title: Pesquisador da EMAp participa de conferência no Japão
 author: Alexandre Rademaker
 tags:
  - eventos
- - congressos
 ---
 
 O professor [Alexandre Rademaker](/people/alexandre.rademaker.html)

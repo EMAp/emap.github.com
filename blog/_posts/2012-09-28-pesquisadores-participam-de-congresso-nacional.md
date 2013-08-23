@@ -3,7 +3,7 @@ layout: post
 title: Pesquisadores da EMAp participam de Congresso Nacional
 author: Rachel Carrijo
 tags:
- - congressos
+ - eventos
 ---
 
 Os professores Jair Koiller e Moacyr Alvim, junto com o pós-doutorando

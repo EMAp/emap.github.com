@@ -3,7 +3,7 @@ layout: post
 title: Emap realiza Simpósio em Big Data e Saúde Pública
 author: Raquel Rittmeyer
 tags:
-- curso
+- eventos
 ---
 
 A Escola de Matemática Aplicada, em parceria com a Fiocruz e Instituto

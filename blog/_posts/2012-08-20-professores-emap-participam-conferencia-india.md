@@ -3,7 +3,7 @@ layout: post
 title: Professores da EMAp participam de conferência na Índia
 author: Rachel Carrijo
 tags:
- - congressos
+ - eventos
 ---
 
 A EMAP foi representada, através dos professores Renato Rocha Souza
