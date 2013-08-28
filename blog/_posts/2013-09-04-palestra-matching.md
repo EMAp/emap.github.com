@@ -33,9 +33,9 @@ mercados?
 As respostas a essas perguntas podem ser encontradas no livro
 "Two-sided matching. A study in game-theoretic modelling and analysis"
 (1990), de Roth e da professora Marilda Sotomayor. Uma prévia destas
-respostas é o assunto da *palestra que a professora Marilda Sotomayor
+respostas é o assunto da <strong>palestra que a professora Marilda
 dará na FGV no dia 04 de setembro de 2013 na sala 1333, praia de
-Botafogo, 190*.
+Botafogo, 190</strong>.
 
 ## Biografia
 
