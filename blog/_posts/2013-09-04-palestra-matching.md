@@ -38,7 +38,7 @@ Uma prévia do que o leitor encontrará no livro é o assunto da palestra
 a ser realizada pela autora do livro e professora da USP-SP, Marilda
 Sotomayor.
 
-- Data: 04/09/2013 às 16h
+- Data: 04/09/2013 às 14h
 - Local: Praia de Botafogo, 190, sala 1333.
 
 ## Biografia
