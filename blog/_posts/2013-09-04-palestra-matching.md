@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Palestra: matching vai a Estocolmo
+title: EMAp convida para palestra "Matching vai a Estocolmo"
 author: EMAp
 tags:
  - seminarios
