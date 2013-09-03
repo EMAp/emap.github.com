@@ -1,0 +1,42 @@
+---
+layout: seminar
+title: Não estacionariedades em séries de batimentos cardíacos
+quem: Sabrina Camargo
+onde: FGV - Praia de Botafogo, 190, sala 317
+tex: false
+hour: 16:00h
+---
+
+A possibilidade de diagnóstico por meio de procedimentos não
+invasivos, combinada com a grande oferta de dispositivos para
+monitoramento da frequência cardíaca, é uma das razões pelas quais o
+estudo da variabilidade da frequência cardíaca tornou-se popular nas
+últimas décadas. Neste seminário serão apresentados os resultados da
+análise de séries de intervalos de tempo entre batimentos
+consecutivos - intervalos RR, extraídos de eletrocardiogramas com
+duração de 24 horas. Por meio de um método de segmentação baseado na
+distância de Kolmogorov-Smirnov, o sinal é dividido em segmentos
+estacionários. Sendo assim, é possível avaliar a duração de tais
+segmentos, como o sinal muda de um segmento para outro, e ainda,
+extrair os momentos estatísticos, como média e variância. Três grupos
+foram analisados neste estudo: 15 portadores de insuficiência
+cardíaca, 18 voluntários saudáveis com idade em torno de 50 anos, e 15
+voluntários saudáveis com idade em torno de 30 anos. Os resultados
+mostram que o grupo patológico apresenta uma diminuição na
+variabilidade da frequência cardíaca quando comparado aos grupos
+saudáveis, e que dentre os indivíduos saudáveis, o avanço da idade
+também contribui para a diminuição da variabilidade da frequência
+cardíaca.
+
+## Biografia
+
+Sabrina Camargo é graduada em Física pela Universidade Estadual de
+Maringá e possui mestrado e doutorado em Física pela Universidade de
+São Paulo (2009). Atualmente é pós-doutoranda na Escola de Matemática
+Aplicada da Fundação Getulio Vargas. Tem experiência na área de
+dinâmica não linear, caos e análise de séries temporais.
+
+## Observação para visitantes
+
+- A presença é gratuita e não exige confirmação.
+- A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.
