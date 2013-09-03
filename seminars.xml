@@ -4,13 +4,57 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-08-30T12:52:47-03:00</updated>
+ <updated>2013-09-03T17:16:54-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Não estacionariedades em séries de batimentos cardíacos</title>
+   <link href="http://emap.fgv.br/seminars/2013/09/05/series-batimentos-cardiacos.html"/>
+   <updated>2013-09-05T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/09/05/series-batimentos-cardiacos</id>
+   <content type="html">&lt;p&gt;A possibilidade de diagnóstico por meio de procedimentos não
+invasivos, combinada com a grande oferta de dispositivos para
+monitoramento da frequência cardíaca, é uma das razões pelas quais o
+estudo da variabilidade da frequência cardíaca tornou-se popular nas
+últimas décadas. Neste seminário serão apresentados os resultados da
+análise de séries de intervalos de tempo entre batimentos
+consecutivos - intervalos RR, extraídos de eletrocardiogramas com
+duração de 24 horas. Por meio de um método de segmentação baseado na
+distância de Kolmogorov-Smirnov, o sinal é dividido em segmentos
+estacionários. Sendo assim, é possível avaliar a duração de tais
+segmentos, como o sinal muda de um segmento para outro, e ainda,
+extrair os momentos estatísticos, como média e variância. Três grupos
+foram analisados neste estudo: 15 portadores de insuficiência
+cardíaca, 18 voluntários saudáveis com idade em torno de 50 anos, e 15
+voluntários saudáveis com idade em torno de 30 anos. Os resultados
+mostram que o grupo patológico apresenta uma diminuição na
+variabilidade da frequência cardíaca quando comparado aos grupos
+saudáveis, e que dentre os indivíduos saudáveis, o avanço da idade
+também contribui para a diminuição da variabilidade da frequência
+cardíaca.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Sabrina Camargo é graduada em Física pela Universidade Estadual de
+Maringá e possui mestrado e doutorado em Física pela Universidade de
+São Paulo (2009). Atualmente é pós-doutoranda na Escola de Matemática
+Aplicada da Fundação Getulio Vargas. Tem experiência na área de
+dinâmica não linear, caos e análise de séries temporais.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Como devemos usar assistentes virtuais no processo de aprendizagem?</title>
