@@ -4,13 +4,52 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-09-03T17:16:54-03:00</updated>
+ <updated>2013-09-09T22:24:45-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Reconstrução 3D e Texturização no Contexto de Preservação de Acervos Culturais</title>
+   <link href="http://emap.fgv.br/seminars/2013/09/12/reconstrucao-3D.html"/>
+   <updated>2013-09-12T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/09/12/reconstrucao-3D</id>
+   <content type="html">&lt;p&gt;O seminário abordará um resumo de alguns trabalhos recentes em
+reconstrução 3D aplicada à preservação cultural. A partir do pipeline
+de digitalização de objetos históricos será abordado os principais
+desafios encontrados durante o processo. Na palestra será apresentado
+um estudo de caso de um projeto realizado em colaboração com o
+&lt;a href=&quot;http://www.mast.br/&quot;&gt;Museu de Astronomia e Ciências Afins&lt;/a&gt;, mostrando
+os resultados de pesquisa oriundos de aplicações práticas. No campo da
+digitalização de objetos para preservação cultural, a informação de
+reflectância (cor/textura) é tão relevante quanto a da geometria do
+objeto,no entanto, as abordagens para aquisição de texturas em
+alta-resolução ainda não são tão robustas quanto aquelas para a
+produção de malhas geométricas. A palestra focará em alguns dos
+esforços recentes para texturização de modelos 3D a partir de imagens
+de alta-resolução.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.lcg.ufrj.br/Members/ricardo&quot;&gt;Ricardo Marroquim&lt;/a&gt; é
+professor da UFRJ com doutorado pela mesma instituição (2008) e
+pós-doutorado pela Visual Computing Lab - CNR, Pisa (2009). É membro do
+Computer Graphics Lab (COPPE) e seus principais interesses em pesquisa
+incluem métodos de visualização e renderização, reconstrução 3D e
+imageamento aplicados à preservação de acervos culturais.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Não estacionariedades em séries de batimentos cardíacos</title>
