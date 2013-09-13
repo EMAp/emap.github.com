@@ -81,7 +81,6 @@ a:hover {
 /* H1 to H6 type Styles */
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
-    font-size: 12px;
 }
 
 /* Header */
@@ -418,14 +417,8 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px solid #ececec;
 }
 
-#leftstrip1 h2 {
-    font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
-    font-size: 24px;
-    line-height: 24px;
-    margin: 0 0 15px
-}
 
-#leftstrip1 h3 {
+h3.post_meta {
     font-size: 14px;
     line-height: 40px;
     padding: 0 10px;
@@ -436,7 +429,7 @@ h1, h2, h3, h4, h5, h6 {
     border-top: 1px solid #bdbdbd;
 }
 
-#leftstrip1 h3 span {
+h3.post_meta span {
     color: #999999;
 }
 
@@ -688,7 +681,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #post_full h2 {
+    font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
+    line-height: 24px;
+    margin: 0 0 15px
     font-size: 18px;
+    margin: 10px 0;
+    color: #333333;
+}
+
+#post_full h3 {
+    font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
+    line-height: 24px;
+    margin: 0 0 15px
+    font-size: 16px;
     margin: 10px 0;
     color: #333333;
 }
