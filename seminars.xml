@@ -4,13 +4,61 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-09-13T17:04:26-03:00</updated>
+ <updated>2013-09-17T10:18:33-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Identificação de modelos baseados em sistemas fuzzy recorrentes com duplo feedback usando evolução diferencial</title>
+   <link href="http://emap.fgv.br/seminars/2013/09/19/sistemas-fuzzy.html"/>
+   <updated>2013-09-19T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/09/19/sistemas-fuzzy</id>
+   <content type="html">&lt;p&gt;Os sistemas fuzzy recorrentes são caracterizados por possuírem
+realimentação (feedback) e, por isso, são utilizados comumente para
+modelar sistemas dinâmicos complexos. Este trabalho apresenta o
+desenvolvimento de modelos baseados em sistemas fuzzy recorrentes que
+possuem uma conexão de feedback adicional e operadores de defasagem
+ajustáveis, permitindo que o modelo seja configurado para simulação e
+predição de sistemas dinâmicos de ordem desconhecida. Adicionalmente,
+foi desenvolvida uma abordagem de identificação simultânea da
+estrutura e dos parâmetros, baseada no algoritmo de evolução
+diferencial. As abordagens propostas foram avaliadas em alguns
+problemas de benchmark. Os resultados obtidos mostraram o melhor
+desempenho da evolução diferencial sobre os algoritmos genéticos, e a
+flexibilidade da evolução diferencial para identificar tanto os
+parâmetros quanto a estrutura de cada um dos modelos avaliados. Além
+disso, os resultados evidenciaram o potencial das novas estruturas,
+que proporcionaram um bom desempenho ao modelo. Embora a abordagem
+proposta seja caracterizada por uma formulação mais simples, ela
+apresentou desempenho equivalente quando comparada a alguns modelos do
+estado da arte nos problemas estudados.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Cristian Klen dos Santos possui graduação em Análise de Sistemas pela
+Universidade Estácio de Sá (2006), mestrado e doutorado em Sistemas
+Computacionais pela Universidade Federal do Rio de Janeiro
+(COPPE/UFRJ, 2009, 2013). Atualmente é Tecnologista em Computação no
+Instituto de Pesquisas da Marinha. Tem experiência em ciência da
+computação, e atua principalmente no desenvolvimento de técnicas e
+métodos de inteligência computacional para modelagem de sistemas
+complexos em aplicações de sistemas de navegação integrada e mineração
+de dados/textos.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Reconstrução 3D e Texturização no Contexto de Preservação de Acervos Culturais</title>
@@ -52,15 +100,18 @@ imageamento aplicados à preservação de acervos culturais.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Não estacionariedades em séries de batimentos cardíacos</title>
+   <title>Series Batimentos Cardiacos</title>
    <link href="http://emap.fgv.br/seminars/2013/09/05/series-batimentos-cardiacos.html"/>
    <updated>2013-09-05T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/seminars/2013/09/05/series-batimentos-cardiacos</id>
-   <content type="html">&lt;p&gt;A possibilidade de diagnóstico por meio de procedimentos não
+   <content type="html">&lt;p&gt;A &lt;em&gt;possibilidade&lt;/em&gt; de diagnóstico por meio de procedimentos não
 invasivos, combinada com a grande oferta de dispositivos para
 monitoramento da frequência cardíaca, é uma das razões pelas quais o
-estudo da variabilidade da frequência cardíaca tornou-se popular nas
-últimas décadas. Neste seminário serão apresentados os resultados da
+estudo da variabilidade da frequência cardíaca tornou-se popular nas&lt;/p&gt;
+
+&lt;h3&gt;adsdasd&lt;/h3&gt;
+
+&lt;p&gt;últimas décadas. Neste seminário serão apresentados os resultados da
 análise de séries de intervalos de tempo entre batimentos
 consecutivos - intervalos RR, extraídos de eletrocardiogramas com
 duração de 24 horas. Por meio de um método de segmentação baseado na
