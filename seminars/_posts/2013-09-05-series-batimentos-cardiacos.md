@@ -1,16 +1,10 @@
----
-layout: seminar
-title: Não estacionariedades em séries de batimentos cardíacos
-quem: Sabrina Camargo
-onde: FGV - Praia de Botafogo, 190, sala 317
-tex: false
-hour: 16:00h
----
-
-A possibilidade de diagnóstico por meio de procedimentos não
+A *possibilidade* de diagnóstico por meio de procedimentos não
 invasivos, combinada com a grande oferta de dispositivos para
 monitoramento da frequência cardíaca, é uma das razões pelas quais o
 estudo da variabilidade da frequência cardíaca tornou-se popular nas
+
+### adsdasd
+
 últimas décadas. Neste seminário serão apresentados os resultados da
 análise de séries de intervalos de tempo entre batimentos
 consecutivos - intervalos RR, extraídos de eletrocardiogramas com
