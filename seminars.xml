@@ -4,13 +4,52 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-10-31T17:20:20-02:00</updated>
+ <updated>2013-11-05T10:34:52-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Reamostragem generalizada em computação gráfica</title>
+   <link href="http://emap.fgv.br/seminars/2013/11/07/reamostragem-computacao-grafica.html"/>
+   <updated>2013-11-07T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/11/07/reamostragem-computacao-grafica</id>
+   <content type="html">&lt;p&gt;Discretização e reconstrução são operações fundamentais em computação
+gráfica. Avanços recentes na área de processamento de sinais
+mostraram que esse tipo de operação pode ser realizado com maior
+eficiência a partir da decomposição de filtros em duas partes: uma
+função geradora de variável contínua, compacta no domínio espacial, e
+um filtro digital discreto. Essa estratégia de &quot;reamostragem
+generalizada&quot; já apareceu em alguns artigos de computação gráfica, mas
+é praticamente desconhecida nessa comunidade. A palestra tem o
+objetivo de resumir os principais aspectos do arcabouço, e mergulhar
+em algumas aplicações mais específicas.  Diego Nehab irá apresentar
+uma notação matemática inovadora, desenvolvida por sua equipe, que
+conseguiu demonstrar e estender vários dos conceitos fundamentais da
+computação gráfica. Para concluir, será apresentado um estudo
+comparativo entre filtros tradicionais e generalizados.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://w3.impa.br/~diego/&quot;&gt;Diego Nehab&lt;/a&gt; (PhD, Princeton, 2007) se
+juntou ao IMPA em 2010 como pesquisador. Sua pesquisa abrange vários
+tópicos em computação gráfica, mas se concentra principalmente em
+visualização em tempo real, processamento de imagens, algoritmos
+paralelos, e processamento de geometria.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Decomposition-Coordination for dynamic stochastic optimization problems: Theory and Applications of the DADP algorithm</title>
