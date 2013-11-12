@@ -6,7 +6,7 @@ incluir:
  - widget-sobre-mestrado.html
  - widget-linhas-mestrado.html
  - widget-selecao-mestrado.html
- - widget-disciplinas-mestrado.html
+ - widget-disciplinas-pos-graduacao.html
 ---
 
 O crescimento acelerado da capacidade de monitoração de sistemas

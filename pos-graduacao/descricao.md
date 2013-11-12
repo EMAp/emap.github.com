@@ -5,7 +5,7 @@ section: pos-graduacao
 incluir:
  - widget-linhas-mestrado.html
  - widget-selecao-mestrado.html
- - widget-disciplinas-mestrado.html
+ - widget-disciplinas-pos-graduacao.html
  - widget-perfil-egressos-mestrado.html
 ---
 
