@@ -4,13 +4,44 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-11-05T10:34:52-02:00</updated>
+ <updated>2013-11-12T16:50:09-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Gerando valor com Big Data</title>
+   <link href="http://emap.fgv.br/seminars/2013/11/14/big-data.html"/>
+   <updated>2013-11-14T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/11/14/big-data</id>
+   <content type="html">&lt;p&gt;O seminário irá abordar como as novas tecnologias de Big Data estão
+transformando as indústrias em todos os setores, gerando ainda mais
+valor com análises de dados de um volume cada vez maior de informação.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Christian Aranha foi idealizador das pesquisas acadêmicas que deram
+origem à tecnologia da &lt;a href=&quot;http://www.cortex-intelligence.com/&quot;&gt;Cortex&lt;/a&gt; -
+empresa da área de inteligência de mercado. Ele é doutor em
+Inteligência Computacional Aplicada pela PUC-RIO, mestre em
+Estatística e Otimização, é engenheiro elétrico e possui bacharel em
+Psicologia. Antes de fundar a Cortex, fez sua carreira em P&amp;amp;D nas
+áreas de data mining e text mining. Atualmente consolida tudo em Big
+Data.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Reamostragem generalizada em computação gráfica</title>

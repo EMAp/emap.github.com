@@ -4,13 +4,55 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-11-05T10:34:52-02:00</updated>
+ <updated>2013-11-12T16:50:09-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>EMAp abre inscrições para mestrado em Modelagem Matemática da Informação</title>
+   <link href="http://emap.fgv.br/blog/2013/11/08/nota-mestrado.html"/>
+   <updated>2013-11-08T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2013/11/08/nota-mestrado</id>
+   <content type="html">&lt;p&gt;A EMAp/FGV está com as inscrições abertas até o dia 16 de dezembro
+para o Mestrado Acadêmico em Modelagem Matemática da Informação. O
+objetivo do curso é formar profissionais capazes de analisar cenários
+e dar suporte à tomada de decisões em situações de uso intensivo de
+dados e informações, além de formar pesquisadores na área de
+Matemática Aplicada.&lt;/p&gt;
+
+&lt;p&gt;&quot;O mestrado tem uma abordagem inédita no mercado, integra o corpo de
+conhecimentos das Ciências da Computação e da Informação, com foco em
+problemas oriundos das ciências sociais, ciências econômicas, ciências
+biológicas e da saúde, sob o guarda-chuva da Matemática Aplicada&quot;,
+explica o coordenador do curso, professor Renato Souza.&lt;/p&gt;
+
+&lt;p&gt;O curso, formado por 22 disciplinas, está alinhado, segundo o
+professor, com as tendências de pesquisa na recém-criada área da
+Matemática da Informação, e busca corresponder a um panorama
+científico, profissional e social vislumbrado para os próximos
+anos. &quot;Há no mercado necessidade de um profissional com o perfil que
+formamos, mas não existem cursos voltados para essa capacitação&quot;,
+acrescenta Renato.&lt;/p&gt;
+
+&lt;p&gt;O processo seletivo é dividido em três fases – exame do currículo,
+Curso de Verão e entrevista. Os candidatos que forem indicados para
+fazer o Curso de Verão, que ocorre no mês de janeiro, serão avaliados
+pelo desempenho nas disciplinas de matemática e computação.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Inscrições: até 16/12/2013&lt;/li&gt;
+&lt;li&gt;Início das aulas: 24/02/2014&lt;/li&gt;
+&lt;li&gt;Duração: 24 meses&lt;/li&gt;
+&lt;li&gt;Carga Horária: 420 horas/aula&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;Mais informações&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>FGV/EMAp e Tribunal de Justiça do Estado do Rio de Janeiro firmam acordo de cooperação técnica científica</title>
@@ -157,7 +199,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x74;&amp;#x6f;&amp;#58;&amp;#101;&amp;#109;&amp;#x61;&amp;#112;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#x65;&amp;#x6e;&amp;#116;&amp;#111;&amp;#115;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#46;&amp;#x62;&amp;#x72;&quot;&gt;&amp;#101;&amp;#109;&amp;#x61;&amp;#x70;&amp;#x2e;&amp;#101;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#x66;&amp;#103;&amp;#118;&amp;#46;&amp;#x62;&amp;#x72;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x74;&amp;#111;&amp;#58;&amp;#101;&amp;#109;&amp;#97;&amp;#x70;&amp;#x2e;&amp;#x65;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#116;&amp;#111;&amp;#115;&amp;#64;&amp;#x66;&amp;#103;&amp;#118;&amp;#46;&amp;#98;&amp;#x72;&quot;&gt;&amp;#101;&amp;#x6d;&amp;#97;&amp;#x70;&amp;#46;&amp;#101;&amp;#118;&amp;#x65;&amp;#110;&amp;#x74;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#118;&amp;#x2e;&amp;#98;&amp;#114;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
