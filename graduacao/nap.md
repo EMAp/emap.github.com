@@ -38,9 +38,8 @@ Judite Helena Giolito
 - Karine Andrade
 - Tatiane Rosa Santos
 
-## Equipe de apoio administrativa
+## Equipe de apoio administrativo
 
-- Marcelo Victorino
 - Sonia Gonçalves Santos
 
 ## Contatos

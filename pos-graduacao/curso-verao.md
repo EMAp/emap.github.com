@@ -1,6 +1,6 @@
 ---
 layout: inner-child
-title: Curso de Verão 2013
+title: Curso de Verão 2014
 section: pos-graduacao
 toc: true
 incluir:
@@ -47,7 +47,7 @@ algoritmos interativos.
 
 Interessados no curso de verão, candidatos ao mestrado na EMAp ou não,
 devem se inscrever [neste link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP)
-no período de 04/11/2013 a 13/12/2013.
+no período de 04/11/2014 a 16/12/2014.
 
 São documentos necessários à inscrição:
 
@@ -56,7 +56,7 @@ São documentos necessários à inscrição:
 - Duas fotos (3x4) coloridas;
 - Comprovante de pagamento da taxa de inscrição.
 
-Os documentos deverão ser entregues até o dia 21/12/2013 na Secretaria
+Os documentos deverão ser entregues até o dia 16/12/2013 na Secretaria
 de Registros Acadêmicos – SRA, localizada na Praia de Botafogo, 190
 sala 314, Botafogo, Rio de Janeiro, RJ. O valor do curso de verão é de
 R$200,00. Candidatos ao mestrado serão isentos do pagamento do curso.
