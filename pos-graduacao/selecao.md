@@ -103,11 +103,11 @@ dispensados da fase 2, a saber, o Curso de Verão.
 
 Fase 2: Curso de Verão (De 06/01/2014 a 31/01/2014):
 
-O curso de verão consiste de duas disciplinas: "Fundamentos de
-Matemática" e "Introdução à Programação com a Linguagem Python", com
-duração de 4 semanas cada uma. As disciplinas têm a dupla função de
-oferecer um nivelamento aos ingressantes e também serão subsídio para
-o processo de seleção.
+O [curso de verão](curso-verao.html) consiste de duas disciplinas:
+"Fundamentos de Matemática" e "Introdução à Programação com a
+Linguagem Python", com duração de 4 semanas cada uma. As disciplinas
+têm a dupla função de oferecer um nivelamento aos ingressantes e
+também serão subsídio para o processo de seleção.
 
 Fase 3: Entrevista (De 03/02/2014 a 06/02/2014):
 
