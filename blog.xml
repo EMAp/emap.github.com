@@ -4,13 +4,39 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-11-19T11:44:47-02:00</updated>
+ <updated>2013-11-21T17:09:30-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Professor da EMAp apresenta case de sucesso de Big Data em evento de TI Empresarial</title>
+   <link href="http://emap.fgv.br/blog/2013/11/21/palestra-case-big-data.html"/>
+   <updated>2013-11-21T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2013/11/21/palestra-case-big-data</id>
+   <content type="html">&lt;p&gt;O professor da Escola de Matemática Aplicada da FGV,
+&lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;, apresentará no
+dia 26 de novembro, em São Paulo, o case &quot;Padrões de Mobilidade Humana
+na Região Metropolitana do Rio de Janeiro&quot;, no evento
+&lt;a href=&quot;http://www.brunise.com.br/treinamentos-em-ti/command/11-command-center-meeting&quot;&gt;Command Center Meeting&lt;/a&gt;,
+realizado pela Brunise Consultoria e Treinamento.&lt;/p&gt;
+
+&lt;p&gt;Evsukoff irá mostrar como um conjunto de registros de chamadas
+telefônicas cedidos por uma operadora de telefonia pode contribuir
+para a compreensão e previsão de diversos fenômenos sociais, problemas
+de tráfego, planejamento urbano, entre outros.&lt;/p&gt;
+
+&lt;p&gt;O projeto, uma parceria da EMAp/FGV com a Coppe/UFRJ, também está
+sendo desenvolvido em colaboração com o MIT (Massachusetts Institute
+of Technology).&lt;/p&gt;
+
+&lt;p&gt;O 11&lt;sup&gt;o&lt;/sup&gt; Command Center Meeting será realizado no Teatro Vivo,
+em São Paulo, nos dias 26 e 27 de novembro.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp abre inscrições para mestrado em Modelagem Matemática da Informação</title>
@@ -199,7 +225,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x74;&amp;#x6f;&amp;#x3a;&amp;#x65;&amp;#109;&amp;#97;&amp;#x70;&amp;#46;&amp;#x65;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#116;&amp;#111;&amp;#115;&amp;#64;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#46;&amp;#98;&amp;#x72;&quot;&gt;&amp;#101;&amp;#x6d;&amp;#97;&amp;#112;&amp;#46;&amp;#101;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#111;&amp;#115;&amp;#64;&amp;#102;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x74;&amp;#111;&amp;#58;&amp;#x65;&amp;#109;&amp;#97;&amp;#112;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#101;&amp;#110;&amp;#x74;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#102;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&quot;&gt;&amp;#x65;&amp;#x6d;&amp;#97;&amp;#x70;&amp;#x2e;&amp;#x65;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#x66;&amp;#x67;&amp;#118;&amp;#46;&amp;#x62;&amp;#x72;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
