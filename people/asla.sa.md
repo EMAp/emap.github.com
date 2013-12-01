@@ -2,7 +2,7 @@
 layout: people
 title: Asla Medeiros e Sá
 picture: asla.sa.jpg
-tex: true
+tex: false
 ---
 
 # {{ page.title }}
@@ -36,6 +36,3 @@ históricas do [CPDOC-FGV](http://cpdoc.fgv.br/).
 - Digitalização de objetos tridimensionais
 - Visualização de informação 
 - Pesquisa operacional
-
- 
-
