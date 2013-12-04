@@ -4,8 +4,12 @@ title: Eventos
 section: events
 ---
 
-## Eventos organizados
+## Próximos Eventos
 
+- [Conference on Graphics, Patterns and Images (SIBGRAPI 2014)](/sibgrapi-2014/)
+
+## Eventos organizados
+ 
 - [1st Symposium on Big Data and Public Health, 23-25 de Outubro de 2013](/BDPH2013/).
 - [Palestra: "Matching vai a Estocolmo!" de Marilda Sotomayor, 4 de setembro de 2013](/blog/2013/09/04/palestra-matching.html).
 - [Workshop Rio's 2013 - Research in Optimization and Statistics 22-26 de Julho de 2013](/blog/2013/07/15/RIOs.html).
