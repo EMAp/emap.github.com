@@ -6,7 +6,7 @@ section: events
 
 ## Próximos Eventos
 
-- [Conference on Graphics, Patterns and Images (SIBGRAPI 2014)](/sibgrapi-2014/)
+- [Conference on Graphics, Patterns and Images (SIBGRAPI, 27-30 de agosto de 2014)](/sibgrapi-2014/)
 
 ## Eventos organizados
  
