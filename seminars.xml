@@ -4,13 +4,46 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-12-04T15:49:42-02:00</updated>
+ <updated>2013-12-09T14:22:01-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Experiências com Reconhecedor de Fala para Português-Brasileiro</title>
+   <link href="http://emap.fgv.br/seminars/2013/12/12/reconhecimento-de-fala.html"/>
+   <updated>2013-12-12T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/seminars/2013/12/12/reconhecimento-de-fala</id>
+   <content type="html">&lt;p&gt;O seminário apresentará a missão e as atividades do grupo de Sistemas
+Humanos da IBM Research - Brasil. Dará foco nas atividades que
+envolvem tecnologias de voz, descrevendo o processo de criação de
+modelos acústicos e de linguagem para um reconhecedor de fala para a
+língua brasileira. Apresentará também resultados preliminares obtidos
+com este reconhecedor, assim como potenciais aplicações para esta
+tecnologia.&lt;/p&gt;
+
+&lt;h2&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://researcher.ibm.com/researcher/view.php?person=br-jnogima&quot;&gt;Julio Nogima&lt;/a&gt;
+é graduado em Engenharia Elétrica pela Universidade Estadual de
+Campinas (UNICAMP). Trabalhou por 15 anos no IBM T.J. Watson Research
+Center em New York pesquisando tecnologias de hardware e software para
+aplicações multimidia e televisão digital. Desde 2012 é engenheiro
+pesquisador no grupo de Sistemas Humanos da IBM Research - Brasil.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Fluctuations in a moving boundary description of diffusive interface growth</title>

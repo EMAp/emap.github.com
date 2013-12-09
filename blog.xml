@@ -4,13 +4,56 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2013-12-04T15:49:42-02:00</updated>
+ <updated>2013-12-09T14:22:01-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>EMAp recebe aprovados no vestibular com coquetel de boas-vindas</title>
+   <link href="http://emap.fgv.br/blog/2013/12/05/boas-vindas-alunos.html"/>
+   <updated>2013-12-05T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2013/12/05/boas-vindas-alunos</id>
+   <content type="html">&lt;p&gt;A Escola de Matemática Aplicada realizou no dia 03 de dezembro o
+Coquetel de Boas-Vindas aos aprovados no Vestibular 2014.&lt;/p&gt;
+
+&lt;p&gt;A diretora da EMAp, professora Maria Izabel, realizou a abertura do
+evento e passou a palavra ao coordenador de graduação, professor Paulo
+Cezar Carvalho.  Ele apresentou o curso e suas diversas áreas de
+aplicação no mercado de trabalho, citando alguns dos projetos
+inovadores desenvolvidos por professores e pesquisadores da Escola,
+como os de &quot;Modelagem de Epidemias de Dengue&quot; e &quot;Mobilidade Urbana por
+meio de Rastreamento de Celulares&quot;.  Paulo Cezar explicou também como
+é realizada a interseção da matemática nas áreas de direito, ciências
+sociais, história e economia, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;Em sequência, Helena Giolito e Cláudia Cossich, do Núcleo de Apoio
+Pedagógico, falaram do diálogo aberto que a FGV proporciona através da
+disponibilidade de profissionais que acompanham o aluno desde o
+momento de seu ingresso até a conclusão do curso, criando melhores
+condições de aproveitamento pedagógico.&lt;/p&gt;
+
+&lt;p&gt;Para concluir, a coordenadora do Setor de Estágio e Colocação
+Profissional, Beralda Lima, explicou sobre as oportunidades já
+oferecidas por grandes empresas, desde bancos à consultoria. Além
+disso, os próprios alunos falaram de seus projetos e trabalhos que
+estão desenvolvendo na própria Escola, em iniciação científica ou em
+outras instituições. Em seus depoimentos, eles citaram que na EMAp,
+desde o primeiro período, são oferecidas várias oportunidades que vão
+além do curso de graduação, e que só basta querer para colocar em
+prática todo o conhecimento adquirido nas aulas.&lt;/p&gt;
+
+&lt;p&gt;Ao final, todos foram recepcionados com um coquetel que possibilitou
+maior integração entre os professores, pais e alunos.&lt;/p&gt;
+
+&lt;p&gt;As aulas de graduação em Matemática Aplicada terão início no dia 03 de
+fevereiro. Para mais informações sobre o curso,
+&lt;a href=&quot;/graduacao/descricao.html&quot;&gt;acesse aqui&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Professor da EMAp apresenta case de sucesso de Big Data em evento de TI Empresarial</title>
@@ -225,7 +268,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x74;&amp;#x6f;&amp;#58;&amp;#x65;&amp;#x6d;&amp;#97;&amp;#112;&amp;#x2e;&amp;#101;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#x73;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#118;&amp;#x2e;&amp;#x62;&amp;#x72;&quot;&gt;&amp;#101;&amp;#109;&amp;#x61;&amp;#112;&amp;#46;&amp;#x65;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#102;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#98;&amp;#x72;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x74;&amp;#111;&amp;#58;&amp;#x65;&amp;#109;&amp;#97;&amp;#x70;&amp;#46;&amp;#x65;&amp;#118;&amp;#101;&amp;#110;&amp;#x74;&amp;#111;&amp;#115;&amp;#64;&amp;#x66;&amp;#103;&amp;#118;&amp;#46;&amp;#x62;&amp;#114;&quot;&gt;&amp;#101;&amp;#x6d;&amp;#97;&amp;#112;&amp;#46;&amp;#101;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#x2e;&amp;#98;&amp;#x72;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
