@@ -10,37 +10,38 @@ incluir:
 ## Graduação em Matemática Aplicada
 
 Bacharelado Reconhecido pelo MEC - Portaria no. 285 de 22 de julho de
-2011 - DOU n° 144 de 25 de julho de 2011.
+2011 - DOU no. 144 de 25 de julho de 2011.
 
-O curso de graduação em Matemática Aplicada da FGV foi criado a partir
-da constatação do aumento na utilização de técnicas matemáticas, cada
-vez mais sofisticadas, em conjunto com técnicas computacionais, para
-tratamento e visualização de grandes volumes de dados, tanto do ponto
-de vista quantitativo quanto qualitativo.
+Atenta à crescente demanda no mercado de trabalho por profissionais
+capazes de utilizar técnicas matemáticas e modelos computacionais cada
+vez mais sofisticados, a EMAp prepara seus egressos a atuarem em
+setores estratégicos de organizações, além de capacitá-los para
+pesquisas acadêmicas e consultoria. A Escola de Matemática Aplicada da
+FGV conta com um quadro de professores de formação diversificada:
+Matemática, Engenharia, Ciências da Computação, Biologia, dentre
+outras áreas. Essa diversidade para o curso de graduação é muito
+pertinente e enriquecedora no que diz respeito à versatilidade de
+contextos e de aplicações. O profissional formado pela EMAp pode
+aplicar técnicas de essência matemática informacional e computacional
+em atividades tão diversas quanto, por exemplo, mercado financeiro,
+combate ao crime, mapeamento de tendências socioeconômicas e
+compreensão das dinâmicas de propagação de doenças
+infectocontagiosas. Atuando nestas e demais áreas, ele contribui com
+organizações públicas e privadas em seus setores de monitoramento
+ambiental, análise de cenários, planejamento estratégico e
+gerenciamento de riscos.
 
-Aplicada para atividades tão diversas como o combate ao crime, o
-mapeamento de tendências socioeconômicas e a compreensão das dinâmicas
-de propagação de doenças infectocontagiosas, a utilização e concepção
-do estado da arte de técnicas de essência matemática, informacional e
-computacional são fundamentais para que as organizações construam e
-mantenham vantagem competitiva, através do monitoramento ambiental,
-análise de cenários e planejamento estratégico.
-
-A graduação em Matemática Aplicada tem por objetivo formar
-profissionais especializados para fazer frente a essas necessidades e
-aos desafios associados.
-
-O curso é *presencial*, *diurno* (podendo ter aulas na parte da tarde)
-e *oferecido apenas na cidade do Rio de Janeiro*, no prédio sede da
-FGV na Praia de Botafogo 190. O curso tem duração mínima de 4 (quatro)
-anos e máximo de 7 (sete) anos.
+O curso de graduação em Matemática Aplicada é *presencial*, *diurno*
+(podendo ter aulas na parte da tarde) e *oferecido apenas na cidade do
+Rio de Janeiro* - Praia de Botafogo, 190 - com duração mínima de 4
+(quatro) anos e máximo de 7 (sete) anos.
 
 Após a conclusão, o aluno receberá o título de Bacharel em Matemática
 Aplicada.
 
 ## Investimento
 
-Atualmente, o valor da mensalidade é de R$ 1350,00 (independente da
+Atualmente, o valor da mensalidade é de R$ 1.430,00 (independente da
 quantidade de disciplinas cursadas).
 
 ## Bolsas de estudo
@@ -51,13 +52,12 @@ processos seletivos:
 - Bolsas de 100% por mérito para o primeiro e segundo colocados na
   classificação do ENEM.
 
-- Bolsas integrais aos seus 8 (oito) primeiros classificados no exame
-  Vestibular que realizarem matrícula para início do curso no 1º
-  semestre de 2013.
+- Bolsas integrais aos 8 (oito) primeiros classificados no
+  Vestibular da FGV/EMAp.
 
 - Outras bolsas por mérito poderão ser distribuídas para o curso de
-  Matemática Aplicada, considerando o desempenho do aluno nas
-  Olimpíadas em Matemática.
+  Matemática Aplicada, considerando o desempenho do aluno na
+  Olimpíada Brasileira de Matemática das Escolas Públicas.
 
 - Aos alunos regularmente matriculados, poderão ser concedidas bolsas
   parciais de demanda social (Fundo de Bolsas) semestralmente
@@ -74,12 +74,11 @@ Graduação.
 
 Para mais detalhes, veja o [regulamento do curso](/files/graduacao-regulamento.pdf).
 
-
 ## Quais os campos de atuação da matemática aplicada na EMAp/FGV?
 
-A matemática aplicada compreende um vasto campo de trabalho, que
-inclui múltiplas possibilidades de formação e atuação profissionais,
-em empresas privadas, no setor público, na área acadêmica e na área de
+A matemática aplicada compreende um vasto campo de trabalho que inclui
+múltiplas possibilidades de formação e atuação profissionais em
+empresas privadas, no setor público, na área acadêmica e na área de
 consultoria. Os temas de interesse da EMAp/FGV incluem:
 
 - Modelagem de sistemas socioeconômicos.
@@ -91,10 +90,3 @@ consultoria. Os temas de interesse da EMAp/FGV incluem:
 - Planejamento estratégico.
 - Monitoramento ambiental.
 
-## Outros documentos
-
-- [Calendário 2012](/files/graduacao-calendario-2012.pdf)
-- [Fluxograma do curso](/files/graduacao-fluxograma.pdf)
-- [Guia do aluno](/files/graduacao-guia-aluno.pdf)
-- [Manual de atividades complementares](/files/graduacao-manual-ac.pdf)
-- [Regulamento do curso](/files/graduacao-regulamento.pdf)
