@@ -3,7 +3,7 @@ layout: post
 title: EMAp recebe aprovados no vestibular com coquetel de boas-vindas
 author: Raquel Rittmeyer
 tags:
- - graduação
+ - graduacao
  - evento
 ---
 
