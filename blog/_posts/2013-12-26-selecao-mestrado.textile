@@ -1,0 +1,38 @@
+---
+layout: post
+title: Processo Seletivo Mestrado, lista dos indicados para o Curso de Verão 2014
+author: Renato Rocha
+tags:
+ - mestrado
+---
+
+Divulgamos a seguir a lista dos indicados para o Curso de Verão. 
+
+| *Nome*                               | *Linguagem Python* | *Fundamentos da Matemática* |
+| Adriano Duarte da Silva              | Recomendado        | Opcional                  |
+| Andre Luiz D'Aqui Moura              | Recomendado        | Recomendado               |
+| Anna Patricia Pachas Manrique        | Recomendado        | Recomendado               |
+| Antonio Augusto Conti Fernandes Leão | Opcional           | Recomendado               |
+| Cecilia Pessanha Lima                | Recomendado        | Dispensada                |
+| Cristiano de Andrade Gonçalves       | Recomendado        | Opcional                  |
+| Edvalter Alex Lima                   | Recomendado        | Opcional                  |
+| Eliane Martins de Aguiar             | Recomendado        | Opcional                  |
+| Fabio Dias Carneiro                  | Recomendado        | Recomendado               |
+| Gabriel Carneiro Lento               | Recomendado        | Recomendado               |
+| Geraldo Magela Souza                 | Recomendado        | Recomendado               |
+| Iran Duilio Cordeiro                 | Recomendado        | Opcional                  |
+| Jefferson da Costa Lima              | Recomendado        | Opcional                  |
+| Kiese da Silva Quiavauca             | Recomendado        | Opcional                  |
+| Leon Diniz Alves                     | Recomendado        | Recomendado               |
+| Leonardo dos Santos Pinheiro         | Recomendado        | Recomendado               |
+| Leonardo Rodrigues Mattos da Costa   | Recomendado        | Opcional                  |
+| Luis Eduardo Craizer                 | Recomendado        | Opcional                  |
+| Manoel de Souza e Silva Neto         | Recomendado        | Recomendado               |
+| Marcos Ferreira da Silva             | Recomendado        | Recomendado               |
+| Maria Filomena de Souza Alves        | Opcional           | Opcional                  |
+| Pedro Henrique Schneider             | Recomendado        | Opcional                  |
+| Sergio Salustiano da Silva           | Recomendado        | Recomendado               |
+| Valmir Jhonatta Almeida Barbosa      | Recomendado        | Recomendado               |
+| Wagner dos Anjos Carvalho            | Recomendado        | Recomendado               |
+| Wallace Rocha dos Santos Garbim      | Recomendado        | Recomendado               |
+

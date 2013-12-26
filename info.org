@@ -93,3 +93,7 @@ Locales no Jekyll para datas:
 
 - http://stackoverflow.com/questions/10714980/locale-specific-date-in-jekyll
 
+Git:
+
+- http://stackoverflow.com/questions/1090309/git-undo-all-working-dir-changes-including-new-files
+
