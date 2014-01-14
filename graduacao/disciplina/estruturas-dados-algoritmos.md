@@ -6,25 +6,21 @@ title: Estruturas de Dados e Algoritmos
 
 - Carga horária: 60 horas (4 aulas semanais)
 - Pré-requisito:
-    - [Linguagens de Programação](linguagens-programacao.html) 
+    - [Linguagens de Programação](linguagens-programacao.html)
 
+## Docentes
+
+- [Alexandre Rademaker](/people/alexandre.rademaker.html)
+  
 ## Ementa 
 
-Conceitos de Algoritmos: Recursividade, complexidade de algoritmos,
-algoritmos ótimos. Listas lineares: Alocação seqüencial, Listas
-lineares em alocação seqüencial, Alocação encadeada, Listas lineares
-em alocação encadeada, Pilhas e filas. Listas de prioridades:
-Implementação, Alteração de prioridades, Inserção e remoção,
-Construção, Aplicação: Ordenação. Árvores: Árvores binárias, Percurso
-em árvores binárias, Conversão de uma floresta, Árvores com costura,
-Árvores binárias de busca. Árvores balanceadas: Balanceamento de
-árvores AVL, Conceitos básicos de árvores B, Busca, inserção e remoção
-em árvores B. Estruturas de dados para conjuntos disjuntos:
-Representações de conjuntos disjuntos, Operações em conjuntos
-disjuntos, Aplicações. Tabelas de dispersão: Funções de dispersão,
-Tratamento de colisões por encadeamento, Tratamento de colisões por
-endereçamento aberto.
+Complexidade de algorítmos. Medidas de complexidade de
+algorítmos. Algorítmos para grafos e outras estruturas de dados
+comuns. Tipos de algorítmos: algorítmos gulosos, programação dinâmica,
+divisão e conquista etc. Problemas NP-Completos.
 
 ## Bibliografia
 
 {% bibliography --file grad-estruturas-dados-algoritmos %}
+
+
