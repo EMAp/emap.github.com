@@ -4,13 +4,95 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-02-04T13:25:07-02:00</updated>
+ <updated>2014-02-07T19:54:19-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>EMAp abre inscrições para atividade complementar em "Comportamento, Informação  e Criptografia"</title>
+   <link href="http://emap.fgv.br/blog/2014/02/07/atividade-complementar.html"/>
+   <updated>2014-02-07T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2014/02/07/atividade-complementar</id>
+   <content type="html">&lt;p&gt;A Escola de Matemática Aplicada irá oferecer a atividade complementar
+em &quot;Comportamento, Informação e Criptografia&quot;, em parceria com a
+&lt;a href=&quot;http://ebape.fgv.br&quot;&gt;Escola de Administração (EBAPE/FGV)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Coordenado pelos professores
+&lt;a href=&quot;/people/jair.koiller.html&quot;&gt;Jair Koiller&lt;/a&gt;, da EMAp, e
+&lt;a href=&quot;http://ebape.fgv.br/corpo-docente/eduardo-andrade&quot;&gt;Eduardo Andrade&lt;/a&gt; e
+&lt;a href=&quot;http://ebape.fgv.br/corpo-docente/alexandre-linhares&quot;&gt;Alexandre Linhares&lt;/a&gt;,
+da EBAPE, o curso terá como discussão as abordagens dos livros:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/1400096235/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1400096235&amp;linkCode=as2&amp;tag=persowebsi000-20&quot;&gt;The Information: A History, A Theory, A Flood&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=persowebsi000-20&amp;l=as2&amp;o=1&amp;a=1400096235&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/0307378217/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307378217&amp;linkCode=as2&amp;tag=persowebsi000-20&quot;&gt;Subliminal: How Your Unconscious Mind Rules Your Behavior&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=persowebsi000-20&amp;l=as2&amp;o=1&amp;a=0307378217&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://loja.sbm.org.br/DetProduto.aspx?id=102&quot;&gt;Números Inteiros e Criptografia RSA (S. Coutinho)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;As aulas serão realizadas no período de 13 de fevereiro a 25 de junho,
+todas às quintas-feiras, das 13h às 15h. As inscrições podem ser
+feitas no Núcleo de Apoio Pedagógico, sala 309.&lt;/p&gt;
+
+&lt;p&gt;Para mais informações, entrar em contato pelo email &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;r&#39;,&#39;.b&#39;,&#39;er&#39;,&#39;ll&#39;,&#39;oi&#39;,&#39;.k&#39;,&#39;ja&#39;,&#39;ir&#39;,&#39;@f&#39;,&#39;gv&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[6]+a[7]+a[5]+a[4]+a[3]+a[2]+a[8]+a[9]+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[6]+a[7]+a[5]+a[4]+a[3]+a[2]+a[8]+a[9]+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Cronograma e Conteúdo (12 sessões)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;13/2&lt;/strong&gt; Aula inaugural - Apresentação do curso&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;20/2&lt;/strong&gt; Mlodinow, capítulos 1,2,3: Lembrando de coisas que não
+aconteceram?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;27/2&lt;/strong&gt; Mlodinow, capítulos 4,5,6,7: Julgando pelas aparências,
+categorizando&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;13/3&lt;/strong&gt; Uma excursão matemática: a distância de Jaccard e
+variantes. Bitcoin e prevenção de riscos na internet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;20/3&lt;/strong&gt; Mlodinow, capítulos 8,9,10: “Natureza das Emoções”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;27/3&lt;/strong&gt; Gleick, capítulos 1-6: Código dos tambores que falam; excursão
+matemática: códigos corretores de erros&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;24/4&lt;/strong&gt; Gleick, capítulos 7,8: Matemática da informação: Teoria de
+Shannon&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;30/4&lt;/strong&gt; Gleick, capítulo 9: Física: Entropia e Mecânica Estatística&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;08/5&lt;/strong&gt; Gleick, capítulo 10: Biologia depois do DNA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;15/5&lt;/strong&gt; S. Collier, introdução ao capítulo 3: números primos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;22/5&lt;/strong&gt; S. Collier, capítulos 4-7: Artimética modular. Aplicação em
+partilha de senhas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;29/5&lt;/strong&gt; S. Collier, capítulos 8-12: RSA a ECC&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;05/6&lt;/strong&gt; Gleck, capítulos 10-15: O dilúvio da informação.  Avaliação
+das discussões.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Público-alvo&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alunos da FGV: a atividade será válida como crédito complementar de
+24h.&lt;/li&gt;
+&lt;li&gt;Alunos de outras Instituições: mediante carta de recomendação e
+havendo vagas.&lt;/li&gt;
+&lt;li&gt;Público geral: mediante análise de carta de interesse.&lt;/li&gt;
+&lt;li&gt;Empresas interessadas em novas abordagens (e no recrutamento de bons
+alunos).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Vagas limitadas.&lt;/p&gt;
+
+&lt;h3&gt;Organização&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clube de Matemática - coordenado por Jair Koiller (EMAP)&lt;/li&gt;
+&lt;li&gt;Centre for Behavioral Research - coordenado por Eduardo Andrade (EBAPE)&lt;/li&gt;
+&lt;li&gt;Laboratório de Modelagem e Simulação de Sistemas Cooperativos e Adaptatos&lt;/li&gt;
+&lt;li&gt;Projeto com apoio &lt;a href=&quot;http://faperj.br&quot;&gt;Faperj&lt;/a&gt; - coordenado por
+Alexandre Linhares (EBAPE)&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Candidatos aprovados para vagas remanescentes</title>
@@ -458,7 +540,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x74;&amp;#111;&amp;#58;&amp;#x65;&amp;#109;&amp;#97;&amp;#112;&amp;#46;&amp;#101;&amp;#x76;&amp;#x65;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#x40;&amp;#102;&amp;#x67;&amp;#x76;&amp;#x2e;&amp;#98;&amp;#x72;&quot;&gt;&amp;#101;&amp;#109;&amp;#97;&amp;#x70;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#x65;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#x40;&amp;#102;&amp;#103;&amp;#118;&amp;#46;&amp;#98;&amp;#x72;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x74;&amp;#x6f;&amp;#58;&amp;#101;&amp;#x6d;&amp;#x61;&amp;#x70;&amp;#x2e;&amp;#101;&amp;#118;&amp;#x65;&amp;#110;&amp;#x74;&amp;#111;&amp;#115;&amp;#x40;&amp;#102;&amp;#x67;&amp;#118;&amp;#46;&amp;#x62;&amp;#114;&quot;&gt;&amp;#x65;&amp;#x6d;&amp;#x61;&amp;#112;&amp;#x2e;&amp;#x65;&amp;#118;&amp;#101;&amp;#110;&amp;#116;&amp;#x6f;&amp;#115;&amp;#64;&amp;#102;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#98;&amp;#x72;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
