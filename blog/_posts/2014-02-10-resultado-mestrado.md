@@ -28,4 +28,4 @@ são:
 
 A matrícula deve ser feita no período de 11/02 a 19/02 na Secretaria
 de Registros Acadêmicos - Praia de Botafogo, 190, sala 314. O início
-das aulas será no dia 24 de março.
+das aulas será no dia 24 de fevereiro.
