@@ -1,7 +1,7 @@
 ---
 layout: seminar
 title: "Modelling uncertainty in optimization: illustration on the knapsack problem"
-quem: Michael Poss
+quem: Michael Poss (CNRS)
 onde: FGV - Praia de Botafogo, 190, room 317
 tex: false
 hour: 16:00h

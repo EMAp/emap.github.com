@@ -1,7 +1,7 @@
 ---
 layout: seminar
 title: "A história da análise matemática no século XIX: da ciência mista ao saber puro"
-quem: Tatiana Roque
+quem: Tatiana Roque (UFRJ)
 onde: FGV - Praia de Botafogo, 190, sala 317
 tex: false
 hour: 16:00h

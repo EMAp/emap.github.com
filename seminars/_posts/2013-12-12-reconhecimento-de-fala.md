@@ -1,7 +1,7 @@
 ---
 layout: seminar
 title: Experiências com Reconhecedor de Fala para Português-Brasileiro
-quem: Julio Nogima
+quem: Julio Nogima (IBM Research)
 onde: FGV - Praia de Botafogo, 190, sala 317
 tex: false
 hour: 16:00h

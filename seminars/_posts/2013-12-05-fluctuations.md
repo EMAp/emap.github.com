@@ -1,7 +1,7 @@
 ---
 layout: seminar
 title: Fluctuations in a moving boundary description of diffusive interface growth
-quem: Rodolfo Cuerno
+quem: Rodolfo Cuerno (Universidad Carlos III)
 onde: FGV - Praia de Botafogo, 190, room 317
 tex: false
 hour: 16:00h

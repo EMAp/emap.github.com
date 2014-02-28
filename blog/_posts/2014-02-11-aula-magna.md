@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aula Magna com Sergio Werlang
+title: Aula Magna com Sérgio Werlang
 author: Raquel Rittmeyer
 tags:
  - graduacao
