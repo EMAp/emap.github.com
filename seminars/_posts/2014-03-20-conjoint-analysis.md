@@ -1,7 +1,7 @@
 ---
 layout: seminar
 title: Conjoint Analysis
-quem: Christopher Fotenos
+quem: Christopher Fotenos (SKIM)
 onde: FGV - Praia de Botafogo, 190, sala 317
 tex: false
 hour: 16:00h
