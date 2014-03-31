@@ -4,13 +4,50 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-03-28T20:13:37-03:00</updated>
+ <updated>2014-03-31T14:33:59-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Aplicação de técnicas Bootstrap em Pesquisas de Percepção do Consumidor</title>
+   <link href="http://emap.fgv.br/seminars/2014/04/03/bootstrap.html"/>
+   <updated>2014-04-03T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/04/03/bootstrap</id>
+   <content type="html">&lt;p&gt;O seminário consistirá em três etapas: apresentação do Núcleo de
+Métodos Estatísticos e Computacionais (NMEC/SUEP, IBRE), discussão do
+artigo &quot;Applying the Bootstrap Techniques in Detecting Turning Points:
+A study of Consumer Sentiment Survey&quot; e exposição de alguns temas de
+estudos relevantes para a SUEP/IBRE e que poderão ser fruto de
+parceria com a EMAp.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/2228133411590933&quot;&gt;Pedro Guilherme&lt;/a&gt; possui
+graduação em Ciências Econômicas pela Universidade Federal de Juiz de
+Fora (2006), mestrado em Economia Aplicada pela Universidade Federal
+de Juiz de Fora (2008) e doutorado em Engenharia Elétrica pela
+Pontifícia Universidade Católica do Rio de Janeiro (2013). Atualmente
+é coordenador do Núcleo de Métodos Estatísticos e Computacionais da
+Fundação Getulio Vargas (NMEC/SUEP, IBRE, FGV) e consultor da
+PUC-RJ. Tem experiência na área de Probabilidade e Estatística, com
+ênfase em Análise de Dados, atuando principalmente nos seguintes
+temas: decomposição clássica de séries, modelos não lineares e modelos
+periódicos autorregressivos.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Projetos de Iniciação Científica</title>
