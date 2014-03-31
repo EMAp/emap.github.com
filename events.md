@@ -6,7 +6,11 @@ section: events
 
 ## Próximos Eventos
 
-- [Conference on Graphics, Patterns and Images (SIBGRAPI, 27-30 de agosto de 2014)](/sibgrapi-2014/)
+- Winter School in Stochastic Optimization, 28 de julho - 01 de agosto
+- [Conference on Graphics, Patterns and Images, 27-30 de agosto)](/sibgrapi-2014/)
+- [8th International Conference on Formal Ontology in Information Systems, 22-25 de setembro](http://fois2014.inf.ufes.br/)
+- [6th Workshop on Formal Ontologies meet Industry](/fomi-2014/)
+- [Workshop on Logics and Ontologies for Natural Language](/logonto-2014/)
 
 ## Eventos organizados
  
