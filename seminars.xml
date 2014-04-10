@@ -4,13 +4,44 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-03-31T14:33:59-03:00</updated>
+ <updated>2014-04-10T09:00:30-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Visualização Volumétrica</title>
+   <link href="http://emap.fgv.br/seminars/2014/04/10/visualizacao-volumetrica.html"/>
+   <updated>2014-04-10T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/04/10/visualizacao-volumetrica</id>
+   <content type="html">&lt;p&gt;Os exames de ressonância magnética e tomografia computadorizada
+revolucionaram o diagnóstico de doenças ao permitir que médicos vejam
+as estruturas internas do corpo humano em três dimensões e de maneira
+pouco invasiva. Nesta palestra será realizada uma apresentação de como
+essa visualização acontece.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dmat.ufba.br/~vinicius.mello/&quot;&gt;Vinícius Mello&lt;/a&gt; possui
+mestrado em Matemática pela Universidade Federal da Bahia (1998) e
+doutorado em Matemática pelo Instituto Nacional de Matemática Pura e
+Aplicada (2006). Atualmente é professor adjunto da Universidade
+Federal da Bahia. Tem experiência na área de Matemática, com ênfase em
+Computação Gráfica.&lt;/p&gt;
+
+&lt;h2&gt;Observação para isitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Aplicação de técnicas Bootstrap em Pesquisas de Percepção do Consumidor</title>
