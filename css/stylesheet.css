@@ -635,11 +635,11 @@ h3.post_meta span {
 }
 
 .research #banner-inner {
-    background: url(/images/banner-research.jpg) no-repeat left top
+    background: url(/images/banner-research.svg) no-repeat left top
 }
 
 .index-seminars #banner-inner {
-    background: url(/images/banner-seminars.jpg) no-repeat left top
+    background: url(/images/banner-seminars.svg) no-repeat left top
 }
 
 .index-blog #banner-inner {
