@@ -7,7 +7,7 @@ section: research
 
 ## Grupo Temático em Geometria Discreta
 
-- Responsável: Moacyr Alvim Silva
+- Responsável: [Moacyr Alvim Silva](/people/moacyr.silva.html)
 - Início: 2008 
 - Status: em andamento
 
@@ -19,7 +19,7 @@ contínuas.
 
 ## Economia experimental
 
-- Responsável: Moacyr Alvim Silva
+- Responsável: [Moacyr Alvim Silva](/people/moacyr.silva.html)
 - Início: 2011 
 - Status: em andamento
 
@@ -29,52 +29,45 @@ realiza experimentos em tomada de decisão, fornecendo dados empíricos
 para pesquisas que envolvam comportamento de agentes como em teoria
 dos jogos ou leilões.
 
-## MIST-SOM
-
-- Responsável: Moacyr Alvim Silva
-- Início: 2010
-- Status: fase 1 (transcrição)
-
-O objetivo do MIST - SOM é melhorar o acesso ao grande conteúdo de
-entrevistas do CPDOC. Parte das entrevistas foi transcrita e para
-estas entrevistas procura-se alinhar o texto ao áudio.  Mas a maioria
-das entrevistas não possui texto correspondente e neste projeto
-procura-se aplicar o estado da arte em análise de sinais de áudio para
-extração do conteúdo em português, bem como experimentar novas idéias
-que possam aprimorar esta extração no caso específico das entrevistas
-do CPDOC.
-
 ## Lattes@FGV
 
-- Responsável: Alexandre Rademaker
+- Responsável: [Alexandre Rademaker](/people/alexandre.rademaker.html)
 - Início: 2010
 - Status: fase 2 (visualização e consistências)
 
 O objetivo principal do projeto é a construção de uma base de
 conhecimento com informações consolidadas sobre a produção científica
-da FGV e competências de seus pesquisadores e professores. Tal base
-foi construída a partir da consolidação de dados de fontes como: CV
-Lattes, Biblioteca Digital da FGV e CAPES Qualis. 
+da FGV e competências de seus pesquisadores e professores. A contrução
+de tal base envolve o desenvolvimento de técnicas de deduplicação de
+registros, integração de dados distribuídos, construção de
+vocabulários e ontologias, modelagem e verificação de consistência dos
+dados.
 
-## Lógicas de Inferência em Sistemas Legais (iALC) e Lógica de Inferência Textual (TIL)
+## Lógicas para Sistemas Legais (iALC) 
 
-- Responsável: Alexandre Rademaker
+- Responsável: [Alexandre Rademaker](/people/alexandre.rademaker.html)
 - Início: 2010
 - Status: em andamento
 
 Este projeto trata do desenvolvimento de sistemas dedutivos formais
-para duas lógicas com aplicação direta em problemas de modelagem de
-informação.  A primeira delas, iALC, é uma lógica para representação e
-raciocínio sobre sistemas legais. A segunda, TIL, é uma lógica para
-representação da semântica de textos em linguagem natural.
+para lógicas com aplicação direta em problemas de modelagem de
+informação. iALC é uma lógica para representação e raciocínio sobre
+sistemas legais.
 
-No que se refere à TIL, sua aplicação no contexto de processamento de
-textos em linguagem natural, demanda antes o fomento do
+## Recursos Léxicos para Português 
+
+- Responsável: [Alexandre Rademaker](/people/alexandre.rademaker.html)
+- Início: 2010
+- Status: em andamento
+
+Deseja-se estudar formas de representar a semântica de textos em
+linguagem natural. No entanto, para o processamento de textos em
+linguagem natural em português, antes tornar-se necessário o
 desenvolvimento de recursos léxicos para o português. Neste contexto,
 o projeto visa também, em parceria com outros centros e pesquisadores,
 desenvolver pesquisa na área de NLP com a construção de ferramentas,
 corpus e ontologias e outros recursos necessários para processamento
-de textos em português. 
+de textos em português.
 
 ## Estimação bayesiana de parâmetros em modelos dinâmicos
 
@@ -119,9 +112,9 @@ médicas (Holm, Ratiu, Desbrun, Michor etc).
 
 - Responsáveis: 
   - Jair Koiller
-  - Moacyr Alvim Silva
+  - [Moacyr Alvim Silva](/people/moacyr.silva.html)
   - Paulo Cezar P. Carvalho
-- Início: 2008  
+- Início: 2008
 - Status: em andamento
 
 Pesquisa com apoio do convênio Capes/Cofecub, 2011-2012 (coordenada
@@ -132,14 +125,35 @@ em nós de uma rede, e técnicas da teoria de controle, para estimar
 parâmetros e otimizar funções objetivo; no biênio 2013-2014, se
 renovado, pretende-se dar foco em técnicas de AI.
 
-## Portal Semântico do CPDOC
 
-- Responsável: Renato Rocha Souza
-- Início: 12/2010
+## MIST
+
+- Responsáveis:
+ - [Moacyr Alvim Silva](/people/moacyr.silva.html)
+ - [Alexandre Rademaker](/people/alexandre.rademaker.html)
+ - [Asla Sá](/people/asla.sa.html)
+- Início: 2010
 - Status: em andamento
 
-Definição de padrões de metadados e ontologias, triplificação da base
-de dados e unificação do acesso aos acervos.
+O objetivo do MIST é melhorar o acesso ao grande conteúdo das bases de
+dados do [CPDOC](http://cpdoc.fgv.br). Envolve a reestruturação do BD
+do CPDOC com a adoção de plataformas abertas, vocabulários conhecidos
+que permitam interoperabilização com outros dados. Também compreende o
+enriquecimento dos dados do CPDOC com a aplicação de ténicas de:
+
+- Processamento de Linguagem natural: textos do DHBB. Extração de
+  fatos dos textos, ligação entre verbetes e outras entidades de
+  outros sistemas do CPDOC e/ou de outras bases como Wikipedia.
+
+- Processamento de images: continuação do aplicativo VIF, criado para
+  identificação de faces das fotos. Otimização do processo de
+  catalogação da fotos. Melhoria na interface de navegação de busca
+  dos dados substituindo as legendas por identificação precisa dos
+  personagens em cada foto.
+
+- Processamento de som: segmentação dos áudios das entrevistas do
+  CPDOC, alinhamento das transcrições e transcrição semi-automática.
+
 
 ## Light
 
