@@ -33,7 +33,7 @@ dos jogos ou leilões.
 
 - Responsável: [Alexandre Rademaker](/people/alexandre.rademaker.html)
 - Início: 2010
-- Status: fase 2 (visualização e consistências)
+- Status: em andamento
 
 O objetivo principal do projeto é a construção de uma base de
 conhecimento com informações consolidadas sobre a produção científica
@@ -129,9 +129,9 @@ renovado, pretende-se dar foco em técnicas de AI.
 ## MIST
 
 - Responsáveis:
- - [Moacyr Alvim Silva](/people/moacyr.silva.html)
- - [Alexandre Rademaker](/people/alexandre.rademaker.html)
- - [Asla Sá](/people/asla.sa.html)
+  - [Moacyr Alvim Silva](/people/moacyr.silva.html)
+  - [Alexandre Rademaker](/people/alexandre.rademaker.html)
+  - [Asla Sá](/people/asla.sa.html)
 - Início: 2010
 - Status: em andamento
 
