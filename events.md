@@ -6,7 +6,8 @@ section: events
 
 ## Próximos Eventos
 
-- Winter School in Stochastic Optimization, 28 de julho - 01 de agosto
+- [Reshaping History: A Future for our Past, agosto à outubro de 2014](http://emap.fgv.br/RHR-2014/)
+- [Winter School in Stochastic Optimization, 28 de julho - 01 de agosto](https://wsso.emap.fgv.br)
 - [Conference on Graphics, Patterns and Images, 27-30 de agosto)](/sibgrapi-2014/)
 - [8th International Conference on Formal Ontology in Information Systems, 22-25 de setembro](http://fois2014.inf.ufes.br/)
 - [6th Workshop on Formal Ontologies meet Industry](/fomi-2014/)
@@ -25,4 +26,3 @@ section: events
 
 - <a href="http://isko-brasil.org.br/" target="_blank">ISKO Brasil, 27 a 29 de maio de 2013</a>.
 - <a href="http://www2.ic.uff.br/~wvc2013/" target="_blank">WVC 2013, 03 a 05 de junho de 2013</a>.
-
