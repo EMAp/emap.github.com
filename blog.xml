@@ -4,13 +4,58 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-04-30T15:13:15-03:00</updated>
+ <updated>2014-05-07T00:14:13-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Alunos do curso Big Data Analytics apresentam trabalhos em workshop</title>
+   <link href="http://emap.fgv.br/blog/2014/05/05/workshop-alunos.html"/>
+   <updated>2014-05-05T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2014/05/05/workshop-alunos</id>
+   <content type="html">&lt;p&gt;Na segunda-feira, dia 28, foi realizada uma apresentação dos trabalhos
+de conclusão do curso Big Data Analytics, uma parceria da Escola de
+Matemática Aplicada com o FGV Management Rio.&lt;/p&gt;
+
+&lt;p&gt;Os quatro trabalhos selecionados para o workshop foram &quot;Predição de
+Inadimplência de Alunos&quot;, por Marcelo Gomes Marques, &quot;Text Mining de
+Letras Musicais&quot;, por Hugo Eiji Tibana Carvalho e Gustavo Fernandes,
+&quot;Predição da Demanda de Ônibus Urbanos em Dias Chuvosos&quot;, por Marcelo
+Granja e Pedro Arias, e &quot;Análise de Tweets com o Biginsights&quot;, por
+Alexandre Sales Lima.&lt;/p&gt;
+
+&lt;p&gt;O aluno Marcelo Gomes abordou em sua análise uma aplicação comum de
+inadimplência, mostrando o processo de solução de problemas por meio
+de diversas técnicas de pré-processamento e modelagem. Já os alunos
+Hugo Eiji e Gustavo Fernandes analisaram as letras musicais dos anos
+70, 90 e dos anos atuais através do processo de text mining.  O
+trabalho de &quot;Predição da Demanda de Ônibus Urbanos em Dias Chuvosos&quot;,
+realizado por Marcelo Granja e Pedro Arias, do PENSA - grupo de big
+data da Prefeitura -, mostrou como a análise de dados existentes pode
+ser utilizada por governos para melhoria dos serviços da população. Na
+última apresentação do workshop, Alexandre Lima analisou o
+processamento de textos do Twitter no ambiente Hadoop - uma plataforma
+para processamento distribuído de grandes massas de dados.&lt;/p&gt;
+
+&lt;p&gt;O coordenador do curso e professor da Escola, Alexandre Evsukoff,
+relatou que se surpreendeu pela qualidade e empenho dos
+alunos. &quot;Realmente esses alunos e os que estão se inscrevendo para a
+próxima turma são de altíssimo nível técnico e acadêmico. Temos
+doutores em nosso curso&quot;, comentou Evsukoff. De acordo com ele, esse
+indicador mostra efetivamente que o componente principal para o
+sucesso de aplicações de Big Data Analytics são as pessoas.&lt;/p&gt;
+
+&lt;p&gt;O curso visa apresentar uma mostra das principais tecnologias de Big
+Data Analytics disponíveis nos melhores softwares do mercado, bem como
+sua utilização em problemas reais.&lt;/p&gt;
+
+&lt;p&gt;Para mais informações e inscrições acesse o &lt;a href=&quot;http://mgm-rio.fgv.br/eventos/i-workshop-fgv-big-data-analytics&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Visualização em multirresolução do fluxo de tópicos em coleções de texto</title>
@@ -716,7 +761,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x74;&amp;#x6f;&amp;#x3a;&amp;#101;&amp;#109;&amp;#97;&amp;#112;&amp;#x2e;&amp;#101;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#116;&amp;#111;&amp;#x73;&amp;#x40;&amp;#x66;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&quot;&gt;&amp;#101;&amp;#109;&amp;#x61;&amp;#112;&amp;#46;&amp;#101;&amp;#118;&amp;#x65;&amp;#110;&amp;#116;&amp;#111;&amp;#x73;&amp;#64;&amp;#102;&amp;#103;&amp;#118;&amp;#46;&amp;#98;&amp;#114;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#x69;&amp;#108;&amp;#x74;&amp;#111;&amp;#58;&amp;#101;&amp;#109;&amp;#x61;&amp;#112;&amp;#46;&amp;#x65;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#x73;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#x72;&quot;&gt;&amp;#101;&amp;#109;&amp;#97;&amp;#112;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#x65;&amp;#110;&amp;#x74;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#102;&amp;#x67;&amp;#x76;&amp;#46;&amp;#98;&amp;#114;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
