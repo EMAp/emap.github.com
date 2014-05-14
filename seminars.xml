@@ -4,13 +4,61 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-05-07T00:14:13-03:00</updated>
+ <updated>2014-05-14T11:47:41-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Design e Computação Gráfica em Visualização de Dados</title>
+   <link href="http://emap.fgv.br/seminars/2014/05/15/design-computacao-grafica.html"/>
+   <updated>2014-05-15T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/05/15/design-computacao-grafica</id>
+   <content type="html">&lt;p&gt;Neste seminário, os palestrantes irão delinear os papéis
+complementares do Design e da Computação Gráfica na construção de
+visualizações de dados. Será mostrado como as habilidades tanto de
+designers como de programadores devem ser combinadas para a obtenção
+de visualizações efetivas e esteticamente bem planejadas. Como
+exemplo, o foco será um projeto de visualização de dados de energia,
+concebido e executado por um grupo de pesquisadores e alunos de ambas
+as áreas.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/9237788190989316&quot;&gt;Claudio Esperança&lt;/a&gt; possui
+graduação em Engenharia Eletrônica pela UFRJ (1980), mestrado em
+Engenharia de Sistemas e Computação pela UFRJ (1990) e doutorado em
+Ciência da Computação pela Universidade de Maryland (1995). Atualmente
+é professor associado da UFRJ. Tem experiência na área de Ciência da
+Computação, com ênfase em Processamento Gráfico, atuando
+principalmente com os seguintes temas: visualização, modelagem
+geométrica, animação física, sistemas de informações geográficas,
+bancos de dados espaciais.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/4801768397535572&quot;&gt;Doris Kosminsky&lt;/a&gt; é professora
+do curso de Comunicação Visual Design e do Programa de Pós-graduação
+em Artes Visuais da Escola de Belas Artes da UFRJ. Possui graduação em
+Desenho Industrial pela ESDI-UERJ (1982), mestrado (2003) e doutorado
+(2008) em Design pela PUC-Rio. Trabalhou como editora de arte no
+jornalismo da TV Globo e lecionou em cursos de especialização no
+SENAI-CETIQT e na PUC-Rio. Tem experiência interdisciplinar nas áreas
+de visualização artística de dados, design de informação, TV graphics,
+imagem e animação, construção social da visualidade, artes visuais e
+novas mídias.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>A tríplice projeção da matemática sobre o direito: instrumento analítico, parâmetro e limite intransponível</title>
