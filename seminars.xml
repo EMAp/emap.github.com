@@ -4,13 +4,53 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-05-14T11:47:41-03:00</updated>
+ <updated>2014-05-15T15:30:30-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>VIVO Research and Expertise Across FGV</title>
+   <link href="http://emap.fgv.br/seminars/2014/05/22/vivo-fgv.html"/>
+   <updated>2014-05-22T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/05/22/vivo-fgv</id>
+   <content type="html">&lt;p&gt;EMAp e RPCAP (Rede de Pesquisa e Conhecimento Aplicado) estão
+trabalhando em conjunto para construir uma visão integrada dos centros
+de pesquisa, pesquidores, interesses, projetos de pesquisa e produções
+na FGV.&lt;/p&gt;
+
+&lt;p&gt;Esta rede é construída a partir de dados distribuídos. Algumas das
+fontes hoje usadas são: currículos Lattes, Biblioteca Digital da FGV,
+arquivos de formulários etc. Para organização e apresentação dos
+dados, estamos usando a ontologia e aplicação
+&lt;a href=&quot;http://vivoweb.org&quot;&gt;VIVO&lt;/a&gt;. A parceira com o grupo do VIVO já resultou
+em participação de alguns workshops e no congresso anual da VIVO ano
+passado.&lt;/p&gt;
+
+&lt;p&gt;Neste seminário, pretendo mostrar o projeto, fase atual e futuras,
+desafios de pesquisa e desenvolvimento. A proposta do seminário é
+discutir o projeto com a intenção principal de recrutar alunos ou
+pesquisadores da EMAp ou outras instituições, interessados em se unir
+ao novo time no projeto.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt; é professor da
+EMAp e pesquisador da IBM Research.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Design e Computação Gráfica em Visualização de Dados</title>
@@ -53,8 +93,7 @@ novas mídias.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
-chinelos.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
