@@ -8,6 +8,7 @@ incluir:
 
 ## Nossos professores
 
+- [Alexandre Evsukoff](/people/alexandre.evsukoff.html)
 - [Alexandre Rademaker](/people/alexandre.rademaker.html) - coordenador de projetos internos
 - [Antonio Carlos Saraiva Branco](/people/antonio.branco.html)
 - [Asla Medeiros e Sá](/people/asla.sa.html)
@@ -22,6 +23,5 @@ incluir:
 - [Vincent Gérard Yannick Guigues](/people/vincent.guigues.html) 
 - [Walter Wagner Carvalho Sande](/people/walter.sande.html)
 
-## Visitantes
 
-- [Alexandre Evsukoff](/people/alexandre.evsukoff.html)
+
