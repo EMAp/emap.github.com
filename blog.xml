@@ -4,13 +4,54 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-05-28T12:11:21-03:00</updated>
+ <updated>2014-06-02T19:20:52-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>A importância dos mecanismos comportamentais de resistência para a dinâmica populacional de abelhas Apis mellifera e o parasita Varroa destructor</title>
+   <link href="http://emap.fgv.br/blog/2014/06/06/defesa.html"/>
+   <updated>2014-06-06T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2014/06/06/defesa</id>
+   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+
+&lt;p&gt;Os ácaros ectoparasitas Varroa destructor, que parasitam as abelhas
+tornaram-se um problema global. Embora seja pouco provável que estes
+ácaros, por si só, provoquem a mortalidade das colmeias, eles
+desempenham um importante papel como vetor de muitas doenças virais. E
+estas doenças são identificados como algumas das mais importantes
+razões para a Desordem do Colapso das Colônias. Os efeitos da
+infestação do V.destructor são distintas em diferentes partes do
+mundo. Maiores mortalidades de colônias têm sido relatadas em colônias
+de abelhas europeias (AE) em países da Europa, Ásia e América do
+Norte. No entanto, este ácaro está presente no Brasil já por muitos
+anos e não existem relatos de perdas em colônias das abelhas
+africanizadas (AA). Estudos realizados no México mostraram que alguns
+comportamentos de resistência ao ácaro Varroa - especialmente o
+grooming e o comportamento higiênico - são diferentes em cada uma das
+subespécie. Poderiam então esses mecanismos explicar por que as
+abelhas africanizadas são menos suscetíveis à Desordem do Colapso das
+Colônias? A fim de responder a esta pergunta, propomos um modelo
+matemático baseado em equações diferenciais, com o objetivo de
+analisar o papel desses mecanismos de resistência na saúde geral da
+colônia e na capacidade da colônia para enfrentar desafios ambientais.&lt;/p&gt;
+
+&lt;h2&gt;Comissão Julgadora&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (orientador - FGV/EMAp)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; (coorientador - FGV/EMAp)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/jair.koiller.html&quot;&gt;Jair Koiller&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6908067473022811&quot;&gt;Max Oliveira de Souza&lt;/a&gt; (membro externo - Departamento de Matemática/UFF)&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Professor da EMAp apresenta projeto de Big Data em seminário de TIC e Gestão Pública</title>
@@ -849,7 +890,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#116;&amp;#x6f;&amp;#58;&amp;#101;&amp;#109;&amp;#97;&amp;#x70;&amp;#46;&amp;#101;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#116;&amp;#111;&amp;#115;&amp;#64;&amp;#102;&amp;#x67;&amp;#118;&amp;#46;&amp;#x62;&amp;#x72;&quot;&gt;&amp;#x65;&amp;#109;&amp;#97;&amp;#112;&amp;#x2e;&amp;#x65;&amp;#118;&amp;#101;&amp;#110;&amp;#116;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#118;&amp;#x2e;&amp;#x62;&amp;#114;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#x74;&amp;#111;&amp;#58;&amp;#101;&amp;#x6d;&amp;#97;&amp;#x70;&amp;#x2e;&amp;#x65;&amp;#x76;&amp;#x65;&amp;#110;&amp;#116;&amp;#x6f;&amp;#115;&amp;#64;&amp;#102;&amp;#103;&amp;#118;&amp;#46;&amp;#98;&amp;#x72;&quot;&gt;&amp;#x65;&amp;#x6d;&amp;#97;&amp;#112;&amp;#46;&amp;#101;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#116;&amp;#111;&amp;#x73;&amp;#64;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#46;&amp;#98;&amp;#x72;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
