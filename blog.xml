@@ -4,13 +4,156 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-07-02T08:48:49-03:00</updated>
+ <updated>2014-07-14T20:05:17-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Técnicas de suavização aplicadas à caracterização de fontes sísmicas e à análise probabilística de ameaça sísmica</title>
+   <link href="http://emap.fgv.br/blog/2014/07/15/defesa.html"/>
+   <updated>2014-07-15T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2014/07/15/defesa</id>
+   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+
+&lt;p&gt;A avaliação de risco sísmico, fundamental para as decisões sobre as
+estruturas de obras de engenharia e mitigação de perdas, envolve
+fundamentalmente a análise de ameaça sísmica, ou o nível de
+determinada medida de intensidade em certo local, no qual, durante um
+certo tempo, a chance de que essa intensidade seja excedida seja de um
+certo percentil de probabilidade. Dependendo da complexidade da
+atividade geológica essas estimativas podem ser bastante
+sofisticadas. Em locais com baixa sismicidade, como é o caso do
+Brasil, o pouco tempo (geológico) de observação e a pouca quantidade
+de informação são fonte de muitas incertezas e dificuldade de análise
+pelos métodos mais clássicos e conhecidos que geralmente consideram,
+através de opiniões de especialistas, determinadas zonas
+sísmicas. Esse texto discute algumas técnicas de suavização e seus
+fundamentos como métodos alternativos ao zoneamento, em seguida se
+exemplifica suas aplicações no caso brasileiro. Palavras-chave:
+terremotos, ameaça sísmica, suavização.&lt;/p&gt;
+
+&lt;h2&gt;Comissão Julgadora&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/people/vincent.guigues.html&quot;&gt;Vincent Gerard Yannick Guigues&lt;/a&gt; (Orientador - FGV/EMAp)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/0563544084744404&quot;&gt;Stephane Drouet&lt;/a&gt; (Membro Externo)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://emap.fgv.br/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/2833240474723324&quot;&gt;Marcelo Assumpção&lt;/a&gt; (Membro Externo)&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Course of Quantitative Finance</title>
+   <link href="http://emap.fgv.br/blog/2014/07/07/minicurso-financas-quantitativas.html"/>
+   <updated>2014-07-07T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2014/07/07/minicurso-financas-quantitativas</id>
+   <content type="html">&lt;h2&gt;Date and Location&lt;/h2&gt;
+
+&lt;p&gt;September 26th and October 03, 10, 17, 24 (every friday), from 3 PM to
+6PM.&lt;/p&gt;
+
+&lt;p&gt;Praia de Botafogo, 190, Rio de Janeiro. Room 1332.&lt;/p&gt;
+
+&lt;h2&gt;Speakers&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://goo.gl/39cMX0&quot;&gt;Margaret Armstrong&lt;/a&gt; and
+&lt;a href=&quot;http://goo.gl/f8KJzd&quot;&gt;Alain Galli&lt;/a&gt; started the Quantitative Finance
+Group at the École des Mines de Paris in 2001. The group trains French
+engineers who want to be quants, traders &amp;amp; structurers in banks. The
+group’s research focuses on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Modeling commodities (electricity, oil and gas, CO2 etc).&lt;/li&gt;
+&lt;li&gt;Modeling the structure of electricity markets, and the impact of the
+introduction of renewables (wind power) and electric vehicles on
+day-ahead electricity prices.&lt;/li&gt;
+&lt;li&gt;Evaluating and optimising of projects such as mines, oil fields and
+power plants that are subject to technical and financial
+uncertainty.&lt;/li&gt;
+&lt;li&gt;Modelling the term structure of interest rates.&lt;/li&gt;
+&lt;li&gt;Stochastic volatility models.&lt;/li&gt;
+&lt;li&gt;Dynamic hedging of physical commitments.&lt;/li&gt;
+&lt;li&gt;Copulas, especially Archimedean copulas.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Margaret Armstrong is a professor at the Cerna, Mines-Paristech. She
+has a masters in mathematical statistics from the University of
+Queensland, Australia, and a PhD in geostatistics from the École des
+Mines de Paris.&lt;/p&gt;
+
+&lt;p&gt;Alain GALLI is a professor at the Cerna, Mines-Paristech. He holds a
+PhD in mathematics from the University of Grenoble, France.&lt;/p&gt;
+
+&lt;h2&gt;Program&lt;/h2&gt;
+
+&lt;p&gt;Week 1&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Basic theory on Geometric Brownian motion, Mean reverting
+processes&lt;/li&gt;
+&lt;li&gt;Lecture 2: Simulation procedures&lt;/li&gt;
+&lt;li&gt;Computer Session: Simulating a geometric Brownian motion&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Week 2&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Options: puts &amp;amp; calls, European, American Asian, Black &amp;amp; Scholes formula&lt;/li&gt;
+&lt;li&gt;Lecture 2: First approach for pricing options: arbitrage, self-financing portfolios&lt;/li&gt;
+&lt;li&gt;Computer Session: Using Black &amp;amp; Scholes formula to price European options; zero cost collar&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Week 3&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Second approach for pricing options: conditional
+expectation, Statement of Feynmann- Kac theorem&lt;/li&gt;
+&lt;li&gt;Lecture 2: Using binomial &amp;amp; trinomial trees to price American options&lt;/li&gt;
+&lt;li&gt;Computer Session: Constructing binomial trees for pricing options&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Week 4&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Bonds, Interest rates, Foreign exchange, Term structure&lt;/li&gt;
+&lt;li&gt;Lecture 2: Stochastic processes for modelling interest rates&lt;/li&gt;
+&lt;li&gt;Computer Session: Comparing 3 ways to price European option (a)
+Simulating geometric&lt;/li&gt;
+&lt;li&gt;Brownian motion (b) Black &amp;amp; Scholes Formula (c) binomial tree&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Week 5&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Commodities: spot prices futures, options. Applied to
+crude oil &amp;amp; to electricity markets&lt;/li&gt;
+&lt;li&gt;Lecture 2: Stochastic processes for commodities&lt;/li&gt;
+&lt;li&gt;Computer Session: Simulating commodity prices.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Examination procedure: computer exercise to be carried out in pairs
+and handed in 4 weeks end of course.&lt;/p&gt;
+
+&lt;p&gt;Certificates will be issued by FGV/EMAp.&lt;/p&gt;
+
+&lt;h2&gt;Registration&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fgv.br/eventos/?P_EVENTO=2082&amp;amp;P_IDIOMA=0&quot;&gt;Click here for registration&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A importância dos mecanismos comportamentais de resistência para a dinâmica populacional de abelhas Apis mellifera e o parasita Varroa destructor</title>
@@ -890,7 +1033,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#x74;&amp;#111;&amp;#58;&amp;#x65;&amp;#109;&amp;#x61;&amp;#x70;&amp;#x2e;&amp;#101;&amp;#118;&amp;#x65;&amp;#110;&amp;#x74;&amp;#111;&amp;#x73;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#46;&amp;#98;&amp;#114;&quot;&gt;&amp;#101;&amp;#x6d;&amp;#97;&amp;#112;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#x65;&amp;#110;&amp;#x74;&amp;#111;&amp;#x73;&amp;#64;&amp;#102;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#x72;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x74;&amp;#x6f;&amp;#58;&amp;#x65;&amp;#x6d;&amp;#x61;&amp;#112;&amp;#46;&amp;#x65;&amp;#118;&amp;#x65;&amp;#110;&amp;#x74;&amp;#x6f;&amp;#x73;&amp;#x40;&amp;#102;&amp;#x67;&amp;#x76;&amp;#46;&amp;#x62;&amp;#114;&quot;&gt;&amp;#101;&amp;#x6d;&amp;#x61;&amp;#x70;&amp;#46;&amp;#x65;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#x40;&amp;#102;&amp;#x67;&amp;#118;&amp;#46;&amp;#98;&amp;#114;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
