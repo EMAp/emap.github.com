@@ -23,56 +23,54 @@ outras áreas. Essa diversidade para o curso de graduação é muito
 pertinente e enriquecedora no que diz respeito à versatilidade de
 contextos e de aplicações. O profissional formado pela EMAp pode
 aplicar técnicas de essência matemática informacional e computacional
-em atividades tão diversas quanto, por exemplo, mercado financeiro,
-combate ao crime, mapeamento de tendências socioeconômicas e
-compreensão das dinâmicas de propagação de doenças
-infectocontagiosas. Atuando nestas e demais áreas, ele contribui com
-organizações públicas e privadas em seus setores de monitoramento
-ambiental, análise de cenários, planejamento estratégico e
-gerenciamento de riscos.
+em atividades tão diversas como mercado financeiro, combate ao crime,
+mapeamento de tendências socioeconômicas e compreensão das dinâmicas
+de propagação de doenças infectocontagiosas, contribuindo, por
+exemplo, com organizações públicas e privadas em seus setores de
+monitoramento ambiental, análise de cenários, planejamento
+estratégico, gerenciamento de riscos.
 
-O curso de graduação em Matemática Aplicada é *presencial*, *diurno*
-(podendo ter aulas na parte da tarde) e *oferecido apenas na cidade do
-Rio de Janeiro* - Praia de Botafogo, 190 - com duração mínima de 4
-(quatro) anos e máximo de 7 (sete) anos.
+O curso de graduação em Matemática Aplicada é presencial, diurno e
+oferecido apenas na FGV Botafogo - Praia de Botafogo, 190, Rio de
+Janeiro.
 
 Após a conclusão, o aluno receberá o título de Bacharel em Matemática
 Aplicada.
 
 ## Investimento
 
-Atualmente, o valor da mensalidade é de R$ 1.430,00 (independente da
-quantidade de disciplinas cursadas).
+Atualmente, o valor da mensalidade é de R$ 1.550,00.
+
+## Vestibular
+
+[Acesse aqui](http://vestibular.fgv.br/cursos/curso-de-matematica-aplicada-rj)
+para mais informações sobre o processo de seleção.
 
 ## Bolsas de estudo
 
-A FGV oferece bolsa para os candidatos aprovados nos seguintes
-processos seletivos:
+A FGV oferece BOLSA POR MÉRITO para os candidatos aprovados nos
+processos seletivos, conforme segue:
 
-- Bolsas de 100% por mérito para o primeiro e segundo colocados na
-  classificação do ENEM.
+- Vestibular: 1º ao 8º lugar, 100%
+- ENEM: 1º e 2º lugar, 100%
+- Demanda Social: Aos alunos regularmente matriculados, poderão ser
+  concedidas bolsas parciais de demanda social (Fundo de Bolsas)
+  semestralmente renováveis, caso solicitadas, de acordo com critérios
+  estipulados para cada Escola.
 
-- Bolsas integrais aos 8 (oito) primeiros classificados no
-  Vestibular da FGV/EMAp.
+Outras bolsas por mérito poderão ser distribuídas para o curso de
+Matemática Aplicada, considerando o desempenho do aluno nas Olimpíadas
+em Matemática.
 
-- Outras bolsas por mérito poderão ser distribuídas para o curso de
-  Matemática Aplicada, considerando o desempenho do aluno na
-  Olimpíada Brasileira de Matemática das Escolas Públicas.
+Atenção: As bolsas por mérito são pessoais e intransferíveis. Em caso
+de desistência de matrícula inicial de candidato ou de matrícula de
+aluno anteriormente contemplado com bolsa, esta não se transferirá a
+outro candidato ou aluno. A manutenção das bolsas dependerá do
+desempenho acadêmico do aluno e do cumprimento dos critérios
+estabelecidos para cada Escola.
 
-- Aos alunos regularmente matriculados, poderão ser concedidas bolsas
-  parciais de demanda social (Fundo de Bolsas) semestralmente
-  renováveis, caso solicitadas, de acordo com critérios estipulados
-  para cada Escola.
-
-- As bolsas por mérito são pessoais e intransferíveis. Em caso de
-desistência de matrícula inicial de candidato ou de matrícula de aluno
-anteriormente contemplado com bolsa, esta não se transferirá a outro
-candidato ou aluno. A manutenção das bolsas dependerá do desempenho
-acadêmico do aluno e do cumprimento dos critérios estabelecidos para
-cada Escola.  Para mais detalhes, veja o Regulamento do Curso de
-Graduação.
-
-Para mais detalhes, veja o [regulamento do curso](/files/graduacao-regulamento.pdf).
+Para mais detalhes, veja o
+[regulamento do curso](/files/graduacao-regulamento.pdf).
 
 ## Quais os campos de atuação da matemática aplicada na EMAp/FGV?
 
@@ -89,4 +87,3 @@ consultoria. Os temas de interesse da EMAp/FGV incluem:
   demografia, urbanismo, dentre outras.
 - Planejamento estratégico.
 - Monitoramento ambiental.
-
