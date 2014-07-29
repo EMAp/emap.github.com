@@ -4,13 +4,47 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-07-21T06:11:02-03:00</updated>
+ <updated>2014-07-29T12:36:00-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Identificando os agentes da teoria do Seletorado através de grafos e avaliando sua evolução por meio de Processamento de Linguagem Natural</title>
+   <link href="http://emap.fgv.br/seminars/2014/07/31/teoria-seletorado.html"/>
+   <updated>2014-07-31T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/07/31/teoria-seletorado</id>
+   <content type="html">&lt;p&gt;Neste trabalho temos como objetivo a caracterização dos agentes da
+Teoria do Seletorado na política brasileira através da Teoria dos
+Grafos, tendo como base medidas de centralidade, caminhos mínimos,
+clusters e &quot;structural holes&quot;. Técnicas de Processamento de Linguagem
+Natural são usadas para medir a evolução da relação entre os agentes
+no tempo para que possamos então observar como essa alteração impacta
+o grafo político, fazendo com que mudanças ocorram na estrutura do
+poder político brasileiro.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;Julio Alqueres é formado em Matemática Aplicada pela Universidade de
+São Paulo. Possui sete anos de experiência no mercado financeiro, onde
+trabalha no desenvolvimento de modelos quantitativos de risk e
+portfolio management. Atualmente é risk manager do Grupo Ático, um
+empresa independente de gestão de recursos e aluno do mestrado da
+EMap.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Spectral dimension of trees with a unique infinite spine</title>
