@@ -4,13 +4,53 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-07-29T12:36:00-03:00</updated>
+ <updated>2014-08-01T12:48:45-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Retas invariantes por campos de vetores</title>
+   <link href="http://emap.fgv.br/seminars/2014/08/07/retas-invariantes.html"/>
+   <updated>2014-08-07T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/08/07/retas-invariantes</id>
+   <content type="html">&lt;p&gt;A quantidade de retas invariantes por um campo de vetores polinomial
+do plano real está relacionada à integrabilidade do campo e também à
+existência e quantidade dos seus ciclos limites, de que trata o décimo
+sexto problema de Hilbert. Na tentativa de desenvolver métodos
+computacionais para contar a quantidade máxima de retas invariantes
+por um campo sem integral primeira racional, Collier desenvolveu com
+Rodrigo Canaan - então aluno de IC na UFRJ - algoritmos para listar
+todos os possíveis arranjos de retas invariantes quando o campo é
+definido por polinômios de grau 4. Collier pretende relatar os
+resultados - um tanto surpreendentes - do trabalho. A palestra será
+acessível a qualquer estudante com conhecimento básico de
+diferenciabilidade de funções de várias variáveis.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1416717596426384&quot;&gt;Collier&lt;/a&gt; possui graduação em
+Matemática pela Universidade Federal de Pernambuco (1981), mestrado em
+Matemática pela Universidade Federal de Pernambuco (1982) e doutorado
+em Pure Mathematics pela University Of Leeds (1986). Atualmente é
+professor associado da Universidade Federal do Rio de Janeiro. Tem
+experiência na área de Matemática, com ênfase em Álgebra. Atuando
+principalmente nos seguintes temas: K-teoria algébrica, Anéis
+noetherianos, elemento básico, dimensão básica.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Identificando os agentes da teoria do Seletorado através de grafos e avaliando sua evolução por meio de Processamento de Linguagem Natural</title>
