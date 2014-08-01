@@ -69,45 +69,53 @@ Dia 26/08 - 15h às 18h - auditório 1019
 ### Referências
 
 [BGLS06] J.F. Bonnans, J.Ch. Gilbert, C. Lemaréchal, and
-C. Sagastizábal. Numeri- cal Optimization. Theoretical and Practical
+C. Sagastizábal. Numerical Optimization. Theoretical and Practical
 Aspects. Universitext. Springer- Verlag, Berlin, 2006. Second edition,
 xiv+490 pp.
 
 [IS07] Alexey Izmailov and Mikhail Solodov. Otimização -
-Volume 2. Métodos Computacionais. IMPA, Rio de Janeiro, 1 edition,
-2007.
+Vol 2. Métodos Computacionais. IMPA, Rio de Janeiro, 1 edition, 2007.
 
 [Kiw95] Krzysztof C. Kiwiel. Proximal level bundle methods for convex
-nondife- rentiable optimization, saddle-point problems and variational
+nondiferentiable optimization, saddle-point problems and variational
 inequalities. Math. Program., 69(1):89-109, 1995.
 
 [Kiw06] Krzysztof C. Kiwiel. A proximal bundle method with approximate
-sub- gradient linearizations. SIAM Journal on Optimization,
+subgradient linearizations. SIAM Journal on Optimization,
 16(4):1007-1023, 2006.
 
 [LNN95] Claude Lemaréchal, Arkadii Nemirovskii, and Yurii
-Nesterov. New variants of bundle methods. Math. Program.,
-69(1):111-147, 1995.
+Nesterov. New variants of bundle methods. Math. Program., 69(1):111
+147, 1995.
 
-[Oli11] [Welington de Oliveira. Métodos de Feixes Inexatos Aplicados à Pro- gramação Estocástica. PhD thesis, January 2011.](http://www.oliveira.mat.br)
+[Oli11] Welington de
+Oliveira. [Métodos de Feixes Inexatos Aplicados à Programação Estocástica](http://www.oliveira.mat.br).
+PhD thesis, January 2011.
 
-[Oli14] [Welington de Oliveira. Regularized nonsmooth optimization methods for convex minlp problems. Technical report, 2014.](http://www.oliveira.mat.br)
+[Oli14] Welington de
+Oliveira. [Regularized nonsmooth optimization methods for convex minlp problems. ](http://www.oliveira.mat.br). Technical
+report, 2014.
 
-[OS0] [Welington de Oliveira and Claudia Sagastizábal. Level bundle methods for oracles with on-demand accuracy. To appear in Optimization Methods and Software, 0(0):1-30, 0.](http://dx.doi.org/10.1080/10556788.2013)
+[OS0] Welington de Oliveira and Claudia
+Sagastizábal. [Level bundle methods for oracles with on-demand accuracy](http://www.optimization-online.org/DB_HTML/2012/03/3390.html). To
+appear in Optimization Methods and Software, 0(0):1-30, 0.
 
-[OS14] [Welington de Oliveira and Claudia Sagastizábal. Bundle methods in the xxist century: A birds'-eye view. To appear in a special issue of Pesquisa Operacional, pages 1-26, 2014.](http://www.oliveira.mat.br)
+[OS14] Welington de Oliveira and Claudia
+Sagastizábal. [Bundle methods in the xxist century: A birds'-eye view](http://www.oliveira.mat.br). To
+appear in a special issue of Pesquisa Operacional, pages 1-26, 2014.
 
-[OSL14] [Welington de Oliveira, Claudia Sagastizábal, and Claude Lemaréchal. Pro- ximal bundle methods in depth: a unified analysis for inexact oracles. Te- chnical report, 2014.](http://www.optimization-online.org/DB_HTML/2013/02/3792.html)
+[OSL14] Welington de Oliveira, Claudia Sagastizábal, and Claude
+Lemaréchal. [Proximal bundle methods in depth: a unified analysis for inexact oracles](http://www.optimization-online.org/DB_HTML/2013/02/3792.html). Technical
+report, 2014.
 
 [OSS11] Welington de Oliveira, Claudia Sagastizábal, and Susana
-Scheimberg. Ine- xact bundle methods for two-stage stochastic
+Scheimberg. Inexact bundle methods for two-stage stochastic
 programming. SIAM Journal on Optimization, 21(2):517-544, 2011.
 
 [vAO14] Wim van Ackooij and Welington de Oliveira. Level bundle
 methods for constrained convex optimization with various
-oracles. Computational Op- timization and Applications, 57(3):555-597,
+oracles. Computational Optimization and Applications, 57(3):555-597,
 2014.
-
 
 ## Palestrante
 
