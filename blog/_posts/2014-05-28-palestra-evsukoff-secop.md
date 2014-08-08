@@ -4,7 +4,7 @@ title: Professor da EMAp apresenta projeto de Big Data em seminário de TIC e Ge
 author: Raquel Rittmeyer
 tags:
  - big-data
- - evento
+ - eventos
 ---
 
 O professor da FGV/EMAp

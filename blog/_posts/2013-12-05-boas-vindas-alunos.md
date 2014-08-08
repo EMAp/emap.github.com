@@ -4,7 +4,7 @@ title: EMAp recebe aprovados no vestibular com coquetel de boas-vindas
 author: Raquel Rittmeyer
 tags:
  - graduacao
- - evento
+ - eventos
 ---
 
 A Escola de Matemática Aplicada realizou no dia 03 de dezembro o
