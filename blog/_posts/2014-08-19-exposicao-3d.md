@@ -25,8 +25,8 @@ patrimônios históricos.
 "Quem visitar a mostra poderá ver como a tecnologia 3D ajudou na
 recuperação de obras de arte de grande valor artístico e cultural e
 ainda na descoberta de fatos passados que só puderam ser revelados
-depois do uso da tecnologia", afirma a professora da EMAp Aisla
-Medeiros e Sá, que coordena o evento.
+depois do uso da tecnologia", afirma a professora da EMAp
+[Asla Medeiros e Sá](/people/asla.sa.html), que coordena o evento.
 
 Resultado de um projeto de quatro anos conduzido por um consórcio de
 19 entidades europeias, a mostra já passou por diversos países, entre
@@ -48,7 +48,7 @@ programação completa e o link para a inscrição, que é gratuita, estão
 disponíveis em
 [http://www.fgv.br/emap/rhr-2014/](http://emap.fgv.br/RHR-2014/).
 
-- *Onde*: Centro Cultural FGV - Praia de Botafogo 186 - Botafogo
-- *Quando*: de 2 de setembro à 31 de outubro
-- *Funcionamento*: segunda à sábado de 10h às 19h.
-- *Entrada*: gratuita
+- **Onde**: Centro Cultural FGV - Praia de Botafogo 186 - Botafogo
+- **Quando**: de 2 de setembro à 31 de outubro
+- **Funcionamento**: segunda à sábado de 10h às 19h.
+- **Entrada**: gratuita
