@@ -4,13 +4,48 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-08-12T11:47:26-03:00</updated>
+ <updated>2014-08-19T22:50:13-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Modelos preditivos na Copa 2014 e Campeonato Brasileiro</title>
+   <link href="http://emap.fgv.br/seminars/2014/08/21/modelo-copa-2014.html"/>
+   <updated>2014-08-21T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/08/21/modelo-copa-2014</id>
+   <content type="html">&lt;p&gt;Fazer previsões sobre o que vai ocorrer em partidas de futebol é, em
+geral, uma atividade desafiadora. As previsões são feitas basicamente
+pelos comentaristas com intuição e experiência, mas utilizando poucas
+ferramentas matemáticas, estatísticas ou computacionais. Neste
+seminário, os professores da EMAp envolvidos no projeto irão mostrar o
+desempenho de alguns modelos matemáticos que foram aplicados nas
+previsões da Copa do Mundo de 2014 e estão sendo usados nas previsões
+dos jogos do Brasileirão deste ano. Eles irão apresentar, por exemplo,
+qual é a probabilidade do Flamengo ser rebaixado este ano com base nos
+jogos ocorridos até o momento.&lt;/p&gt;
+
+&lt;h2&gt;Palestrantes&lt;/h2&gt;
+
+&lt;p&gt;Professores da Escola de Matemática Aplicada da Fundação Getulio
+Vargas &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;,
+&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Silva&lt;/a&gt; e
+&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Carvalho&lt;/a&gt;; e o aluno de
+iniciação científica Arthur Carneiro.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Deleting the Archive: Will the Challenge of 'Big Data' Mean the End of History as We Know It?</title>
