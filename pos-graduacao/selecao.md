@@ -12,20 +12,14 @@ incluir:
 ## Processo Seletivo 2015
 
 O Mestrado Acadêmico em Modelagem Matemática da Informação tem duração
-de 24 meses (420 horas) e é oferecido na cidade do Rio de Janeiro. As
-inscrições serão abertas em setembro de 2014 e o Edital 2015 será
-divulgado no site da FGV/EMAp.
+de 24 meses (420 horas) e é oferecido na cidade do Rio de Janeiro. 
 
-### Dados Gerais
+[Processo Seletivo 2015](/files/Selecao2015.pdf).
 
-- Local de realização: Praia de Botafogo, 190, Botafogo, Rio de
-  Janeiro.
-- Data de início: Fevereiro de 2014.
-- Horário: Segundas e Terças-feiras, das 15:00 às 18:00
+### Cronograma Seleção 2015
 
-As aulas, palestras e outras atividades extracurriculares podem ser
-realizadas em outro dia da semana e horário, que não os definidos para
-a aula;
+![](images/Cronograma_Selecao_2015.png?raw=true)
+
 
 ### Informações FGV
 
