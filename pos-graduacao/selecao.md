@@ -11,14 +11,12 @@ incluir:
 
 ## Processo Seletivo 2015
 
-O Mestrado Acadêmico em Modelagem Matemática da Informação tem duração
-de 24 meses (420 horas) e é oferecido na cidade do Rio de Janeiro. 
-
+Informações sobre o processo seletivo - 2015:
 [Processo Seletivo 2015](/files/Selecao2015.pdf).
 
 ### Cronograma Seleção 2015
 
-![](images/Cronograma_Selecao_2015.png?raw=true)
+![](/images/Cronograma_Selecao_2015.png?raw=true)
 
 
 ### Informações FGV
