@@ -4,13 +4,66 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-08-19T22:50:13-03:00</updated>
+ <updated>2014-08-25T17:46:42-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Lexical Resources for Portuguese: Strategies and Results</title>
+   <link href="http://emap.fgv.br/seminars/2014/09/18/recursos-lexicos-pt.html"/>
+   <updated>2014-09-18T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/09/18/recursos-lexicos-pt</id>
+   <content type="html">&lt;p&gt;Lexical resources are essential for the development of Natural
+Language Processing and all the applications that come from it,
+Information Retrieval, Information Extraction, Summarization, Question
+Answering, Sentiment Analysis, Conversational Assistants, etc.. Even
+for English, the most analyzed language, there are still some missing
+resources, the existing lexica are not inter-related and information
+that could, in principle, be obtained from pooling resources together
+is not readily available. The situation is much worse for Portuguese,
+where we lack big projects that accumulated resources such as WordNet,
+COMLEX, VerbNet, the Penn TreeBank, FrameNet, GATE, NLTK, MindNet,
+Delph-IN, ParGram, GF, etc. Together with colleages I&#39;ve embarked in a
+long-term project of building lexical resources for Portuguese and
+making them open, so that others can build on them. Our basic strategy
+is to do as much as we can automatically, but to try to verify the
+automatically created data, to the best of our abilities. I will
+describe the tools we created and the ones we are working on and why.&lt;/p&gt;
+
+&lt;h2&gt;Palestrantes&lt;/h2&gt;
+
+&lt;p&gt;Valeria de Paiva is a mathematician, logician and computer scientist
+based in Sunnyvale, CA. She works as Senior Research Scientist at
+Nuance Communications in the Artificial Intelligence and Reasoning
+group, using logic to improve communication with computer
+systems. Before that she was a research scientist at the Intelligent
+Systems Laboratory of PARC (Palo Alto Research Center), CA for many
+years (2000-2008) and a search analyst at Cuil, Inc. and at Rearden
+Commerce, now Deem. She received her PhD in Mathematics from Cambridge
+University for work on &quot;Dialectica Categories&quot;, and has ever since
+worked on logical approaches to computation. She is on the editorial
+boards of &quot;Theoria and Application of Categories&quot;, &quot;Logical Methods in
+Computer Science&quot; and of &quot;Logica Universalis&quot;, as well as in the
+editorial board of the Springer series of books &quot;Logic, Language and
+Information&quot;. She&#39;s an Honorary Research Fellow at the School of
+Computer Science, University of Birmingham, UK, where she was an
+Assistant Professor, and she taught recently at Stanford University
+and Santa Clara University in California.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Modelos preditivos na Copa 2014 e Campeonato Brasileiro</title>
