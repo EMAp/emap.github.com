@@ -11,7 +11,7 @@ incluir:
 
 ## Processo Seletivo 2015
 
-Informações sobre o processo seletivo - 2015:
+Informações Gerais:
 [Processo Seletivo 2015](/files/Selecao2015.pdf).
 
 ### Cronograma Seleção 2015
