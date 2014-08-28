@@ -11,35 +11,30 @@ incluir:
 
 ## Processo Seletivo 2015
 
-O Mestrado Acadêmico em Modelagem Matemática da Informação tem duração
-de 24 meses (420 horas) e é oferecido na cidade do Rio de Janeiro. As
-inscrições serão abertas em setembro de 2014 e o Edital 2015 será
-divulgado no site da FGV/EMAp.
+Informações Gerais sobre o [processo seletivo de 2015](/files/selecao-2015.pdf).
 
-### Dados Gerais
+### Cronograma Seleção 2015
 
-- Local de realização: Praia de Botafogo, 190, Botafogo, Rio de
-  Janeiro.
-- Data de início: Fevereiro de 2014.
-- Horário: Segundas e Terças-feiras, das 15:00 às 18:00
+<img src="/images/cronograma2015-small.png" onClick="viewImage(this);" /> 
 
-As aulas, palestras e outras atividades extracurriculares podem ser
-realizadas em outro dia da semana e horário, que não os definidos para
-a aula;
+### Formulário de Inscrição
+
+<iframe src="https://docs.google.com/forms/d/1TdhtuKcbShpAX6HhJRyLbp-NYm--4NsD2KVhWKOHyUc/viewform?embedded=true"
+	width="510" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### Informações FGV
 
 Escola de Matemática Aplicada
 
-Endereço: Praia de Botafogo, 190 sala: 312
-Tel: (21) 3799-5917
-E-mail: emap@fgv.br
+- Endereço: Praia de Botafogo, 190 sala: 312
+- Tel: (21) 3799-5917
+- E-mail: <script type='text/javascript'>var a = new Array('br','gv.','p@f','ema');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>
 
 Secretaria de Registros Acadêmicos (SRA):
 
-Praia de Botafogo, 190 Sala: 314
-Tel: (21) 3799-5758
-E-mail: srarj@fgv.br
+- Praia de Botafogo, 190 Sala: 314
+- Tel: (21) 3799-5758
+- E-mail: <script type='text/javascript'>var a = new Array('srarj@f','gv.br');document.write("<a href='mailto:"+a[0]+a[1]+"'>"+a[0]+a[1]+"</a>");</script>
 
 ### Observação
  

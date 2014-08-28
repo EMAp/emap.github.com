@@ -17,7 +17,8 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
 
     {% if page.tex %} 
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    <script type="text/javascript" 
+	    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
     {% endif %}
 
@@ -94,6 +95,13 @@
       a.src=document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7838.js?" + 
         Math.floor(new Date().getTime()/3600000);
       a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+    </script>
+
+    <script type="text/javascript">
+      function viewImage(img) {
+        imgsrc = img.src.split("-")[0] + "-big.png";
+        viewwin = window.open(imgsrc,'viewwin', 'width=1280,height=720');    
+      }
     </script>
   </head>
 
