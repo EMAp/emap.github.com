@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FGV/EMAp recebe a exposição 'Remodelando a História', inédita no Brasil"
-author: 
+author: Raquel Rittmeyer
 tags:
  - evento
 ---

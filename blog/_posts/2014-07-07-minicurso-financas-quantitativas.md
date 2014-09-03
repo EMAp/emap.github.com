@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Course of Quantitative Finance 
-author: Raquel Peixoto Rittmeyer Silva
+author: Raquel Rittmeyer
 tags:
  - cursos
 ---
