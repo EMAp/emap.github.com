@@ -4,7 +4,6 @@ title: FGV/EMAp e Tribunal de Justiça do Estado do Rio de Janeiro firmam acordo
 author: Raquel Rittmeyer
 tags:
  - cooperacao
- - pesquisa
 ---
 
 A Fundação Getulio Vargas, por meio da Escola de Matemática Aplicada,

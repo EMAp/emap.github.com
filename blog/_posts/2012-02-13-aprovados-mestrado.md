@@ -4,7 +4,6 @@ title: Lista dos aprovados para o Mestrado da EMAp 2012
 author: Renato Rocha
 tags:
  - mestrado
- - avisos
 ---
 
 Abaixo segue a lista dos aprovados na seleção 2012 do Mestrado em

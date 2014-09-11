@@ -3,7 +3,7 @@ layout: post
 title: FGV oferece bolsas de estudos para graduações no RJ e em SP
 author: Rachel Carrijo
 tags:
- - vestibular
+ - graduacao
 ---
 
 A Fundação Getulio Vargas está com as inscrições abertas para o

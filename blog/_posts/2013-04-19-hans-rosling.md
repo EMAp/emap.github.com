@@ -3,8 +3,7 @@ layout: post
 title: Hans Rosling mostra em visualização de dados cenário da mortalidade infantil
 author: Raquel Rittmeyer
 tags:
- - visualizacao
- - videos
+ - pesquisa
 ---
 
 Hans Rosling é um nome pioneiro quando se trata de apresentar grandes
@@ -15,7 +14,7 @@ como o [TED Talks](http://www.ted.com/talks), Rosling se tornou uma
 das 100 personalidades mais influentes no mundo, segundo a revista
 [TIME](http://www.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112170,00.html).
 
-Em seu video “The River of Myths”, o autor retrata sob um ângulo muito
+Em seu video "The River of Myths", o autor retrata sob um ângulo muito
 convincente, o cenário mundial da mortalidade infantil. De acordo com
 o site
 [Freaknominics](http://www.freakonomics.com/2013/02/22/taking-on-the-myths-of-child-mortality/),

@@ -3,7 +3,7 @@ layout: post
 title: FGV/EMAp abre vagas para professores
 author: Raquel Rittmeyer
 tags:
- - vagas
+ - oportunidade
 ---
  
 A Escola de Matemática Aplicada da Fundação Getulio Vargas (FGV/EMAp)

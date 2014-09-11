@@ -3,7 +3,8 @@ layout: post
 title: Daniel Keim apresenta aplicações da "visual analytics" na EMAp
 author: Raquel Rittmeyer
 tags:
- - visitantes
+ - pesquisa
+ - cooperacao
 ---
 
 Nesta semana a EMAp recebeu Daniel Keim -- referência na área de

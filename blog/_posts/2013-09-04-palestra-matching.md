@@ -3,7 +3,6 @@ layout: post
 title: EMAp convida para palestra "Matching vai a Estocolmo"
 author: EMAp
 tags:
- - seminarios
  - eventos
 ---
 

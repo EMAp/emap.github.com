@@ -3,7 +3,7 @@ layout: post
 title: Vestibular 2013 - condições especiais terminam 17/ago/2012
 author: Rachel Carrijo
 tags:
- - vestibular
+ - graduacao
 ---
 
 Os interessados em prestar vestibular para a escola de Matemática
