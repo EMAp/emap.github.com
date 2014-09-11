@@ -4,13 +4,86 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-09-09T15:24:57-03:00</updated>
+ <updated>2014-09-11T14:55:14-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>EMAp e  IBRE criam índice espacial de preços ao consumidor para o Rio</title>
+   <link href="http://emap.fgv.br/blog/2014/09/11/ibre-emap.html"/>
+   <updated>2014-09-11T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2014/09/11/ibre-emap</id>
+   <content type="html">&lt;p&gt;Após um tempo de maturação, a Escola de Matemática da FGV (EMAp) e o
+IBRE firmaram no último dia 3, quarta-feira, a primeira do que parece
+ser o início de inúmeras parcerias entre as duas áreas. A criação do
+Índice Espacial de Preços ao Consumidor (IEPC-RJ) por regiões da
+cidade do Rio de Janeiro é considerada o pontapé inicial desse
+trabalho em conjunto. Com periodicidade mensal, a princípio, o
+indicador de inflação será estimado entre os meses de janeiro de
+2007 - período anterior à divulgação do Rio como sede das Olimpíadas
+-, e dezembro de 2013. Pedro Costa Ferreira, economista da
+Superintendência de Estatísticas Públicas (SUEP), explica que para
+fazer o levantamento, além do conhecimento da equipe em cálculo de
+índices e estatísticas, o IBRE irá utilizar a base de dados usada pelo
+IPC e pelo Monitor da Inflação. Já a EMAp entrará com o know-how
+técnico em matemática espacial, mapeando as regiões da cidade
+(latitude e longitude). &quot;Vamos usar o IPC-RJ e a EMAp irá lê-lo e dar
+a ele uma espécie de CEP. Assim, será possível &#39;espacializar&#39; o índice
+de acordo com cada região do município&quot;, conta Pedro.&lt;/p&gt;
+
+&lt;p&gt;Segundo ele, se o levantamento caminhar conforme o esperado e, caso
+for considerado importante atualizar mensalmente os dados, a pesquisa
+inicial pode virar mais um índice de inflação da FGV, aumentando a
+família de indicadores já tão conhecidos. &quot;Nesta semana será realizado
+mais um encontro para acertarmos detalhes sobre o estudo. Como, por
+exemplo, a questão da composição do índice, ou seja, se faremos um
+índice híbrido; uma média de preços de alimentos e serviços ou se
+faremos algo separado. Depende de como está nossa base&quot;, ressalta ao
+informar que na última reunião foi assinado um termo de compromisso
+entre EMAp e IBRE em virtude da confidencialidade dos microdados
+usados neste trabalho.&lt;/p&gt;
+
+&lt;p&gt;Na ocasião, Renato Souza, coordenador de mestrado da EMAp, lembrou-se
+da vontade de longa data em trabalhar com o Instituto e se mostrou
+confiante com o sucesso da união. &quot;Estamos felizes, e cheio de ideias
+para estudos futuros. Damos prioridade em criar produtos factíveis e
+de rápida elaboração, que rendam logo resultados de curto prazo. Para
+nós essa parceria será muito frutífera&quot;, salientou Renato. Já Vagner
+Ardeo, vice-diretor do IBRE, enfatizou que a parceria se deu na hora
+certa já que no passado recente o IBRE ainda não estava estruturado o
+suficiente para oferecer o auxílio que o trabalho em conjunto
+merece. &quot;Há quatro anos ainda não tínhamos capital humano suficiente
+para garantir uma parceria eficiente. Um pressuposto para o trabalho
+conjunto é oferecer qualidade, e esse tempo chegou. Seja para gerar
+inovações no meio acadêmico, seja para desenvolver outras atividades,
+essa vai ser uma parceria de muito sucesso&quot;, completou Vagner.&lt;/p&gt;
+
+&lt;p&gt;No radar, outra pesquisa vem ganhando forma, ainda que esteja, no
+momento, apenas no campo das ideias: um novo produto que mede a
+confiança da população baseado nos filtros de determinadas
+palavras-chaves, entre elas &#39;crise&#39; e &#39;recessão&#39;, encontradas em
+notícias e redes sociais. &quot;É uma espécie de termômetro que tenta
+antecipar o comportamento da economia à frente, em linha com as
+sondagens que o IBRE já possui&quot;, explica Pedro. Um estudo de
+viabilidade desse possível &quot;Indicador de Recessão&quot; faz parte da
+dissertação de mestrado da aluna da EMAp e funcionária do IBRE, Anna
+Carolina Barros. &quot;Se concretizado, mesmo sendo medidas diferentes, o
+novo indicador da SACE pode ser correlacionado com as sondagens de
+confiança. Por exemplo, o aumento do número de citações de determinada
+palavra pode indicar uma queda na expectativa das sondagens&quot;, aponta
+Pedro.&lt;/p&gt;
+
+&lt;p&gt;Além de Pedro, Vagner e Renato, o professor da EMAp, Flávio Coelho, o
+superintendente adjunto de Inflação do IBRE, Salomão Quadros, os
+economistas do IBRE, André Braz e Angelo Polydoro e o superintendente
+adjunto de Ciclos Econômicos, Aloisio Campelo, participaram da
+reunião.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>FGV/EMAp abre vagas para professores</title>
@@ -594,12 +667,11 @@ de iniciativas nas esferas Federal, Estaduais e Municipais.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/05/26/ranking-copa-2014.html"/>
    <updated>2014-05-26T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2014/05/26/ranking-copa-2014</id>
-   <content type="html">&lt;p&gt;Os resultados obtidos pelo
-&lt;a href=&quot;http://emap.fgv.br/copa-2014/&quot;&gt;modelo matemático&lt;/a&gt; desenvolvido pela
-Escola de Matemática Aplicada da FGV revela que o Brasil tem 28% de
-chance de levantar a taça no dia 13 de julho, seguido por Espanha,
-Argentina e Colômbia, que têm, respectivamente, 16%, 12% e 11% de
-probabilidade de se tornarem campeões.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Os resultados obtidos pelo &lt;a href=&quot;/copa-2014/&quot;&gt;modelo matemático&lt;/a&gt;
+desenvolvido pela Escola de Matemática Aplicada da FGV revela que o
+Brasil tem 28% de chance de levantar a taça no dia 13 de julho,
+seguido por Espanha, Argentina e Colômbia, que têm, respectivamente,
+16%, 12% e 11% de probabilidade de se tornarem campeões.&lt;/p&gt;
 
 &lt;p&gt;Desenvolvido pelos professores Moacyr Alvim e Paulo Cesar Carvalho e
 com a colaboração do aluno de graduação da EMAp, Arthur Carneiro, o
@@ -635,7 +707,7 @@ opinião. E é um tema excelente para trabalhar com os alunos”,
 finaliza.&lt;/p&gt;
 
 &lt;p&gt;O estudo completo está disponível neste
-&lt;a href=&quot;http://emap.fgv.br/copa-2014/&quot;&gt;link&lt;/a&gt; e será atualizado durante o
+&lt;a href=&quot;/copa-2014/&quot;&gt;link&lt;/a&gt; e será atualizado durante o
 Mundial.&lt;/p&gt;
 </content>
  </entry>
@@ -1389,7 +1461,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x74;&amp;#x6f;&amp;#58;&amp;#101;&amp;#x6d;&amp;#97;&amp;#x70;&amp;#46;&amp;#101;&amp;#118;&amp;#101;&amp;#110;&amp;#116;&amp;#111;&amp;#115;&amp;#64;&amp;#102;&amp;#103;&amp;#118;&amp;#46;&amp;#x62;&amp;#114;&quot;&gt;&amp;#x65;&amp;#109;&amp;#97;&amp;#112;&amp;#46;&amp;#x65;&amp;#x76;&amp;#101;&amp;#110;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#102;&amp;#x67;&amp;#x76;&amp;#46;&amp;#x62;&amp;#x72;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#116;&amp;#111;&amp;#x3a;&amp;#x65;&amp;#x6d;&amp;#x61;&amp;#112;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#102;&amp;#x67;&amp;#118;&amp;#x2e;&amp;#x62;&amp;#x72;&quot;&gt;&amp;#x65;&amp;#x6d;&amp;#x61;&amp;#112;&amp;#46;&amp;#x65;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#115;&amp;#64;&amp;#x66;&amp;#103;&amp;#118;&amp;#46;&amp;#98;&amp;#114;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
@@ -1765,7 +1837,7 @@ como o &lt;a href=&quot;http://www.ted.com/talks&quot;&gt;TED Talks&lt;/a&gt;, R
 das 100 personalidades mais influentes no mundo, segundo a revista
 &lt;a href=&quot;http://www.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112170,00.html&quot;&gt;TIME&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Em seu video “The River of Myths”, o autor retrata sob um ângulo muito
+&lt;p&gt;Em seu video &quot;The River of Myths&quot;, o autor retrata sob um ângulo muito
 convincente, o cenário mundial da mortalidade infantil. De acordo com
 o site
 &lt;a href=&quot;http://www.freakonomics.com/2013/02/22/taking-on-the-myths-of-child-mortality/&quot;&gt;Freaknominics&lt;/a&gt;,
