@@ -4,7 +4,7 @@ section: graduacao
 title: Introdução à Computação 
 ---
 
-- Carga horária: 90 horas (6 aulas semanais)
+- Carga horária: 90 horas 
 - Pré-requisito: Não existe
 
 ## Objetivos
@@ -15,16 +15,7 @@ tecnologias pertinentes, através de abordagens teóricas e práticas.
 
 ## Ementa
 
-Introdução a arquitetura dos computadores. Processadores, sistemas
-operacionais (Windows e Linux), linguagens de programação. Redes e
-Internet. Evolução dos sistemas computacionais. Evolução dos sistemas
-de informação. Sistemas transacionais e sistemas analíticos. Sistemas
-de automação de escritório. Editores de texto: uso do MS Word e BR
-Office. Composição de documentos com LaTeX. Planilhas Eletrônicas: uso
-do MS Excel e BR Office. Noções de bancos de dados e a linguagem
-SQL. Noções de data mining e data warehouse. Processos de
-desenvolvimento de software. Introdução à programação com
-Python. Robótica e Automação.
+Histórico da Computação. Evolução de Hardware e Software. Sistemas Operacionais. Redes e Internet. Representação de informação analógica e digital. Sistemas binário e hexadecimal. Conversão de Bases. Pacotes de Software: MS Word, MS Excel, MS Access, MS Power Point, OpenOffice, Google Docs, Prezi. Editoração Eletrônica em Latex. Sistemas Linux. Shell Unix. Introdução à programação. Introdução à Computação Científica.
 
 ## Bibliografia
 

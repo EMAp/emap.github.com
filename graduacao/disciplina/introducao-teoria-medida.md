@@ -4,19 +4,13 @@ section: graduacao
 title: Introdução à Teoria da Medida
 ---
 
-- Carga horária: 60 horas (4 aulas semanais)
+- Carga horária: 60 horas 
 - Pré-requisito:
     - [Análise](analise.html)
 
 ## Ementa 
 
-Comparação entre as integrais de Riemann e Lebesgue. Medidas e funções
-mensuráveis A integral: funções simples, teorema da convergência
-monótona, teorema da convergência dominada, integrais dependendo de
-parâmetros, trocas de limites.  Espaços Lp, teorema da
-completicidade. Modos de convergência: na média, uniforme, em medida,
-teoremas de Egoroff e Vitali. Geração e decomposição de
-medidas. Teoremas de Tonelli e Fubini.
+Conjuntos mensuráveis e espaços de medida. Construção de medidas. Extensões de medidas, Teorema de Caratheodory. Medida de Lebesgue e de Lebesgue-Stieltjes. Funções Mensuráveis. Funções simples. Integral de Lebesgue. Teorema da convergência monótona, Lema de Fatou e teorema da convergência dominada.  Comparação entre as integrais de Riemann e Lebesgue. Medidas Produto e o Teorema de Fubini. Teorema de Radon-Nikodym. Espaços Lp. Desigualdade de Holder e desigualdade de Minkowiski; Completitude dos espaços Lp.  Convergência em média, uniforme em quase todo ponto e em Lp. Comparação entre os tipos de convergência. 
 
 ## Bibliografia
 

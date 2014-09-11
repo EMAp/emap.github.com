@@ -11,10 +11,7 @@ title: Teoria da Computação
 
 ## Ementa 
 
-Algoritmos, conjuntos, indução e cardinalidade. Máquinas de
-Turing. Funções recursivas. Algoritmos de Markov. A tese de
-Church-Turing. Indecidibilidade . Problemas intratáveis. Classes de
-problemas intratáveis
+Algoritmos, conjuntos, indução e cardinalidade. Máquinas de Turing. Funções recursivas. Algoritmos de Markov. A tese de Church-Turing. Indecidibilidade . Problemas intratáveis. Classes de problemas intratáveis.
 
 ## Bibliografia
 

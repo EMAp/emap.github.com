@@ -4,7 +4,7 @@ section: graduacao
 title: Curvas e Superfícies 
 ---
 
-- Carga horária: 60 horas (4 aulas semanais)
+- Carga horária: 60 horas 
 - Pré-requisito:
     - [Geometria Analítica e Vetores](geometria-analitica-vetores.html) 
     - [Cálculo II](calculo-II.html)
@@ -12,13 +12,7 @@ title: Curvas e Superfícies
 
 ## Ementa
 
-Curvas no plano e no espaço: representações paramétricas e
-implícitas. Vetores tangentes e normais. Comprimento de arco, áreas,
-curvatura, torção. Visualização de curvas paramétricas e
-implícitas. Superfícies: representações paramétricas e
-implícitas. Plano tangente e vetor normal. Curvaturas média e
-gaussiana. Geodésicas. Teorema de Gauss-Bonnet. Visualização de
-superfícies. Modelos de iluminação.
+Curvas no plano e no espaço: representações paramétricas e implícitas. Vetores tangentes e normais. Comprimento de arco, áreas, curvatura, torção. Visualização de curvas paramétricas e implícitas. Superfícies: representações paramétricas e implícitas. Plano tangente e vetor normal. Curvaturas média e gaussiana. Visualização de superfícies. Ferramentas de visualização de superfícies por computador.
 
 ## Bibliografia
 

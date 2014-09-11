@@ -4,17 +4,13 @@ section: graduacao
 title: Análise
 ---
 
-- Carga horária: 60 horas (4 aulas semnais)
+- Carga horária: 60 horas
 - Pré-requisito: 
     - [Cálculo I](calculo-I.html)  
 
 ## Ementa 
 
-Noções de Topologia, números naturais, números reais,
-corpos, funções, funções contínuas, continuidade uniforme, derivadas,
-Fórmula de Taylor e aplicações, Teorema do Valor Médio, Integral de
-Riemann, Teorema Fundamental do Cálculo, seqüência e séries de
-funções,convergência simples e uniforme, Série de Taylor.
+Números naturais, inteiros, racionais, reais. Noções de topologia. Sequências e séries. Limites de sequências e de séries. Séries de potências. Funções reais de uma variável. Comportamento local e global. Limite e continuidade de funções. Continuidade uniforme. Teorema do valor intermediário. Diferenciação: propriedades locais e globais. Linearização e convexidade. Aproximação de Taylor. Integral de Riemann. Teorema Fundamental do Cálculo.
 
 ## Bibliografia
 

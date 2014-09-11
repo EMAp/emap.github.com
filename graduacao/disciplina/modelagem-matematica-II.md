@@ -4,15 +4,13 @@ section: graduacao
 title: Modelagem Matemática II - Modelos Físicos
 ---
 
-- Carga horária: 60 horas (4 aulas semanais)
+- Carga horária: 60 horas 
 - Pré-requisito:
     - [Cálculo I](calculo-I.html)
 
 ## Ementa 
 
-Leis de Newton, queda livre de corpos, movimento de projéteis,
-sistemas massa-mola, pêndulo, movimento harmônico, Leis de
-Kepler. Ótica.
+Análise dimensional, Fisica Newtoniana, leis de conservação,  exemplos básicos (projéteis, movimento harmônico). Introdução à mecânica de Lagrange  (pêndulo simples e esférico, Kepler). Visualização do retrato de fase. Introdução aos princípios variacionais, de Euler-Lagrange a Pontryagin.
 
 ## Bibliografia
 

@@ -4,7 +4,7 @@ section: graduacao
 title: Sistemas de Bancos de Dados
 ---
 
-- Carga horária: 60 horas (4 aulas semanais)
+- Carga horária: 60 horas 
 - Pré-requisito:
     - [Estruturas de Dados e Algoritmos](estruturas-dados-algoritmos.html)
 

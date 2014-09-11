@@ -4,20 +4,13 @@ section: graduacao
 title: Cálculo III
 ---
 
-- Carga horária: 90 horas (6 aulas semanais)
+- Carga horária: 90 horas 
 - Pré-requisito:
     - [Cálculo II](calculo-II.html) 
 
 ## Ementa
 
-Equações diferenciais de primeira ordem; modelagem; equações
-separáveis; fatores de integração. Equações diferenciais e de
-diferenças de segunda ordem homogêneas e não homogêneas; métodos de
-coeficientes a determinar, variação de parâmetros, redução de
-ordem. Sistemas lineares; autovalores múltiplos e blocos de Jordan;
-sistemas não lineares; retrato de fase; linearização de pontos de
-equilíbrio, estabilidade; introdução ao cálculo das variações: Euler
-Lagrange.
+Séries numéricas e de potencias. Critérios de convergência de uma série. Séries de Taylor e MacLaurin.  Modelagem com equações de recorrência; exemplos e aplicações: finanças, economia, ecossistema. Modelagem com equações diferenciais ordinárias (EDOs), exemplos e aplicações. Modelos para o crescimento populacional. Equações lineares de primeira ordem; a equação logística. Métodos de solução de equações de primeira ordem: equações separáveis, homogêneas, exatas, fatores integrantes. Equações lineares com coeficientes variáveis. Equações lineares de segunda ordem, homogênea, não homogênea, método dos coeficientes a determinar, método da variação de parâmetros. Aplicações: pêndulo, ressonância. Campos de vetores; método de Euler, Taylor e Runge-Kutta. Sistemas de equações diferenciais, estabilidade. Solução de sistemas de EDOs lineares. Exponencial matricial. Retrato de fase, pontos de equilíbrio e estabilidade de sistemas lineares via autovalores e autovetores. Sistemas não lineares: retrato de fase, pontos de equilíbrio e estabilidade. Teorema de Hartman Grobman e de Poincaré-Bendixson. Modelos ecológicos baseados em EDOs; sistemas predador-presa, competição de espécies.
 
 ## Bibliografia
 
