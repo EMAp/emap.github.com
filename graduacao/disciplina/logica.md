@@ -21,4 +21,10 @@ Primeira Ordem.
 
 ## Bibliografia
 
-{% bibliography --file grad-logica %}
+### Obrigatória
+
+{% bibliography --query @*[keywords ~= grad-logica-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-logica-c] %}
