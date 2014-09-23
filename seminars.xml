@@ -4,13 +4,48 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-09-11T16:21:26-03:00</updated>
+ <updated>2014-09-23T12:41:01-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Ensino de Programação em Escolas Públicas</title>
+   <link href="http://emap.fgv.br/seminars/2014/09/25/proggy.html"/>
+   <updated>2014-09-25T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/09/25/proggy</id>
+   <content type="html">&lt;p&gt;No seminário será apresentado o projeto de ensino de programação em
+escolas públicas, &lt;a href=&quot;http://www.grupohashtech.com.br&quot;&gt;Hashtech&lt;/a&gt;,
+desenvolvido em parceria com a Secretaria Municipal de Educação do RJ,
+e a &lt;a href=&quot;http://www.proggy.com.br&quot;&gt;plataforma online&lt;/a&gt; criada para dar
+oportunidade de mais alunos aprenderem programação.&lt;/p&gt;
+
+&lt;h2&gt;Sobre a Proggy&lt;/h2&gt;
+
+&lt;p&gt;No início de 2014, após uma apresentação para diversos alunos de uma
+escola pública sobre a disciplina eletiva de programação que seria
+oferecida, houve muito mais inscritos do que vagas
+oferecidas. Começava a surgir então a ideia de criar a Proggy, uma
+plataforma online que daria a oportunidade de aprendendizado àqueles
+que não tinham conseguido se inscrever. Depois, percebeu-se que isso
+poderia ser útil para muitos outros alunos no Brasil. Assim, a
+&lt;a href=&quot;http://www.proggy.com.br&quot;&gt;Proggy&lt;/a&gt; foi criada e atualmente é parceira
+da Fundação Lemann na iniciativa de aproximar a programação do
+cotidiano dos jovens.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Lexical Resources for Portuguese: Strategies and Results</title>
