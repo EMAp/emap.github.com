@@ -4,13 +4,50 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-09-26T22:04:59-03:00</updated>
+ <updated>2014-09-29T18:20:05-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Planejamento amostral ótimo em geoestatística baseado na maximização de funções utilidade</title>
+   <link href="http://emap.fgv.br/seminars/2014/10/02/geoestatistica.html"/>
+   <updated>2014-10-02T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/10/02/geoestatistica</id>
+   <content type="html">&lt;p&gt;Neste trabalho detalha-se uma metodologia para obtenção do
+planejamento amostral ótimo em Geoestatística utilizando-se uma
+abordagem baseada em maximização de funções utilidades. Sob o enfoque
+Bayesiano, a obtenção do planejamento amostral ótimo é avaliada em
+situações onde a decisão do pesquisador baseia-se na redução da
+variância preditiva e nos casos em que existe o interesse no
+monitoramento de eventos extremos. A metodologia é aplicada em estudos
+simulados e em dados reais no contexto de epidemiologia e de redes de
+monitoramento ambiental.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/7031331622887724&quot;&gt;Gustavo Ferreira&lt;/a&gt; possui
+Bacharel em Estatística (UFRGS - 2002), Mestre em Estatística (UFRJ -
+2004) e Doutor em Estatística (UFRJ - 2013). Trabalhou como
+estatístico na Eletrobrás (2003-2006) e Petrobrás (2006-2009) antes de
+ingressar na carreira de pesquisador. Desde 2009 é docente e
+pesquisador da Escola Nacional de Ciências Estatísticas
+(ENCE/IBGE). Suas áreas de pesquisa são: Estatística Espacial,
+Epidemiologia e modelos para Redes Sociais.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Ensino de Programação em Escolas Públicas</title>
@@ -2811,9 +2848,9 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
  
  <entry>
    <title>Sistema de simulação de processos IPSEpro e o grupo de pesquisa em sistemas de apoio à decisão EWG-DSS/EURO</title>
-   <link href="http://emap.fgv.br/seminars/2011/08/25/apresentacao-sistema-simulacao-processos-ipsepro-simtech.html"/>
+   <link href="http://emap.fgv.br/seminars/2011/08/25/simulacao-processos-ipsepro-simtech.html"/>
    <updated>2011-08-25T00:00:00-03:00</updated>
-   <id>http://emap.fgv.br/seminars/2011/08/25/apresentacao-sistema-simulacao-processos-ipsepro-simtech</id>
+   <id>http://emap.fgv.br/seminars/2011/08/25/simulacao-processos-ipsepro-simtech</id>
    <content type="html">&lt;p&gt;Esta apresentação tem como objetivo divulgar duas linhas de trabalho: o
 da firma SimTech e o do grupo de trabalho EWG-DSS.&lt;/p&gt;
 
@@ -3107,9 +3144,9 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
  
  <entry>
    <title>Pesquisas em processamento de linguagem natural e ontologias</title>
-   <link href="http://emap.fgv.br/seminars/2011/04/07/pesquisas-processamento-linguagem-natural-ontologias.html"/>
+   <link href="http://emap.fgv.br/seminars/2011/04/07/pln-ontologias.html"/>
    <updated>2011-04-07T00:00:00-03:00</updated>
-   <id>http://emap.fgv.br/seminars/2011/04/07/pesquisas-processamento-linguagem-natural-ontologias</id>
+   <id>http://emap.fgv.br/seminars/2011/04/07/pln-ontologias</id>
    <content type="html">&lt;p&gt;Foi apresentada, pelo professor Renato, uma das linhas de pesquisa do
 Mestrado em Modelagem Matemática da Informação da EMAp-FGV.&lt;/p&gt;
 
@@ -3122,9 +3159,9 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
  
  <entry>
    <title>Gestão de acervos de imagens utilizando metadados</title>
-   <link href="http://emap.fgv.br/seminars/2011/03/31/gestao-acervos-imagens-utilizando-metadados.html"/>
+   <link href="http://emap.fgv.br/seminars/2011/03/31/gestao-acervos-imagens-metadados.html"/>
    <updated>2011-03-31T00:00:00-03:00</updated>
-   <id>http://emap.fgv.br/seminars/2011/03/31/gestao-acervos-imagens-utilizando-metadados</id>
+   <id>http://emap.fgv.br/seminars/2011/03/31/gestao-acervos-imagens-metadados</id>
    <content type="html">&lt;p&gt;O objetivo da palestra é abordar as formas de gestão de acervos de
 imagens a partir da exploração de recursos oferecidos por padrões de
 metadados. A palestra pretende fazer um resumo prático das
