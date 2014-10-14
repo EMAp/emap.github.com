@@ -8,6 +8,7 @@ title: Modelagem Matemática III - Sistemas Lineares e Otimização
 - Pré-requisito: 
   - [Cálculo II](calculo-II.html)
   - [Álgebra Linear](algebra-linear.html)
+- Professor: Vicent Guigues
 
 ## Ementa 
 
@@ -22,4 +23,10 @@ métodos de Newton e de quase-Newton.
 
 ## Bibliografia
 
-{% bibliography --file grad-modelagem-matematica-III %}
+### Obrigatória
+
+{% bibliography --query @*[keywords ~= grad-modelagem-matematica-III-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-modelagem-matematica-III-c] %}

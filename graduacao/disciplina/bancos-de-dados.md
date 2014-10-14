@@ -7,7 +7,8 @@ title: Banco de Dados
 - Carga horária: 60 horas
 - Pré-requisito:
     - [Estruturas de Dados e Algoritmos](estruturas-dados-algoritmos.html)
-
+- Tipo: Eletiva
+- Professor: Renato Rocha
 
 ## Ementa
 
@@ -20,4 +21,10 @@ de Consulta: Álgebra Relacional. A linguagem SQL.
 
 ## Bibliografia
 
-{% bibliography --file grad-bancos-de-dados %}
+### Obrigatória
+
+{% bibliography --query @*[keywords ~= grad-bancos-de-dados-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-bancos-de-dados-c] %}

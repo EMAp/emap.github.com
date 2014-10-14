@@ -5,7 +5,9 @@ title: Libras
 ---
 
 - Carga horária: 40 horas
+- Tipo: Eletiva
 - Pré-requisito: Não existe
+- Professor: Paulo Cezar
 
 ## Objetivos
 
@@ -20,4 +22,10 @@ entre esta e a língua portuguesa. Prática.
 
 ## Bibliografia
 
+### Obrigatória
 
+{% bibliography --query @*[keywords ~= grad-introducao-computacao-grafica-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-introducao-computacao-grafica-c] %}

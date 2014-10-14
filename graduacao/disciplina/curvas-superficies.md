@@ -9,6 +9,7 @@ title: Curvas e Superfícies
   - [Geometria Analítica e Vetores](geometria-analitica-vetores.html) 
   - [Cálculo II](calculo-II.html)
   - [Linguagens de Programação](linguagens-programacao.html)
+- Professor: Maria Izabel Camacho
 
 ## Ementa
 
@@ -22,5 +23,10 @@ superfícies por computador.
 
 ## Bibliografia
 
-{% bibliography --file grad-curvas-superficies %}
+### Obrigatória
 
+{% bibliography --query @*[keywords ~= grad-curvas-superficies-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-curvas-superficies-c] %}

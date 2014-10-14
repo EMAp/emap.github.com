@@ -6,6 +6,7 @@ title: "Modelagem Matemática I - Modelos elementares em Ciências Sociais"
 
 - Carga horária: 60 horas
 - Pré-requisito: Não existe
+- Professor: Moacyr Alvim
 
 ## Ementa 
 
@@ -27,4 +28,10 @@ incompleta: Reinforcement Learning - Relative Payoff Sum.
 
 ## Bibliografia
 
-{% bibliography --file grad-modelagem-matematica-I %}
+### Obrigatória
+
+{% bibliography --query @*[keywords ~= grad-modelagem-matematica-I-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-modelagem-matematica-I-c] %}

@@ -7,6 +7,7 @@ title: Álgebra linear
 - Carga horária: 90 horas
 - Pré-requisito:
   - [Geometria Analítica e Vetores](geometria-analitica-vetores.html)
+- Professor: Antonio Branco
 
 ## Ementa 
 
@@ -17,5 +18,10 @@ interno, ortogonalização, projeções, formas quadráticas.
 
 ## Bibliografia
 
-{% bibliography --file grad-algebra-linear %}
+### Obrigatória
 
+{% bibliography --query @*[keywords ~= grad-algebra-linear-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-algebra-linear-c] %}

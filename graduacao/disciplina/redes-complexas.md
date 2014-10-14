@@ -6,9 +6,8 @@ title: Redes Complexas
 
 - Carga horária: 60 horas
 - Pré-requisito: Não existe
-
-## Objetivos
-
+- Tipo: Eletiva
+- Professor: Alexandre Evsukoff
 
 ## Ementa
 
@@ -19,4 +18,10 @@ comunidades, processos dinâmicos em redes, redes urbanas e mobilidade.
 
 ## Bibliografia
 
+### Obrigatória
 
+{% bibliography --query @*[keywords ~= grad-redes-complexas-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-redes-complexas-c] %}

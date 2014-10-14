@@ -77,7 +77,7 @@ incluir:
 - [Análise de Algoritmos](disciplina/analise-algoritmos.html)
 - [Teoria da Computação](disciplina/teoria-computacao.html)
 - [Lógica](disciplina/logica.html)
-- [Sistemas de Bancos de Dados](disciplina/sistemas-bancos-dados.html)
+- [Bancos de Dados](disciplina/bancos-de-dados.html)
 - [Estatística Multivariada](disciplina/estatistica-multivariada.html)
 - [Linguagem Brasileira de Sinais](disciplina/linguagem-brasileira-sinais.html)
 - Tópicos especiais em Matemática Aplicada I

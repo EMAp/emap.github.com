@@ -6,6 +6,8 @@ title: Geometria em Aplicações
 
 - Carga horária: 60 horas
 - Pré-requisito: Não existe
+- Tipo: Eletiva
+- Professor: Asla Medeiros
 
 ## Objetivos
 
@@ -19,4 +21,10 @@ engrenagens e arte generativa.
 
 ## Bibliografia
 
+### Obrigatória
 
+{% bibliography --query @*[keywords ~= grad-geometria-em-aplicacoes-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-geometria-em-aplicacoes-c] %}

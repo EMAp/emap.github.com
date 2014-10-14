@@ -4,8 +4,10 @@ section: graduacao
 title: Lógica
 ---
 
-- Carga horária: 60 horas 
+- Carga horária: 60 horas
+- Tipo: Eletiva
 - Pré-requisito: Não existe
+- Professor: Alexandre Rademaker
 
 ## Ementa 
 

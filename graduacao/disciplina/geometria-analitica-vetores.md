@@ -6,6 +6,7 @@ title: Geometria Analítica e Vetores
 
 - Carga horária: 90 horas 
 - Pré-requisito: Não existe
+- Professor: Asla Medeiros
 
 ## Ementa 
 
@@ -19,4 +20,10 @@ para desenho e simulação das primitivas gráficas estudadas.
 
 ## Bibliografia
 
-{% bibliography --file grad-geometria-analitica-vetores %}
+### Obrigatória
+
+{% bibliography --query @*[keywords ~= grad-geometria-analitica-vetores-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-geometria-analitica-vetores-c] %}

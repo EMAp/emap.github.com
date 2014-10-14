@@ -1,5 +1,3 @@
 
-# Site EMAp
-
-This is the source of EMAp website.
+This is the source of EMAp's website (http://emap.fgv.br).
 

@@ -4,9 +4,11 @@ section: graduacao
 title: Topologia
 ---
 
-- Carga horária: 60 horas 
+- Carga horária: 60 horas
+- Tipo: Eletiva
 - Pré-requisito:
   - [Análise II](analise-II.html)
+- Professor: Maria Izabel Camacho
 
 ## Ementa 
 
@@ -19,4 +21,10 @@ Morse. Noções de geometria computacional e mecânica geométrica.
 
 ## Bibliografia
 
-{% bibliography --file grad-topologia %}
+### Obrigatória
+
+{% bibliography --query @*[keywords ~= grad-topologia-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-topologia-c] %}

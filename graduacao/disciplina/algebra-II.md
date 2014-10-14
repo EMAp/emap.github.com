@@ -4,7 +4,8 @@ section: graduacao
 title: Álgebra II
 ---
 
-- Carga horária: 60 horas 
+- Carga horária: 60 horas
+- Tipo: Eletiva
 - Pré-requisito:
   - [Álgebra, Teoria dos Números e Criptografia](algebra-teoria-numeros-criptografia.html)
   
@@ -17,4 +18,10 @@ robótica.
 
 ## Bibliografia
 
-{% bibliography --file grad-algebra-II %}
+### Obrigatória
+
+{% bibliography --query @*[keywords ~= grad-algebra-II-o] %}
+
+### Complementar
+
+{% bibliography --query @*[keywords ~= grad-algebra-II-c] %}
