@@ -4,13 +4,49 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-10-09T14:29:46-03:00</updated>
+ <updated>2014-10-14T14:02:12-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>As Contribuições Científicas de Goldwasser e Micali, Prêmio Turing 2012</title>
+   <link href="http://emap.fgv.br/seminars/2014/10/16/goldwasser-micali.html"/>
+   <updated>2014-10-16T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/10/16/goldwasser-micali</id>
+   <content type="html">&lt;p&gt;O Prêmio Turing é um prêmio concedido anualmente para cientistas da
+computação, sendo considerado o equivalente do Prêmio Nobel para
+Computação. Os mais recentes vencedores do prêmio Turing são Shafi
+Goldwasser e Silvio Micali, pesquisadores da área de criptografia e
+teoria da complexidade de algoritmos. Nesta palestra, tentaremos
+oferecer uma visão panorâmica sobre as principais contribuições destes
+dois pesquisadores para o avanço destas áreas de pesquisa, cobrindo
+tópicos como encriptação probabilística, sistemas interativos de
+prova, provas de conhecimento zero e criptografia baseada em
+reticulados, entre outros.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/6932497213743411&quot;&gt;Luis Menasché Schechter&lt;/a&gt; é
+professor adjunto do Departamento de Ciência da Computação do
+Instituto de Matemática da Universidade Federal do Rio de
+Janeiro. Possui bacharelado em Ciência da Computação pela UFRJ (2005),
+mestrado em Engenharia de Sistemas e Computação pela COPPE/UFRJ (2007)
+e doutorado em Engenharia de Sistemas e Computação pela COPPE/UFRJ
+(2010).&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Big Data Analytics, na prática</title>
@@ -836,7 +872,7 @@ Master&#39;s degree in Statistics from Columbia University.&lt;/p&gt;
  <entry>
    <title>Experiências com Reconhecedor de Fala para Português-Brasileiro</title>
    <link href="http://emap.fgv.br/seminars/2013/12/12/reconhecimento-de-fala.html"/>
-   <updated>2013-12-12T00:00:00-03:00</updated>
+   <updated>2013-12-12T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2013/12/12/reconhecimento-de-fala</id>
    <content type="html">&lt;p&gt;O seminário apresentará a missão e as atividades do grupo de Sistemas
 Humanos da IBM Research - Brasil. Dará foco nas atividades que
@@ -869,7 +905,7 @@ chinelos.&lt;/li&gt;
  <entry>
    <title>Fluctuations in a moving boundary description of diffusive interface growth</title>
    <link href="http://emap.fgv.br/seminars/2013/12/05/fluctuations.html"/>
-   <updated>2013-12-05T00:00:00-03:00</updated>
+   <updated>2013-12-05T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2013/12/05/fluctuations</id>
    <content type="html">&lt;p&gt;Stochastic generalizations of moving boundary problems appear quite
 naturally in the continuum description of e.g. solidification
@@ -922,7 +958,7 @@ received the UC3M Young Scientist Award, in 2011.&lt;/p&gt;
  <entry>
    <title>Modelling uncertainty in optimization: illustration on the knapsack problem</title>
    <link href="http://emap.fgv.br/seminars/2013/11/28/optimization-knapsack.html"/>
-   <updated>2013-11-28T00:00:00-03:00</updated>
+   <updated>2013-11-28T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2013/11/28/optimization-knapsack</id>
    <content type="html">&lt;p&gt;A large variety of decision problems can be accurately modeled as
 linear optimization problems that involve decisions that can be chosen
@@ -970,7 +1006,7 @@ Uncertainty.&lt;/p&gt;
  <entry>
    <title>A história da análise matemática no século XIX: da ciência mista ao saber puro</title>
    <link href="http://emap.fgv.br/seminars/2013/11/21/historia-analise-matematica.html"/>
-   <updated>2013-11-21T00:00:00-03:00</updated>
+   <updated>2013-11-21T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2013/11/21/historia-analise-matematica</id>
    <content type="html">&lt;p&gt;Neste seminário, será mostrado, a partir de alguns exemplos
 históricos, que a prática da análise matemática no século XIX era
@@ -1005,7 +1041,7 @@ chinelos.&lt;/li&gt;
  <entry>
    <title>Gerando valor com Big Data</title>
    <link href="http://emap.fgv.br/seminars/2013/11/14/big-data.html"/>
-   <updated>2013-11-14T00:00:00-03:00</updated>
+   <updated>2013-11-14T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2013/11/14/big-data</id>
    <content type="html">&lt;p&gt;O seminário irá abordar como as novas tecnologias de Big Data estão
 transformando as indústrias em todos os setores, gerando ainda mais
@@ -1036,7 +1072,7 @@ chinelos.&lt;/li&gt;
  <entry>
    <title>Reamostragem generalizada em computação gráfica</title>
    <link href="http://emap.fgv.br/seminars/2013/11/07/reamostragem-computacao-grafica.html"/>
-   <updated>2013-11-07T00:00:00-03:00</updated>
+   <updated>2013-11-07T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2013/11/07/reamostragem-computacao-grafica</id>
    <content type="html">&lt;p&gt;Discretização e reconstrução são operações fundamentais em computação
 gráfica. Avanços recentes na área de processamento de sinais
@@ -1075,7 +1111,7 @@ chinelos.&lt;/li&gt;
  <entry>
    <title>Decomposition-Coordination for dynamic stochastic optimization problems: Theory and Applications of the DADP algorithm</title>
    <link href="http://emap.fgv.br/seminars/2013/10/31/daap-algorithm.html"/>
-   <updated>2013-10-31T00:00:00-03:00</updated>
+   <updated>2013-10-31T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2013/10/31/daap-algorithm</id>
    <content type="html">&lt;p&gt;Large scale stochastic optimization problems are too difficult to be
 solved directly numerically. One way of dealing with this type of
@@ -2061,7 +2097,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
  <entry>
    <title>An introduction to combinatorial designs and graph decompositions</title>
    <link href="http://emap.fgv.br/seminars/2012/12/10/introduction-combinatorial-designs.html"/>
-   <updated>2012-12-10T00:00:00-03:00</updated>
+   <updated>2012-12-10T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2012/12/10/introduction-combinatorial-designs</id>
    <content type="html">&lt;p&gt;Combinatorial design theory is the study of arranging elements of a
 finite set into patterns (subsets, words, arrays) according to
@@ -2096,7 +2132,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
  <entry>
    <title>Resultados Recentes de Data Science no NTT/Coppe</title>
    <link href="http://emap.fgv.br/seminars/2012/11/01/resultados-recentes-data-science-coppe.html"/>
-   <updated>2012-11-01T00:00:00-03:00</updated>
+   <updated>2012-11-01T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2012/11/01/resultados-recentes-data-science-coppe</id>
    <content type="html">&lt;p&gt;O seminário apresenta um apanhado de pesquisas e projetos de P&amp;amp;D
 realizados nos últimos anos no Núcleo de Transferência de Tecnologia
@@ -3323,7 +3359,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
  <entry>
    <title>EOSMedia, um ambiente para Armazenamento, recuperação, interpretação e análise de grandes volumes de dados multimídia</title>
    <link href="http://emap.fgv.br/seminars/2011/02/17/grandes-volumes-dados.html"/>
-   <updated>2011-02-17T00:00:00-03:00</updated>
+   <updated>2011-02-17T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2011/02/17/grandes-volumes-dados</id>
    <content type="html">&lt;p&gt;Os avanços tecnológicos recentes têm propiciado o uso de várias mídias
 digitais no formato de texto, fotografias, videos e

@@ -4,7 +4,7 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-10-09T14:29:46-03:00</updated>
+ <updated>2014-10-14T14:02:12-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -869,7 +869,7 @@ outliers não interfira nos resultados.&lt;/p&gt;
  <entry>
    <title>Aula Magna com Sérgio Werlang</title>
    <link href="http://emap.fgv.br/blog/2014/02/11/aula-magna.html"/>
-   <updated>2014-02-11T00:00:00-03:00</updated>
+   <updated>2014-02-11T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/02/11/aula-magna</id>
    <content type="html">&lt;p&gt;Na quinta-feira, dia 20, o professor
 &lt;a href=&quot;http://epge.fgv.br/pt/professor/sergio-werlang&quot;&gt;Sérgio Werlang&lt;/a&gt; irá
@@ -902,7 +902,7 @@ of Economic Theory, 1994.&lt;/p&gt;
  <entry>
    <title>Mestrado EMAp - resultado dos candidatos aprovados no processo seletivo de 2014</title>
    <link href="http://emap.fgv.br/blog/2014/02/10/resultado-mestrado.html"/>
-   <updated>2014-02-10T00:00:00-03:00</updated>
+   <updated>2014-02-10T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/02/10/resultado-mestrado</id>
    <content type="html">&lt;p&gt;Os candidatos aprovados no
 &lt;a href=&quot;/pos-graduacao/descricao.html&quot;&gt;Mestrado em Modelagem Matemática da Informação&lt;/a&gt;
@@ -936,7 +936,7 @@ das aulas será no dia 24 de fevereiro.&lt;/p&gt;
  <entry>
    <title>EMAp abre inscrições para atividade complementar em "Comportamento, Informação  e Criptografia"</title>
    <link href="http://emap.fgv.br/blog/2014/02/07/atividade-complementar.html"/>
-   <updated>2014-02-07T00:00:00-03:00</updated>
+   <updated>2014-02-07T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/02/07/atividade-complementar</id>
    <content type="html">&lt;p&gt;A Escola de Matemática Aplicada irá oferecer a atividade complementar
 em &quot;Comportamento, Informação e Criptografia&quot;, em parceria com a
@@ -1018,7 +1018,7 @@ Alexandre Linhares (EBAPE)&lt;/li&gt;
  <entry>
    <title>Candidatos aprovados para vagas remanescentes</title>
    <link href="http://emap.fgv.br/blog/2014/02/04/aprovados-vagas-remanescentes.html"/>
-   <updated>2014-02-04T00:00:00-03:00</updated>
+   <updated>2014-02-04T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/02/04/aprovados-vagas-remanescentes</id>
    <content type="html">&lt;p&gt;Os candidatos aprovados no processo seletivo para vagas remanescentes
 do curso de graduação em Matemática Aplicada são:&lt;/p&gt;
@@ -1040,7 +1040,7 @@ sendo necessário apresentar os documentos que constam no
  <entry>
    <title>EMAp abre processo seletivo para vagas remanescentes</title>
    <link href="http://emap.fgv.br/blog/2014/01/28/vagas-remanescentes-graduacao.html"/>
-   <updated>2014-01-28T00:00:00-03:00</updated>
+   <updated>2014-01-28T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/01/28/vagas-remanescentes-graduacao</id>
    <content type="html">&lt;p&gt;A Escola de Matemática Aplicada está com inscrições abertas até o dia
 03 de fevereiro para o preenchimento das vagas remanescentes no curso
@@ -1063,7 +1063,7 @@ no próprio site da EMAp. As matrículas irão até o dia 07 de fevereiro.&lt;/p
  <entry>
    <title>Processo Seletivo Mestrado, lista dos indicados para o Curso de Verão 2014</title>
    <link href="http://emap.fgv.br/blog/2013/12/26/selecao-mestrado.html"/>
-   <updated>2013-12-26T00:00:00-03:00</updated>
+   <updated>2013-12-26T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/12/26/selecao-mestrado</id>
    <content type="html">&lt;p&gt;Divulgamos a seguir a lista dos indicados para o Curso de Verão.&lt;/p&gt;
 &lt;table&gt;
@@ -1208,7 +1208,7 @@ no próprio site da EMAp. As matrículas irão até o dia 07 de fevereiro.&lt;/p
  <entry>
    <title>EMAp recebe aprovados no vestibular com coquetel de boas-vindas</title>
    <link href="http://emap.fgv.br/blog/2013/12/05/boas-vindas-alunos.html"/>
-   <updated>2013-12-05T00:00:00-03:00</updated>
+   <updated>2013-12-05T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/12/05/boas-vindas-alunos</id>
    <content type="html">&lt;p&gt;A Escola de Matemática Aplicada realizou no dia 03 de dezembro o
 Coquetel de Boas-Vindas aos aprovados no Vestibular 2014.&lt;/p&gt;
@@ -1251,7 +1251,7 @@ fevereiro. Para mais informações sobre o curso,
  <entry>
    <title>Professor da EMAp apresenta case de sucesso de Big Data em evento de TI Empresarial</title>
    <link href="http://emap.fgv.br/blog/2013/11/21/palestra-case-big-data.html"/>
-   <updated>2013-11-21T00:00:00-03:00</updated>
+   <updated>2013-11-21T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/11/21/palestra-case-big-data</id>
    <content type="html">&lt;p&gt;O professor da Escola de Matemática Aplicada da FGV,
 &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;, apresentará no
@@ -1277,7 +1277,7 @@ em São Paulo, nos dias 26 e 27 de novembro.&lt;/p&gt;
  <entry>
    <title>EMAp abre inscrições para mestrado em Modelagem Matemática da Informação</title>
    <link href="http://emap.fgv.br/blog/2013/11/08/nota-mestrado.html"/>
-   <updated>2013-11-08T00:00:00-03:00</updated>
+   <updated>2013-11-08T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/11/08/nota-mestrado</id>
    <content type="html">&lt;p&gt;A EMAp/FGV está com as inscrições abertas até o dia 16 de dezembro
 para o Mestrado Acadêmico em Modelagem Matemática da Informação. O
@@ -1319,7 +1319,7 @@ pelo desempenho nas disciplinas de matemática e computação.&lt;/p&gt;
  <entry>
    <title>FGV/EMAp e Tribunal de Justiça do Estado do Rio de Janeiro firmam acordo de cooperação técnica científica</title>
    <link href="http://emap.fgv.br/blog/2013/10/30/acordo-cooperacao-tjrj.html"/>
-   <updated>2013-10-30T00:00:00-03:00</updated>
+   <updated>2013-10-30T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/10/30/acordo-cooperacao-tjrj</id>
    <content type="html">&lt;p&gt;A Fundação Getulio Vargas, por meio da Escola de Matemática Aplicada,
 assinou com o Tribunal de Justiça do Estado do Rio de Janeiro, em 29
@@ -1344,7 +1344,7 @@ podendo ser prorrogado.&lt;/p&gt;
  <entry>
    <title>EMAp expõe trabalhos em feira de ciência, tecnologia e inovação</title>
    <link href="http://emap.fgv.br/blog/2013/10/29/feira-faperj.html"/>
-   <updated>2013-10-29T00:00:00-03:00</updated>
+   <updated>2013-10-29T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/10/29/feira-faperj</id>
    <content type="html">&lt;p&gt;A Escola de Matemática Aplicada (EMAp) da FGV, por meio do Laboratório
 de Simulação e Análise de Sistemas Adaptativos e Cooperativos e do
@@ -1461,7 +1461,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#116;&amp;#x6f;&amp;#x3a;&amp;#101;&amp;#109;&amp;#97;&amp;#112;&amp;#x2e;&amp;#101;&amp;#118;&amp;#x65;&amp;#110;&amp;#116;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#102;&amp;#x67;&amp;#118;&amp;#x2e;&amp;#98;&amp;#114;&quot;&gt;&amp;#x65;&amp;#x6d;&amp;#x61;&amp;#112;&amp;#46;&amp;#x65;&amp;#x76;&amp;#101;&amp;#110;&amp;#x74;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#x66;&amp;#x67;&amp;#118;&amp;#x2e;&amp;#x62;&amp;#114;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#x69;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#101;&amp;#x6d;&amp;#x61;&amp;#x70;&amp;#46;&amp;#x65;&amp;#x76;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#115;&amp;#64;&amp;#x66;&amp;#x67;&amp;#118;&amp;#46;&amp;#98;&amp;#x72;&quot;&gt;&amp;#x65;&amp;#109;&amp;#97;&amp;#x70;&amp;#46;&amp;#x65;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#x74;&amp;#111;&amp;#115;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
@@ -2080,7 +2080,7 @@ auditório 1333 às 11 horas.&lt;/p&gt;
  <entry>
    <title>Resultado da Seleção do Mestrado da EMAp de 2013</title>
    <link href="http://emap.fgv.br/blog/2013/02/08/selecao-mestrado.html"/>
-   <updated>2013-02-08T00:00:00-03:00</updated>
+   <updated>2013-02-08T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/02/08/selecao-mestrado</id>
    <content type="html">&lt;p&gt;Divulgamos a seguir o resultado da seleção do mestrado da EMAp de&lt;br /&gt;
 2013. Os candidatos aprovados devem acessar o sistema acadêmico da &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;&lt;br /&gt;
@@ -2225,7 +2225,7 @@ na página sobre o &lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;process
  <entry>
    <title>Formação da EMAp pode suprir demanda do mercado financeiro</title>
    <link href="http://emap.fgv.br/blog/2013/02/05/formacao-emap-e-mercado.html"/>
-   <updated>2013-02-05T00:00:00-03:00</updated>
+   <updated>2013-02-05T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/02/05/formacao-emap-e-mercado</id>
    <content type="html">&lt;p&gt;O mercado financeiro precisa de profissionais com formação em
 Matemática para atuar em áreas como análise de risco, modelagem e
@@ -2249,7 +2249,7 @@ e saiba mais sobre as vantagens da formação da EMAp.&lt;/p&gt;
  <entry>
    <title>Workshop em Geometria, Mecânica e Computação</title>
    <link href="http://emap.fgv.br/blog/2013/01/15/workshop.html"/>
-   <updated>2013-01-15T00:00:00-03:00</updated>
+   <updated>2013-01-15T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/01/15/workshop</id>
    <content type="html">&lt;p&gt;A EMAp realizará juntamente com a PUC-RJ, o Conselho Nacional de
 Desenvolvimento Científico e Tecnológico (CNPq) e o Ciências Sem
@@ -2272,7 +2272,7 @@ ideais, ao registro de imagens e à computação gráfica.&lt;/p&gt;
  <entry>
    <title>EMAp é considerada inovadora em projetos relacionados à TIC</title>
    <link href="http://emap.fgv.br/blog/2013/01/09/inovacao.html"/>
-   <updated>2013-01-09T00:00:00-03:00</updated>
+   <updated>2013-01-09T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/01/09/inovacao</id>
    <content type="html">&lt;p&gt;A DEMOS - Delphi Mediation Online System-, de Hamburgo, Alemanha,
 contratada no final de 2012 pela FGV para a realização de um relatório
@@ -2297,7 +2297,7 @@ EMAp busca em suas atividades.&lt;/p&gt;
  <entry>
    <title>EMAp realiza curso de verão para estudantes de Ensino Médio</title>
    <link href="http://emap.fgv.br/blog/2013/01/09/cursao-verao-ismart.html"/>
-   <updated>2013-01-09T00:00:00-03:00</updated>
+   <updated>2013-01-09T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/01/09/cursao-verao-ismart</id>
    <content type="html">&lt;p&gt;Em parceria com o
 &lt;a href=&quot;http://ismart.net.br/&quot;&gt;Instituto Social Para Motivar, Apoiar e Reconhecer Talentos&lt;/a&gt;
@@ -2351,7 +2351,7 @@ UFRJ. O curso será realizado no edifício sede da FGV, em Botafogo&lt;/p&gt;
  <entry>
    <title>Oportunidade de estágio/pesquisa na FGV</title>
    <link href="http://emap.fgv.br/blog/2012/11/28/oportunidade-estagio-pesquisa.html"/>
-   <updated>2012-11-28T00:00:00-03:00</updated>
+   <updated>2012-11-28T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2012/11/28/oportunidade-estagio-pesquisa</id>
    <content type="html">&lt;p&gt;A EMAp e o CPDOC, unidades da Fundação Getulio Vargas (FGV), estão com
 uma vaga para estágio e/ou bolsa de pesquisa no contexto do projeto
@@ -2429,7 +2429,7 @@ economia, administração e outras áreas do conhecimento humano.&lt;/p&gt;
  <entry>
    <title>FGV cria serviço integrado de computação em nuvem para comunidade acadêmica</title>
    <link href="http://emap.fgv.br/blog/2012/11/28/cloud-academica.html"/>
-   <updated>2012-11-28T00:00:00-03:00</updated>
+   <updated>2012-11-28T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2012/11/28/cloud-academica</id>
    <content type="html">&lt;p&gt;A Diretoria de Operações, através da gerência de Tecnologia de
 Informação (TIC), desenvolveu uma &lt;em&gt;cloud&lt;/em&gt; de uso exclusivo de
@@ -2447,7 +2447,7 @@ Aplicada.&lt;/p&gt;
  <entry>
    <title>EMAp participa de encontro da PythonBrasil</title>
    <link href="http://emap.fgv.br/blog/2012/11/23/python-brasil.html"/>
-   <updated>2012-11-23T00:00:00-03:00</updated>
+   <updated>2012-11-23T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2012/11/23/python-brasil</id>
    <content type="html">&lt;p&gt;A PythonBrasil, numa parceria com a EMAp, realiza esta semana na FGV,
 no Rio de Janeiro, o maior encontro da comunidade brasileira de
