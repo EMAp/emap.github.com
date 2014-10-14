@@ -7,7 +7,7 @@ paginate: 10
 pagination: true
 archive_title_prefix: "Arquivo de "
 archive_title_suffix: " "
-exclude: ["README.md", "etc/*"]
+exclude: ["README.md", "etc"]
 category_title_prefix: "Tudo em "
 
 scholar:
