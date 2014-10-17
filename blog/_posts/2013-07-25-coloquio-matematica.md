@@ -9,7 +9,7 @@ tags:
 Nesta e na próxima semana acontece o XXIX Colóquio Brasileiro de
 Matemática, no Instituto Nacional de Matemática Pura e Aplicada. Entre
 as sessões temáticas está a de "Biologia Matemática", coordenado pelos
-professores da EMAp [Jair Koiller](/people/jair.koiller.html) e
+professores da EMAp Jair Koiller e
 [Moacyr Alvim](/people/moacyr.silva.html), além do professor Max de
 Souza, da UFF, e Claudia Codeço, da Fiocruz.
 

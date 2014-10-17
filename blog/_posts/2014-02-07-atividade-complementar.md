@@ -10,8 +10,7 @@ A Escola de Matemática Aplicada irá oferecer a atividade complementar
 em "Comportamento, Informação e Criptografia", em parceria com a
 [Escola de Administração (EBAPE/FGV)](http://ebape.fgv.br).
 
-Coordenado pelos professores
-[Jair Koiller](/people/jair.koiller.html), da EMAp, e
+Coordenado pelos professores Jair Koiller, da EMAp, e
 [Eduardo Andrade](http://ebape.fgv.br/corpo-docente/eduardo-andrade) e
 [Alexandre Linhares](http://ebape.fgv.br/corpo-docente/alexandre-linhares),
 da EBAPE, o curso terá como discussão as abordagens dos livros:

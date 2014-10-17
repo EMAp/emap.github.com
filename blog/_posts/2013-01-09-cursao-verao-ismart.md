@@ -42,5 +42,4 @@ Modelagem Matemática:
  
 ## Outras informações
 
-Para informações de vagas, favor entrar em contato com
-[Jair Koiller](/people/jair.koiller.html).
+Para informações de vagas, favor entrar em contato com Jair Koiller.
