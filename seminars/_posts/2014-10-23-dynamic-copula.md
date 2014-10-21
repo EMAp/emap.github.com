@@ -1,10 +1,10 @@
 ---
 layout: seminar
 title:  Dynamic Copula Processes
-quem: Walter Schierer 
+quem: Margaret Armstrong and Alain Galli
 onde: FGV - Praia de Botafogo, 190, room 317
 tex: false
-hour: 16:30h
+hour: 16:00h
 ---
 
 The standard way of modelling several stochastic processes which are
@@ -18,16 +18,15 @@ figure below). But in reality, some variables are upper tail dependent
 (or lower tail) as in right figure below.
 
 Copulas were invented to provide a much wider range of "correlation"
-structures between variables and to allow variables to have different
+structures between variables & to allow variables to have different
 marginal distributions. While many bivariate copulas exist, it is more
 difficult to construct multivariate ones, and it is even more
 difficult to construct dynamic copula processes.
 
-[This paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1616503)
-presents a flexible family of copula-based multivariate models
-designed for handling large numbers of variables (1) as random vectors
-in the static case or (2) as vector stochastic processes in the
-dynamic case. The family includes models with upper and lower tail
+This paper presents a flexible family of copula-based multivariate
+models designed for handling large numbers of variables (1) as random
+vectors in the static case or (2) as vector stochastic processes in
+the dynamic case. The family includes models with upper and lower tail
 dependence. Variables need not be exchangeable. To illustrate the
 model's potential; three radically different examples have been
 constructed: a straight additive model, an additive conditional gamma
@@ -37,12 +36,28 @@ it that it is easy to construct dynamic versions of the static
 copulas. Lastly, as these models are defined in a conditional
 independence framework, they are easy to simulate.
 
-## Speaker
+Paper is available on [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1616503).
 
-[Margaret Armstrong](http://goo.gl/6PWmch) and
-[Alain Galli](http://goo.gl/c2MSWp) started the Quantitative Finance
+
+## Speakers
+
+[Margaret Armstrong](http://goo.gl/IZH7RI) and
+[Alain Galli](http://goo.gl/c1ZmxP) started the Quantitative Finance
 Group at the École des Mines de Paris in 2001. The group trains French
-engineers who want to be quants, traders & structurers in banks.
+engineers who want to be quants, traders & structurers in banks. The
+group's research focuses on:
+
+- Modeling commodities (electricity, oil and gas, CO2 etc).
+- Modeling the structure of electricity markets, and the impact of the
+  introduction of renewables (wind power) and electric vehicles on
+  day-ahead electricity prices.
+- Evaluating and optimising of projects such as mines, oil fields and
+  power plants that are subject to technical and financial
+  uncertainty.
+- Modelling the term structure of interest rates.
+- Stochastic volatility models.
+- Dynamic hedging of physical commitments.
+- Copulas, especially Archimedean copulas.
 
 Margaret Armstrong is a professor at the Cerna, Mines-Paristech. She
 has a masters in mathematical statistics from the University of
