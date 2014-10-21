@@ -4,7 +4,7 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-10-17T19:49:33-03:00</updated>
+ <updated>2014-10-21T11:53:56-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -28,16 +28,15 @@ figure below). But in reality, some variables are upper tail dependent
 (or lower tail) as in right figure below.&lt;/p&gt;
 
 &lt;p&gt;Copulas were invented to provide a much wider range of &quot;correlation&quot;
-structures between variables and to allow variables to have different
+structures between variables &amp;amp; to allow variables to have different
 marginal distributions. While many bivariate copulas exist, it is more
 difficult to construct multivariate ones, and it is even more
 difficult to construct dynamic copula processes.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1616503&quot;&gt;This paper&lt;/a&gt;
-presents a flexible family of copula-based multivariate models
-designed for handling large numbers of variables (1) as random vectors
-in the static case or (2) as vector stochastic processes in the
-dynamic case. The family includes models with upper and lower tail
+&lt;p&gt;This paper presents a flexible family of copula-based multivariate
+models designed for handling large numbers of variables (1) as random
+vectors in the static case or (2) as vector stochastic processes in
+the dynamic case. The family includes models with upper and lower tail
 dependence. Variables need not be exchangeable. To illustrate the
 model&#39;s potential; three radically different examples have been
 constructed: a straight additive model, an additive conditional gamma
@@ -47,12 +46,30 @@ it that it is easy to construct dynamic versions of the static
 copulas. Lastly, as these models are defined in a conditional
 independence framework, they are easy to simulate.&lt;/p&gt;
 
-&lt;h2&gt;Speaker&lt;/h2&gt;
+&lt;p&gt;Paper is available on &lt;a href=&quot;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1616503&quot;&gt;SSRN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://goo.gl/6PWmch&quot;&gt;Margaret Armstrong&lt;/a&gt; and
-&lt;a href=&quot;http://goo.gl/c2MSWp&quot;&gt;Alain Galli&lt;/a&gt; started the Quantitative Finance
+&lt;h2&gt;Speakers&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://goo.gl/IZH7RI&quot;&gt;Margaret Armstrong&lt;/a&gt; and
+&lt;a href=&quot;http://goo.gl/c1ZmxP&quot;&gt;Alain Galli&lt;/a&gt; started the Quantitative Finance
 Group at the École des Mines de Paris in 2001. The group trains French
-engineers who want to be quants, traders &amp;amp; structurers in banks.&lt;/p&gt;
+engineers who want to be quants, traders &amp;amp; structurers in banks. The
+group&#39;s research focuses on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Modeling commodities (electricity, oil and gas, CO2 etc).&lt;/li&gt;
+&lt;li&gt;Modeling the structure of electricity markets, and the impact of the
+introduction of renewables (wind power) and electric vehicles on
+day-ahead electricity prices.&lt;/li&gt;
+&lt;li&gt;Evaluating and optimising of projects such as mines, oil fields and
+power plants that are subject to technical and financial
+uncertainty.&lt;/li&gt;
+&lt;li&gt;Modelling the term structure of interest rates.&lt;/li&gt;
+&lt;li&gt;Stochastic volatility models.&lt;/li&gt;
+&lt;li&gt;Dynamic hedging of physical commitments.&lt;/li&gt;
+&lt;li&gt;Copulas, especially Archimedean copulas.&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;p&gt;Margaret Armstrong is a professor at the Cerna, Mines-Paristech. She
 has a masters in mathematical statistics from the University of
