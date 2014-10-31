@@ -13,7 +13,7 @@ incluir:
 - [Regimento Institucional](/files/emap-regimento.pdf)
 - [Plano de Desenvolvimento Institucional - PDI](/files/emap-pdi.pdf)
 - [Projeto Pedagógico Institucional - PPI](/files/emap-ppi.pdf)
-- Código de Ética
+- [Código de Ética](/files/fgv-codigo-etica.pdf)
 - [Credenciamento EMAp](/files/emap-credenciamento.pdf)
 - [Autorização Graduação em Matemática Aplicada](/files/emap-autorizacao.pdf)
 
