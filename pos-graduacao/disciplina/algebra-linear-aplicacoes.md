@@ -6,16 +6,15 @@ creditos: 3
 area: Matemática Geral
 ---
 
-- Área: {{ page.area }}   
+- Área: {{ page.area }}
 - Código: MAT001
-- Carga horária: 45 horas  
-- Créditos: {{ page.creditos }}   
+- Carga horária: 45 horas 
+- Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
 - Maria Izabel T. Camacho
 - Adilson Gonçalves
-- Jair Koiller
 
 ## Ementa
 

@@ -13,7 +13,6 @@ creditos: 3
 
 ## Docente(s) 
 
-- Jair Koiller
 - Moacyr Alvim
 
 ## Ementa

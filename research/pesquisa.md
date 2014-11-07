@@ -71,7 +71,7 @@ de textos em português.
 
 ## Estimação bayesiana de parâmetros em modelos dinâmicos
 
-- Responsável: Flávio Codeço Coelho
+- Responsável: [Flávio Codeço Coelho](/people/flavio.coelho.html)
 - Início: 11/2010
 - Status: em desenvolvimento
 - [website](http://code.google.com/p/bayesian-inference)
@@ -84,8 +84,8 @@ para esta finalidade.
 ## Supremo em números
 
 - Responsáveis: 
-  - Flávio Coelho
-  - Renato Rocha Souza
+  - [Flávio Codeço Coelho](/people/flavio.coelho.html)
+  - [Renato Rocha Souza](/people/renato.souza.html)
 - Início: 03/2011
 - Status: em andamento
 - [website](http://www.supremoemnumeros.com.br/)
@@ -93,27 +93,11 @@ para esta finalidade.
 Análises Linguísticas e Matemáticas da base de dados do Supremo
 Tribunal Federal.
 
-## Mecânica geométrica
-
-- Responsável: Jair Koiller 
-- Início: 2002 (1982 na UFRJ e LNCC)
-- Status: em andamento
-
-Utiliza-se ferramentas de geometria diferencial e geometria simplética
-no estudo de sistemas físicos, de engenharia e biológicos. Apoio da
-rede internacional [GMC](http://www.gmcnetwork.org), envolvendo vários
-pesquisadores, jovens e em meio de carreira na comunidade matemática
-do Rio. Os contatos internacionais abrangem países de todos os
-continentes, destacando USA, Espanha/Portugal e Rússia. Potencial
-aplicações da área também em processamento de informações em imagens
-médicas (Holm, Ratiu, Desbrun, Michor etc).
-
 ## Novos métodos em epidemiologia e detecção precoce de eventos
 
 - Responsáveis: 
-  - Jair Koiller
   - [Moacyr Alvim Silva](/people/moacyr.silva.html)
-  - Paulo Cezar P. Carvalho
+  - [Paulo Cezar P. Carvalho](/people/paulo.carvalho.html)
 - Início: 2008
 - Status: em andamento
 
@@ -158,8 +142,8 @@ enriquecimento dos dados do CPDOC com a aplicação de ténicas de:
 ## Light
 
 - Responsáveis:
-  - Flávio Coelho 
-  - Renato Rocha Souza
+  - [Flávio Codeço Coelho](/people/flavio.coelho.html)
+  - [Renato Rocha Souza](/people/renato.souza.html)
 - Início: 06/2011
 - Status: em andamento
 
@@ -169,7 +153,7 @@ visualização de dados.
 
 ## Semantic Technologies for Archaeological Resources
 
-- Responsável: Renato Rocha Souza
+- Responsável: [Renato Rocha Souza](/people/renato.souza.html)
 - Início: 01/2007
 - Status: em andamento
 - [Homepage](http://hypermedia.research.glam.ac.uk/people/rsouza/)
@@ -179,7 +163,7 @@ processamento de linguagem natural.
 
 ## Laboratório de Estudos Empíricos e Experimentais da Linguagem
 
-- Responsável: Renato Rocha Souza
+- Responsável: [Renato Rocha Souza](/people/renato.souza.html)
 - Status: em andamento
 - [Homepage](http://www.letras.ufmg.br/CMS/index.asp?pasta=leel&path=inicial.asp&pagina=inicial.asp)
   

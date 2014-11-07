@@ -14,7 +14,6 @@ area: Matemática Geral
 ## Docente(s)
 
 - Maria Izabel T. Camacho
-- Jair Koiller
 - Paulo Cezar P. Carvalho
 
 ## Ementa
