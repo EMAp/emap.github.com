@@ -13,7 +13,7 @@ creditos: 3
 
 ## Docente(s) 
 
-- Moacyr Alvim
+- [Moacyr Alvim](/people/moacyr.silva.html)
 
 ## Ementa
 

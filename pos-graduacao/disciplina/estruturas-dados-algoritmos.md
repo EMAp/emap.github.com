@@ -13,7 +13,7 @@ area: Ciência da Computação
 
 ## Docente(s)
 
-- Alexandre Rademaker
+- [Alexandre Rademaker](/people/alexandre.rademaker.html)
 
 ## Ementa
 

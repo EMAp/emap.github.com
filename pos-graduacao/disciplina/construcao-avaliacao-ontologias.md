@@ -13,8 +13,8 @@ area: Matemática da Informação
 
 ## Docente(s) 
 
-- Renato Rocha Souza
-- Alexandre Rademaker
+- [Renato Rocha Souza](/people/renato.souza.html)
+- [Alexandre Rademaker](/people/alexandre.rademaker.html)
 
 ## Ementa
 

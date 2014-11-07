@@ -13,8 +13,8 @@ area: Matemática Geral
 
 ## Docente(s)
 
-- Maria Izabel T. Camacho
-- Paulo Cezar P. Carvalho
+- [Maria Izabel T. Camacho](/people/maria.camacho.html)
+- [Paulo Cezar P. Carvalho](/people/paulo.carvalho.html)
 
 ## Ementa
 

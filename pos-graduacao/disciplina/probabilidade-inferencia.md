@@ -13,8 +13,8 @@ creditos: 3
 
 ## Docente(s) 
 
-- Paulo Cezar P. Carvalho
-- Moacyr Alvim
+- [Paulo Cezar P. Carvalho](/people/paulo.carvalho.html)
+- [Moacyr Alvim](/people/moacyr.silva.html)
 - Sheila Zani
 
 ## Ementa

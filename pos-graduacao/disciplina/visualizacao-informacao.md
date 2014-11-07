@@ -13,7 +13,7 @@ creditos: 3
 
 ## Docente(s) 
 
-- Asla Medeiros e Sá
+- [Asla Medeiros e Sá](/people/asla.sa.html)
 
 ## Ementa
 

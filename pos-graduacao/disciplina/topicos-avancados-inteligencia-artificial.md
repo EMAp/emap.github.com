@@ -6,15 +6,15 @@ creditos: 3
 area: Mátematica da informação
 ---
 
-- Área: {{ page.area }}     
+- Área: {{ page.area }}
 - Código: MIF009
 - Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
-- Antonio Carlos S. Branco
-- Paulo Cezar P. Carvalho
+- [Antonio Carlos S. Branco](/people/antonio.branco.html)
+- [Paulo Cezar P. Carvalho](/people/paulo.carvalho.html)
 
 ## Ementa
 

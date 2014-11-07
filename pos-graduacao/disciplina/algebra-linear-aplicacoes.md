@@ -13,7 +13,7 @@ area: Matemática Geral
 
 ## Docente(s) 
 
-- Maria Izabel T. Camacho
+- [Maria Izabel T. Camacho](/people/maria.camacho.html)
 - Adilson Gonçalves
 
 ## Ementa

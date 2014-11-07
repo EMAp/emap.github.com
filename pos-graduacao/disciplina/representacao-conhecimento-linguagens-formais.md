@@ -13,8 +13,8 @@ creditos: 3
 
 ## Docente(s) 
 
-- Alexandre Rademaker
-- Renato Rocha Souza
+- [Alexandre Rademaker](/people/alexandre.rademaker.html)
+- [Renato Rocha Souza](/people/renato.souza.html)
 
 ## Ementa
 

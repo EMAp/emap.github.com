@@ -13,8 +13,7 @@ creditos: 3
 
 ## Docente(s) 
 
-- Renato Rocha Souza
-
+- [Renato Rocha Souza](/people/renato.souza.html)
 
 ## Ementa
 

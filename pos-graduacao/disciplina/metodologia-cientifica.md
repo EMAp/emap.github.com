@@ -6,14 +6,14 @@ creditos: 1
 area: Metodologia de Pesquisa
 ---
 
-- Área: {{ page.area }}     
+- Área: {{ page.area }}
 - Código: PEQ001
 - Carga horária: 15 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
-- Maria Izabel T. Camacho
+- [Maria Izabel T. Camacho](/people/maria.camacho.html)
 - André Arruda Villela
 
 ## Ementa

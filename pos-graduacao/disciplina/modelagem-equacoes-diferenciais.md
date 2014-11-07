@@ -13,7 +13,7 @@ creditos: 3
 
 ## Docente(s)
 
-- Maria Izabel T. Camacho
+- [Maria Izabel T. Camacho](/people/maria.camacho.html)
 
 ## Ementa
 

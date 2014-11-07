@@ -6,16 +6,16 @@ creditos: 3
 area: Mátematica da informação
 ---
 
-- Área: {{ page.area }}     
+- Área: {{ page.area }}
 - Código: MIF012
 - Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
-- Asla Medeiros e Sá
-- Moacyr Alvim
-- Paulo Cezar Carvalho
+- [Asla Medeiros e Sá](/people/asla.sa.html)
+- [Moacyr Alvim](/people/moacyr.silva.html)
+- [Paulo Cezar Carvalho](/people/paulo.carvalho.html)
 - Anderson Mayrink
 
 ## Ementa

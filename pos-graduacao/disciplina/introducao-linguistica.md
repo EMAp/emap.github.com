@@ -6,10 +6,10 @@ creditos: 3
 area: Visualização
 ---
 
-- Área: {{ page.area }}   
+- Área: {{ page.area }}
 - Código: 701-030
-- Carga horária: 45 horas  
-- Créditos: {{ page.creditos }}   
+- Carga horária: 45 horas
+- Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 

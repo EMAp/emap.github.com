@@ -13,7 +13,7 @@ area: Matemática da Informação
 
 ## Docente(s) 
 
-- Antonio Carlos S. Branco
+- [Antonio Carlos S. Branco](/people/antonio.branco.html)
 
 ## Ementa
 

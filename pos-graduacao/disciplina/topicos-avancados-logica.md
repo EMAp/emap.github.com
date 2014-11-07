@@ -6,14 +6,14 @@ creditos: 3
 area: Mátematica da informação
 ---
 
-- Área: {{ page.area }}     
+- Área: {{ page.area }}
 - Código: MIF010
 - Carga horária: 45 horas
 - Créditos: {{ page.creditos }}
 
 ## Docente(s) 
 
-- Alexandre Rademaker
+- [Alexandre Rademaker](/people/alexandre.rademaker.html)
 
 ## Ementa
 

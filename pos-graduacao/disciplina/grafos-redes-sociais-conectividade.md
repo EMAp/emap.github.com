@@ -13,7 +13,7 @@ creditos: 3
 
 ## Docente(s) 
 
-- Flávio C. Coelho
+- [Flávio C. Coelho](/people/flavio.coelho.html)
 
 ## Ementa
 
