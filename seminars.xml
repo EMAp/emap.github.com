@@ -4,13 +4,51 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-11-07T13:42:09-02:00</updated>
+ <updated>2014-11-11T19:15:02-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Sobre a aproximação dos autovalores de operadores integrais singulares</title>
+   <link href="http://emap.fgv.br/seminars/2014/11/13/autovalores-operadores-integrais.html"/>
+   <updated>2014-11-13T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/seminars/2014/11/13/autovalores-operadores-integrais</id>
+   <content type="html">&lt;p&gt;Nessa palestra, discutiremos dois métodos aproximados para o cálculo
+dos autovalores de operadores integrais singulares periódicos de tipo
+convolução. O primeiro método é baseado na regra do trapézio alternada
+(Sidi e Israeli, 1988). Mostraremos que esse método produz um conjunto
+de autovalores aproximados com simetrias espúrias, o que restringe até
+certo ponto a qualidade dessas aproximações.  O segundo método é
+baseado na desingularização do núcleo de convolução e permite obter
+resultados mais precisos. Apresentaremos exemplos numéricos que
+mostram as vantagens desse segundo método.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/8694890749217765&quot;&gt;Daniel Alfaro Vigo&lt;/a&gt; possui
+graduação em Mecânica-Matemática pela Moscow State University (Russia,
+1991), mestrado em Matemática Aplicada pela Universidad Central de Las
+Villas (Cuba, 1998) e Doutorado em Matemática pelo Instituto Nacional
+de Matemática Pura e Aplicada - IMPA (2004). Atualmente é professor
+adjunto da Universidade Federal do Rio de Janeiro. Tem experiência na
+área de Matemática, com ênfase em Matemática Aplicada e Análise
+Numérica, atuando principalmente nos seguintes temas: Propagação de
+ondas em meios heterogêneos e Solução numérica de EDPs.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Hours of service regulations in road freight transport: an optimization-based international assessment</title>
