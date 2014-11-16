@@ -3,7 +3,7 @@ layout: post
 title: Professores da EMAp participam do I Workshop em Matemática integrada à Indústria e Inovação Tecnológica
 author: Raquel Rittmeyer
 tags:
-- notícias
+- noticia
 - eventos
 ---
 
