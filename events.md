@@ -6,11 +6,12 @@ section: events
 
 ## Próximos Eventos
 
-- [Reshaping History: A Future for our Past, 02/Set - 31/Out de 2014](/RHR-2014/)
+- [NetSci-x2015, Internetional School and Conference on Network Science, 14-16 de janeiro](http://www.netsci-x2015.net/)
 
 ## Eventos organizados
 
-- [8th International Conference on Formal Ontology in Information Systems, 22-25 de setembro de 2014](http://fois2014.inf.ufes.br/)
+- [Reshaping History: A Future for our Past, 02/Set - 31/Out de 2014](/RHR-2014/)
+- [8th Int. Conference on Formal Ontology in Information Systems, 22-25 de setembro de 2014](http://fois2014.inf.ufes.br/)
   - [6th Workshop on Formal Ontologies meet Industry](/fomi-2014/)
   - [2nd Workshop on Logics and Ontologies for Natural Language](/logonto-2014/)
 - [Minicurso em Finanças Quantitativas, 26/Set - 24/Out de 2014](/blog/2014/07/07/minicurso-financas-quantitativas.html) 
