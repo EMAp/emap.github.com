@@ -4,7 +4,6 @@ title: Perfil dos Egressos
 section: pos-graduacao
 incluir:
  - widget-sobre-mestrado.html
- - widget-linhas-mestrado.html
  - widget-selecao-mestrado.html
  - widget-disciplinas-pos-graduacao.html
 ---
