@@ -3,7 +3,9 @@ layout: inner-child
 title: Curso de Verão 2015
 section: pos-graduacao
 toc: true
-incluir:
+tags:
+ - mestrado
+ - cursos
 ---
 
 O Curso de Verão da Escola de Matemática Aplicada ocorrerá no período
