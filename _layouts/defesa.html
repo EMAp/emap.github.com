@@ -20,20 +20,18 @@ layout: page
 	  <div id="leftstrip1">
 	    <h1 class="headline1"> {{ page.title }} </h1>
 	    
-	    <h3 class="post_meta"> 
-	      {{ page.date | localize: "%d %B %Y" }} 
-	    </h3>
+	    <h3 class="post_meta">{{ page.date | localize: "%d %B %Y" }}</h3>
 	    
 	    <div id="post_full">
 
 	      <h1>Defesa de dissertação de mestrado</h1>
 
-	      <p>A Escola de Matemática Aplicada da FGV convida todos
-	      para assistir a defesa de dissertação de mestrado
-	      intitulada <b>{{ page.title }}</b> do(a) aluno(a) <b>{{ page.aluno }}</b>, 
-	      candidato ao título de mestre. A
-	      defesa ocorrerá no dia <b>{{ page.date | localize: "%d/%b/%Y" }}</b> às <b>{{ page.hora }}</b>, no
-	      local <b>{{ page.local }}</b>.</p>
+	      <p>A Escola de Matemática Aplicada da FGV convida a
+	      todos para assistir a defesa de dissertação de mestrado
+		intitulada <b>{{ page.title }}</b> do(a) aluno(a) <b>{{ page.aluno }}</b>,
+		candidato ao título de mestre. A
+		defesa ocorrerá no dia <b>{{ page.date | localize: "%d de %B de %Y" }}</b>
+		às <b>{{ page.hora }}</b>, na <b>{{ page.local }}</b>.</p>
 
 	      {{ content }}
 	    </div>
