@@ -4,13 +4,92 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2014-12-01T21:19:59-02:00</updated>
+ <updated>2014-12-05T17:53:39-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Visualização de Informação em Sistemas Científicos</title>
+   <link href="http://emap.fgv.br/blog/2014/12/08/defesa.html"/>
+   <updated>2014-12-08T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2014/12/08/defesa</id>
+   <content type="html">&lt;h3&gt;Título&lt;/h3&gt;
+
+&lt;p&gt;Visualização de Informação em Sistemas Científicos&lt;/p&gt;
+
+&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+
+&lt;p&gt;08 de dezembro de 2014 às 10h. Praia de Botafogo, 190, sala 1019 - Rio
+de Janeiro, RJ&lt;/p&gt;
+
+&lt;h3&gt;Membros da banca&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Medeiros e Sá&lt;/a&gt; – FGV/EMAp (Orientadora)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Coelho Codeço&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6273068677376442&quot;&gt;Pedro Mário Cruz e Silva&lt;/a&gt; (Membro Externo) - Tecgraf, Puc-Rio&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Resumo&lt;/h3&gt;
+
+&lt;p&gt;Este trabalho é um estudo sobre a aplicação de técnicas de
+visualização de informação em sistemas de software científico, i.e.,
+sistemas de software voltados para matemática, ciências e
+engenharias. Enquanto sistemas dessa natureza normalmente fazem uso da
+visualização científica e figuram como caso de sucesso nessa área, nem
+sempre são projetados considerando os princípios de visualização de
+informação. Esse trabalho tem por objetivo avaliar a aplicação desse
+conceitos em alguns sistemas reais, desenvolvidos com diferentes
+níveis de entendimento nessa área de conhecimento e com base nessas
+experiências propor o desenvolvimento de componentes de software
+capazes de facilitar a criação de sistemas semelhantes e ao mesmo
+tempo promover a aplicação destes conceitos.&lt;/p&gt;
+
+&lt;h3&gt;Palavras-chave&lt;/h3&gt;
+
+&lt;p&gt;Visualização de Informação, Sistemas de software científico,
+Visualização Científica e Análise de Dados.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Professor apresenta estudo em Congresso Nacional de Matemática Aplicada à Indústria</title>
+   <link href="http://emap.fgv.br/blog/2014/11/27/congresso-matematica-industria.html"/>
+   <updated>2014-11-27T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/blog/2014/11/27/congresso-matematica-industria</id>
+   <content type="html">&lt;p&gt;O professor da Escola de Matemática Aplicada da FGV
+&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo de la Cruz&lt;/a&gt; apresentou no Congresso
+Nacional de Matemática Aplicada à Indústria (CNMAI) a proposta de um
+método estável para simulação computacional de equações diferenciais
+aleatórias (&quot;A Higher order and stable method for the numerical
+integration of random differential equation&quot;).&lt;/p&gt;
+
+&lt;p&gt;De acordo com a organização do evento, o congresso, que visa aplicar o
+conhecimento acadêmico à indúsria, ganha uma dimensão muito
+significativa, pois ocorre em um momento de enorme avanço tecnológico
+em que surgem uma possibilidades únicas de se desenvolver projetos
+cada vez mais sofisticados, utilizando para isto, ferramentas
+matemáticas e computacionais. No Brasil, ainda que um pouco tímida,
+esta parceria tem crescido ao longo dos anos devido à necessidade da
+troca de informações entre o meio industrial e as
+universidades. Portanto, o evento surge como uma boa oportunidade de
+integração entre a teoria e prática.&lt;/p&gt;
+
+&lt;p&gt;A FGV/EMAp integrou ao comitê nacional da comissão organizadora e,
+anteriormente, professores da Escola participaram do
+&lt;a href=&quot;/blog/2014/11/14/workshop-matematica-industria.html&quot;&gt;I Workshop em Matemática integrada à Indústria e Inovação Tecnológica&lt;/a&gt;,
+no qual foi uma prévia do Congresso Nacional.&lt;/p&gt;
+
+&lt;p&gt;Mais informações sobre o evento, clique
+&lt;a href=&quot;http://www.cnmai.catalao.ufg.br/&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>EMAp abre inscrições para o Mestrado em Modelagem Matemática da Informação</title>
@@ -1623,7 +1702,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#101;&amp;#x6d;&amp;#97;&amp;#112;&amp;#46;&amp;#x65;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#x66;&amp;#103;&amp;#x76;&amp;#46;&amp;#x62;&amp;#x72;&quot;&gt;&amp;#101;&amp;#x6d;&amp;#97;&amp;#x70;&amp;#46;&amp;#x65;&amp;#118;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#x66;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#x74;&amp;#x6f;&amp;#x3a;&amp;#101;&amp;#109;&amp;#97;&amp;#x70;&amp;#x2e;&amp;#x65;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#x74;&amp;#111;&amp;#x73;&amp;#64;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&quot;&gt;&amp;#101;&amp;#109;&amp;#97;&amp;#x70;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#x65;&amp;#110;&amp;#116;&amp;#111;&amp;#115;&amp;#64;&amp;#102;&amp;#103;&amp;#118;&amp;#x2e;&amp;#x62;&amp;#x72;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
