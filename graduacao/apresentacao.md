@@ -46,6 +46,8 @@ Atualmente, o valor da mensalidade é de R$ 1.550,00.
 [Acesse aqui](http://vestibular.fgv.br/cursos/curso-de-matematica-aplicada-rj)
 para mais informações sobre o processo de seleção.
 
+- [Edital de Transferência Externa e Portador de Diploma](/files/edital-transferencia-2015.pdf)
+
 ## Bolsas de estudo
 
 A FGV oferece BOLSA POR MÉRITO para os candidatos aprovados nos
