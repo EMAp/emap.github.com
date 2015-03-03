@@ -4,13 +4,59 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-01-10T17:03:25-02:00</updated>
+ <updated>2015-03-03T12:04:47-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Um método estocástico para a simulação de Equações Diferenciais Parciais determinísticas</title>
+   <link href="http://emap.fgv.br/seminars/2015/03/05/metodo-estocastico.html"/>
+   <updated>2015-03-05T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/03/05/metodo-estocastico</id>
+   <content type="html">&lt;p&gt;Nesta palestra será apresentado um método de natureza probabilística
+para a simulação de equações diferenciais parciais (EDPs)
+determinísticas multidimensionais que são muito difíceis, ou
+praticamente impossíveis, de resolver por métodos puramente
+determinísticos.&lt;/p&gt;
+
+&lt;p&gt;Começaremos apresentando a filosofia básica dos métodos Monte Carlo
+(MC) e do recentemente proposto método Monte Carlo Multilevel (MLMC) e
+sua aplicação na solução de problemas determinísticos. Posteriormente
+discutiremos como o MLMC pode ser combinado com esquemas
+computacionais usados na aproximação fraca de soluções de equações
+diferenciais estocásticas (EDEs) para resolver EDPs determinísticas.&lt;/p&gt;
+
+&lt;p&gt;Nesta direção apresentaremos um novo método explícito de tipo
+exponencial desenhado para a solução de EDEs com ruído em geral
+multiplicativo, que devido às boas propriedades de estabilidade e
+baixo custo computacional, permite ser utilizado satisfatoriamente
+conjuntamente com o MLMC para a simulação de EDPs determinísticas.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/people/hugo.cansino.htm&quot;&gt;Hugo de La Cruz&lt;/a&gt; possui graduação em
+Matemática pela Universidad de Oriente, Cuba (1998), doutorado em
+Matemática pela Universidad de la Havana (2007), pós-doutorado pelo
+Institut Mittag-Leffler, Royal Swedish Academy of Sciences, Suécia
+(2007) e pós-doutorado pelo Instituto de Matemática Pura e Aplicada
+(2009-), RJ. Tem experiência na área de Matemática, com ênfase em
+Equações Diferenciais Estocásticas, Análise Numérica e Processos
+Estocásticos.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Modelos com parâmetros variantes no tempo: arcabouços, desenvolvimentos e aplicações em finanças, seguros e energia</title>
