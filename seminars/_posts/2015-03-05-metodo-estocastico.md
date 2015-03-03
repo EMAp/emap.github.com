@@ -28,7 +28,7 @@ conjuntamente com o MLMC para a simulação de EDPs determinísticas.
 
 ## Palestrante
 
-[Hugo de La Cruz](/people/hugo.cansino.htm) possui graduação em
+[Hugo de La Cruz](/people/hugo.cansino.html) possui graduação em
 Matemática pela Universidad de Oriente, Cuba (1998), doutorado em
 Matemática pela Universidad de la Havana (2007), pós-doutorado pelo
 Institut Mittag-Leffler, Royal Swedish Academy of Sciences, Suécia
