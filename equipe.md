@@ -17,9 +17,11 @@ incluir:
 - [Maria Izabel Tavares Camacho](/people/maria.camacho.html) - diretora
 - [Moacyr Alvim Horta Barbosa da Silva](/people/moacyr.silva.html)
 - [Paulo Cezar Pinto Carvalho](/people/paulo.carvalho.html) - coordenador de graduação
+- [Pierre-Alexandre Bliman](/people/pierre.bliman.html)
 - [Renato Rocha Souza](/people/renato.souza.html) - coordenador da pós-graduação
 - [Vincent Gérard Yannick Guigues](/people/vincent.guigues.html) 
 - [Walter Wagner Carvalho Sande](/people/walter.sande.html)
 
+## Visitantes
 
-
+- [Sabrina Camargo](/people/sabrina.camargo.html)
