@@ -2,7 +2,7 @@
 layout: people
 title: Sabrina Camargo
 tex: true
-picture: 
+picture: sabrina.camargo.jpg
 ---
 
 # {{ page.title }}
