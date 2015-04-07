@@ -4,13 +4,60 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-03-19T22:07:17-03:00</updated>
+ <updated>2015-04-07T09:57:01-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Um método híbrido proximal extragradiente para a resolução do problema da desigualdade variacional monótono</title>
+   <link href="http://emap.fgv.br/seminars/2015/04/09/metodo-hibrido-proximal.html"/>
+   <updated>2015-04-09T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/04/09/metodo-hibrido-proximal</id>
+   <content type="html">&lt;p&gt;O problema de inclusão monótono - o problema de encontrar um zero de
+um operador monótono maximal -, é um problema importante que
+generaliza diversos problemas de interesse, como, por exemplo, o
+problema de otimização convexa e o problema da desigualdade
+variacional monótona. Um método clássico para resolução deste problema
+é o método de ponto proximal desenvolvido inicialmente por Martinet,
+no contexto de otimização de funções convexas, e posteriormente por
+Rockafellar neste contexto mais geral. Novas variantes inexatas deste
+método foram desenvolvidas por Solodov e Svaiter, e a complexidade
+computacional de uma destas variantes, os métodos híbridos proximais
+extragradiente (HPE), foi estabelecida recentemente por Monteiro e
+Svaiter. Nesta palestra apresentaremos a teoria básica associada a
+estes métodos, e um novo método para a resolução de um problema da
+desigualdade variacional monótona, definido por um operador monótono
+com derivada lipschitz continua e um conjunto convexo munido de uma
+função barreira auto-concordante. O método proposto combina iterações
+tipo ponto-interior com iterações tipo HPE e como sua complexidade
+computacional é estabelecida.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1472717451790946&quot;&gt;Mauricio Romero Sicre&lt;/a&gt;. Possui
+graduação em Matemática pela Universidade de Havana (1995), mestrado
+em Matemática pela mesma instituição (1997) e Doutorado pela
+Associação Instituto Nacional de Matematica Pura e Aplicada (IMPA)
+(2003). Realizou pós-doutorados na Pontifícia Universidade Católica do
+Rio de Janeiro (2003) e na Associação Instituto Nacional de Matemática
+Pura e Aplicada (IMPA) (2006).  Desde 2006 é Professor da Universidade
+Federal da Bahia. Tem experiência na área de Matemática Aplicada, com
+ênfase em Otimização.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Um exemplo prático de entropia como medida de diversificação de uma carteira long-short</title>
