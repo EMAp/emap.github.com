@@ -4,13 +4,121 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-04-07T09:57:01-03:00</updated>
+ <updated>2015-04-15T09:33:26-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Spatial structure in population dynamics: from individuals to populations</title>
+   <link href="http://emap.fgv.br/seminars/2015/04/30/spacial-structure.html"/>
+   <updated>2015-04-30T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/04/30/spacial-structure</id>
+   <content type="html">&lt;p&gt;Most models of population dynamics that deal with space explicitly, do
+so in terms of mean population densities (global or
+local);reaction-diffusion equations being a case in point.  This
+allows modeling efforts to focus in choosing the most useful
+expressions for population growth and dispersal that control the
+dynamics of a single state variable, the mean (local or global)
+density.  This approach implicitly assumes a fully mixed population,
+where all individuals interact with everyone else and thus have equal
+access to the uniformly distributed limiting resource.  Nature,
+however,is diverse and heterogeneous.  She always surprises us.  In
+many cases of real populations, the different characteristic spatial
+scales associated with fundamental biological processes lead to
+spatially structured populations, characterized by clumping or
+(stochastic) regularity.  In those cases, the mean density alone is
+insufficient to characterize the state of the population at any given
+time.  In this talk I will address the problem of modeling spatially
+explicit populations that link the individual scale with the
+population via a more general set of summary statistics that keep
+track of spatial correlations for various higher order configurations.
+This will require the development of new theory, based on applications
+of measure-valued stochastic processes, renormalization techniques,
+and information theory. Future extensions of this work involve
+problems in epidemiology requiring the synthesis of classical
+mathematical modeling techniques with machine learning.&lt;/p&gt;
+
+&lt;h2&gt;Speaker&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://researcher.watson.ibm.com/researcher/view.php?person=br-mraghib&quot;&gt;Michael Raghib&lt;/a&gt;
+is a civil engineer, applied mathematician and theoretical ecologist
+interested in mathematical &amp;amp; computational modeling in biology and the
+geosciences. His work focuses on merging tools from complex systems
+and machine learning with classical physical modeling, and applying
+these tools to find solutions for real-world problems in energy,
+healthcare, agriculture and the environment. He is Ph.D. in Applied
+Mathematics at the University of Glasgow in 2006, and postdoc at Los
+Alamos National Laboratory. He joined IBM Research-Brazil as a
+Research Staff Member in the Physically-based analytics group in
+January 2015. His research interests include stochastic processes,
+complex systems, machine learning and cognitive computing. Current
+focus explores applications of these areas of applied mathematics and
+computer science to problems in applied geosciences and
+biology. Current research focus include problems in applied
+geosciences and mathematical biology.&lt;/p&gt;
+
+&lt;h2&gt;Important&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not required a confirmation.&lt;/li&gt;
+&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Estimating the attack ratio of Dengue epidemics under time-varying force of infection</title>
+   <link href="http://emap.fgv.br/seminars/2015/04/16/dengue-epidemics.html"/>
+   <updated>2015-04-16T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/04/16/dengue-epidemics</id>
+   <content type="html">&lt;p&gt;Quantifying the attack ratio of disease is key to epidemiological
+inference and Public Health planning. For multi-serotype pathogens,
+however, different levels of serotype-specific immunity make it
+difficult to assess the population at risk.  In this paper we propose
+a Bayesian method for estimation of the attack ratio of an epidemic
+and the initial fraction of susceptibles using aggregated incidence
+data.  We derive the probability distribution of the effective
+reproductive number, Rt and use MCMC to obtain posterior distributions
+of the parameters of a single- strain SIR transmission model with
+time-varying force of infection.  Our method is showcased in a data
+set consisting of 18 years of dengue incidence in the city of Rio de
+Janeiro, Brazil.  We demonstrate that it is possible to learn about
+the initial fraction of susceptibles and the attack ratio even in the
+absence of serotype specific data. On the other hand, the information
+provided by this approach is limited, stressing the need for detailed
+serological surveys to characterise the distribution of
+serotype-specific immunity in the population.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Fávio Codeço Coelho Possui&lt;/a&gt; graduação em
+Biologia pela Universidade Federal do Rio de Janeiro (1992), mestrado
+em Engenharia Biomédica pela Universidade Federal do Rio de Janeiro
+(1995) e doutorado em Quantitative Biology - The University Of Texas
+At Arlington (1999). Foi Professor adjunto da Universidade do Estado
+do Rio de Janeiro (2001-2003) e Pesquisador Visitante da Fundação
+Oswaldo Cruz (2003 a 2008). Foi pesquisador a nível de pós
+doutoramento no Instituto Gulbenkian de Ciência, em Portugal, entre
+2008 e 2010. Atualmente é Professor Associado da Escola de Matemática
+Aplicada da Fundação Getulio Vargas, onde desenvolve pesquisa na área
+de modelagem matemática, estatística e computacional de doenças
+infecciosas.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Um método híbrido proximal extragradiente para a resolução do problema da desigualdade variacional monótono</title>
