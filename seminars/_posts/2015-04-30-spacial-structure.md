@@ -1,6 +1,6 @@
 ---
 layout: seminar
-title: Spatial structure in population dynamics: from individuals to populations
+title: "Spatial structure in population dynamics: from individuals to populations"
 quem: Michael Raghib
 onde: FGV - Praia de Botafogo, 190, room 317
 tex: false
