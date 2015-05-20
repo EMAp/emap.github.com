@@ -4,13 +4,72 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-05-11T18:17:58-03:00</updated>
+ <updated>2015-05-20T10:31:28-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Teoria Espectral dos Grafos e Aplicações</title>
+   <link href="http://emap.fgv.br/seminars/2015/05/21/teoria-espectral.html"/>
+   <updated>2015-05-21T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/05/21/teoria-espectral</id>
+   <content type="html">&lt;p&gt;O seminário terá início com a origem e a fundamentação teórica da
+Teoria Espectral dos Grafos - área multidisciplinar que reúne
+conhecimentos de Álgebra Linear, Teoria de Matrizes e Teoria dos
+Grafos, tendo diversas aplicações em Teoria da Computação, Pesquisa
+Operacional, Química, Física e Engenharia. Na sequência serão
+abordados os seguintes tópicos: matrizes associadas a grafos
+(adjacência, laplaciana, laplaciana sem sinal) e seus respectivos
+espectros, os autovalores mais estudados em cada caso, destacando-se o
+maior autovalor da matriz de adjacência (índice) e o segundo menor
+autovalor da matriz laplaciana (conectividade algébrica). Algumas
+aplicações importantes serão apresentadas, dentre as quais, a
+propagação de informações, a disseminação de vírus, limite espectral
+para risco epidêmico, o vetor Page-Rank (busca na WEB), corte máximo e
+problema de particionamento em grafos (utilização em redes muito
+grandes). O seminário será encerrado com o uso de espectros no
+clássico Problema do Isomorfismo de Grafos e suas aplicações ao
+reconhecimento de padrões.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/4017306470784388&quot;&gt;Nair Abreu&lt;/a&gt; possui graduação
+em Licenciatura em Matemática pela Universidade Federal Fluminense
+(1974), mestrado em Pesquisa Operacional pelo Instituto Militar de
+Engenharia (1977) e doutorado em Engenharia de Produção pela
+Universidade Federal do Rio de Janeiro (1984). É Professora
+Colaboradora da COPPE/UFRJ desde 1994. É Pesquisadora PQ do CNPq desde
+1994, atualmente sendo Pesquisador 1A. Foi Coordenadora do CA das
+Engenharias de Transporte e Produção do CNPq no período de 2009-2012 e
+foi Vice-presidente da IFORS perante a ALIO 2010-2012. Tem experiência
+na área de Pesquisa Operacional, com ênfase em Matemática Discreta,
+atuando principalmente em Teoria Espectral de Grafos e Otimização
+Combinatória.  Possui artigos publicados em Pesquisa Operacional,
+European Journal of Operational Research, Discrete Applied
+Mathematics, Linear Algebra and its Applications, Linear and
+Multilinear Algebra etc. Tem sido solicitada a avaliar artigos nos
+periódicos, Pesquisa Operacional, European Journal of Operational
+Research, Discrete Applied Mathematics, Linear Algebra and its
+Applications, etc. e já orientou dezenas de teses de mestrado e
+doutorado na Coppe/UFRJ e no IME-RJ.Foi Professor do Colégio Pedro II.
+Foi Professor efetivo da Fundação de Apoio à Escola Técnica (FAETEC).
+Leciona raciocínio lógico, estatística aplicada e matemática
+financeira no curso de administração da Universidade Cândido
+Mendes. Autor responsável de vídeos de matemática da Degrau Cultural.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Aproximações de números reais por números racionais: Por que as convergentes de frações contínuas fornecem as melhores aproximações?</title>
@@ -51,6 +110,44 @@ Cultural.&lt;/p&gt;
 &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
 &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comportamento Hidrodinâmico de Sistemas de Partículas Interagentes</title>
+   <link href="http://emap.fgv.br/seminars/2015/05/07/comportamento-hidrodinamico.html"/>
+   <updated>2015-05-07T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/05/07/comportamento-hidrodinamico</id>
+   <content type="html">&lt;p&gt;Abordaremos um método probabilístico, conhecido com limite
+hidrodinâmico, que permite a obtenção de equações diferenciais
+parciais (EDP&#39;s), de forma rigorosa, a partir da passagem de modelos
+microscópicos para macroscópicos. Tal abordagem, por um lado é uma
+fonte de novas EDP&#39;s e por outro lado, fornece o entendimento, a nível
+microscópico, de uma dada EDP. Finalizaremos com dois exemplos, uma
+generalização da equação do calor, que modela, por exemplo, a difusão
+em um ambiente com presença de membranas e, um modelo microscópico
+para uma equação de difusão rápida (fast diffusion equation), equação
+esta que modela fenômenos de superdifusão (ex. difusão em plasmas e
+supercondutividade) e apresenta grandes desafios do ponto de vista
+teórico. A apresentação será focada em idéias do tema, evitando
+detalhes técnicos.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/8745134398831488&quot;&gt;Fábio Júlio Valentim&lt;/a&gt; é
+professor visitante no IMPA (até agosto/2015) e professor adjunto no
+departamento de Matemática da Universidade Federal do Espírito
+Santo. Obteve seu doutorado em Matemática no IMPA em 2010, com período
+sanduíche no Courant Institute, NYU. Desenvolve pesquisa nas áreas de
+Probabilidade e Análise Matemática&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
