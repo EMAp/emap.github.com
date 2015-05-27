@@ -4,13 +4,58 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-05-20T10:31:28-03:00</updated>
+ <updated>2015-05-27T15:48:33-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Adaptive Voids: Uma abordagem primal dual para estruturas celulares adaptativas no contexto de Manufatura Aditiva - Impressão 3D</title>
+   <link href="http://emap.fgv.br/seminars/2015/05/28/adaptive-voids.html"/>
+   <updated>2015-05-28T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/05/28/adaptive-voids</id>
+   <content type="html">&lt;p&gt;Processos de manufatura aditiva, também conhecidos como impressão 3D,
+têm o potencial de mudar a abordagem de produção dos objetos do dia a
+dia. O desenho para manufatura aditiva considera as características e
+restrições de tais processos incluindo restrições impostas pelos
+materiais e pela geometria do objeto a ser produzido. As restrições
+impostas têm impacto na factibilidade, qualidade e custo dos objetos a
+serem impressos. Um dos objetivos desejáveis quando desenhamos para
+manufatura aditiva é a redução da quantidade de material a ser
+utilizada ao mesmo tempo que mantemos as propriedades estruturais do
+objeto em questão. Para atingir tal objetivo, o estudo de estruturas
+celulares para inclusão no desenho do objeto é uma abordagem efetiva e
+frequentemente encontrada em materiais naturais tais como ossos,
+esponjas etc. Nesta palestra, será apresentado o cenário de contexto
+de manufatura aditiva, bem como o algoritmo &quot;Adaptive Voids&quot;, um
+abordagem automática para geração de estruturas celulares adaptativas
+para um dado volume de entrada. A saída produzida pelo algoritmo pode
+ser aplicada em diferentes cenários de aplicações, tais como design de
+produtos, engenharia, arquitetura, biomedicina, entre outros.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Sá&lt;/a&gt; possui Pós-Doutorado pelo Cultural
+Informatics Research Group da Universidade de Brighton na Inglaterra
+(2012). Doutora em Ciências, com ênfase em Computação Gráfica, pelo
+IMPA- Instituto Nacional de Matemática Pura e Aplicada (2006). Mestre
+em Matemática Aplicada pela UFRJ (2001). Bacharel em Matemática pela
+UFRJ (1999). Áreas de Pesquisa: Computação Gráfica e Visualização de
+Informação.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Teoria Espectral dos Grafos e Aplicações</title>
