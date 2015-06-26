@@ -46,7 +46,15 @@ Atualmente, o valor da mensalidade é de R$ 1.550,00.
 [Acesse aqui](http://vestibular.fgv.br/cursos/curso-de-matematica-aplicada-rj)
 para mais informações sobre o processo de seleção.
 
-- [Edital de Transferência Externa e Portador de Diploma](/files/edital-transferencia-2015.pdf)
+## Edital de Transferência 2015.2
+ 
+Inscrições abertas para o Processo Seletivo de Transferência Externa e
+à Portadores de Diploma.
+ 
+Consulte o
+[edital de transferência 2015.2](/files/graduacao-edital-transferencia-2015-2.pdf)
+e acesse o
+[formulário de inscrições](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=GMAPT&p_empresa=EMAP).
 
 ## Bolsas de estudo
 
