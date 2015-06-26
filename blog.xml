@@ -4,13 +4,103 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-06-21T14:47:24-03:00</updated>
+ <updated>2015-06-26T05:44:00-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Utilização do modelo skip-gram para representação distribuída de palavras no projeto Media Cloud Brasil</title>
+   <link href="http://emap.fgv.br/blog/2015/06/25/defesa.html"/>
+   <updated>2015-06-25T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2015/06/25/defesa</id>
+   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+
+&lt;p&gt;Existe um problema de representação quando trabalha-se com
+processamento de linguagem natural pois uma vez que o modelo
+tradicional de bag-of-words representa os documentos e as palavras em
+uma unica matriz, esta tende a ser completamente esparsa. Para lidar
+com este problema, surgiram alguns métodos que são capazes de
+representar as palavras utilizando uma representação distribuída, em
+um espaço de dimensão menor e mais compacto, inclusive tendo a
+propriedade de relacionar palavras de forma semântica. Este trabalho
+tem como objetivo utilizar um conjunto de documentos obtido através do
+projeto Media Cloud Brasil para aplicar o modelo skip-gram em busca de
+explorar relações e encontrar padrões que facilitem na compreensão do
+conteúdo.&lt;/p&gt;
+
+&lt;h2&gt;Data, horário e local&lt;/h2&gt;
+
+&lt;p&gt;30 de junho de 2015 às 09h00. Praia de Botafogo, 190, sala 1012 - Rio
+de Janeiro, RJ&lt;/p&gt;
+
+&lt;h2&gt;Membros da banca&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; – FGV/EMAp (orientador)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/sabrina.camargo.html&quot;&gt;Sabrina Camargo&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/5724573734505786&quot;&gt;Heliana Mello&lt;/a&gt; - UFMG (membro externo)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Palavras-chave&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Media Cloud Brasil&lt;/li&gt;
+&lt;li&gt;skip-gram&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EMAp sela parceria com a Universidade de Umea na Suécia</title>
+   <link href="http://emap.fgv.br/blog/2015/06/24/parceria-univ-suecia.html"/>
+   <updated>2015-06-24T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2015/06/24/parceria-univ-suecia</id>
+   <content type="html">&lt;p&gt;A Escola de Matemática Aplicada da Fundação Getulio Vargas (FGV/EMAp)
+firmou parceria com o Departamento de Matemática e Estatística
+Matemática, da
+&lt;a href=&quot;http://www.math.umu.se/english/&quot;&gt;Universidade de Umea&lt;/a&gt;, na Suécia,
+para a realização do projeto de pesquisa e cooperação &quot;Efficient
+numerical discretisations of stiff stochastic and random differential
+equations&quot;. O programa será totalmente financiado pela The Swedish
+Foundation for International Cooperation in Research and Higher
+Education (STINT), organização que fomenta o intercâmbio acadêmico
+entre instituições suecas e de outros países.&lt;/p&gt;
+
+&lt;p&gt;Segundo o professor
+&lt;a href=&quot;http://emap.fgv.br/people/hugo.cansino.html&quot;&gt;Hugo de la Cruz&lt;/a&gt;,
+coordenador do projeto na EMAp, o objetivo do programa é a construção
+e o estudo de métodos e algoritmos numérico-computacionais para a
+simulação de equações aleatórias. &quot;Esses tipos de equações são
+utilizadas para modelar e explicar diversos processos reais sujeitos a
+aleatoriedade. Por exemplo, são muito usadas na modelagem nas
+finanças, neurociências, sistemas biológicos, fenômenos sociais etc&quot;,
+explica.&lt;/p&gt;
+
+&lt;p&gt;Além da elaboração do plano próprio de pesquisa, serão realizadas
+visitas da equipe sueca à EMAp e visitas do grupo da FGV ao
+departamento de Matemática e Estatística Matemática da Universidade de
+Umea, quando serão realizados cursos especializados, ministrados pelos
+professores David Cohen, coordenador do projeto na Suécia, e Hugo de
+la Cruz, incluindo workshops acerca do tema da pesquisa. As equipes
+são formadas por estudantes de mestrado da EMAp e de doutorado da
+Umea, além de um pós-doutorando no grupo sueco e dos dois professores.&lt;/p&gt;
+
+&lt;p&gt;Para Hugo de la Cruz, o projeto vai permitir o fortalecimento da linha
+de pesquisa de simulação estocástica que é pouco explorada no Brasil,
+proporcionando sua consolidação e maior visibilidade à área de atuação
+da EMAp no país. &quot;Paralelamente, vai beneficiar não só os alunos de
+mestrado envolvidos, mas também os demais alunos da graduação e
+pós-graduação, que terão a oportunidade de participar de cursos e
+seminários sobre o tema&quot;, finaliza.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Professor da EMAp participa do maior evento de sustentabilidade do país</title>
@@ -2009,7 +2099,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#x6d;&amp;#x61;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#x65;&amp;#x6d;&amp;#x61;&amp;#112;&amp;#x2e;&amp;#x65;&amp;#x76;&amp;#x65;&amp;#110;&amp;#116;&amp;#111;&amp;#x73;&amp;#64;&amp;#x66;&amp;#x67;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&quot;&gt;&amp;#x65;&amp;#x6d;&amp;#x61;&amp;#x70;&amp;#x2e;&amp;#101;&amp;#118;&amp;#x65;&amp;#110;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#102;&amp;#103;&amp;#118;&amp;#46;&amp;#x62;&amp;#x72;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#x3a;&amp;#101;&amp;#109;&amp;#97;&amp;#112;&amp;#46;&amp;#x65;&amp;#118;&amp;#x65;&amp;#110;&amp;#116;&amp;#111;&amp;#x73;&amp;#64;&amp;#102;&amp;#103;&amp;#118;&amp;#x2e;&amp;#x62;&amp;#114;&quot;&gt;&amp;#101;&amp;#109;&amp;#97;&amp;#x70;&amp;#46;&amp;#101;&amp;#118;&amp;#101;&amp;#x6e;&amp;#116;&amp;#111;&amp;#115;&amp;#x40;&amp;#102;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#x62;&amp;#114;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
