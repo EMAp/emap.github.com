@@ -6,7 +6,7 @@ section: events
 
 ## Próximos Eventos
 
-- [NetSci-x2015, Internetional School and Conference on Network Science, 14-16 de janeiro](http://www.netsci-x2015.net/)
+- [Conference on Mathematical Modeling and Control of Communicable Diseases, 11-14 de Janeiro de 2016](http://math-epidemics.emap.fgv.br/)
 
 ## Eventos organizados
 
