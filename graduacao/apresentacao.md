@@ -39,7 +39,7 @@ Aplicada.
 
 ## Investimento
 
-Atualmente, o valor da mensalidade é de R$ 1.550,00.
+Atualmente, o valor da mensalidade é de R$ 1.700,00.
 
 ## Vestibular
 
