@@ -4,13 +4,77 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-07-23T17:04:05-03:00</updated>
+ <updated>2015-07-30T05:57:05-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Defesa</title>
+   <link href="http://emap.fgv.br/blog/2015/07/31/defesa.html"/>
+   <updated>2015-07-31T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/blog/2015/07/31/defesa</id>
+   <content type="html">&lt;p&gt;﻿---
+layout: defesa
+title: Um método de linearização local com passo adaptativo para solução numérica de equações diferenciais estocásticas com ruído aditivo
+aluno: Pablo Aguiar de Maio
+hora: 10h00
+local: Praia de Botafogo, 190, sala 1013
+tags:
+ - defesa&lt;/p&gt;
+
+&lt;h2&gt; - mestrado&lt;/h2&gt;
+
+&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+
+&lt;p&gt;31 de julho 2015 às 10h00. Praia de Botafogo, 190, sala 1013 - Rio de
+Janeiro, RJ.&lt;/p&gt;
+
+&lt;h3&gt;Membros da banca&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/people/hugo.cancino.html&quot;&gt;Hugo Alexander de la Cruz Cancino&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6908067473022811&quot;&gt;Max Souza&lt;/a&gt; (membro externo) – UFF&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço Coelho&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Resumo&lt;/h3&gt;
+
+&lt;p&gt;Neste trabalho apresentamos um novo método numérico com passo
+adaptativo baseado na abordagem de linearização local, para a
+integração de equações diferenciais estocásticas com ruído
+aditivo. Propomos, também, um esquema computacional que permite a
+implementação eficiente deste método, adaptando adequadamente o
+algorítimo de Padé com a estratégia “scaling squaring” para o cálculo
+das exponenciais de matrizes envolvidas. Antes de introduzirmos a
+construção deste método, apresentaremos de forma breve o que são
+equações diferenciais estocásticas, a matemática que as fundamenta, a
+sua relevância para a modelagem dos mais diversos fenômenos, e a
+importância da utilização de métodos numéricos para avaliar tais
+equações. Também é feito um breve estudo sobre estabilidade
+numérica. Com isto, pretendemos introduzir as bases necessárias para a
+construção do novo método/esquema. Ao final, vários experimentos
+numéricos são realizados para mostrar, de forma prática, a eficácia do
+método proposto, e compará-lo com outros métodos usualmente
+utilizados.&lt;/p&gt;
+
+&lt;h3&gt;Palavras-chave&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Equações diferenciais estocásticas&lt;/li&gt;
+&lt;li&gt;Esquemas exponenciais de Linearização local&lt;/li&gt;
+&lt;li&gt;Passo adaptativo&lt;/li&gt;
+&lt;li&gt;A-estabilidade&lt;/li&gt;
+&lt;li&gt;Análise numérica&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Análise de grandes eventos na cidade do Rio de Janeiro usando dados de telefonia celular</title>
@@ -25,9 +89,9 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6443456845137235&quot;&gt;Alexandre Gonçalves Evsukoff&lt;/a&gt; (Membro Externo) - UFRJ&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -2134,7 +2198,7 @@ concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
 &lt;h2&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#x74;&amp;#x6f;&amp;#x3a;&amp;#x65;&amp;#x6d;&amp;#97;&amp;#112;&amp;#x2e;&amp;#x65;&amp;#x76;&amp;#101;&amp;#110;&amp;#116;&amp;#x6f;&amp;#115;&amp;#64;&amp;#x66;&amp;#x67;&amp;#118;&amp;#46;&amp;#98;&amp;#x72;&quot;&gt;&amp;#x65;&amp;#109;&amp;#x61;&amp;#x70;&amp;#46;&amp;#x65;&amp;#118;&amp;#101;&amp;#110;&amp;#x74;&amp;#111;&amp;#x73;&amp;#64;&amp;#x66;&amp;#x67;&amp;#118;&amp;#46;&amp;#98;&amp;#x72;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#x6c;&amp;#116;&amp;#x6f;&amp;#x3a;&amp;#x65;&amp;#109;&amp;#x61;&amp;#x70;&amp;#x2e;&amp;#x65;&amp;#x76;&amp;#101;&amp;#110;&amp;#116;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#102;&amp;#103;&amp;#118;&amp;#x2e;&amp;#98;&amp;#x72;&quot;&gt;&amp;#101;&amp;#109;&amp;#x61;&amp;#x70;&amp;#46;&amp;#101;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#x74;&amp;#x6f;&amp;#115;&amp;#x40;&amp;#x66;&amp;#x67;&amp;#118;&amp;#46;&amp;#x62;&amp;#x72;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
