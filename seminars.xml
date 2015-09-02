@@ -4,13 +4,131 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-07-30T05:57:05-03:00</updated>
+ <updated>2015-09-01T22:16:58-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Dinâmica de metapopulações: habitat complexo e estratégia de dispersão</title>
+   <link href="http://emap.fgv.br/seminars/2015/09/10/meta-populacao.html"/>
+   <updated>2015-09-10T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/09/10/meta-populacao</id>
+   <content type="html">&lt;p&gt;Nesta apresentação, começaremos construindo uma equação para a
+evolução da distribuição espacial da população. Para a parte local da
+evolução, partindo de princípios fundamentais da dinâmica de
+populações, obtemos o modelo canônico, composto de uma expressão
+logística (modelo de Verhulst) e ruídos multiplicativos (demográfico e
+ambiental). Em seguida, definimos o acoplamento espacial gerado pela
+dispersão dos indivíduos que pode ser aleatória ou seletiva, quando os
+indivíduos tem conhecimento sobre as regiões favoráveis ao crescimento
+populacional. Por último, introduzimos a heterogeneidade do meio,
+definindo uma distribuição espacial para a taxa de crescimento
+populacional. O protocolo proposto gera uma estrutura complexa para as
+regiões de crescimento positivo que pode ter aspecto disperso ou
+aglomerado (Levy Dust), o que está relacionado a sua dimensão
+fractal. Com esse modelo, estudamos o papel da estratégia de dispersão
+e da estrutura espacial do habitat no comportamento assintótico do
+tamanho da população. Os principais resultados mostram que uma
+combinação dos dois mecanismos (aleatório e seletivo) otimiza o
+tamanho da população e que para alguns casos existe uma condição
+crítica que a estrutura espacial do meio deve obedecer para evitar a
+extinção da população.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/7720753490776363&quot;&gt;Eduardo Colombo&lt;/a&gt; possui
+graduação em Física pela Pontifícia Universidade Católica do Rio de
+Janeiro (2011) e mestrado em Física pela Pontifícia Universidade
+Católica do Rio de Janeiro (2014). Atualmente, Eduardo Colombo é aluno
+de doutorado na mesma instituição. Tem experiência na área de Física
+Estatística e Sistemas Complexos, atuando principalmente nos seguintes
+temas: auto-organização e dinâmica de populações.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Filtro de Kalman restrito na análise dinâmica de estilo de fundos atuariais</title>
+   <link href="http://emap.fgv.br/seminars/2015/09/03/filtro-kalma.html"/>
+   <updated>2015-09-03T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/09/03/filtro-kalma</id>
+   <content type="html">&lt;p&gt;Nesse artigo, são estudados os fundos atuariais brasileiros do tipo
+IGP-M, com histórico de quotas disponível de janeiro de 2004 a agosto
+de 2008, mediante análises dinâmicas de estilo. O objetivo central é o
+de gerar informações para que empresas seguradoras e fundos de pensão
+possam melhor diversificar seus investimentos para hedge de seus
+passivos atuariais. A plataforma metodológica baseia-se: (1) na
+construção e justificativa de índices de classes de ativos apropriados
+para os fundos em análise; e (2) na abordagem de espaço de estado
+linear com restrições e sob a implementação do filtro de Kalman com
+inicialização exata. As principais conclusões advindas dos resultados
+empíricos são: (1) o uso de inicializações exatas do filtro de Kalman
+promove maior estabilidade numérica; (2) estruturas muito
+parcimoniosas são suficientes para descrever o estilo dinâmico dos
+fundos atuariais brasileiros; e (3) os gestores dos fundos analisados
+optaram, no período estudado, por alocar seus recursos principalmente
+em títulos indexados ao IGP-M e títulos pré e pós-fixados, sempre sob
+influência dodesempenho do mercado financeiro e das expectativas
+futuras do cenário econômico, principalmente quanto à magnitude da
+taxa básica de juros brasileira.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/2848274274668372&quot;&gt;Adrian Pizzinga&lt;/a&gt; possui
+graduação em Estatística pela Escola Nacional de Ciências Estatísticas
+(ENCE/IBGE) em 2000, mestrado em Engenharia Elétrica (ênfase em
+Modelos Estatísticos) na Pontifícia Universidade Católica do Rio de
+Janeiro (PUC-Rio) em 2004 e o doutorado na mesma área e na mesma
+instituição em 2008. Foi Professor Colaborador do Instituto de Gestão
+de Riscos Financeiros e Atuariais da PUC-Rio (IAPUC) de fevereiro de
+2008 a junho de 2010. É Professor Adjunto do Instituto de Matemática e
+Estatística de Estatística da Universidade Federal Fluminense
+(UFF). Realiza pesquisa nas seguintes áreas: modelos em espaço de
+estado, imposição de restrições em filtragem e suavização de Kalman,
+inicialização do filtro de Kalman, econometria de séries temporais em
+finanças (análise dinâmica de estilo, modelos para contratos futuros
+de commodities, modelos para curvas de juros, e estratégias
+quantitativas de pairs trading), macroeconomia (modelos de repasse
+cambial variante no tempo e modelos de benchmarking) e atuária ramo
+não-vida (estimação de reserva IBNR).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/0286112484592440&quot;&gt;Luciano Vereda&lt;/a&gt; possui
+graduação em Engenharia Elétrica pela Pontifícia Universidade Católica
+do Rio de Janeiro (1990) e Doutorado em Economia pela Pontifícia
+Universidade Católica do Rio de Janeiro (PUC-Rio) (2004). Foi
+Professor Assistente do Instituto de Gestão de Riscos Financeiros e
+Atuariais da PUC-Rio (IAPUC) de agosto de 2005 a dezembro
+de 2010. Atualmente, é Professor Adjunto da Faculdade de Economia da
+Universidade Federal Fluminense. Sua pesquisa e experiência prática se
+concentram nas áreas de Finanças (com ênfase em modelos para a curva
+de juros, apreçamento de ativos financeiros de renda fixa, análise
+macro-fundamentada do estilo de gestão de fundos de investimento, e
+administração de ativos e passivos), Macroeconomia (em especial
+Economia Monetária e modelos dinâmicos estocásticos de equilíbrio
+geral) e Previsão Macroeconômica.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Adaptive Voids: Uma abordagem primal dual para estruturas celulares adaptativas no contexto de Manufatura Aditiva - Impressão 3D</title>
