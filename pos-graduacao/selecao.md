@@ -10,17 +10,19 @@ incluir:
 
 ## Processo Seletivo 2015
 
-Informações Gerais sobre o [processo seletivo de 2015](/files/selecao-2015.pdf).
+Informações Gerais sobre o [processo seletivo de 2015](/files/mestrado-selecao-2016.pdf).
 
-### Cronograma Seleção 2015
+## Cronograma
 
-<img src="/images/cronograma2015-small.png" onClick="viewImage(this);" /> 
-
-### Formulário de Inscrição
-
-Acesse este
-[link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP)
-para se inscrever.
+- Período de inscrições: 15/09/2012 até 29/01/2016
+- Início das aulas: 29/02/2016
+- [Link de inscrição](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CMMMI&p_empresa=EMAP)
+ 
+## Curso de Verão
+ 
+- Período de inscrição: 15/09 até 20/12/2015
+- Período do Curso: 04 a 29/01/2016
+- [Link de inscrição](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVAMA&p_empresa=EMAP)
 
 ### Informações FGV
 
