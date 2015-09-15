@@ -21,19 +21,6 @@
     
 
     
-    <script src="/js/jquery.tableofcontents.min.js" type="text/javascript" charset="utf-8"></script>
-    <script type="text/javascript" charset="utf-8">
-      $(document).ready(function(){ 
-      $("ol#toc").tableOfContents(
-      $("#post_full"),   // Scoped to div#post
-       {
-        startLevel: 2,   // H2 and up
-        depth:      4,   // H2 through H4,
-        topLinks: true   // Add "Top" Links to Each Header
-       });
-       });
-    </script>
-    
 
     <!-- google analytics -->
     <script type="text/javascript">
@@ -66,7 +53,7 @@
     </script>
   </head>
 
-  <body class="inner-child">
+  <body class="disciplina">
   <div align="center" id="container">
     <div id="wrapper">
 
@@ -138,67 +125,98 @@
 	<div class="clear">
 	  <div id="leftstrip1">
 	    <div id="post_full">
-	      <h1 class="headline1"> Curso de Verão 2014 </h1>
-
-	      <p>O principal objetivo do Curso de Verão é proporcionar aos ingressantes
-uma complementação de sua formação de graduação, tanto em Matemática
-quanto em Computação, de modo a permitir um melhor desempenho nas
-disciplinas do Mestrado.  O Curso de Verão tem a duração de 4 semanas
-(de 4 a 29 de janeiro de 2016), com aulas de segunda a sexta-feira, e
-consiste de duas disciplinas: "Fundamentos de Matemática: uma
-Introdução à Análise" (com aulas de 9h às 12h30m) e "Introdução à
-Programação com a Linguagem Python" (com aulas de 14h às 17h).</p>
-
-<p>O Curso de Verão é opcional, mas a Comissão de Seleção poderá
-indicá-lo (em uma disciplina ou ambas) para candidatos aprovados na 1ª
-Etapa do Processo Seletivo.  A Comissão de Seleção poderá, também,
-condicionar a aprovação do candidato no Processo Seletivo do Mestrado
-ao bom desempenho no Curso de Verão.</p>
-
-<p>Interessados no Curso de Verão e candidatos ao Mestrado em Modelagem
-Matemática, devem se inscrever de 15 de setembro até 20 de dezembro de
-2015 e o investimento é no valor de R$ 500,00. O formulário deverá ser
-preenchido pela internet no site da Escola de Matemática Aplicada
-através do
-<a href="http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVAMA&amp;p_empresa=EMAP">link</a>.</p>
-
-<p>São documentos necessários à inscrição:</p>
-
-<ul>
-<li>Cópia da carteira de identidade;</li>
-<li>Cópia do CPF;</li>
-<li>Duas fotos (3x4) coloridas;</li>
-<li>Comprovante de pagamento da taxa de inscrição.</li>
+	      <h1> Course on Stochastic Processes Applied to Finance </h1>
+	      
+	      <ul>
+<li>Área: Matemática da Informação</li>
+<li>Código: MIF005</li>
+<li>Carga horária: 45 horas</li>
+<li>Créditos:  3</li>
+<li>Course language: English</li>
 </ul>
 
 
-<h3>Observação</h3>
+<h2>Prerequisite</h2>
 
-<p>A FGV possui regras quanto ao vestuário das pessoas que transitam em
-suas instalações. Não será permitida a entrada de pessoas vestindo
-shorts, bermuda, mini-saias e/ou sandálias do tipo Havaianas.</p>
+<p>Good knowledge of probability.</p>
+
+<h2>Docente(s)</h2>
+
+<ul>
+<li>Margaret Armstrong</li>
+<li>Alain Galli</li>
+</ul>
+
+
+<h2>Organisation</h2>
+
+<p>Each afternoon is split into 3 sessions with a 15 minute break in
+between:</p>
+
+<ul>
+<li>2 x 1 hour lectures</li>
+<li>Computer practical session using Matlab</li>
+<li>Textbook: Options, Futures and other Derivatives by John Hull</li>
+</ul>
+
+
+<h2>Ementa</h2>
+
+<p>The course is split into three broad sections: finance, stochastic
+processes, and numerical methods.</p>
+
+<p>After describing the main types of financial derivatives (futures,
+options, puts &amp; calls, Amercian versus European options etc), we
+present the concept on "no arbitrage" and will use it to derive the
+put-call parity but in order to determine the value of a derivative,
+we need to know how the price of the underlying asset varies over
+time.</p>
+
+<p>Different types of stochastic processes can be used to represent these
+fluctuations, but in finance the main ones are Itô diffusion processes
+such as geometric Brownian motion. On the mathematical side, the
+course will cover filtrations, martingales, Itô's formula &amp; Girsanov’s
+theorem.</p>
+
+<p>There are two broad ways of evaluating (i.e. pricing options): by
+non-arbitrage and using the Feynman-Kac theorem. In some cases, these
+lead to closed form expressions which can be evaluated immediately,
+but in most cases, numerical methods such Monte Carlo simulations or
+binomial trees.</p>
+
+<p>Several of the computer practical classes will be devoted to
+simulations: first generating random number, random variables and
+sample paths for the common stochastic processes. When using
+simulations it is important to know how to speed up their
+convergence. So the topics of variance reduction (control variates,
+antithetic sampling, stratified sampling, Latin hypercubes, etc),
+quasi- Monte-Carlo methods (Halton &amp; Sobol sequences) and
+discretisation schemes will be treated. Finally the Longstaff-Schwartz
+method will be explained.</p>
+
+<p>These numerical methods will be used to evaluate different types of
+options on interest rates, foreign exchange rates, and
+commodities. Another important concept that will be taught is delta
+hedging. Other topics such as the risk-free rate, bonds, term
+structure, rating agencies, historic versus implied volatility,
+stochastic volatility, variance swaps and credit risk derivatives will
+be treated briefly.</p>
+
+<h2>Bibliografia</h2>
+
+<ol class="bibliography"></ol>
+
+
+
 
 	    </div>
 	  </div>
 
 	  <div id="rightstrip1">
-	  
-	     <div id="toc">
-  <h3>Nesta página</h3>
-  <ol id="toc"></ol> 
-</div>
+	    
+	    <h3>Grade de disciplinas</h3>
+<p>Confira as disciplinas oferecidas no mestrado. <a href="/pos-graduacao/disciplinas.html" class="mais">saiba mais</a></p>
 
-	  
-
-	  
-	    <h3>Sobre o mestrado</h3>
-<p>Conheça o curso de Mestrado em Modelagem Matemática da Informação. <a href="/pos-graduacao/apresentacao.html" class="mais">saiba mais</a></p>
-
-          
-	    <h3>Processo seletivo</h3>
-<p>Informe-se sobre o processo de seleção do mestrado na EMAp. <a href="/pos-graduacao/selecao.html" class="mais">saiba mais</a></p>
-
-          
 	  </div>
 	</div>
       </div>
