@@ -1,7 +1,7 @@
 ---
 section: pos-graduacao
 layout: disciplina
-title: Course on Stochastic Processes Applied to Finance
+title: Stochastic Processes Applied to Finance
 area: Matemática da Informação
 creditos: 3
 ---
