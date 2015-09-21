@@ -4,13 +4,101 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-09-21T09:37:11-03:00</updated>
+ <updated>2015-09-21T19:58:21-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>A arte de modelar matematicamente problemas de otimização: problema euclidiano de Steiner</title>
+   <link href="http://emap.fgv.br/seminars/2015/10/01/modelar-matematicamente-steiner.html"/>
+   <updated>2015-10-01T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/10/01/modelar-matematicamente-steiner</id>
+   <content type="html">&lt;p&gt;Será apresentada a construção de um modelo matemático de otimização
+para o problema euclidiano de Steiner, cuja resolução exige técnicas
+de otimização combinatória, de otimização contínua e
+não-diferenciabilidade. Possíveis aplicações e resultados numéricos
+serão apresentados.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/4436183480921146&quot;&gt;Nelson Maculan&lt;/a&gt; possui
+graduação em Engenharia de Minas e Metalurgia pela Universidade
+Federal de Ouro Preto (1965), mestrado (D.E.A.) em Matemática
+Estatística - Universite de Paris VI (Pierre et Marie Curie) (1967),
+doutorado em Engenharia de Produção pela Universidade Federal do Rio
+de Janeiro (1975) e “Diplôme d&#39;Habilitation à Diriger des Recherches
+(H.D.R) en Sciences de la Gestion (1988)”, pela Université
+Paris-Dauphine (Paris IX). Atualmente é professor emérito da
+Universidade Federal do Rio de Janeiro. Tem experiência na área de
+Ciência da Computação, com ênfase em Matemática da Computação, atuando
+principalmente nos seguintes temas: otimização combinatória,
+programação inteira, programação linear, geração de colunas e
+otimização global.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Synchronization in networks of coupled dynamical systems</title>
+   <link href="http://emap.fgv.br/seminars/2015/09/21/synchronization-networks-dynamical-systems.html"/>
+   <updated>2015-09-21T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/09/21/synchronization-networks-dynamical-systems</id>
+   <content type="html">&lt;p&gt;Various systems in nature can be described by dynamical systems
+coupled through a network structure, for example a network of neurons
+or coupled oscillators. It is important to understand under which
+conditions such networks synchronize, since in many applications
+synchronization is a property that is either desired or undesirable
+(e.g. in epilepsy attacks).&lt;/p&gt;
+
+&lt;p&gt;I will introduce a mathematical model for a network of identical
+dynamical systems with a general &quot;diffusion-like&quot; coupling, i.e. a
+coupling that pushes connected nodes to a common state. Our main
+result is that when the coupling is sufficiently strong, then such a
+network of nodes (with general dynamics) has a stable synchronized
+state. Furthermore, our technique of using the dichotomy spectrum then
+also implies that this persists, even when the nodes are not exactly
+identical.&lt;/p&gt;
+
+&lt;p&gt;This is joint work with Tiago Pereira, Martin Rasmussen and Alexei
+Veneziani.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jaapeldering.nl/index.php&quot;&gt;Jaap Eldering&lt;/a&gt; obtained his PhD
+at Utrecht University, The Netherlands in 2012. After that, he was a
+postdoc at Imperial College London, and since June 2015 he is a
+visiting researcher at PUC-Rio.&lt;/p&gt;
+
+&lt;p&gt;His research interests are broadly in dynamical systems and
+(geometric) mechanics. His PhD thesis was on normally hyperbolic
+invariant manifolds (in particular, on extending persistence results
+to noncompact manifolds in bounded geometry). Since then, he has
+worked on various more applied problems, such as network
+synchronization, biolocomotion, a particle model for fluid flow, and
+nonholonomic dynamics.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Heteroscedastic regression models: an objective Bayesian approach</title>
