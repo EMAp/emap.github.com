@@ -31,4 +31,4 @@ incluir:
 - [Tópicos Avançados em Lógica](disciplina/topicos-avancados-logica.html)
 - [Tópicos Avançados em Matemática Aplicada](disciplina/topicos-avancados-matematica-aplicada.html)
 - [Visualização de informação](disciplina/visualizacao-informacao.html)
-- [Stochastic Processes Applied to Finance](stochastic-processes-finance.html)
+- [Stochastic Processes Applied to Finance](disciplina/stochastic-processes-finance.html)
