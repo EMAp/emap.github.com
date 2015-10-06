@@ -1,6 +1,6 @@
 ---
 layout: inner-child
-title: Curso de Verão 2014
+title: Curso de Verão 2016
 section: pos-graduacao
 toc: true
 incluir:
@@ -28,7 +28,7 @@ Matemática, devem se inscrever de 15 de setembro até 20 de dezembro de
 2015 e o investimento é no valor de R$ 500,00. O formulário deverá ser
 preenchido pela internet no site da Escola de Matemática Aplicada
 através do
-[link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVAMA&p_empresa=EMAP).
+[link](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMA&p_empresa=EMAP).
 
 São documentos necessários à inscrição:
 
