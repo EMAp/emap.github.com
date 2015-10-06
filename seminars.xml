@@ -4,13 +4,58 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-09-28T21:44:21-03:00</updated>
+ <updated>2015-10-06T16:13:50-03:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Rough Paths: um pouco sobre a sua teoria</title>
+   <link href="http://emap.fgv.br/seminars/2015/10/08/rough-paths.html"/>
+   <updated>2015-10-08T00:00:00-03:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/10/08/rough-paths</id>
+   <content type="html">&lt;p&gt;Teoria iniciada década de 90 por Terry Lyons, propõe uma abordagem
+para equações diferenciais e integrais ao longo de caminhos
+irregulares. Vem sendo importante no estudo do cálculo estocástico uma
+vez que vários processos estocástios possuem uma interpretação
+canônica neste novo contexto. Desse modo, é possível dar sentido, por
+exemplo, a soluções caminho-a-caminho para equações diferenciais
+estocásticas. Atualmente é um tópico bastante ativo, abrangendo de
+equações diferenciais parciais a problemas de simulação numérica de
+equações estocásticas.&lt;/p&gt;
+
+&lt;p&gt;Neste seminário, será introduzido o conceito de rough paths de forma
+amigável. A tentativa é justificar o uso das ferramentas e técnicas
+focando em exemplos e contra-exemplos. Alguns dos principais pontos
+técnicos serão enfatizados, porém sem demonstrações formais.&lt;/p&gt;
+
+&lt;p&gt;Ao fim do seminário, o objetivo é chegar na formulação da integral ao
+longo de rough paths e equações diferencias dirigidas de maneira bem
+posta.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1562307710334473&quot;&gt;Rafael Castrequini&lt;/a&gt; possui
+graduação, mestrado e doutorado em Matemática pela Universidade
+Estadual de Campinas. Tem experiência na área de probabilidade e
+análise, com ênfase em rough paths. Atualmente é pós-doc da EMAp,
+trabalhando em conjunto com o
+&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;professor Hugo&lt;/a&gt; sobre a teoria dos rough
+paths.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>A arte de modelar matematicamente problemas de otimização: problema euclidiano de Steiner</title>
