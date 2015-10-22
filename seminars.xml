@@ -4,13 +4,55 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-10-19T11:19:18-02:00</updated>
+ <updated>2015-10-22T10:30:11-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Modeling volatility using state space models with heavy tailed distributions</title>
+   <link href="http://emap.fgv.br/seminars/2015/10/22/modeling-volatility.html"/>
+   <updated>2015-10-22T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/10/22/modeling-volatility</id>
+   <content type="html">&lt;p&gt;This article deals with a non-Gaussian state space model (NGSSM) which
+is attractive because the likelihood can be analytically computed. The
+paper focuses on stochastic volatility models in the NGSSM, where the
+observation equation is modeled with heavy tailed distributions such
+as Log-gamma, Log-normal and Weibull. Parameter point estimation can
+be accomplished either using Bayesian or classical procedures and a
+simulation study shows that both methods lead to satisfactory
+results. In a real data application, the proposed stochastic
+volatility models in the NGSSM are compared with the traditional
+autoregressive conditionally heteroscedastic, its exponential version,
+and stochastic volatility models using South and North American stock
+price indexes.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1513109865941797&quot;&gt;Ralph Silva&lt;/a&gt; possui graduação
+em Estatística pela Escola Nacional de Ciências Estatísticas. Mestrado
+e doutorado em Estatística pela Universidade Federal do Rio de
+Janeiro. Estágio de Doutorado na GSB - Universidade de Chicago
+(EUA). Pós-doutorado na Universidade Nova Gales do Sul
+(Austrália). Professor Adjunto do Departamento de Estatística da
+Universidade Federal de Minas Gerais. Atualmente Professor Adjunto II
+do Departamento de Métodos Estatísticos da Universidade Federal do Rio
+de Janeiro. Organizou a Escola de Séries Temporais e Econometria -
+2013.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Rough Paths: um pouco sobre a sua teoria</title>
