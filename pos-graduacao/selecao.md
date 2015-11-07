@@ -41,7 +41,8 @@ documentos abaixo:
   como ANPAD, ANPEC, GRE e POSCOMP.
 
 Em caso de dificuldade com a submissão dos documentos, o candidato
-deve entrar em contato com a FGV/EMAp através do endereço eletrônico <script type='text/javascript'>var a = new Array('br','p@fgv.','do.ema','mestra');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>
+deve entrar em contato com a FGV/EMAp através do endereço eletrônico
+<script type='text/javascript'>var a = new Array('br','p@fgv.','do.ema','mestra');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[0]+"'>"+a[3]+a[2]+a[1]+a[0]+"</a>");</script>
 ou pelo telefone (21) 3799-5917.
 
 Os candidatos residentes em outros Estados deverão encaminhar a

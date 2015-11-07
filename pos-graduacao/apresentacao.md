@@ -8,16 +8,16 @@ incluir:
  - widget-perfil-egressos-mestrado.html
 ---
 
-## Mestrado em Modelagem Matemática da Informação
+## Mestrado Acadêmico em Modelagem Matemática
 
 Com uma abordagem inédita, o curso de Mestrado em Modelagem Matemática
-da Informação integra à Matemática Aplicada o corpo de conhecimentos
-das Ciências da Computação e da Informação, com contextos de
-aplicações das ciências sociais, econômicas, biológicas e da saúde.
+integra à Matemática Aplicada o corpo de conhecimentos das Ciências da
+Computação e da Informação, com contextos de aplicações das ciências
+sociais, econômicas, biológicas e da saúde.
 
 ## Área de Concentração
 
-Matemática da Informação
+Matemática da Informação.
 
 ## Objetivo
 
@@ -28,16 +28,34 @@ excelentes pesquisadores na área.
 
 ## Linhas de Pesquisa
 
-- Modelagem e Simulação de Sistemas Complexos 
-- Representação do Conhecimento, Lógica e Ontologias
-- Extração, Processamento e Visualização de Informação
+Análise de Sistemas Complexos:
+
+- Modelagem Epidemiológica
+- Otimização e Controle
+- Redes Complexas
+- Controle Ótimo
+- Análise Numérica
+- Processos Estocástico
+​
+Modelagem e Análise da Informação:
+
+- Big Data Analytics
+- Text Analytics
+- Machine Learning
+- Visualização da Informação
+- Representação do Conhecimento e Lógica
+
+Finanças Quantitativas:
+
+- Finanças Quantitativas
+- Risco em Seguros
 
 ## Público-Alvo
 
 Graduados em matemática, estatística, matemática aplicada, computação,
-engenharias, física, economia e áreas afins; que desejam atuar com
+engenharia, física, economia e áreas afins, que desejam atuar com
 pesquisa científica e tecnológica em instituições públicas ou
-privadas, subsidiando o processo decisório em quaisquer esferas; ou
+privadas, subsidiando o processo decisório em quaisquer esferas, ou
 que queiram continuar sua formação acadêmica em nível de doutorado na
 área.
 
