@@ -4,13 +4,54 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-11-07T02:24:36-02:00</updated>
+ <updated>2015-11-11T11:27:24-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
    <email>arademaker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Bluemix: Plataforma de Inovação Digital da IBM</title>
+   <link href="http://emap.fgv.br/seminars/2015/11/12/bluemix.html"/>
+   <updated>2015-11-12T00:00:00-02:00</updated>
+   <id>http://emap.fgv.br/seminars/2015/11/12/bluemix</id>
+   <content type="html">&lt;p&gt;Bluemix é a plataforma de cloud computing da IBM. Nesta apresentação,
+os conceitos básicos de cloud computing serão discutidos e serão
+demostradas algumas técnicas para construção de aplicações simples na
+plataforma.&lt;/p&gt;
+
+&lt;h2&gt;Palestrante&lt;/h2&gt;
+
+&lt;p&gt;Wilson Magalhães Jr. possui mais de 20 anos de carreira de
+TI. Atualmente ocupa a posição de Cloud Advisor na IBM, onde trabalha
+desde 2010. Nesse papel, ele tem como principal missão apoiar de forma
+consultiva clientes e parceiros na adoção e transição para Cloud,
+apontando caminhos para ajuda-los a alcançar seus objetivos e resolver
+problemas de negócio em Cloud.&lt;/p&gt;
+
+&lt;p&gt;Antes de trabalhar na IBM, atuou como Gerente de Desenvolvimento em
+diferentes industrias no Brasil como Banco/Setor Financeiro, Oil&amp;amp;Gas e
+Fundo de Pensão.&lt;/p&gt;
+
+&lt;p&gt;Formado em Telecomunicações, é Mestre em Informática pelo Instituto de
+Matemática da UFRJ. Possui também pós-graduação (lato sensu) em
+Análise e Projeto de Sistema e dois MBAs em Gerência Avançada de
+Projeto e Gestão Estratégica da Tecnologia da Informação, ambos pelo
+UFRJ. É certificado pelo PMI como Project Management Professional
+(PMP) e contribuidor do blog IBM Thoughts on Cloud.&lt;/p&gt;
+
+&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+chinelos.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>O Problema da Árvore-Estrela: aplicações, formulações e algoritmos</title>
