@@ -8,7 +8,7 @@ picture: hugo.cansino.jpg
 # {{ page.title }}
 
 - Cargo: Professor Adjunto
-- Email: <script type='text/javascript'>var a = new Array('elacru','hugo.d','zc@fgv','.br');document.write("<a href='mailto:"+a[1]+a[0]+a[2]+a[3]+"'>"+a[1]+a[0]+a[2]+a[3]+"</a>");</script>
+- Email: <script type='text/javascript'>var a = new Array('elacru','hugo.d','z@fgv','.br');document.write("<a href='mailto:"+a[1]+a[0]+a[2]+a[3]+"'>"+a[1]+a[0]+a[2]+a[3]+"</a>");</script>
 - Homepage: [http://www.impa.br/~hugo](http://www.impa.br/~hugo)
 - Lattes: [http://lattes.cnpq.br/0044915261354363](http://lattes.cnpq.br/0044915261354363)
 
