@@ -31,7 +31,7 @@ Educacionais Anísio Teixeira (Inep).
 - Atuação autônoma em relação a conselhos e demais órgãos colegiados
   existentes na instituição de educação superior.
  
-## Composição 2014
+## Composição 2015
  
 - [Hugo de La Cruz](/people/hugo.cansino.html) (Presidente)
 - [Antônio Carlos Saraiva Branco](/people/antonio.branco.html) (Representante do Corpo Docente)
@@ -44,6 +44,7 @@ Educacionais Anísio Teixeira (Inep).
  
 - [Relatório de Autoavaliação 2012](/files/cpa-relatorio-2012.pdf) 
 - [Relatório de Autoavaliação 2013](/files/cpa-relatorio-2013.pdf)
+- [Relatório de Autoavaliação 2014](/files/cpa-relatorio-2014.pdf)
  
 ## Regulamento
  
