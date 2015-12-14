@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curso de Finanças Quantitativas
+title: "Curso de Verão em Finanças Quantitarivas: da teoria à pratica, com prof Jorge Zubelli (IMPA)"
 author: Cirlei Batista de Oliveira
 tags:
  - curso
@@ -15,7 +15,7 @@ teoria à prática".
 - Término do Curso: 04/02/2016
 - Aulas: Terças e Quintas das 19h às 22h
 - Tutoriais: Quartas das 19h às 22h
-- Valor: R$ 500,00
+- Investimento: R$ 500,00
 
 Temas abordados:
 
