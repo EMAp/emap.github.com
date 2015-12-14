@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Curso de Verão em Finanças Quantitarivas: da teoria à pratica, com prof Jorge Zubelli (IMPA)"
+title: "Curso de Verão em Finanças Quantitativas: da teoria à pratica, com prof. Jorge Zubelli (IMPA)"
 author: Cirlei Batista de Oliveira
 tags:
  - curso
