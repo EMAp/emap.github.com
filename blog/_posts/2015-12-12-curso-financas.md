@@ -10,7 +10,7 @@ A EMAp abre hoje inscrições para o curso "Finanças Quantitativas: da
 teoria à prática".
 
 - Prof. responsável: Jorge Zubelli (IMPA)
-- Inscrições: 11 a 21/12/2015
+- Inscrições: 11 a 08/01/2016
 - Início do Curso: 05/01/2016
 - Término do Curso: 04/02/2016
 - Aulas: Terças e Quintas das 19h às 22h
