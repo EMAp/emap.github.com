@@ -41,18 +41,72 @@ Aplicada.
 
 Atualmente, o valor da mensalidade é de R$ 1.700,00.
 
-## Vestibular
+## Ingresso
+
+### Vestibular
 
 [Acesse aqui](http://vestibular.fgv.br/cursos/curso-de-matematica-aplicada-rj)
 para mais informações sobre o processo de seleção.
 
-## Edital de Transferência 2016.1
+### Edital de Transferência 2016.1
  
 Inscrições abertas para o Processo Seletivo de Transferência Externa e
 à Portadores de Diploma.
  
 Consulte o [edital de transferência 2016.1](/files/graduacao-edital-transferencia-2016-1.pdf)
 e acesse o [formulário de inscrições](http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=GMAPT&p_empresa=EMAP).
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<colgroup>
+<col  class="org-left" />
+<col  class="org-left" />
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Atividade</th>
+<th scope="col" class="org-left">Cronograma</th>
+<th scope="col" class="org-left">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Inscrição</td>
+<td class="org-left">18-22/01/16</td>
+<td class="org-left">Homepage da Escola</td>
+</tr>
+<tr>
+<td class="org-left">Pré-matrícula</td>
+<td class="org-left">18-27/01/16</td>
+<td class="org-left">SRA</td>
+</tr>
+<tr>
+<td class="org-left">Entrevistas EMAp</td>
+<td class="org-left">01/02/2016</td>
+<td class="org-left">Coordenação da Escola</td>
+</tr>
+<tr>
+<td class="org-left">Resultado do processo seletivo</td>
+<td class="org-left">02/02/2016</td>
+<td class="org-left">Via e-mail</td>
+</tr>
+<tr>
+<td class="org-left">Matrícula</td>
+<td class="org-left">03-04/02/2016</td>
+<td class="org-left">SRA</td>
+</tr>
+<tr>
+<td class="org-left">Cancelamento de matrícula</td>
+<td class="org-left">11-12/02/2016</td>
+<td class="org-left">SRA</td>
+</tr>
+<tr>
+<td class="org-left">Início das aulas</td>
+<td class="org-left">15/02/2016</td>
+<td class="org-left">FGV</td>
+</tr>
+</tbody>
+</table>
 
 ## Bolsas de estudo
 
