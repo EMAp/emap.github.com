@@ -478,7 +478,7 @@ h3.post_meta span {
     width: 220px;
     float: right;
     color: #333333;
-    margin: 55px 0 0 0;
+    margin: 0 0 0 0;
 }
 
 #rightstrip1 h3 {
@@ -757,8 +757,14 @@ h3.post_meta span {
 
 #meta-info .sharing {
     float: right;
+    width: 30%;
 }
-	
+
+#meta-info .tags {
+    float: left;
+    width: 60%;
+}
+
 #leftstrip1 #comments {
     clear: both;
     overflow: hidden;
@@ -845,14 +851,6 @@ div.person_info {
 
 #post_full div.person_info p {
     padding: 0 0 10px 0;
-}
-
-.inner #rightstrip1 {
-    margin: 0px 0 0;
-}
-
-.index-seminars #rightstrip1 {
-    margin: 0px 0 0;
 }
 
 div#post_full table td {

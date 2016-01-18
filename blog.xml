@@ -4,7 +4,7 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-12-22T16:25:54-02:00</updated>
+ <updated>2016-01-18T11:26:17-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -17,33 +17,32 @@
    <link href="http://emap.fgv.br/blog/2015/12/12/curso-financas.html"/>
    <updated>2015-12-12T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2015/12/12/curso-financas</id>
-   <content type="html">&lt;p&gt;A EMAp abre hoje inscrições para o curso &quot;Finanças Quantitativas: da
-teoria à prática&quot;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A EMAp abre hoje inscrições para o curso “Finanças Quantitativas: da
+teoria à prática”.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Prof. responsável: Jorge Zubelli (IMPA)&lt;/li&gt;
-&lt;li&gt;Inscrições: 11 a 08/01/2016&lt;/li&gt;
-&lt;li&gt;Início do Curso: 05/01/2016&lt;/li&gt;
-&lt;li&gt;Término do Curso: 04/02/2016&lt;/li&gt;
-&lt;li&gt;Aulas: Terças e Quintas das 19h às 22h&lt;/li&gt;
-&lt;li&gt;Tutoriais: Quartas das 19h às 22h&lt;/li&gt;
-&lt;li&gt;Investimento: R$ 500,00&lt;/li&gt;
+  &lt;li&gt;Prof. responsável: Jorge Zubelli (IMPA)&lt;/li&gt;
+  &lt;li&gt;Inscrições: 11 a 08/01/2016&lt;/li&gt;
+  &lt;li&gt;Início do Curso: 05/01/2016&lt;/li&gt;
+  &lt;li&gt;Término do Curso: 04/02/2016&lt;/li&gt;
+  &lt;li&gt;Aulas: Terças e Quintas das 19h às 22h&lt;/li&gt;
+  &lt;li&gt;Tutoriais: Quartas das 19h às 22h&lt;/li&gt;
+  &lt;li&gt;Investimento: R$ 500,00&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Temas abordados:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Opções de compra e venda, europeias e americanas;&lt;/li&gt;
-&lt;li&gt;Arbitragem e medida neutra ao risco;&lt;/li&gt;
-&lt;li&gt;Replicação de Carteiras e Hedging;&lt;/li&gt;
-&lt;li&gt;Métodos de Monte Carlo;&lt;/li&gt;
-&lt;li&gt;Árvore Binominal;&lt;/li&gt;
-&lt;li&gt;Modelo de Black-schoes&lt;/li&gt;
+  &lt;li&gt;Opções de compra e venda, europeias e americanas;&lt;/li&gt;
+  &lt;li&gt;Arbitragem e medida neutra ao risco;&lt;/li&gt;
+  &lt;li&gt;Replicação de Carteiras e Hedging;&lt;/li&gt;
+  &lt;li&gt;Métodos de Monte Carlo;&lt;/li&gt;
+  &lt;li&gt;Árvore Binominal;&lt;/li&gt;
+  &lt;li&gt;Modelo de Black-schoes&lt;/li&gt;
 &lt;/ul&gt;
 
-
 &lt;p&gt;Para inscrição, &lt;a href=&quot;http://fgv159.fgv.br/pls/DCCACR/wcc7000$.prcinicial?P_PRSE_CD=CVMFQ&amp;amp;p_empresa=EMAP&quot;&gt;clique aqui&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -52,31 +51,30 @@ teoria à prática&quot;.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2015/10/30/defesa.html"/>
    <updated>2015-10-30T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2015/10/30/defesa</id>
-   <content type="html">&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;30 de outubro de 2015 às 14h00. Praia de Botafogo, 190, sala 411 - Rio
 de Janeiro, RJ.&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; - (Orientador) -
+  &lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; - (Orientador) -
 FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/2228133411590933&quot;&gt;Pedro Costa Ferreira&lt;/a&gt; -
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/2228133411590933&quot;&gt;Pedro Costa Ferreira&lt;/a&gt; -
 FGV/IBRE - Núcleo de Métodos Estatísticos e Computacionais (NMEC,
 SUEP)&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
-&lt;h3&gt;Resumo&lt;/h3&gt;
-
-&lt;p&gt;O conhecimento do &quot;estado atual&quot; da economia é de interesse de
+&lt;p&gt;O conhecimento do “estado atual” da economia é de interesse de
 diversos setores da sociedade. O governo precisa desta informação para
 tomadas de decisão em questões orçamentárias ou intervencionistas, já
 os orgãos privados precisam destas informações para tomada de decisão
 acerca de seus negócios e investimentos. No Brasil, as datações dos
-ciclos econômico, que se referem ao “estado&quot; da economia _e feita pelo
+ciclos econômico, que se referem ao “estado” da economia _e feita pelo
 CODACE, porém estas datações ocorrem a posteriori. Neste contexto, o
 presente trabalho objetiva, através de técnicas de análise de dados e
 mineração de textos, analisar a viabilidade de realizar inferências
@@ -93,24 +91,23 @@ feita pelo CODACE.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2015/09/29/defesa.html"/>
    <updated>2015-09-29T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2015/09/29/defesa</id>
-   <content type="html">&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;29 de setembro de 2015 às 14h00. Praia de Botafogo, 190, sala 1012 -
 Rio de Janeiro, RJ.&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; - (Orientador) -
+  &lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; - (Orientador) -
 FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/2228133411590933&quot;&gt;Pedro Costa Ferreira&lt;/a&gt; -
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/2228133411590933&quot;&gt;Pedro Costa Ferreira&lt;/a&gt; -
 FGV/IBRE - Núcleo de Métodos Estatísticos e Computacionais (NMEC |
 SUEP)&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Resumo&lt;/h3&gt;
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
 &lt;p&gt;A implantação dos sistemas de notas fiscais eletrônicas proporcionou
 uma grande quantidade de dados para as administrações
@@ -119,6 +116,7 @@ um desafio. Esse trabalho buscou, por meio de técnicas análise de
 dados e mineração de textos, identificar, a partir da descrição dos
 serviços prestados, notas emitidas incorretamente a fim de respaldar
 um melhor planejamento de fiscalizações.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -127,23 +125,22 @@ um melhor planejamento de fiscalizações.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2015/08/31/defesa.html"/>
    <updated>2015-08-31T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2015/08/31/defesa</id>
-   <content type="html">&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;31 de agosto de 2015 às 14h00. Praia de Botafogo, 190, sala 317 - Rio
 de Janeiro, RJ&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo Alexander de la Cruz Cansino&lt;/a&gt; (Orientador)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/5230696692594534&quot;&gt;Gustavo Silva Araújo&lt;/a&gt; (Co-orientador) - Banco Central do Brasil&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/antonio.branco.html&quot;&gt;Antonio Carlos Saraiva Branco&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6443456845137235&quot;&gt;Alexandre Gonçalves Evsukoff&lt;/a&gt; (Membro Externo) - COPPE-UFRJ&lt;/li&gt;
-&lt;li&gt;Sergio Leão – (Membro Externo) - Banco Central do Brasil&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo Alexander de la Cruz Cansino&lt;/a&gt; (Orientador)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/5230696692594534&quot;&gt;Gustavo Silva Araújo&lt;/a&gt; (Co-orientador) - Banco Central do Brasil&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/antonio.branco.html&quot;&gt;Antonio Carlos Saraiva Branco&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6443456845137235&quot;&gt;Alexandre Gonçalves Evsukoff&lt;/a&gt; (Membro Externo) - COPPE-UFRJ&lt;/li&gt;
+  &lt;li&gt;Sergio Leão – (Membro Externo) - Banco Central do Brasil&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Resumo&lt;/h3&gt;
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
 &lt;p&gt;Em economias com regimes de metas de inflação é comum que Bancos
 Centrais intervenham para manter níveis desejáveis de (des)valorização
@@ -172,6 +169,7 @@ relevantes para o processo de intervenção vendendo ou comprando
 dólares, com destaque para a volatilidade futura do câmbio nas
 intervenções que envolvem venda de dólares, resultado este alinhado
 com outros trabalhos sobre o tema.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -180,33 +178,32 @@ com outros trabalhos sobre o tema.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2015/07/31/defesa.html"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2015/07/31/defesa</id>
-   <content type="html">&lt;p&gt;﻿---
+   <content type="html">&lt;p&gt;﻿—
 layout: defesa
 title: Um método de linearização local com passo adaptativo para solução numérica de equações diferenciais estocásticas com ruído aditivo
 aluno: Pablo Aguiar de Maio
 hora: 10h00
 local: Praia de Botafogo, 190, sala 1013
 tags:
- - defesa&lt;/p&gt;
+ - defesa
+ - mestrado
+—&lt;/p&gt;
 
-&lt;h2&gt; - mestrado&lt;/h2&gt;
-
-&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;31 de julho 2015 às 10h00. Praia de Botafogo, 190, sala 1013 - Rio de
 Janeiro, RJ.&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/hugo.cancino.html&quot;&gt;Hugo Alexander de la Cruz Cancino&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6908067473022811&quot;&gt;Max Souza&lt;/a&gt; (membro externo) – UFF&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço Coelho&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/hugo.cancino.html&quot;&gt;Hugo Alexander de la Cruz Cancino&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6908067473022811&quot;&gt;Max Souza&lt;/a&gt; (membro externo) – UFF&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço Coelho&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Resumo&lt;/h3&gt;
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
 &lt;p&gt;Neste trabalho apresentamos um novo método numérico com passo
 adaptativo baseado na abordagem de linearização local, para a
@@ -226,16 +223,15 @@ numéricos são realizados para mostrar, de forma prática, a eficácia do
 método proposto, e compará-lo com outros métodos usualmente
 utilizados.&lt;/p&gt;
 
-&lt;h3&gt;Palavras-chave&lt;/h3&gt;
+&lt;h3 id=&quot;palavras-chave&quot;&gt;Palavras-chave&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Equações diferenciais estocásticas&lt;/li&gt;
-&lt;li&gt;Esquemas exponenciais de Linearização local&lt;/li&gt;
-&lt;li&gt;Passo adaptativo&lt;/li&gt;
-&lt;li&gt;A-estabilidade&lt;/li&gt;
-&lt;li&gt;Análise numérica&lt;/li&gt;
+  &lt;li&gt;Equações diferenciais estocásticas&lt;/li&gt;
+  &lt;li&gt;Esquemas exponenciais de Linearização local&lt;/li&gt;
+  &lt;li&gt;Passo adaptativo&lt;/li&gt;
+  &lt;li&gt;A-estabilidade&lt;/li&gt;
+  &lt;li&gt;Análise numérica&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -244,21 +240,20 @@ utilizados.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2015/07/28/defesa.html"/>
    <updated>2015-07-28T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2015/07/28/defesa</id>
-   <content type="html">&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;28 de julho de 2015, às 14h - Praia de Botafogo 190, sala 1014&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6443456845137235&quot;&gt;Alexandre Gonçalves Evsukoff&lt;/a&gt; (Membro Externo) - UFRJ&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6443456845137235&quot;&gt;Alexandre Gonçalves Evsukoff&lt;/a&gt; (Membro Externo) - UFRJ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Resumo&lt;/h3&gt;
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
 &lt;p&gt;Os dados de telefonia celular são um instrumento valioso para analisar
 o comportamento da população urbana, uma vez que informação sobre a
@@ -279,7 +274,7 @@ desses participantes.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2015/06/25/defesa.html"/>
    <updated>2015-06-25T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2015/06/25/defesa</id>
-   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;resumo&quot;&gt;Resumo&lt;/h2&gt;
 
 &lt;p&gt;Existe um problema de representação quando trabalha-se com
 processamento de linguagem natural pois uma vez que o modelo
@@ -294,28 +289,26 @@ projeto Media Cloud Brasil para aplicar o modelo skip-gram em busca de
 explorar relações e encontrar padrões que facilitem na compreensão do
 conteúdo.&lt;/p&gt;
 
-&lt;h2&gt;Data, horário e local&lt;/h2&gt;
+&lt;h2 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h2&gt;
 
 &lt;p&gt;30 de junho de 2015 às 09h00. Praia de Botafogo, 190, sala 1012 - Rio
 de Janeiro, RJ&lt;/p&gt;
 
-&lt;h2&gt;Membros da banca&lt;/h2&gt;
+&lt;h2 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; – FGV/EMAp (orientador)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/sabrina.camargo.html&quot;&gt;Sabrina Camargo&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/5724573734505786&quot;&gt;Heliana Mello&lt;/a&gt; - UFMG (membro externo)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flavio Codeço&lt;/a&gt; – FGV/EMAp (orientador)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/sabrina.camargo.html&quot;&gt;Sabrina Camargo&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/5724573734505786&quot;&gt;Heliana Mello&lt;/a&gt; - UFMG (membro externo)&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Palavras-chave&lt;/h2&gt;
+&lt;h2 id=&quot;palavras-chave&quot;&gt;Palavras-chave&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Media Cloud Brasil&lt;/li&gt;
-&lt;li&gt;skip-gram&lt;/li&gt;
+  &lt;li&gt;Media Cloud Brasil&lt;/li&gt;
+  &lt;li&gt;skip-gram&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -328,9 +321,9 @@ de Janeiro, RJ&lt;/p&gt;
 firmou parceria com o Departamento de Matemática e Estatística
 Matemática, da
 &lt;a href=&quot;http://www.math.umu.se/english/&quot;&gt;Universidade de Umea&lt;/a&gt;, na Suécia,
-para a realização do projeto de pesquisa e cooperação &quot;Efficient
+para a realização do projeto de pesquisa e cooperação “Efficient
 numerical discretisations of stiff stochastic and random differential
-equations&quot;. O programa será totalmente financiado pela The Swedish
+equations”. O programa será totalmente financiado pela The Swedish
 Foundation for International Cooperation in Research and Higher
 Education (STINT), organização que fomenta o intercâmbio acadêmico
 entre instituições suecas e de outros países.&lt;/p&gt;
@@ -339,10 +332,10 @@ entre instituições suecas e de outros países.&lt;/p&gt;
 &lt;a href=&quot;http://emap.fgv.br/people/hugo.cansino.html&quot;&gt;Hugo de la Cruz&lt;/a&gt;,
 coordenador do projeto na EMAp, o objetivo do programa é a construção
 e o estudo de métodos e algoritmos numérico-computacionais para a
-simulação de equações aleatórias. &quot;Esses tipos de equações são
+simulação de equações aleatórias. “Esses tipos de equações são
 utilizadas para modelar e explicar diversos processos reais sujeitos a
 aleatoriedade. Por exemplo, são muito usadas na modelagem nas
-finanças, neurociências, sistemas biológicos, fenômenos sociais etc&quot;,
+finanças, neurociências, sistemas biológicos, fenômenos sociais etc”,
 explica.&lt;/p&gt;
 
 &lt;p&gt;Além da elaboração do plano próprio de pesquisa, serão realizadas
@@ -357,10 +350,10 @@ Umea, além de um pós-doutorando no grupo sueco e dos dois professores.&lt;/p&g
 &lt;p&gt;Para Hugo de la Cruz, o projeto vai permitir o fortalecimento da linha
 de pesquisa de simulação estocástica que é pouco explorada no Brasil,
 proporcionando sua consolidação e maior visibilidade à área de atuação
-da EMAp no país. &quot;Paralelamente, vai beneficiar não só os alunos de
+da EMAp no país. “Paralelamente, vai beneficiar não só os alunos de
 mestrado envolvidos, mas também os demais alunos da graduação e
 pós-graduação, que terão a oportunidade de participar de cursos e
-seminários sobre o tema&quot;, finaliza.&lt;/p&gt;
+seminários sobre o tema”, finaliza.&lt;/p&gt;
 </content>
  </entry>
  
@@ -371,12 +364,12 @@ seminários sobre o tema&quot;, finaliza.&lt;/p&gt;
    <id>http://emap.fgv.br/blog/2015/04/09/encontro-desenvolvimento-sustentavel</id>
    <content type="html">&lt;p&gt;Nos dias 07, 08 e 09 de abril foi realizado em Brasília o III Encontro
 dos Municípios com o Desenvolvimento Sustentável (III EMDS) com o
-tema: &quot;Nova governança federativa e o papel das cidades no Brasil e no
-mundo&quot;.&lt;/p&gt;
+tema: “Nova governança federativa e o papel das cidades no Brasil e no
+mundo”.&lt;/p&gt;
 
 &lt;p&gt;O professor &lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt;
-foi convidado para participar do debate &quot;Transparência e dados
-abertos&quot;, focado nos mecanismos de transparência e abertura de dados
+foi convidado para participar do debate “Transparência e dados
+abertos”, focado nos mecanismos de transparência e abertura de dados
 que estão sendo implantados no Brasil e no mundo.&lt;/p&gt;
 
 &lt;p&gt;O EMDS, que já se consolidou como o maior evento sobre
@@ -399,35 +392,36 @@ eles prefeitos, secretátios municipais, assessores e gestores locais.&lt;/p&gt;
 uma Aula Magna para os alunos de graduação da Escola de Matemática
 Aplicada da Fundação Getulio Vargas (FGV/EMAp). Ganhador da Medalha
 Fields (2014), a mais prestigiosa recompensa da área – e popularmente
-conhecida como o &quot;Nobel da Matemática&quot; –, Artur possui uma trajetória
+conhecida como o “Nobel da Matemática” –, Artur possui uma trajetória
 acadêmica brilhante com apenas 35 anos de idade.&lt;/p&gt;
 
 &lt;p&gt;Durante o evento, Artur ressaltou a ansiedade dos alunos de graduação
-em saber como obter uma carreira de sucesso. &quot;A gente é exposto
+em saber como obter uma carreira de sucesso. “A gente é exposto
 frequentemente a alguns modelos de carreira e algumas pessoas podem se
 desencorajar por não se enxergar nesses modelos. Uma das coisas que
 aprendi durante os meus estudos é que encontramos pessoas
 completamente diferentes, mas com uma relevância de pesquisa tão
 grande quanto. A matemática é uma profissão que permite absorver
-pessoas com perfis muito distintos&quot;.&lt;/p&gt;
+pessoas com perfis muito distintos”.&lt;/p&gt;
 
 &lt;p&gt;Para Artur, o mais importante é achar o caminho, sem criar
-estereótipos. &quot;Você pode escolher trabalhar em corporações como pode
+estereótipos. “Você pode escolher trabalhar em corporações como pode
 escolher trabalhar isoladamente, adaptando o seu ritmo, mais rápido ou
 mais devagar. Você pode querer mais tempo investigando certa
 literatura ou se dedicar diretamente aos problemas, mas todas as
-possibilidades estão abertas&quot;.&lt;/p&gt;
+possibilidades estão abertas”.&lt;/p&gt;
 
 &lt;p&gt;Em sua trajetória, Artur tornou-se conhecido entre os matemáticos por
 conseguir provar junto com
 &lt;a href=&quot;http://www.math.uci.edu/~szhitomi/&quot;&gt;Svetlana Jitomirskaya&lt;/a&gt;, a
-&quot;Conjectura dos dez martínis&quot;, problema proposto em 1980 pelo
+“Conjectura dos dez martínis”, problema proposto em 1980 pelo
 norte-americano Barry Simon. Suas pesquisas sobre sistemas dinâmicos
 levou Artur a ser o primeiro cientista latino-americano a conquistar a
 Medalha Fields.&lt;/p&gt;
 
 &lt;p&gt;A palestra na íntegra está disponível no
 &lt;a href=&quot;https://youtu.be/NGMemv7ubkk&quot;&gt;canal do Youtube&lt;/a&gt; da FGV.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -454,6 +448,7 @@ das palestras, o evento terá apresentações de pôsteres.&lt;/p&gt;
 
 &lt;p&gt;Para mais informações, acesse
 &lt;a href=&quot;http://netsci-x2015.net/&quot;&gt;www.netsci-x2015.net&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -462,22 +457,21 @@ das palestras, o evento terá apresentações de pôsteres.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/12/17/defesa.html"/>
    <updated>2014-12-17T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/12/17/defesa</id>
-   <content type="html">&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;17 de dezembro de 2014 às 10h. Praia de Botafogo, 190, sala 1018 - Rio
 de Janeiro, RJ.&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Coelho Codeço&lt;/a&gt;(Orientador) – FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6914542088971040&quot;&gt;Crysttian Arantes Paixão&lt;/a&gt; - UFSC&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/vincent.guigues.html&quot;&gt;Vincent Gerard Guigues&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;Marcia Cristina Khalil de Oliveira - CENPES/Petrobras&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Coelho Codeço&lt;/a&gt;(Orientador) – FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6914542088971040&quot;&gt;Crysttian Arantes Paixão&lt;/a&gt; - UFSC&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/vincent.guigues.html&quot;&gt;Vincent Gerard Guigues&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;Marcia Cristina Khalil de Oliveira - CENPES/Petrobras&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Resumo&lt;/h3&gt;
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
 &lt;p&gt;A formação de emulsão de agua em óleo gera um significativo incremento
 na viscosidade, o que afeta diretamente a produção do poço, pois
@@ -518,10 +512,10 @@ uma solução com esse potencial e era necessário um grande trabalho de
 suporte e implantação para levar os softwares aos usuários.&lt;/p&gt;
 
 &lt;p&gt;O Ploog, na época VMExp, surgiu como um mecanismo para essas
-questões. &quot;No curso nós criamos uma solução com a empresa Kendoo para
+questões. “No curso nós criamos uma solução com a empresa Kendoo para
 poder fornecer softwares licenciados aos alunos e controlar seu uso
 pela nuvem, permitindo que eles utilizassem esses softwares durante o
-período das aulas&quot;, explica.&lt;/p&gt;
+período das aulas”, explica.&lt;/p&gt;
 
 &lt;p&gt;Essa solução evoluiu para o Ploog. Com a experiência adquirida, o
 produto sofreu diversas remodelagens para atender melhor às demandas
@@ -544,15 +538,16 @@ mais de 1000 inscritos, que seleciona a melhor startup do país.&lt;/p&gt;
 &lt;p&gt;Com muito esforço e dedicação, somados a uma excelente apresentação, o
 Ploog ficou em primeiro lugar na competição, conquistando a única vaga
 para representar o país no campeonato mundial, o Startups SeedStars
-World, que ocorrerá na Suíça, em fevereiro de 2015. &quot;Estamos ainda
+World, que ocorrerá na Suíça, em fevereiro de 2015. “Estamos ainda
 mais dedicados ao desenvolvimento do produto e vamos representar com
 orgulho o nosso país pela primeira vez na Europa nessa próxima
-aventura&quot;, comemora Hugo.&lt;/p&gt;
+aventura”, comemora Hugo.&lt;/p&gt;
 
 &lt;p&gt;Interessados em mais informações sobre o
 &lt;a href=&quot;https://desafiobrasil.induct.no/public&quot;&gt;Desafio Brasil&lt;/a&gt; e para saber
 mais sobre o &lt;a href=&quot;http://bit.ly/1yYGo2C&quot;&gt;Curso Big Data Analytics&lt;/a&gt; podem
 usar os links.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -561,21 +556,20 @@ usar os links.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/12/16/defesa.html"/>
    <updated>2014-12-16T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/12/16/defesa</id>
-   <content type="html">&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;18 de dezembro de 2014 às 10h. Praia de Botafogo, 190, sala 1028 - Rio
 de Janeiro, RJ.&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/vincent.guigues.html&quot;&gt;Vincent Gerard Guigues&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo de La Cruz&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6443456845137235&quot;&gt;Alexandre Evsukoff&lt;/a&gt; - UFRJ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/vincent.guigues.html&quot;&gt;Vincent Gerard Guigues&lt;/a&gt; (Orientador) - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo de La Cruz&lt;/a&gt; - FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6443456845137235&quot;&gt;Alexandre Evsukoff&lt;/a&gt; - UFRJ&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Resumo&lt;/h3&gt;
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
 &lt;p&gt;Nesta dissertação discutiremos modelos e métodos de soluções de
 programação estocástica para resolver problemas de ALM em fundos de
@@ -607,10 +601,10 @@ antigas e prestigiadas instituições francesas, a École Polytechnique,
 fundada em 1794, durante a Revolução Francesa, é a opção de muitos
 estudantes que almejam ampliar o saber na área de exatas.&lt;/p&gt;
 
-&lt;p&gt;&quot;A Polytechnique é uma faculdade muito reconhecida em todo o
+&lt;p&gt;“A Polytechnique é uma faculdade muito reconhecida em todo o
 mundo. Vários matemáticos e físicos importantes da história estudaram
 lá, e achei que seria uma ótima oportunidade para mim, além de, claro,
-morar um tempo fora do país, conhecer novos lugares e outra cultura&quot;,
+morar um tempo fora do país, conhecer novos lugares e outra cultura”,
 comemora Gustavo.&lt;/p&gt;
 
 &lt;p&gt;Muitos ex-alunos da École Polytechnique ocupam cargos proeminentes no
@@ -625,7 +619,7 @@ escrita de matemática, física e computação, e a prova oral, que além
 de matemática e física, possui questões de conhecimentos gerais
 baseado num artigo científico. Após aproxidamente um mês da prova, o
 resultado chegou para Gustavo por e-mail, e foi então que ele viu sua
-excelente classificação. &quot;Queria agradecer aos professores da EMAp,
+excelente classificação. “Queria agradecer aos professores da EMAp,
 principalmente ao Paulo Cezar, que não só colaboraram com as cartas de
 recomendação, mas também estiveram sempre dispostos a me ajudar com
 qualquer dúvida”, agradece.&lt;/p&gt;
@@ -647,16 +641,15 @@ e ensino de qualidade conseguiu alcançar seu objetivo.&lt;/p&gt;
 são:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;André Scofano Costa Correia&lt;/li&gt;
-&lt;li&gt;Breno Silvério de Andrade Lima&lt;/li&gt;
-&lt;li&gt;Carolina Zamith Cunha&lt;/li&gt;
-&lt;li&gt;Fernanda de Castro Souza&lt;/li&gt;
-&lt;li&gt;Gustavo Carvalho de Oliveira&lt;/li&gt;
-&lt;li&gt;Kizzy Fernanda Erra Ferreira dos Reis&lt;/li&gt;
-&lt;li&gt;Otto Tavares Nascimento&lt;/li&gt;
-&lt;li&gt;Pedro Otávio Teixeira Mello&lt;/li&gt;
+  &lt;li&gt;André Scofano Costa Correia&lt;/li&gt;
+  &lt;li&gt;Breno Silvério de Andrade Lima&lt;/li&gt;
+  &lt;li&gt;Carolina Zamith Cunha&lt;/li&gt;
+  &lt;li&gt;Fernanda de Castro Souza&lt;/li&gt;
+  &lt;li&gt;Gustavo Carvalho de Oliveira&lt;/li&gt;
+  &lt;li&gt;Kizzy Fernanda Erra Ferreira dos Reis&lt;/li&gt;
+  &lt;li&gt;Otto Tavares Nascimento&lt;/li&gt;
+  &lt;li&gt;Pedro Otávio Teixeira Mello&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;A matrícula deve ser feita no período de 09 a 13 de fevereiro na
 Secretaria de Registros Acadêmicos - Praia de Botafogo, 190, sala 314.&lt;/p&gt;
@@ -665,13 +658,12 @@ Secretaria de Registros Acadêmicos - Praia de Botafogo, 190, sala 314.&lt;/p&gt
 de toda a documentação solicitada, conforme abaixo:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Documento de Identificação (original e cópia simples);&lt;/li&gt;
-&lt;li&gt;CPF (original e cópia simples);&lt;/li&gt;
-&lt;li&gt;03 (três) fotos 3x4 coloridas;&lt;/li&gt;
-&lt;li&gt;Diploma da Graduação (original e cópia simples);&lt;/li&gt;
-&lt;li&gt;Histórico Escolar (original e cópia simples);&lt;/li&gt;
+  &lt;li&gt;Documento de Identificação (original e cópia simples);&lt;/li&gt;
+  &lt;li&gt;CPF (original e cópia simples);&lt;/li&gt;
+  &lt;li&gt;03 (três) fotos 3x4 coloridas;&lt;/li&gt;
+  &lt;li&gt;Diploma da Graduação (original e cópia simples);&lt;/li&gt;
+  &lt;li&gt;Histórico Escolar (original e cópia simples);&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -680,22 +672,21 @@ de toda a documentação solicitada, conforme abaixo:&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/12/08/defesa.html"/>
    <updated>2014-12-08T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/12/08/defesa</id>
-   <content type="html">&lt;h3&gt;Data, horário e local&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;data-horrio-e-local&quot;&gt;Data, horário e local&lt;/h3&gt;
 
 &lt;p&gt;08 de dezembro de 2014 às 10h. Praia de Botafogo, 190, sala 1019 - Rio
 de Janeiro, RJ&lt;/p&gt;
 
-&lt;h3&gt;Membros da banca&lt;/h3&gt;
+&lt;h3 id=&quot;membros-da-banca&quot;&gt;Membros da banca&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Medeiros e Sá&lt;/a&gt; – FGV/EMAp (Orientadora)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Coelho Codeço&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6273068677376442&quot;&gt;Pedro Mário Cruz e Silva&lt;/a&gt; (Membro Externo) - Tecgraf, Puc-Rio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Medeiros e Sá&lt;/a&gt; – FGV/EMAp (Orientadora)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Coelho Codeço&lt;/a&gt; – FGV/EMAp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6273068677376442&quot;&gt;Pedro Mário Cruz e Silva&lt;/a&gt; (Membro Externo) - Tecgraf, Puc-Rio&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Resumo&lt;/h3&gt;
+&lt;h3 id=&quot;resumo&quot;&gt;Resumo&lt;/h3&gt;
 
 &lt;p&gt;Este trabalho é um estudo sobre a aplicação de técnicas de
 visualização de informação em sistemas de software científico, i.e.,
@@ -710,7 +701,7 @@ experiências propor o desenvolvimento de componentes de software
 capazes de facilitar a criação de sistemas semelhantes e ao mesmo
 tempo promover a aplicação destes conceitos.&lt;/p&gt;
 
-&lt;h3&gt;Palavras-chave&lt;/h3&gt;
+&lt;h3 id=&quot;palavras-chave&quot;&gt;Palavras-chave&lt;/h3&gt;
 
 &lt;p&gt;Visualização de Informação, Sistemas de software científico,
 Visualização Científica e Análise de Dados.&lt;/p&gt;
@@ -726,8 +717,8 @@ Visualização Científica e Análise de Dados.&lt;/p&gt;
 &lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo de la Cruz&lt;/a&gt; apresentou no Congresso
 Nacional de Matemática Aplicada à Indústria (CNMAI) a proposta de um
 método estável para simulação computacional de equações diferenciais
-aleatórias (&quot;A Higher order and stable method for the numerical
-integration of random differential equation&quot;).&lt;/p&gt;
+aleatórias (“A Higher order and stable method for the numerical
+integration of random differential equation”).&lt;/p&gt;
 
 &lt;p&gt;De acordo com a organização do evento, o congresso, que visa aplicar o
 conhecimento acadêmico à indúsria, ganha uma dimensão muito
@@ -762,16 +753,16 @@ suporte à tomada de decisões em situações de uso intensivo de dados e
 informações, além de formar pesquisadores na área de Matemática
 Aplicada.&lt;/p&gt;
 
-&lt;p&gt;&quot;O mestrado tem uma abordagem inédita no mercado, integra à Matemática
+&lt;p&gt;“O mestrado tem uma abordagem inédita no mercado, integra à Matemática
 Aplicada o corpo de conhecimentos das Ciências da Computação e da
 Informação, com foco em problemas oriundos das ciências sociais,
-ciências econômicas, ciências biológicas e da saúde&quot;, explica o
+ciências econômicas, ciências biológicas e da saúde”, explica o
 coordenador do curso, professor Renato Souza.&lt;/p&gt;
 
 &lt;p&gt;O curso está alinhado, segundo o professor, com as tendências de
-pesquisa na recém-criada área da Matemática da Informação. &quot;Há no
+pesquisa na recém-criada área da Matemática da Informação. “Há no
 mercado necessidade de um profissional com o perfil que formamos, mas
-não existem cursos voltados para essa capacitação&quot;, acrescenta Renato.&lt;/p&gt;
+não existem cursos voltados para essa capacitação”, acrescenta Renato.&lt;/p&gt;
 
 &lt;p&gt;O processo seletivo é dividido nas seguintes etapas: inscrições e
 exame do currículo; entrevistas preliminares; Curso de Verão para os
@@ -784,13 +775,12 @@ de janeiro, serão avaliados pelo desempenho nas disciplinas de
 matemática e computação.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Inscrições: até 30/01/2015&lt;/li&gt;
-&lt;li&gt;Início das aulas: 02/03/2015&lt;/li&gt;
-&lt;li&gt;Duração: 24 meses&lt;/li&gt;
-&lt;li&gt;Carga Horária: 420 horas/aula&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;Mais informações&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Inscrições: até 30/01/2015&lt;/li&gt;
+  &lt;li&gt;Início das aulas: 02/03/2015&lt;/li&gt;
+  &lt;li&gt;Duração: 24 meses&lt;/li&gt;
+  &lt;li&gt;Carga Horária: 420 horas/aula&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;Mais informações&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -810,15 +800,15 @@ Python e outras linguagens; Sintaxe e semântica da linguagem; Objetos:
 variáveis e funções (métodos); Regras para nomes de variáveis;
 Importando módulos e namespaces; Colisão de namespaces; Overview de
 tipos nativos e operadores e métodos relacionados, Exemplos com
-números e strings; Polimorfismo de operadores; comandos &quot;dir(var)&quot;,
-&quot;type(var)&quot; e &quot;help(var.método)&quot;; Tipos Numéricos: int, float,
+números e strings; Polimorfismo de operadores; comandos “dir(var)”,
+“type(var)” e “help(var.método)”; Tipos Numéricos: int, float,
 complex; Strings e listas; Operadores e métodos relacionados,
 Indexação, slicing, concatenação de strings e listas, nesting de
 listas; Print Formating e função print no Python 3; Outros tipos
 containers: tuplas, sets, frozensets e dicionários; Tipos booleanos,
-testes lógicos, comando &quot;in&quot;, Operadores e métodos relacionados;
+testes lógicos, comando “in”, Operadores e métodos relacionados;
 Indexação (no caso de dicionários); Conversão de tipos; Indentação;
-Navegação em listas com &quot;for&quot;, &quot;range()&quot; e &quot;enumerate()&quot;; List, Set e
+Navegação em listas com “for”, “range()” e “enumerate()”; List, Set e
 Dict Comprehension, Programação funcional: map, reduce, filter, zip,
 all, any, lambda e passagem de funções como parâmetros; Classes,
 métodos e atributos, objetos, herança, Tratamento de exceções.&lt;/p&gt;
@@ -833,11 +823,11 @@ princípio da indução, o segundo princípio da indução; Recursão,
 iteração e indução: indução e algoritmos recursivos, indução e
 algoritmos interativos.&lt;/p&gt;
 
-&lt;h3&gt;Investimento&lt;/h3&gt;
+&lt;h3 id=&quot;investimento&quot;&gt;Investimento&lt;/h3&gt;
 
 &lt;p&gt;1 parcela de R$500,00 (quinhentos reais).&lt;/p&gt;
 
-&lt;h3&gt;Inscrições&lt;/h3&gt;
+&lt;h3 id=&quot;inscries&quot;&gt;Inscrições&lt;/h3&gt;
 
 &lt;p&gt;Interessados no Curso de Verão e candidatos ao
 &lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;Mestrado em Modelagem Matemática da Informação&lt;/a&gt;,
@@ -848,36 +838,36 @@ até 04 de janeiro de 2015.&lt;/p&gt;
 &lt;p&gt;São documentos necessários à inscrição:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Cópia da carteira de identidade&lt;/li&gt;
-&lt;li&gt;Cópia do CPF&lt;/li&gt;
-&lt;li&gt;Duas fotos (3x4) coloridas&lt;/li&gt;
-&lt;li&gt;Comprovante de pagamento da taxa de inscrição&lt;/li&gt;
+  &lt;li&gt;Cópia da carteira de identidade&lt;/li&gt;
+  &lt;li&gt;Cópia do CPF&lt;/li&gt;
+  &lt;li&gt;Duas fotos (3x4) coloridas&lt;/li&gt;
+  &lt;li&gt;Comprovante de pagamento da taxa de inscrição&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Os documentos deverão ser entregues até o dia 06 de janeiro 2015 na
 Escola de Matemática Aplicada - Praia de Botafogo, 190
 sala 312, Botafogo, Rio de Janeiro - ao cuidados de Cirlei Oliveira.&lt;/p&gt;
 
-&lt;h3&gt;Informações sobre a FGV&lt;/h3&gt;
+&lt;h3 id=&quot;informaes-sobre-a-fgv&quot;&gt;Informações sobre a FGV&lt;/h3&gt;
 
 &lt;p&gt;Escola de Matemática Aplicada:&lt;/p&gt;
 
-&lt;p&gt;Endereço: Praia de Botafogo, 190 sala: 312&lt;br/&gt;
-Tel: (21) 3799-5917&lt;br/&gt;
+&lt;p&gt;Endereço: Praia de Botafogo, 190 sala: 312&lt;br /&gt;
+Tel: (21) 3799-5917&lt;br /&gt;
 E-mail: emap@fgv.br&lt;/p&gt;
 
 &lt;p&gt;Secretaria de Registros Acadêmicos (SRA):&lt;/p&gt;
 
-&lt;p&gt;Praia de Botafogo, 190 Sala: 314&lt;br/&gt;
-Tel: (21) 3799-5758&lt;br/&gt;
+&lt;p&gt;Praia de Botafogo, 190 Sala: 314&lt;br /&gt;
+Tel: (21) 3799-5758&lt;br /&gt;
 E-mail: srarj@fgv.br&lt;/p&gt;
 
-&lt;h3&gt;Observação&lt;/h3&gt;
+&lt;h3 id=&quot;observao&quot;&gt;Observação&lt;/h3&gt;
 
 &lt;p&gt;A FGV possui regras quanto ao vestuário das pessoas que transitam em
 suas instalações. Não será permitida a entrada de pessoas vestindo
 shorts, bermuda e/ou sandálias do tipo Havaianas.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -910,6 +900,7 @@ projetos nessa área, que surgiu dentro da própria matemática com o
 objetivo de obter respostas para os novos problemas que a indústria
 passou a apresentar frente a sua própria dinâmica de evolução e
 inovação tecnológica.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -932,50 +923,50 @@ fazer o levantamento, além do conhecimento da equipe em cálculo de
 índices e estatísticas, o IBRE irá utilizar a base de dados usada pelo
 IPC e pelo Monitor da Inflação. Já a EMAp entrará com o know-how
 técnico em matemática espacial, mapeando as regiões da cidade
-(latitude e longitude). &quot;Vamos usar o IPC-RJ e a EMAp irá lê-lo e dar
-a ele uma espécie de CEP. Assim, será possível &#39;espacializar&#39; o índice
-de acordo com cada região do município&quot;, conta Pedro.&lt;/p&gt;
+(latitude e longitude). “Vamos usar o IPC-RJ e a EMAp irá lê-lo e dar
+a ele uma espécie de CEP. Assim, será possível ‘espacializar’ o índice
+de acordo com cada região do município”, conta Pedro.&lt;/p&gt;
 
 &lt;p&gt;Segundo ele, se o levantamento caminhar conforme o esperado e, caso
 for considerado importante atualizar mensalmente os dados, a pesquisa
 inicial pode virar mais um índice de inflação da FGV, aumentando a
-família de indicadores já tão conhecidos. &quot;Nesta semana será realizado
+família de indicadores já tão conhecidos. “Nesta semana será realizado
 mais um encontro para acertarmos detalhes sobre o estudo. Como, por
 exemplo, a questão da composição do índice, ou seja, se faremos um
 índice híbrido; uma média de preços de alimentos e serviços ou se
-faremos algo separado. Depende de como está nossa base&quot;, ressalta ao
+faremos algo separado. Depende de como está nossa base”, ressalta ao
 informar que na última reunião foi assinado um termo de compromisso
 entre EMAp e IBRE em virtude da confidencialidade dos microdados
 usados neste trabalho.&lt;/p&gt;
 
 &lt;p&gt;Na ocasião, Renato Souza, coordenador de mestrado da EMAp, lembrou-se
 da vontade de longa data em trabalhar com o Instituto e se mostrou
-confiante com o sucesso da união. &quot;Estamos felizes, e cheio de ideias
+confiante com o sucesso da união. “Estamos felizes, e cheio de ideias
 para estudos futuros. Damos prioridade em criar produtos factíveis e
 de rápida elaboração, que rendam logo resultados de curto prazo. Para
-nós essa parceria será muito frutífera&quot;, salientou Renato. Já Vagner
+nós essa parceria será muito frutífera”, salientou Renato. Já Vagner
 Ardeo, vice-diretor do IBRE, enfatizou que a parceria se deu na hora
 certa já que no passado recente o IBRE ainda não estava estruturado o
 suficiente para oferecer o auxílio que o trabalho em conjunto
-merece. &quot;Há quatro anos ainda não tínhamos capital humano suficiente
+merece. “Há quatro anos ainda não tínhamos capital humano suficiente
 para garantir uma parceria eficiente. Um pressuposto para o trabalho
 conjunto é oferecer qualidade, e esse tempo chegou. Seja para gerar
 inovações no meio acadêmico, seja para desenvolver outras atividades,
-essa vai ser uma parceria de muito sucesso&quot;, completou Vagner.&lt;/p&gt;
+essa vai ser uma parceria de muito sucesso”, completou Vagner.&lt;/p&gt;
 
 &lt;p&gt;No radar, outra pesquisa vem ganhando forma, ainda que esteja, no
 momento, apenas no campo das ideias: um novo produto que mede a
 confiança da população baseado nos filtros de determinadas
-palavras-chaves, entre elas &#39;crise&#39; e &#39;recessão&#39;, encontradas em
-notícias e redes sociais. &quot;É uma espécie de termômetro que tenta
+palavras-chaves, entre elas ‘crise’ e ‘recessão’, encontradas em
+notícias e redes sociais. “É uma espécie de termômetro que tenta
 antecipar o comportamento da economia à frente, em linha com as
-sondagens que o IBRE já possui&quot;, explica Pedro. Um estudo de
-viabilidade desse possível &quot;Indicador de Recessão&quot; faz parte da
+sondagens que o IBRE já possui”, explica Pedro. Um estudo de
+viabilidade desse possível “Indicador de Recessão” faz parte da
 dissertação de mestrado da aluna da EMAp e funcionária do IBRE, Anna
-Carolina Barros. &quot;Se concretizado, mesmo sendo medidas diferentes, o
+Carolina Barros. “Se concretizado, mesmo sendo medidas diferentes, o
 novo indicador da SACE pode ser correlacionado com as sondagens de
 confiança. Por exemplo, o aumento do número de citações de determinada
-palavra pode indicar uma queda na expectativa das sondagens&quot;, aponta
+palavra pode indicar uma queda na expectativa das sondagens”, aponta
 Pedro.&lt;/p&gt;
 
 &lt;p&gt;Além de Pedro, Vagner e Renato, o professor da EMAp, Flávio Coelho, o
@@ -983,6 +974,7 @@ superintendente adjunto de Inflação do IBRE, Salomão Quadros, os
 economistas do IBRE, André Braz e Angelo Polydoro e o superintendente
 adjunto de Ciclos Econômicos, Aloisio Campelo, participaram da
 reunião.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1006,16 +998,15 @@ Otimização, Redes, Epidemiologia, Algoritmos, Inteligência Artificial,
 Aprendizagem de Máquinas, Processamento de Linguagem Natural,
 Criptografia e Visão Computacional.&lt;/p&gt;
 
-&lt;p&gt;As candidaturas devem ser enviadas para &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;map@fgv.br&#39;,&#39;positions.e&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt; até 15
+&lt;p&gt;As candidaturas devem ser enviadas para &lt;script type=&quot;text/javascript&quot;&gt;var a = new Array(&#39;map@fgv.br&#39;,&#39;positions.e&#39;);document.write(&quot;&lt;a href=&quot;mailto:&amp;quot;+a[1]+a[0]+&amp;quot;&quot;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt; até 15
 de novembro de 2014 e devem incluir:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Curriculum vitae detalhado&lt;/li&gt;
-&lt;li&gt;Lista de publicações&lt;/li&gt;
-&lt;li&gt;Plano de pesquisas&lt;/li&gt;
-&lt;li&gt;Duas cartas de recomendação, enviadas diretamente para &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;map@fgv.br&#39;,&#39;positions.e&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;&lt;/li&gt;
+  &lt;li&gt;Curriculum vitae detalhado&lt;/li&gt;
+  &lt;li&gt;Lista de publicações&lt;/li&gt;
+  &lt;li&gt;Plano de pesquisas&lt;/li&gt;
+  &lt;li&gt;Duas cartas de recomendação, enviadas diretamente para &lt;script type=&quot;text/javascript&quot;&gt;var a = new Array(&#39;map@fgv.br&#39;,&#39;positions.e&#39;);document.write(&quot;&lt;a href=&quot;mailto:&amp;quot;+a[1]+a[0]+&amp;quot;&quot;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Os documentos acima podem ser escritos em inglês ou em português.&lt;/p&gt;
 
@@ -1031,9 +1022,10 @@ objetivo contribuir para o esforço da Fundação em produzir inovação
 por meio do uso da Matemática em suas numerosas áreas de aplicação,
 com destaque para as Ciências Sociais Aplicadas.&lt;/p&gt;
 
-&lt;p&gt;Caso queira mais informações entre em contato pelo email &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;map@fgv.br&#39;,&#39;positions.e&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
+&lt;p&gt;Caso queira mais informações entre em contato pelo email &lt;script type=&quot;text/javascript&quot;&gt;var a = new Array(&#39;map@fgv.br&#39;,&#39;positions.e&#39;);document.write(&quot;&lt;a href=&quot;mailto:&amp;quot;+a[1]+a[0]+&amp;quot;&quot;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
 
 &lt;p&gt;For english version, &lt;a href=&quot;/files/faculty-positions-2014.pdf&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1058,10 +1050,10 @@ tangíveis, destacando como o uso crescente dessa tecnologia vem
 auxiliando na documentação e preservação de acervos culturais e
 patrimônios históricos.&lt;/p&gt;
 
-&lt;p&gt;&quot;Quem visitar a mostra poderá ver como a tecnologia 3D ajudou na
+&lt;p&gt;“Quem visitar a mostra poderá ver como a tecnologia 3D ajudou na
 recuperação de obras de arte de grande valor artístico e cultural e
 ainda na descoberta de fatos passados que só puderam ser revelados
-depois do uso da tecnologia&quot;, afirma a professora da EMAp
+depois do uso da tecnologia”, afirma a professora da EMAp
 &lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Medeiros e Sá&lt;/a&gt;, que coordena o evento.&lt;/p&gt;
 
 &lt;p&gt;Resultado de um projeto de quatro anos conduzido por um consórcio de
@@ -1074,7 +1066,7 @@ digitalização e documentação de acervos 3D.&lt;/p&gt;
 &lt;p&gt;Workshop sobre tecnologias 3D&lt;/p&gt;
 
 &lt;p&gt;No dia primeiro de setembro, véspera do início da exposição
-&quot;Remodelando a História&quot;, a EMAp realizará um workshop sobre
+“Remodelando a História”, a EMAp realizará um workshop sobre
 tecnologias 3D e suas aplicações no setor de preservação de herança
 cultural.&lt;/p&gt;
 
@@ -1085,12 +1077,11 @@ disponíveis em
 &lt;a href=&quot;http://emap.fgv.br/RHR-2014/&quot;&gt;http://www.fgv.br/emap/rhr-2014/&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: Centro Cultural FGV - Praia de Botafogo 186 - Botafogo&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;: de 2 de setembro à 31 de outubro&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Funcionamento&lt;/strong&gt;: segunda à sábado de 10h às 19h.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entrada&lt;/strong&gt;: gratuita&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: Centro Cultural FGV - Praia de Botafogo 186 - Botafogo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;: de 2 de setembro à 31 de outubro&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Funcionamento&lt;/strong&gt;: segunda à sábado de 10h às 19h.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Entrada&lt;/strong&gt;: gratuita&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1118,6 +1109,7 @@ Maceió e Gramado.&lt;/p&gt;
 FGV/EMAp Asla Sá, Moacyr Alvim e Paulo Cezar Carvalho.&lt;/p&gt;
 
 &lt;p&gt;Para informações e inscrições, &lt;a href=&quot;/sibgrapi-2014/&quot;&gt;clique aqui&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1142,12 +1134,12 @@ universitários e recebe os mais destacados graduandos em matemática e
 ciências afins. Ao todo, participaram da competição 324 estudantes de
 73 universidades.&lt;/p&gt;
 
-&lt;p&gt;A preparação para a competição foi individual. &quot;A maioria dos alunos
+&lt;p&gt;A preparação para a competição foi individual. “A maioria dos alunos
 estuda por si próprio, em geral, com ajuda de algum professor apenas
-para dúvidas, caso necessário&quot;, conta Gustavo. Ao perguntar como foi
+para dúvidas, caso necessário”, conta Gustavo. Ao perguntar como foi
 voltar ao Brasil com essa premiação, ele resumiu em
-&quot;indescritível&quot;. &quot;A minha primeira vez numa competição internacional
-desta forma e conseguir uma medalha, me deixou muito feliz&quot;,
+“indescritível”. “A minha primeira vez numa competição internacional
+desta forma e conseguir uma medalha, me deixou muito feliz”,
 completou.&lt;/p&gt;
 
 &lt;p&gt;As provas foram realizadas na quinta-feira (31) e sexta-feira
@@ -1167,6 +1159,7 @@ quarto ano do ensino superior e não ter título universitário anterior,
 podendo ser estudantes de qualquer carreira acadêmica, ainda que a
 maioria seja de cursos como matemática, computação, engenharia e
 física.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1179,78 +1172,73 @@ física.&lt;/p&gt;
 nas três últimas semanas de agosto de 2014, contendo cinco aulas de
 três horas cada.&lt;/p&gt;
 
-&lt;h2&gt;Quando e onde&lt;/h2&gt;
+&lt;h2 id=&quot;quando-e-onde&quot;&gt;Quando e onde&lt;/h2&gt;
 
 &lt;p&gt;O curso acontecerá nos dias 12, 15, 19, 22 e 26/08/2014 na Praia de
 Botafogo, 190.&lt;/p&gt;
 
-&lt;h2&gt;Público-alvo&lt;/h2&gt;
+&lt;h2 id=&quot;pblico-alvo&quot;&gt;Público-alvo&lt;/h2&gt;
 
 &lt;p&gt;Alunos de mestrado da Fundação Getulio Vargas.&lt;/p&gt;
 
-&lt;h2&gt;Programa&lt;/h2&gt;
+&lt;h2 id=&quot;programa&quot;&gt;Programa&lt;/h2&gt;
 
-&lt;h3&gt;Aula 1 (Introdução e fundamentos teóricos)&lt;/h3&gt;
+&lt;h3 id=&quot;aula-1-introduo-e-fundamentos-tericos&quot;&gt;Aula 1 (Introdução e fundamentos teóricos)&lt;/h3&gt;
 
 &lt;p&gt;Dia 12/08 - 10h às 13h - auditório 1012&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Introdução à otimização não-diferenciável&lt;/li&gt;
-&lt;li&gt;Por que métodos especiais de otimização?&lt;/li&gt;
-&lt;li&gt;Método de feixes: descriçãoo e análise de convergência&lt;/li&gt;
+  &lt;li&gt;Introdução à otimização não-diferenciável&lt;/li&gt;
+  &lt;li&gt;Por que métodos especiais de otimização?&lt;/li&gt;
+  &lt;li&gt;Método de feixes: descriçãoo e análise de convergência&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Referências: [BGLS06, Cap. 9] e [IS07, Cap. 5].&lt;/p&gt;
 
-&lt;h3&gt;Aula 2 (Otimizando com dados imprecisos)&lt;/h3&gt;
+&lt;h3 id=&quot;aula-2-otimizando-com-dados-imprecisos&quot;&gt;Aula 2 (Otimizando com dados imprecisos)&lt;/h3&gt;
 
 &lt;p&gt;Dia 15/08 - 15h às 18h - auditório 1014&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Exemplos práticos&lt;/li&gt;
-&lt;li&gt;Métodos de feixes proximal inexato&lt;/li&gt;
+  &lt;li&gt;Exemplos práticos&lt;/li&gt;
+  &lt;li&gt;Métodos de feixes proximal inexato&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Referências: [Kiw06, Oli11, OSL14, OS14].&lt;/p&gt;
 
-&lt;h3&gt;Aula 3 (Lidando com restrições não-lineares)&lt;/h3&gt;
+&lt;h3 id=&quot;aula-3-lidando-com-restries-no-lineares&quot;&gt;Aula 3 (Lidando com restrições não-lineares)&lt;/h3&gt;
 
 &lt;p&gt;Dia 19/08 - 10h às 13h - auditório 1012&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Método de nível: descrição e análise de convergência.&lt;/li&gt;
-&lt;li&gt;Método de nível para problemas com restrições não-lineares&lt;/li&gt;
+  &lt;li&gt;Método de nível: descrição e análise de convergência.&lt;/li&gt;
+  &lt;li&gt;Método de nível para problemas com restrições não-lineares&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Referências: [LNN95, Kiw95, vAO14, OS14].&lt;/p&gt;
 
-&lt;h3&gt;Aula 4 (Aplicações industriais)&lt;/h3&gt;
+&lt;h3 id=&quot;aula-4-aplicaes-industriais&quot;&gt;Aula 4 (Aplicações industriais)&lt;/h3&gt;
 
 &lt;p&gt;Dia 22/08 - 15h às 18h - auditório 1012&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Métodos de nível para otimização não-linear inteira mista&lt;/li&gt;
-&lt;li&gt;Métodos de feixes para otimização estocástica&lt;/li&gt;
-&lt;li&gt;Métodos de feixes para problemas com restrições probabilísticas&lt;/li&gt;
+  &lt;li&gt;Métodos de nível para otimização não-linear inteira mista&lt;/li&gt;
+  &lt;li&gt;Métodos de feixes para otimização estocástica&lt;/li&gt;
+  &lt;li&gt;Métodos de feixes para problemas com restrições probabilísticas&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Referências: [OSS11, OS0, Oli14, vAO14].&lt;/p&gt;
 
-&lt;h3&gt;Aula 5 (Prática computacional)&lt;/h3&gt;
+&lt;h3 id=&quot;aula-5-prtica-computacional&quot;&gt;Aula 5 (Prática computacional)&lt;/h3&gt;
 
 &lt;p&gt;Dia 26/08 - 15h às 18h - auditório 1019&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Implementação de um método de nível para otimização estocástica&lt;/li&gt;
-&lt;li&gt;Implementação de um método de nível para otimização não-linear inteira mista.&lt;/li&gt;
+  &lt;li&gt;Implementação de um método de nível para otimização estocástica&lt;/li&gt;
+  &lt;li&gt;Implementação de um método de nível para otimização não-linear inteira mista.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Referências&lt;/h3&gt;
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
 &lt;p&gt;[BGLS06] J.F. Bonnans, J.Ch. Gilbert, C. Lemaréchal, and
 C. Sagastizábal. Numerical Optimization. Theoretical and Practical
@@ -1285,7 +1273,7 @@ Sagastizábal. &lt;a href=&quot;http://www.optimization-online.org/DB_HTML/2012/
 appear in Optimization Methods and Software, 0(0):1-30, 0.&lt;/p&gt;
 
 &lt;p&gt;[OS14] Welington de Oliveira and Claudia
-Sagastizábal. &lt;a href=&quot;http://www.oliveira.mat.br&quot;&gt;Bundle methods in the xxist century: A birds&#39;-eye view&lt;/a&gt;. To
+Sagastizábal. &lt;a href=&quot;http://www.oliveira.mat.br&quot;&gt;Bundle methods in the xxist century: A birds’-eye view&lt;/a&gt;. To
 appear in a special issue of Pesquisa Operacional, pages 1-26, 2014.&lt;/p&gt;
 
 &lt;p&gt;[OSL14] Welington de Oliveira, Claudia Sagastizábal, and Claude
@@ -1301,7 +1289,7 @@ methods for constrained convex optimization with various
 oracles. Computational Optimization and Applications, 57(3):555-597,
 2014.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/7487747692812163&quot;&gt;Welington Oliveira&lt;/a&gt; possui
 graduação em Matemática pela Faculdade de Filosofia Ciências e Letras
@@ -1317,28 +1305,26 @@ otimização, atuando principalmente nos seguintes temas: otimização
 não-diferenciável, otimização estocástica, processos estocásticos e
 planejamento energético de curto e médio prazos.&lt;/p&gt;
 
-&lt;h2&gt;Inscrições&lt;/h2&gt;
+&lt;h2 id=&quot;inscries&quot;&gt;Inscrições&lt;/h2&gt;
 
 &lt;p&gt;Para se inscrever, enviar um email para emap@fgv.br com assunto
-&quot;Minicurso em Otimização&quot; e no conteúdo da mensagem os seguintes
+“Minicurso em Otimização” e no conteúdo da mensagem os seguintes
 dados:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Nome&lt;/li&gt;
-&lt;li&gt;Instituição&lt;/li&gt;
-&lt;li&gt;Curso&lt;/li&gt;
-&lt;li&gt;Telefone para contato&lt;/li&gt;
+  &lt;li&gt;Nome&lt;/li&gt;
+  &lt;li&gt;Instituição&lt;/li&gt;
+  &lt;li&gt;Curso&lt;/li&gt;
+  &lt;li&gt;Telefone para contato&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1347,7 +1333,7 @@ chinelos.&lt;/li&gt;
    <link href="http://emap.fgv.br/blog/2014/07/15/defesa.html"/>
    <updated>2014-07-15T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2014/07/15/defesa</id>
-   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;resumo&quot;&gt;Resumo&lt;/h2&gt;
 
 &lt;p&gt;A avaliação de risco sísmico, fundamental para as decisões sobre as
 estruturas de obras de engenharia e mitigação de perdas, envolve
@@ -1366,16 +1352,15 @@ fundamentos como métodos alternativos ao zoneamento, em seguida se
 exemplifica suas aplicações no caso brasileiro. Palavras-chave:
 terremotos, ameaça sísmica, suavização.&lt;/p&gt;
 
-&lt;h2&gt;Comissão Julgadora&lt;/h2&gt;
+&lt;h2 id=&quot;comisso-julgadora&quot;&gt;Comissão Julgadora&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/vincent.guigues.html&quot;&gt;Vincent Gerard Yannick Guigues&lt;/a&gt; (Orientador - FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/0563544084744404&quot;&gt;Stephane Drouet&lt;/a&gt; (Membro Externo)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://emap.fgv.br/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/2833240474723324&quot;&gt;Marcelo Assumpção&lt;/a&gt; (Membro Externo)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/vincent.guigues.html&quot;&gt;Vincent Gerard Yannick Guigues&lt;/a&gt; (Orientador - FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/0563544084744404&quot;&gt;Stephane Drouet&lt;/a&gt; (Membro Externo)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://emap.fgv.br/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/2833240474723324&quot;&gt;Marcelo Assumpção&lt;/a&gt; (Membro Externo)&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1384,14 +1369,14 @@ terremotos, ameaça sísmica, suavização.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/07/07/minicurso-financas-quantitativas.html"/>
    <updated>2014-07-07T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2014/07/07/minicurso-financas-quantitativas</id>
-   <content type="html">&lt;h2&gt;Date and Location&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;date-and-location&quot;&gt;Date and Location&lt;/h2&gt;
 
 &lt;p&gt;September 26th and October 03, 10, 17, 24 (every friday), from 3 PM to
 6PM.&lt;/p&gt;
 
 &lt;p&gt;Praia de Botafogo, 190, Rio de Janeiro. Room 1332.&lt;/p&gt;
 
-&lt;h2&gt;Speakers&lt;/h2&gt;
+&lt;h2 id=&quot;speakers&quot;&gt;Speakers&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://goo.gl/39cMX0&quot;&gt;Margaret Armstrong&lt;/a&gt; and
 &lt;a href=&quot;http://goo.gl/f8KJzd&quot;&gt;Alain Galli&lt;/a&gt; started the Quantitative Finance
@@ -1400,19 +1385,18 @@ engineers who want to be quants, traders &amp;amp; structurers in banks. The
 group’s research focuses on:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Modeling commodities (electricity, oil and gas, CO2 etc).&lt;/li&gt;
-&lt;li&gt;Modeling the structure of electricity markets, and the impact of the
+  &lt;li&gt;Modeling commodities (electricity, oil and gas, CO2 etc).&lt;/li&gt;
+  &lt;li&gt;Modeling the structure of electricity markets, and the impact of the
 introduction of renewables (wind power) and electric vehicles on
 day-ahead electricity prices.&lt;/li&gt;
-&lt;li&gt;Evaluating and optimising of projects such as mines, oil fields and
+  &lt;li&gt;Evaluating and optimising of projects such as mines, oil fields and
 power plants that are subject to technical and financial
 uncertainty.&lt;/li&gt;
-&lt;li&gt;Modelling the term structure of interest rates.&lt;/li&gt;
-&lt;li&gt;Stochastic volatility models.&lt;/li&gt;
-&lt;li&gt;Dynamic hedging of physical commitments.&lt;/li&gt;
-&lt;li&gt;Copulas, especially Archimedean copulas.&lt;/li&gt;
+  &lt;li&gt;Modelling the term structure of interest rates.&lt;/li&gt;
+  &lt;li&gt;Stochastic volatility models.&lt;/li&gt;
+  &lt;li&gt;Dynamic hedging of physical commitments.&lt;/li&gt;
+  &lt;li&gt;Copulas, especially Archimedean copulas.&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Margaret Armstrong is a professor at the Cerna, Mines-Paristech. She
 has a masters in mathematical statistics from the University of
@@ -1422,64 +1406,59 @@ Mines de Paris.&lt;/p&gt;
 &lt;p&gt;Alain GALLI is a professor at the Cerna, Mines-Paristech. He holds a
 PhD in mathematics from the University of Grenoble, France.&lt;/p&gt;
 
-&lt;h2&gt;Program&lt;/h2&gt;
+&lt;h2 id=&quot;program&quot;&gt;Program&lt;/h2&gt;
 
 &lt;p&gt;Week 1&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lecture 1: Basic theory on Geometric Brownian motion, Mean reverting
+  &lt;li&gt;Lecture 1: Basic theory on Geometric Brownian motion, Mean reverting
 processes&lt;/li&gt;
-&lt;li&gt;Lecture 2: Simulation procedures&lt;/li&gt;
-&lt;li&gt;Computer Session: Simulating a geometric Brownian motion&lt;/li&gt;
+  &lt;li&gt;Lecture 2: Simulation procedures&lt;/li&gt;
+  &lt;li&gt;Computer Session: Simulating a geometric Brownian motion&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Week 2&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lecture 1: Options: puts &amp;amp; calls, European, American Asian, Black &amp;amp; Scholes formula&lt;/li&gt;
-&lt;li&gt;Lecture 2: First approach for pricing options: arbitrage, self-financing portfolios&lt;/li&gt;
-&lt;li&gt;Computer Session: Using Black &amp;amp; Scholes formula to price European options; zero cost collar&lt;/li&gt;
+  &lt;li&gt;Lecture 1: Options: puts &amp;amp; calls, European, American Asian, Black &amp;amp; Scholes formula&lt;/li&gt;
+  &lt;li&gt;Lecture 2: First approach for pricing options: arbitrage, self-financing portfolios&lt;/li&gt;
+  &lt;li&gt;Computer Session: Using Black &amp;amp; Scholes formula to price European options; zero cost collar&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Week 3&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lecture 1: Second approach for pricing options: conditional
+  &lt;li&gt;Lecture 1: Second approach for pricing options: conditional
 expectation, Statement of Feynmann- Kac theorem&lt;/li&gt;
-&lt;li&gt;Lecture 2: Using binomial &amp;amp; trinomial trees to price American options&lt;/li&gt;
-&lt;li&gt;Computer Session: Constructing binomial trees for pricing options&lt;/li&gt;
+  &lt;li&gt;Lecture 2: Using binomial &amp;amp; trinomial trees to price American options&lt;/li&gt;
+  &lt;li&gt;Computer Session: Constructing binomial trees for pricing options&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Week 4&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lecture 1: Bonds, Interest rates, Foreign exchange, Term structure&lt;/li&gt;
-&lt;li&gt;Lecture 2: Stochastic processes for modelling interest rates&lt;/li&gt;
-&lt;li&gt;Computer Session: Comparing 3 ways to price European option (a)
+  &lt;li&gt;Lecture 1: Bonds, Interest rates, Foreign exchange, Term structure&lt;/li&gt;
+  &lt;li&gt;Lecture 2: Stochastic processes for modelling interest rates&lt;/li&gt;
+  &lt;li&gt;Computer Session: Comparing 3 ways to price European option (a)
 Simulating geometric&lt;/li&gt;
-&lt;li&gt;Brownian motion (b) Black &amp;amp; Scholes Formula (c) binomial tree&lt;/li&gt;
+  &lt;li&gt;Brownian motion (b) Black &amp;amp; Scholes Formula (c) binomial tree&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Week 5&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lecture 1: Commodities: spot prices futures, options. Applied to
+  &lt;li&gt;Lecture 1: Commodities: spot prices futures, options. Applied to
 crude oil &amp;amp; to electricity markets&lt;/li&gt;
-&lt;li&gt;Lecture 2: Stochastic processes for commodities&lt;/li&gt;
-&lt;li&gt;Computer Session: Simulating commodity prices.&lt;/li&gt;
+  &lt;li&gt;Lecture 2: Stochastic processes for commodities&lt;/li&gt;
+  &lt;li&gt;Computer Session: Simulating commodity prices.&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Examination procedure: computer exercise to be carried out in pairs
 and handed in 4 weeks end of course.&lt;/p&gt;
 
 &lt;p&gt;Certificates will be issued by FGV/EMAp.&lt;/p&gt;
 
-&lt;h2&gt;Registration&lt;/h2&gt;
+&lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.fgv.br/eventos/?P_EVENTO=2082&amp;amp;P_IDIOMA=0&quot;&gt;Click here for registration&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -1490,7 +1469,7 @@ and handed in 4 weeks end of course.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/06/06/defesa.html"/>
    <updated>2014-06-06T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2014/06/06/defesa</id>
-   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;resumo&quot;&gt;Resumo&lt;/h2&gt;
 
 &lt;p&gt;Os ácaros ectoparasitas Varroa destructor, que parasitam as abelhas
 tornaram-se um problema global. Embora seja pouco provável que estes
@@ -1513,14 +1492,14 @@ matemático baseado em equações diferenciais, com o objetivo de
 analisar o papel desses mecanismos de resistência na saúde geral da
 colônia e na capacidade da colônia para enfrentar desafios ambientais.&lt;/p&gt;
 
-&lt;h2&gt;Comissão Julgadora&lt;/h2&gt;
+&lt;h2 id=&quot;comisso-julgadora&quot;&gt;Comissão Julgadora&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (orientador - FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; (coorientador - FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;Jair Koiller (FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6908067473022811&quot;&gt;Max Oliveira de Souza&lt;/a&gt; (membro externo - Departamento de Matemática/UFF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (orientador - FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; (coorientador - FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;Jair Koiller (FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6908067473022811&quot;&gt;Max Oliveira de Souza&lt;/a&gt; (membro externo - Departamento de Matemática/UFF)&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
@@ -1535,19 +1514,19 @@ colônia e na capacidade da colônia para enfrentar desafios ambientais.&lt;/p&g
 &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt; será um dos
 palestrantes do &lt;a href=&quot;http://www.secop2014.pr.gov.br&quot;&gt;SECOP 2014&lt;/a&gt; -
 Seminário Nacional de TIC para a Gestão Pública - que aborda este ano
-o tema &quot;Tecnologia da Informação e Comunicação na Gestão Estratégica
-de Governo&quot;.&lt;/p&gt;
+o tema “Tecnologia da Informação e Comunicação na Gestão Estratégica
+de Governo”.&lt;/p&gt;
 
 &lt;p&gt;Em sua palestra,
 &lt;a href=&quot;http://goo.gl/jA3IFP&quot;&gt;Big Data e suas aplicações em Políticas Públicas&lt;/a&gt;,
 programada para amanhã, dia 29, o professor apresentará os resultados
 preliminares e potenciais aplicações de um projeto de modelagem de
 padrões de mobilidade humana a partir de dados de telefonia celular -
-uma parceria da EMAp com a COPPE/UFRJ. &quot;A identidade dos usuários é
+uma parceria da EMAp com a COPPE/UFRJ. “A identidade dos usuários é
 criptografada para preservar a privacidade dos clientes e os dados
 contêm a localização da antena que processou cada chamada efetuada por
 telefone celular - que é utilizada como aproximação para a localização
-do usuário&quot;, explica Alexandre. O foco do estudo é a região
+do usuário”, explica Alexandre. O foco do estudo é a região
 metropolitana do Rio de Janeiro, nos municípios com código de área 21.&lt;/p&gt;
 
 &lt;p&gt;Desenvolvido em colaboração com o MIT para a comparação dos resultados
@@ -1560,6 +1539,7 @@ privacidade de informações; computação em nuvem em Governo;
 mobilidade; redes sociais e a interação com os cidadãos; Big Data e
 BI - inteligência de negócios em Governo e redes de banda larga; aléms
 de iniciativas nas esferas Federal, Estaduais e Municipais.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1578,20 +1558,20 @@ seguido por Espanha, Argentina e Colômbia, que têm, respectivamente,
 com a colaboração do aluno de graduação da EMAp, Arthur Carneiro, o
 estudo leva em consideração os resultados das 207 seleções filiadas à
 FIFA nos últimos quatro anos, considerando a força de ataque e defesa
-de cada seleção. &quot;De posse da força de ataque e defesa de cada seleção
+de cada seleção. “De posse da força de ataque e defesa de cada seleção
 podemos simular o confronto entre duas seleções quaisquer. Simulamos
 então todos os jogos da Copa do Mundo de 2014 em 100 mil vezes.  O
 Brasil terminou campeão em 28 mil simulações. Por isso, podemos dizer
-que a probabilidade do Brasil ganhar é de 28%&quot;, explica Moacyr.&lt;/p&gt;
+que a probabilidade do Brasil ganhar é de 28%”, explica Moacyr.&lt;/p&gt;
 
 &lt;p&gt;O que surgiu como uma brincadeira entre amigos, gerou interesse por
-outros professores da Escola. &quot;Foi um campeonato de sinuca com membros
+outros professores da Escola. “Foi um campeonato de sinuca com membros
 da minha família.  Os participantes faziam jogos quando queriam e com
 os adversários que queriam, e anotavam o resultado.  Depois de certo
 tempo, o número de jogos de cada participante era muito diferente e a
 qualidade dos adversários também muito heterogênea, e não sabíamos
 como classificar os participantes por um critério razoável. Trouxe
-este problema para a EMAp e discutimos sobre algoritmos de ranking&quot;,
+este problema para a EMAp e discutimos sobre algoritmos de ranking”,
 revela o professor.&lt;/p&gt;
 
 &lt;p&gt;O estudo, que segundo Moacyr são estimativas ou o bom senso traduzido
@@ -1610,6 +1590,7 @@ finaliza.&lt;/p&gt;
 &lt;p&gt;O estudo completo está disponível neste
 &lt;a href=&quot;/copa-2014/&quot;&gt;link&lt;/a&gt; e será atualizado durante o
 Mundial.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1622,11 +1603,11 @@ Mundial.&lt;/p&gt;
 de conclusão do curso Big Data Analytics, uma parceria da Escola de
 Matemática Aplicada com o FGV Management Rio.&lt;/p&gt;
 
-&lt;p&gt;Os quatro trabalhos selecionados para o workshop foram &quot;Predição de
-Inadimplência de Alunos&quot;, por Marcelo Gomes Marques, &quot;Text Mining de
-Letras Musicais&quot;, por Hugo Eiji Tibana Carvalho e Gustavo Fernandes,
-&quot;Predição da Demanda de Ônibus Urbanos em Dias Chuvosos&quot;, por Marcelo
-Granja e Pedro Arias, e &quot;Análise de Tweets com o Biginsights&quot;, por
+&lt;p&gt;Os quatro trabalhos selecionados para o workshop foram “Predição de
+Inadimplência de Alunos”, por Marcelo Gomes Marques, “Text Mining de
+Letras Musicais”, por Hugo Eiji Tibana Carvalho e Gustavo Fernandes,
+“Predição da Demanda de Ônibus Urbanos em Dias Chuvosos”, por Marcelo
+Granja e Pedro Arias, e “Análise de Tweets com o Biginsights”, por
 Alexandre Sales Lima.&lt;/p&gt;
 
 &lt;p&gt;O aluno Marcelo Gomes abordou em sua análise uma aplicação comum de
@@ -1634,7 +1615,7 @@ inadimplência, mostrando o processo de solução de problemas por meio
 de diversas técnicas de pré-processamento e modelagem. Já os alunos
 Hugo Eiji e Gustavo Fernandes analisaram as letras musicais dos anos
 70, 90 e dos anos atuais através do processo de text mining.  O
-trabalho de &quot;Predição da Demanda de Ônibus Urbanos em Dias Chuvosos&quot;,
+trabalho de “Predição da Demanda de Ônibus Urbanos em Dias Chuvosos”,
 realizado por Marcelo Granja e Pedro Arias, do PENSA - grupo de big
 data da Prefeitura -, mostrou como a análise de dados existentes pode
 ser utilizada por governos para melhoria dos serviços da população. Na
@@ -1644,9 +1625,9 @@ para processamento distribuído de grandes massas de dados.&lt;/p&gt;
 
 &lt;p&gt;O coordenador do curso e professor da Escola, Alexandre Evsukoff,
 relatou que se surpreendeu pela qualidade e empenho dos
-alunos. &quot;Realmente esses alunos e os que estão se inscrevendo para a
+alunos. “Realmente esses alunos e os que estão se inscrevendo para a
 próxima turma são de altíssimo nível técnico e acadêmico. Temos
-doutores em nosso curso&quot;, comentou Evsukoff. De acordo com ele, esse
+doutores em nosso curso”, comentou Evsukoff. De acordo com ele, esse
 indicador mostra efetivamente que o componente principal para o
 sucesso de aplicações de Big Data Analytics são as pessoas.&lt;/p&gt;
 
@@ -1663,7 +1644,7 @@ sua utilização em problemas reais.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/03/21/defesa.html"/>
    <updated>2014-03-21T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2014/03/21/defesa</id>
-   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;resumo&quot;&gt;Resumo&lt;/h2&gt;
 
 &lt;p&gt;O uso combinado de algoritmos para a descoberta de tópicos em coleções
 de documentos com técnicas orientadas à visualização da evolução
@@ -1671,7 +1652,7 @@ daqueles tópicos no tempo permite a exploração de padrões temáticos em
 corpus extensos a partir de representações visuais compactas. A
 pesquisa em apresentação investigou os requisitos de visualização do
 dado sobre composição temática de documentos obtido através da
-modelagem de tópicos -- o qual é esparso e possui multiatributos -- em
+modelagem de tópicos – o qual é esparso e possui multiatributos – em
 diferentes níveis de detalhe, através do desenvolvimento de uma
 técnica de visualização própria e pelo uso de uma biblioteca de código
 aberto para visualização de dados, de forma comparativa. Sobre o
@@ -1689,16 +1670,15 @@ para ambientes interativos através do uso de transições automáticas
 entre técnicas de acordo com a resolução de exploração do dado é a
 principal contribuição desse trabalho.&lt;/p&gt;
 
-&lt;h2&gt;Comissão Julgadora&lt;/h2&gt;
+&lt;h2 id=&quot;comisso-julgadora&quot;&gt;Comissão Julgadora&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Medeiros e Sá&lt;/a&gt; (Orientadora)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (Coorientador)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/9237788190989316&quot;&gt;Cláudio Esperança&lt;/a&gt; (UFRJ)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Medeiros e Sá&lt;/a&gt; (Orientadora)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Codeço Coelho&lt;/a&gt; (Coorientador)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/9237788190989316&quot;&gt;Cláudio Esperança&lt;/a&gt; (UFRJ)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1707,7 +1687,7 @@ principal contribuição desse trabalho.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2014/02/24/defesa.html"/>
    <updated>2014-02-24T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2014/02/24/defesa</id>
-   <content type="html">&lt;h2&gt;Resumo&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;resumo&quot;&gt;Resumo&lt;/h2&gt;
 
 &lt;p&gt;Outliers são observações que parecem ser inconsistentes com as
 demais. Também chamadas de valores atípicos, extremos ou aberrantes,
@@ -1754,16 +1734,15 @@ literatura, de forma que a suposição de que os preços descartados ou
 alterados pelos analistas no processo de crítica são os verdadeiros
 outliers não interfira nos resultados.&lt;/p&gt;
 
-&lt;h2&gt;Comissão Julgadora&lt;/h2&gt;
+&lt;h2 id=&quot;comisso-julgadora&quot;&gt;Comissão Julgadora&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt; (orientador - FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6914542088971040&quot;&gt;Crysttian Arantes Paixão&lt;/a&gt; (coorientador - FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/7334677291253014&quot;&gt;Salomão Lipcovitch Quadros da Silva&lt;/a&gt; (FGV/IBRE)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6925058261277435&quot;&gt;Sheila Zani&lt;/a&gt; (IBGE)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Pinto Carvalho&lt;/a&gt; (orientador - FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6914542088971040&quot;&gt;Crysttian Arantes Paixão&lt;/a&gt; (coorientador - FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim Horta Barbosa da Silva&lt;/a&gt; (FGV/EMAp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/7334677291253014&quot;&gt;Salomão Lipcovitch Quadros da Silva&lt;/a&gt; (FGV/IBRE)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lattes.cnpq.br/6925058261277435&quot;&gt;Sheila Zani&lt;/a&gt; (IBGE)&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1789,14 +1768,15 @@ Brasil (1999-2000) e vice-presidente executivo do Itaú-Unibanco
 Vargas, além de sócio-diretor da Divitia Investimentos. Na FGV/EPGE
 ministra o curso de Teoria dos Jogos. Sua pesquisa acadêmica tem foco
 em fundamentos da teoria dos jogos e incerteza knightiana.  Seus
-principais artigos publicados são &quot;Bayesian Foundations of Game
-Theory&quot;, com Tommy Tan, Journal of Economic Theory, 1988; &quot;Uncertainty
-Aversion, Risk Aversion and the Optimal Choice of Portfolio&quot;, com
-James Dow, Econometrica, 1992; e &quot;Nash Equilibrium under Knightian
-Uncertainty: Breaking down Backward Induction&quot;, com James Dow, Journal
+principais artigos publicados são “Bayesian Foundations of Game
+Theory”, com Tommy Tan, Journal of Economic Theory, 1988; “Uncertainty
+Aversion, Risk Aversion and the Optimal Choice of Portfolio”, com
+James Dow, Econometrica, 1992; e “Nash Equilibrium under Knightian
+Uncertainty: Breaking down Backward Induction”, com James Dow, Journal
 of Economic Theory, 1994.&lt;/p&gt;
 
 &lt;p&gt;A aula magna será realizada no auditório do 12o andar às 11 horas.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1810,23 +1790,22 @@ of Economic Theory, 1994.&lt;/p&gt;
 são:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Adriano Duarte da Silva&lt;/li&gt;
-&lt;li&gt;Anna Patrícia Pachas Marique&lt;/li&gt;
-&lt;li&gt;Cecília Pessanha Lima&lt;/li&gt;
-&lt;li&gt;Cristiano de Andrade Gonçalves&lt;/li&gt;
-&lt;li&gt;Eliane Martins de Aguiar&lt;/li&gt;
-&lt;li&gt;Gabriel Carneiro Lento&lt;/li&gt;
-&lt;li&gt;Jefferson da Costa Lima&lt;/li&gt;
-&lt;li&gt;Kiese da Silva Quiavauca&lt;/li&gt;
-&lt;li&gt;Leon Diniz Alves&lt;/li&gt;
-&lt;li&gt;Leonardo dos Santos Pinheiro&lt;/li&gt;
-&lt;li&gt;Leonardo Rodrigues Mattos&lt;/li&gt;
-&lt;li&gt;Luis Eduardo Craiser&lt;/li&gt;
-&lt;li&gt;Marcos Ferreira da Silva&lt;/li&gt;
-&lt;li&gt;Maria Filomena De Souza&lt;/li&gt;
-&lt;li&gt;Pedro Henrique Scheider&lt;/li&gt;
+  &lt;li&gt;Adriano Duarte da Silva&lt;/li&gt;
+  &lt;li&gt;Anna Patrícia Pachas Marique&lt;/li&gt;
+  &lt;li&gt;Cecília Pessanha Lima&lt;/li&gt;
+  &lt;li&gt;Cristiano de Andrade Gonçalves&lt;/li&gt;
+  &lt;li&gt;Eliane Martins de Aguiar&lt;/li&gt;
+  &lt;li&gt;Gabriel Carneiro Lento&lt;/li&gt;
+  &lt;li&gt;Jefferson da Costa Lima&lt;/li&gt;
+  &lt;li&gt;Kiese da Silva Quiavauca&lt;/li&gt;
+  &lt;li&gt;Leon Diniz Alves&lt;/li&gt;
+  &lt;li&gt;Leonardo dos Santos Pinheiro&lt;/li&gt;
+  &lt;li&gt;Leonardo Rodrigues Mattos&lt;/li&gt;
+  &lt;li&gt;Luis Eduardo Craiser&lt;/li&gt;
+  &lt;li&gt;Marcos Ferreira da Silva&lt;/li&gt;
+  &lt;li&gt;Maria Filomena De Souza&lt;/li&gt;
+  &lt;li&gt;Pedro Henrique Scheider&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;A matrícula deve ser feita no período de 11/02 a 19/02 na Secretaria
 de Registros Acadêmicos - Praia de Botafogo, 190, sala 314. O início
@@ -1840,7 +1819,7 @@ das aulas será no dia 24 de fevereiro.&lt;/p&gt;
    <updated>2014-02-07T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2014/02/07/atividade-complementar</id>
    <content type="html">&lt;p&gt;A Escola de Matemática Aplicada irá oferecer a atividade complementar
-em &quot;Comportamento, Informação e Criptografia&quot;, em parceria com a
+em “Comportamento, Informação e Criptografia”, em parceria com a
 &lt;a href=&quot;http://ebape.fgv.br&quot;&gt;Escola de Administração (EBAPE/FGV)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Coordenado pelos professores Jair Koiller, da EMAp, e
@@ -1849,69 +1828,65 @@ em &quot;Comportamento, Informação e Criptografia&quot;, em parceria com a
 da EBAPE, o curso terá como discussão as abordagens dos livros:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/1400096235/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1400096235&amp;linkCode=as2&amp;tag=persowebsi000-20&quot;&gt;The Information: A History, A Theory, A Flood&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=persowebsi000-20&amp;l=as2&amp;o=1&amp;a=1400096235&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/0307378217/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307378217&amp;linkCode=as2&amp;tag=persowebsi000-20&quot;&gt;Subliminal: How Your Unconscious Mind Rules Your Behavior&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=persowebsi000-20&amp;l=as2&amp;o=1&amp;a=0307378217&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://loja.sbm.org.br/DetProduto.aspx?id=102&quot;&gt;Números Inteiros e Criptografia RSA (S. Coutinho)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/1400096235/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=1400096235&amp;amp;linkCode=as2&amp;amp;tag=persowebsi000-20&quot;&gt;The Information: A History, A Theory, A Flood&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=persowebsi000-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=1400096235&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/0307378217/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0307378217&amp;amp;linkCode=as2&amp;amp;tag=persowebsi000-20&quot;&gt;Subliminal: How Your Unconscious Mind Rules Your Behavior&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=persowebsi000-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=0307378217&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://loja.sbm.org.br/DetProduto.aspx?id=102&quot;&gt;Números Inteiros e Criptografia RSA (S. Coutinho)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;As aulas serão realizadas no período de 13 de fevereiro a 25 de junho,
 todas às quintas-feiras, das 13h às 15h. As inscrições podem ser
 feitas no Núcleo de Apoio Pedagógico, sala 309.&lt;/p&gt;
 
-&lt;p&gt;Para mais informações, entrar em contato pelo email &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;r&#39;,&#39;.b&#39;,&#39;er&#39;,&#39;ll&#39;,&#39;oi&#39;,&#39;.k&#39;,&#39;ja&#39;,&#39;ir&#39;,&#39;@f&#39;,&#39;gv&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[6]+a[7]+a[5]+a[4]+a[3]+a[2]+a[8]+a[9]+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[6]+a[7]+a[5]+a[4]+a[3]+a[2]+a[8]+a[9]+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
+&lt;p&gt;Para mais informações, entrar em contato pelo email &lt;script type=&quot;text/javascript&quot;&gt;var a = new Array(&#39;r&#39;,&#39;.b&#39;,&#39;er&#39;,&#39;ll&#39;,&#39;oi&#39;,&#39;.k&#39;,&#39;ja&#39;,&#39;ir&#39;,&#39;@f&#39;,&#39;gv&#39;);document.write(&quot;&lt;a href=&quot;mailto:&amp;quot;+a[6]+a[7]+a[5]+a[4]+a[3]+a[2]+a[8]+a[9]+a[1]+a[0]+&amp;quot;&quot;&gt;&quot;+a[6]+a[7]+a[5]+a[4]+a[3]+a[2]+a[8]+a[9]+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
 
-&lt;h3&gt;Cronograma e Conteúdo (12 sessões)&lt;/h3&gt;
+&lt;h3 id=&quot;cronograma-e-contedo-12-sesses&quot;&gt;Cronograma e Conteúdo (12 sessões)&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;13/2&lt;/strong&gt; Aula inaugural - Apresentação do curso&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;20/2&lt;/strong&gt; Mlodinow, capítulos 1,2,3: Lembrando de coisas que não
+  &lt;li&gt;&lt;strong&gt;13/2&lt;/strong&gt; Aula inaugural - Apresentação do curso&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;20/2&lt;/strong&gt; Mlodinow, capítulos 1,2,3: Lembrando de coisas que não
 aconteceram?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;27/2&lt;/strong&gt; Mlodinow, capítulos 4,5,6,7: Julgando pelas aparências,
+  &lt;li&gt;&lt;strong&gt;27/2&lt;/strong&gt; Mlodinow, capítulos 4,5,6,7: Julgando pelas aparências,
 categorizando&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;13/3&lt;/strong&gt; Uma excursão matemática: a distância de Jaccard e
+  &lt;li&gt;&lt;strong&gt;13/3&lt;/strong&gt; Uma excursão matemática: a distância de Jaccard e
 variantes. Bitcoin e prevenção de riscos na internet.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;20/3&lt;/strong&gt; Mlodinow, capítulos 8,9,10: “Natureza das Emoções”&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;27/3&lt;/strong&gt; Gleick, capítulos 1-6: Código dos tambores que falam; excursão
+  &lt;li&gt;&lt;strong&gt;20/3&lt;/strong&gt; Mlodinow, capítulos 8,9,10: “Natureza das Emoções”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;27/3&lt;/strong&gt; Gleick, capítulos 1-6: Código dos tambores que falam; excursão
 matemática: códigos corretores de erros&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;24/4&lt;/strong&gt; Gleick, capítulos 7,8: Matemática da informação: Teoria de
+  &lt;li&gt;&lt;strong&gt;24/4&lt;/strong&gt; Gleick, capítulos 7,8: Matemática da informação: Teoria de
 Shannon&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;30/4&lt;/strong&gt; Gleick, capítulo 9: Física: Entropia e Mecânica Estatística&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;08/5&lt;/strong&gt; Gleick, capítulo 10: Biologia depois do DNA&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;15/5&lt;/strong&gt; S. Collier, introdução ao capítulo 3: números primos&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;22/5&lt;/strong&gt; S. Collier, capítulos 4-7: Artimética modular. Aplicação em
+  &lt;li&gt;&lt;strong&gt;30/4&lt;/strong&gt; Gleick, capítulo 9: Física: Entropia e Mecânica Estatística&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;08/5&lt;/strong&gt; Gleick, capítulo 10: Biologia depois do DNA&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;15/5&lt;/strong&gt; S. Collier, introdução ao capítulo 3: números primos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;22/5&lt;/strong&gt; S. Collier, capítulos 4-7: Artimética modular. Aplicação em
 partilha de senhas.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;29/5&lt;/strong&gt; S. Collier, capítulos 8-12: RSA a ECC&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;05/6&lt;/strong&gt; Gleck, capítulos 10-15: O dilúvio da informação.  Avaliação
+  &lt;li&gt;&lt;strong&gt;29/5&lt;/strong&gt; S. Collier, capítulos 8-12: RSA a ECC&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;05/6&lt;/strong&gt; Gleck, capítulos 10-15: O dilúvio da informação.  Avaliação
 das discussões.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Público-alvo&lt;/h3&gt;
+&lt;h3 id=&quot;pblico-alvo&quot;&gt;Público-alvo&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Alunos da FGV: a atividade será válida como crédito complementar de
+  &lt;li&gt;Alunos da FGV: a atividade será válida como crédito complementar de
 24h.&lt;/li&gt;
-&lt;li&gt;Alunos de outras Instituições: mediante carta de recomendação e
+  &lt;li&gt;Alunos de outras Instituições: mediante carta de recomendação e
 havendo vagas.&lt;/li&gt;
-&lt;li&gt;Público geral: mediante análise de carta de interesse.&lt;/li&gt;
-&lt;li&gt;Empresas interessadas em novas abordagens (e no recrutamento de bons
+  &lt;li&gt;Público geral: mediante análise de carta de interesse.&lt;/li&gt;
+  &lt;li&gt;Empresas interessadas em novas abordagens (e no recrutamento de bons
 alunos).&lt;/li&gt;
 &lt;/ul&gt;
 
-
 &lt;p&gt;Vagas limitadas.&lt;/p&gt;
 
-&lt;h3&gt;Organização&lt;/h3&gt;
+&lt;h3 id=&quot;organizao&quot;&gt;Organização&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Clube de Matemática - coordenado por Jair Koiller (EMAP)&lt;/li&gt;
-&lt;li&gt;Centre for Behavioral Research - coordenado por Eduardo Andrade (EBAPE)&lt;/li&gt;
-&lt;li&gt;Laboratório de Modelagem e Simulação de Sistemas Cooperativos e Adaptatos&lt;/li&gt;
-&lt;li&gt;Projeto com apoio &lt;a href=&quot;http://faperj.br&quot;&gt;Faperj&lt;/a&gt; - coordenado por
+  &lt;li&gt;Clube de Matemática - coordenado por Jair Koiller (EMAP)&lt;/li&gt;
+  &lt;li&gt;Centre for Behavioral Research - coordenado por Eduardo Andrade (EBAPE)&lt;/li&gt;
+  &lt;li&gt;Laboratório de Modelagem e Simulação de Sistemas Cooperativos e Adaptatos&lt;/li&gt;
+  &lt;li&gt;Projeto com apoio &lt;a href=&quot;http://faperj.br&quot;&gt;Faperj&lt;/a&gt; - coordenado por
 Alexandre Linhares (EBAPE)&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1924,12 +1899,11 @@ Alexandre Linhares (EBAPE)&lt;/li&gt;
 do curso de graduação em Matemática Aplicada são:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;João Pedro Gonçalves Ramos&lt;/li&gt;
-&lt;li&gt;Victor de Oliveira Bitarães&lt;/li&gt;
-&lt;li&gt;Eduardo Huther A. Crespo&lt;/li&gt;
-&lt;li&gt;Paulo de Tarso silva Santos&lt;/li&gt;
+  &lt;li&gt;João Pedro Gonçalves Ramos&lt;/li&gt;
+  &lt;li&gt;Victor de Oliveira Bitarães&lt;/li&gt;
+  &lt;li&gt;Eduardo Huther A. Crespo&lt;/li&gt;
+  &lt;li&gt;Paulo de Tarso silva Santos&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;A matrícula deverá ser efetuada até o dia 07 de fevereiro de 2014,
 sendo necessário apresentar os documentos que constam no
@@ -1965,144 +1939,37 @@ no próprio site da EMAp. As matrículas irão até o dia 07 de fevereiro.&lt;/p
    <link href="http://emap.fgv.br/blog/2013/12/26/selecao-mestrado.html"/>
    <updated>2013-12-26T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/12/26/selecao-mestrado</id>
-   <content type="html">&lt;p&gt;Divulgamos a seguir a lista dos indicados para o Curso de Verão.&lt;/p&gt;
-&lt;table&gt;
-	&lt;tr&gt;
-		&lt;td&gt; &lt;strong&gt;Nome&lt;/strong&gt;                               &lt;/td&gt;
-		&lt;td&gt; &lt;strong&gt;Linguagem Python&lt;/strong&gt; &lt;/td&gt;
-		&lt;td&gt; &lt;strong&gt;Fundamentos da Matemática&lt;/strong&gt; &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Adriano Duarte da Silva              &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Andre Luiz D&amp;#8217;Aqui Moura              &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Anna Patricia Pachas Manrique        &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Antonio Augusto Conti Fernandes Leão &lt;/td&gt;
-		&lt;td&gt; Opcional           &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Cecilia Pessanha Lima                &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Dispensada                &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Cristiano de Andrade Gonçalves       &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Edvalter Alex Lima                   &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Eliane Martins de Aguiar             &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Fabio Dias Carneiro                  &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Gabriel Carneiro Lento               &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Geraldo Magela Souza                 &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Iran Duilio Cordeiro                 &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Jefferson da Costa Lima              &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Kiese da Silva Quiavauca             &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Leon Diniz Alves                     &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Leonardo dos Santos Pinheiro         &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Leonardo Rodrigues Mattos da Costa   &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Luis Eduardo Craizer                 &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Manoel de Souza e Silva Neto         &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Marcos Ferreira da Silva             &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Maria Filomena de Souza Alves        &lt;/td&gt;
-		&lt;td&gt; Opcional           &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Pedro Henrique Schneider             &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Opcional                  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Sergio Salustiano da Silva           &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Valmir Jhonatta Almeida Barbosa      &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Wagner dos Anjos Carvalho            &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Wallace Rocha dos Santos Garbim      &lt;/td&gt;
-		&lt;td&gt; Recomendado        &lt;/td&gt;
-		&lt;td&gt; Recomendado               &lt;/td&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;</content>
+   <content type="html">Divulgamos a seguir a lista dos indicados para o Curso de Verão. 
+
+| *Nome*                               | *Linguagem Python* | *Fundamentos da Matemática* |
+| Adriano Duarte da Silva              | Recomendado        | Opcional                  |
+| Andre Luiz D&#39;Aqui Moura              | Recomendado        | Recomendado               |
+| Anna Patricia Pachas Manrique        | Recomendado        | Recomendado               |
+| Antonio Augusto Conti Fernandes Leão | Opcional           | Recomendado               |
+| Cecilia Pessanha Lima                | Recomendado        | Dispensada                |
+| Cristiano de Andrade Gonçalves       | Recomendado        | Opcional                  |
+| Edvalter Alex Lima                   | Recomendado        | Opcional                  |
+| Eliane Martins de Aguiar             | Recomendado        | Opcional                  |
+| Fabio Dias Carneiro                  | Recomendado        | Recomendado               |
+| Gabriel Carneiro Lento               | Recomendado        | Recomendado               |
+| Geraldo Magela Souza                 | Recomendado        | Recomendado               |
+| Iran Duilio Cordeiro                 | Recomendado        | Opcional                  |
+| Jefferson da Costa Lima              | Recomendado        | Opcional                  |
+| Kiese da Silva Quiavauca             | Recomendado        | Opcional                  |
+| Leon Diniz Alves                     | Recomendado        | Recomendado               |
+| Leonardo dos Santos Pinheiro         | Recomendado        | Recomendado               |
+| Leonardo Rodrigues Mattos da Costa   | Recomendado        | Opcional                  |
+| Luis Eduardo Craizer                 | Recomendado        | Opcional                  |
+| Manoel de Souza e Silva Neto         | Recomendado        | Recomendado               |
+| Marcos Ferreira da Silva             | Recomendado        | Recomendado               |
+| Maria Filomena de Souza Alves        | Opcional           | Opcional                  |
+| Pedro Henrique Schneider             | Recomendado        | Opcional                  |
+| Sergio Salustiano da Silva           | Recomendado        | Recomendado               |
+| Valmir Jhonatta Almeida Barbosa      | Recomendado        | Recomendado               |
+| Wagner dos Anjos Carvalho            | Recomendado        | Recomendado               |
+| Wallace Rocha dos Santos Garbim      | Recomendado        | Recomendado               |
+
+</content>
  </entry>
  
  <entry>
@@ -2118,8 +1985,8 @@ evento e passou a palavra ao coordenador de graduação, professor Paulo
 Cezar Carvalho.  Ele apresentou o curso e suas diversas áreas de
 aplicação no mercado de trabalho, citando alguns dos projetos
 inovadores desenvolvidos por professores e pesquisadores da Escola,
-como os de &quot;Modelagem de Epidemias de Dengue&quot; e &quot;Mobilidade Urbana por
-meio de Rastreamento de Celulares&quot;.  Paulo Cezar explicou também como
+como os de “Modelagem de Epidemias de Dengue” e “Mobilidade Urbana por
+meio de Rastreamento de Celulares”.  Paulo Cezar explicou também como
 é realizada a interseção da matemática nas áreas de direito, ciências
 sociais, história e economia, por exemplo.&lt;/p&gt;
 
@@ -2155,8 +2022,8 @@ fevereiro. Para mais informações sobre o curso,
    <id>http://emap.fgv.br/blog/2013/11/21/palestra-case-big-data</id>
    <content type="html">&lt;p&gt;O professor da Escola de Matemática Aplicada da FGV,
 &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;, apresentará no
-dia 26 de novembro, em São Paulo, o case &quot;Padrões de Mobilidade Humana
-na Região Metropolitana do Rio de Janeiro&quot;, no evento
+dia 26 de novembro, em São Paulo, o case “Padrões de Mobilidade Humana
+na Região Metropolitana do Rio de Janeiro”, no evento
 &lt;a href=&quot;http://www.brunise.com.br/treinamentos-em-ti/command/11-command-center-meeting&quot;&gt;Command Center Meeting&lt;/a&gt;,
 realizado pela Brunise Consultoria e Treinamento.&lt;/p&gt;
 
@@ -2186,18 +2053,18 @@ e dar suporte à tomada de decisões em situações de uso intensivo de
 dados e informações, além de formar pesquisadores na área de
 Matemática Aplicada.&lt;/p&gt;
 
-&lt;p&gt;&quot;O mestrado tem uma abordagem inédita no mercado, integra o corpo de
+&lt;p&gt;“O mestrado tem uma abordagem inédita no mercado, integra o corpo de
 conhecimentos das Ciências da Computação e da Informação, com foco em
 problemas oriundos das ciências sociais, ciências econômicas, ciências
-biológicas e da saúde, sob o guarda-chuva da Matemática Aplicada&quot;,
+biológicas e da saúde, sob o guarda-chuva da Matemática Aplicada”,
 explica o coordenador do curso, professor Renato Souza.&lt;/p&gt;
 
 &lt;p&gt;O curso, formado por 22 disciplinas, está alinhado, segundo o
 professor, com as tendências de pesquisa na recém-criada área da
 Matemática da Informação, e busca corresponder a um panorama
 científico, profissional e social vislumbrado para os próximos
-anos. &quot;Há no mercado necessidade de um profissional com o perfil que
-formamos, mas não existem cursos voltados para essa capacitação&quot;,
+anos. “Há no mercado necessidade de um profissional com o perfil que
+formamos, mas não existem cursos voltados para essa capacitação”,
 acrescenta Renato.&lt;/p&gt;
 
 &lt;p&gt;O processo seletivo é dividido em três fases – exame do currículo,
@@ -2206,13 +2073,12 @@ fazer o Curso de Verão, que ocorre no mês de janeiro, serão avaliados
 pelo desempenho nas disciplinas de matemática e computação.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Inscrições: até 16/12/2013&lt;/li&gt;
-&lt;li&gt;Início das aulas: 24/02/2014&lt;/li&gt;
-&lt;li&gt;Duração: 24 meses&lt;/li&gt;
-&lt;li&gt;Carga Horária: 420 horas/aula&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;Mais informações&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Inscrições: até 16/12/2013&lt;/li&gt;
+  &lt;li&gt;Início das aulas: 24/02/2014&lt;/li&gt;
+  &lt;li&gt;Duração: 24 meses&lt;/li&gt;
+  &lt;li&gt;Carga Horária: 420 horas/aula&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;Mais informações&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2227,11 +2093,11 @@ de outubro, o Termo de Cooperação Técnica, Acadêmica, Científica e
 Tecnológica, tendo como objetivo a produção de conhecimento comum.&lt;/p&gt;
 
 &lt;p&gt;A diretora da EMAp Maria Izabel Camacho afirma que a parceria promove
-benefícios para ambas as partes. &quot;Para o TJRJ, abre-se a possibilidade
+benefícios para ambas as partes. “Para o TJRJ, abre-se a possibilidade
 de prever de forma mais precisa o comportamento da litigiosidade no
 Estado e de planejar estrategicamente a alocação de recursos; já para
 a FGV, proporcionará uma ampla agenda de pesquisas quantitativas no
-âmbito do funcionamento do judiciário e acesso à justiça&quot;, explica
+âmbito do funcionamento do judiciário e acesso à justiça”, explica
 Maria Izabel.&lt;/p&gt;
 
 &lt;p&gt;Com os dados extraídos dos sistemas do TJRJ, a EMAp irá analisar e
@@ -2332,12 +2198,11 @@ a ser realizada pela autora do livro e professora da USP-SP, Marilda
 Sotomayor.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Data: 04/09/2013 às 14h&lt;/li&gt;
-&lt;li&gt;Local: Praia de Botafogo, 190, sala 1333.&lt;/li&gt;
+  &lt;li&gt;Data: 04/09/2013 às 14h&lt;/li&gt;
+  &lt;li&gt;Local: Praia de Botafogo, 190, sala 1333.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/6641728572790381&quot;&gt;Marilda Sotomayor&lt;/a&gt; é doutora
 em Matemática PUC-Rio e IMPA (1981). Foi pesquisadora visitante da
@@ -2356,12 +2221,12 @@ Theory para a edição de um volume especial em homenagem a David Gale,
 e ocupou também a editoria da sessão de Teoria dos Jogos da
 enciclopédia Complex and Systems Sciences, publicada pela
 Springer. Recebeu o prêmio internacional Lanchester, 1990, por seu
-livro &quot;Two-sided matchings. A game theoretic modeling and analysis&quot;,
+livro “Two-sided matchings. A game theoretic modeling and analysis”,
 concedido pela Operations Research Society of Ameri.&lt;/p&gt;
 
-&lt;h2&gt;Inscrições&lt;/h2&gt;
+&lt;h2 id=&quot;inscries&quot;&gt;Inscrições&lt;/h2&gt;
 
-&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x74;&amp;#x6f;&amp;#58;&amp;#x65;&amp;#109;&amp;#x61;&amp;#x70;&amp;#x2e;&amp;#101;&amp;#x76;&amp;#101;&amp;#110;&amp;#x74;&amp;#x6f;&amp;#x73;&amp;#x40;&amp;#102;&amp;#103;&amp;#118;&amp;#46;&amp;#98;&amp;#114;&quot;&gt;&amp;#x65;&amp;#109;&amp;#97;&amp;#x70;&amp;#46;&amp;#x65;&amp;#x76;&amp;#101;&amp;#x6e;&amp;#116;&amp;#x6f;&amp;#x73;&amp;#64;&amp;#102;&amp;#103;&amp;#x76;&amp;#x2e;&amp;#98;&amp;#114;&lt;/a&gt;, contendo
+&lt;p&gt;Para se inscrever, envie um email para &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#101;&amp;#109;&amp;#097;&amp;#112;&amp;#046;&amp;#101;&amp;#118;&amp;#101;&amp;#110;&amp;#116;&amp;#111;&amp;#115;&amp;#064;&amp;#102;&amp;#103;&amp;#118;&amp;#046;&amp;#098;&amp;#114;&quot;&gt;&amp;#101;&amp;#109;&amp;#097;&amp;#112;&amp;#046;&amp;#101;&amp;#118;&amp;#101;&amp;#110;&amp;#116;&amp;#111;&amp;#115;&amp;#064;&amp;#102;&amp;#103;&amp;#118;&amp;#046;&amp;#098;&amp;#114;&lt;/a&gt;, contendo
 nome completo, email e instituição de ensino ou empresa. As inscrições
 são gratuitas.&lt;/p&gt;
 </content>
@@ -2405,8 +2270,8 @@ sem tradução simultânea.&lt;/p&gt;
    <updated>2013-08-05T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2013/08/05/curso-big-data-analytics</id>
    <content type="html">&lt;p&gt;A Escola de Matemática Aplicada da Fundação Getulio Vargas (EMAp/FGV),
-em parceria com o FGV Management, lança o curso &quot;Big Data
-Analytics&quot;. Voltado para gerentes, empreendedores, engenheiros,
+em parceria com o FGV Management, lança o curso “Big Data
+Analytics”. Voltado para gerentes, empreendedores, engenheiros,
 profissionais de TI e outros profissionais com formação de base
 matemática, o curso apresenta um condensado dos principais algoritmos
 e tecnologias utilizadas por gigantes da internet - como Google,
@@ -2422,12 +2287,12 @@ competências multidisciplinares, cada vez mais valorizado no mercado.&lt;/p&gt;
 &lt;p&gt;De acordo com o coordenador do curso professor
 &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;, as aulas
 mesclam teoria e prática, ressaltando o papel do analista de dados
-como fator fundamental do sucesso de uma aplicação do Big Data. &quot;O
+como fator fundamental do sucesso de uma aplicação do Big Data. “O
 curso apresenta desde os fundamentos da estatística até os mais
 avançados algoritmos de análise de dados, de textos e das redes
 sociais. Além disso, serão abordados aspectos legais de utilização e
 privacidade de dados, bem como as questões de gestão e qualidade de
-dados&quot;, explica.&lt;/p&gt;
+dados”, explica.&lt;/p&gt;
 
 &lt;p&gt;O conhecimento adquirido poderá ser aplicado imediatamente uma vez
 que, junto com o material didático, o curso disponibiliza as
@@ -2440,14 +2305,14 @@ inscritos, com apresentação do coordenador,
 &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;, do corpo
 docente e dos colaboradores do curso.&lt;/p&gt;
 
-&lt;p&gt;Informações adicionais sobre o curso &quot;Big Data Analytics&quot;:&lt;/p&gt;
+&lt;p&gt;Informações adicionais sobre o curso “Big Data Analytics”:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Início: 09 de setembro&lt;/li&gt;
-&lt;li&gt;Data: Segundas e terças-feiras das 18h30min às 22h&lt;/li&gt;
-&lt;li&gt;Local: FGV - Praia de Botafogo, 190&lt;/li&gt;
-&lt;li&gt;Carga Horária: 100h&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://mgm-rio.fgv.br/cursos-detalhes/big-data-analytics&quot;&gt;Mais informações&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Início: 09 de setembro&lt;/li&gt;
+  &lt;li&gt;Data: Segundas e terças-feiras das 18h30min às 22h&lt;/li&gt;
+  &lt;li&gt;Local: FGV - Praia de Botafogo, 190&lt;/li&gt;
+  &lt;li&gt;Carga Horária: 100h&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mgm-rio.fgv.br/cursos-detalhes/big-data-analytics&quot;&gt;Mais informações&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
@@ -2486,7 +2351,7 @@ prêmios. Acesse a
    <id>http://emap.fgv.br/blog/2013/07/25/coloquio-matematica</id>
    <content type="html">&lt;p&gt;Nesta e na próxima semana acontece o XXIX Colóquio Brasileiro de
 Matemática, no Instituto Nacional de Matemática Pura e Aplicada. Entre
-as sessões temáticas está a de &quot;Biologia Matemática&quot;, coordenado pelos
+as sessões temáticas está a de “Biologia Matemática”, coordenado pelos
 professores da EMAp Jair Koiller e
 &lt;a href=&quot;/people/moacyr.silva.html&quot;&gt;Moacyr Alvim&lt;/a&gt;, além do professor Max de
 Souza, da UFF, e Claudia Codeço, da Fiocruz.&lt;/p&gt;
@@ -2499,6 +2364,7 @@ mutuamente.&lt;/p&gt;
 
 &lt;p&gt;Para acessar a &lt;a href=&quot;http://goo.gl/vZwThc&quot;&gt;programação completa&lt;/a&gt;
 do evento siga o link.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -2507,7 +2373,7 @@ do evento siga o link.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2013/07/15/RIOs.html"/>
    <updated>2013-07-15T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2013/07/15/RIOs</id>
-   <content type="html">&lt;p&gt;O workshop Rio&#39;s - Research in Optimization and Statistics - será
+   <content type="html">&lt;p&gt;O workshop Rio’s - Research in Optimization and Statistics - será
 realizado do dia 22 ao 26/07, na FGV Sede, onde serão apresentados
 resultados recentes em otimização, estatística e otimização
 estocástica.  O programa é dedicado a pesquisadores, alunos de
@@ -2516,33 +2382,32 @@ mistura teoria e aplicações no setor energético. Para se inscrever,
 os interessados devem encaminhar um email para vguigues@fgv.br
 mencionando seu nome e sua instituição.&lt;/p&gt;
 
-&lt;h2&gt;Informações básicas&lt;/h2&gt;
+&lt;h2 id=&quot;informaes-bsicas&quot;&gt;Informações básicas&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Data: 22 a 26.07 de 2013&lt;/li&gt;
-&lt;li&gt;Horário: 9h30 às 17h&lt;/li&gt;
-&lt;li&gt;Local: Praia de Botafogo, 190, sala 1333, Rio de Janeiro&lt;/li&gt;
+  &lt;li&gt;Data: 22 a 26.07 de 2013&lt;/li&gt;
+  &lt;li&gt;Horário: 9h30 às 17h&lt;/li&gt;
+  &lt;li&gt;Local: Praia de Botafogo, 190, sala 1333, Rio de Janeiro&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;programao&quot;&gt;Programação&lt;/h2&gt;
 
-&lt;h2&gt;Programação&lt;/h2&gt;
-
-&lt;h3&gt;22/07&lt;/h3&gt;
+&lt;h3 id=&quot;section&quot;&gt;22/07&lt;/h3&gt;
 
 &lt;p&gt;Alexander Shapiro, Georgia Tech, EUA Risk measures and time
 consistency.&lt;/p&gt;
 
-&lt;h3&gt;23/07&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;23/07&lt;/h3&gt;
 
 &lt;p&gt;Michel de Lara, CERMICS, França Stochastic dynamic programming,
 stochastic viability, time consistency, and decomposition-coordination
 methods.&lt;/p&gt;
 
-&lt;h3&gt;24/07 (manhã)&lt;/h3&gt;
+&lt;h3 id=&quot;manh&quot;&gt;24/07 (manhã)&lt;/h3&gt;
 
 &lt;p&gt;Arkadi Nemirovski, Georgia Tech, EUA - Interior point methods.&lt;/p&gt;
 
-&lt;h3&gt;24/07 (tarde)&lt;/h3&gt;
+&lt;h3 id=&quot;tarde&quot;&gt;24/07 (tarde)&lt;/h3&gt;
 
 &lt;p&gt;Mario Veiga Pereira, PSR, Brasil - Multistage stochastic optimization
 applied to energy problems.&lt;/p&gt;
@@ -2560,27 +2425,26 @@ variational inequalities.&lt;/p&gt;
 &lt;p&gt;Benar Svaiter, IMPA, Brasil - A first-order block-decomposition method
 for solving two-easy-block structured semidefinite programs.&lt;/p&gt;
 
-&lt;h3&gt;25/07&lt;/h3&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;25/07&lt;/h3&gt;
 
 &lt;p&gt;Arkadi Nemirovski, Georgia Tech, EUA Proximal type first order
 methods: deterministic and stochastic, conditional gradient type first
 order methods.&lt;/p&gt;
 
-&lt;h3&gt;26/07&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;26/07&lt;/h3&gt;
 
 &lt;p&gt;Anatoli Iouditski, UJF, França Convex optimization for nonparametric
 estimation and testing Recovery of sparse signals by L1minimization
 and testing of sparse hypotheses Randomized algorithms of L1
 minimization.&lt;/p&gt;
 
-&lt;h2&gt;Intervalos&lt;/h2&gt;
+&lt;h2 id=&quot;intervalos&quot;&gt;Intervalos&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;10h45m - 11h15m: Coffee Break&lt;/li&gt;
-&lt;li&gt;12h30m - 14h00m: Almoço&lt;/li&gt;
-&lt;li&gt;15h15m - 15h45m: Coffee Break&lt;/li&gt;
+  &lt;li&gt;10h45m - 11h15m: Coffee Break&lt;/li&gt;
+  &lt;li&gt;12h30m - 14h00m: Almoço&lt;/li&gt;
+  &lt;li&gt;15h15m - 15h45m: Coffee Break&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2619,6 +2483,7 @@ tipos de bolsas de estudos: PICME com aulas e PICME com orientação.&lt;/p&gt;
 sobre o programa.&lt;/p&gt;
 
 &lt;p&gt;Fonte: Secretaria de Estado de Educação (SEEDUC).&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -2634,13 +2499,13 @@ proteção de conteúdo, por exemplo, Youtube e Flickr. Disciplinas como
 física de partículas, meteorologia e astronomia, já lidam com grandes
 volumes de dados há décadas.&lt;/p&gt;
 
-&lt;p&gt;O artigo &quot;Biology: The big challenges of Big Data&quot;, de Vivien Marx,
+&lt;p&gt;O artigo “Biology: The big challenges of Big Data”, de Vivien Marx,
 publicado pela &lt;a href=&quot;http://www.nature.com/nature/index.html&quot;&gt;Nature&lt;/a&gt;,
 mostra que com o avanço e barateamento da tecnologia de sequenciamento
 genômico, a biologia adentra a seara do Big Data Científico, com
 grandes laboratórios de Biologia Molecular, como o EMBL (Laboratório
 Europeu de Biologia Molecular), mantendo acervos de dados com dezenas
-de petabytes que dobram de tamanho a cada ano -- e isto é apenas um
+de petabytes que dobram de tamanho a cada ano – e isto é apenas um
 décimo do volume de dados armazenado no Centro Europeu de Pesquisa
 Nuclear (CERN), que opera o LHC, o maior acelerador de partículas do
 mundo.&lt;/p&gt;
@@ -2657,7 +2522,7 @@ oportunidade para empresas de tecnologia que estão desenvolvendo desde
 novos protocolos de comunicação até ambientes integrados na nuvem para
 análise colaborativa de dados.&lt;/p&gt;
 
-&lt;p&gt;Para ler o artigo &quot;Biology: The big challenges of Big Data&quot;,
+&lt;p&gt;Para ler o artigo “Biology: The big challenges of Big Data”,
 &lt;a href=&quot;http://www.nature.com/nature/journal/v498/n7453/full/498255a.html&quot;&gt;acesse aqui&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
@@ -2667,8 +2532,8 @@ análise colaborativa de dados.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2013/05/27/workshop-visualizacao.html"/>
    <updated>2013-05-27T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2013/05/27/workshop-visualizacao</id>
-   <content type="html">&lt;p&gt;Nos dias 06 e 07 de junho será realizado no Rio de Janeiro o &quot;Workshop
-de Visualização Interativa&quot; - uma parceria da Escola de Matemática
+   <content type="html">&lt;p&gt;Nos dias 06 e 07 de junho será realizado no Rio de Janeiro o “Workshop
+de Visualização Interativa” - uma parceria da Escola de Matemática
 Aplicada da FGV com a Universidade Federal do Rio Grande do Sul.&lt;/p&gt;
 
 &lt;p&gt;Em sua quarta edição, o evento é um complemento do
@@ -2698,22 +2563,22 @@ de trabalho.&lt;/p&gt;
 
 &lt;p&gt;Realizada na quarta-feira, dia 15, a palestra da EMAp contou também
 com a presença dos alunos de graduação da Escola, que compartilharam
-suas experiências e expectativas em relação ao curso. &quot;Garanto para
-vocês que é bem mais divertido do que parece&quot;, comentou Elisa
+suas experiências e expectativas em relação ao curso. “Garanto para
+vocês que é bem mais divertido do que parece”, comentou Elisa
 Mussumeci, estudante do terceiro período, com os vestibulandos.&lt;/p&gt;
 
 &lt;p&gt;José Valentim, também aluno da EMAp, destacou sua nova experiência na
-FGV. &quot;Aqui você não abaixa a cabeça e só estuda, pois existe uma
+FGV. “Aqui você não abaixa a cabeça e só estuda, pois existe uma
 interação contínua com os professores e demais alunos, além de uma
-ótima infraestrutura que estimula o aprendizado&quot;.&lt;/p&gt;
+ótima infraestrutura que estimula o aprendizado”.&lt;/p&gt;
 
 &lt;p&gt;A Escola de Matemática Aplicada da FGV vem realizando encontros em
 instituições educacionais do Rio de Janeiro, e o que se percebe é que
 há uma carência de informação sobre a profissão em Matemática
-Aplicada. &quot;Muitos estudantes chegam nestes eventos achando que a
+Aplicada. “Muitos estudantes chegam nestes eventos achando que a
 Matemática só está nas salas de aula. Quando mostramos a eles a
 infinidade de possibilidade no mercado de trabalho, as opiniões e o
-interesse mudam&quot;, observou o professor. Ele apontou também que os
+interesse mudam”, observou o professor. Ele apontou também que os
 alunos ficam surpresos em saber como a matemática está no nosso
 dia-a-dia e o que ela é capaz de oferecer e fazer pelos setores
 públicos e privados, além da forte demanda por estes profissionais que
@@ -2721,6 +2586,7 @@ vai além do meio acadêmico.&lt;/p&gt;
 
 &lt;p&gt;Os próximos encontros do Dia FGV serão realizados nos dias 22 de maio,
 18 e 25 de junho.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -2737,7 +2603,7 @@ como o &lt;a href=&quot;http://www.ted.com/talks&quot;&gt;TED Talks&lt;/a&gt;, R
 das 100 personalidades mais influentes no mundo, segundo a revista
 &lt;a href=&quot;http://www.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112170,00.html&quot;&gt;TIME&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Em seu video &quot;The River of Myths&quot;, o autor retrata sob um ângulo muito
+&lt;p&gt;Em seu video “The River of Myths”, o autor retrata sob um ângulo muito
 convincente, o cenário mundial da mortalidade infantil. De acordo com
 o site
 &lt;a href=&quot;http://www.freakonomics.com/2013/02/22/taking-on-the-myths-of-child-mortality/&quot;&gt;Freaknominics&lt;/a&gt;,
@@ -2746,8 +2612,7 @@ esta produção foi programada para coincidir com a
 na qual o co-presidente da Fundação Bill &amp;amp; Melinda Gates destaca a
 importância da medição para a melhoria da condição humana.&lt;/p&gt;
 
-&lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/OwII-dwh-bk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/OwII-dwh-bk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -2762,41 +2627,40 @@ Academy of Sciences of Ukraine, professor Yaroslav Shramko.&lt;/p&gt;
 
 &lt;p&gt;O curso será ministrado em inglês e ocorrerá das 14h às 15h30 na Praia
 de Botafogo, 190, sala 1014. Para participar, é necessário confirmar
-presença pelo email &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;gv.br&#39;,&#39;emap@f&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
+presença pelo email &lt;script type=&quot;text/javascript&quot;&gt;var a = new Array(&#39;gv.br&#39;,&#39;emap@f&#39;);document.write(&quot;&lt;a href=&quot;mailto:&amp;quot;+a[1]+a[0]+&amp;quot;&quot;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/p&gt;
 
-&lt;h2&gt;Resumo&lt;/h2&gt;
+&lt;h2 id=&quot;resumo&quot;&gt;Resumo&lt;/h2&gt;
 
 &lt;p&gt;No nível da linguagem objeto, a relação de consequência lógica pode
 ser representada por um conectivo proposicional de implicação devido
 ao bem conhecido teorema da dedução. A consequência lógica e a
 implicação, na lógica clássica, estão sujeitas a certas
 características que têm sido frequentemente caracterizadas como
-&quot;paradoxais&quot;. Sentenças logicamente falsas tem como consequência
+“paradoxais”. Sentenças logicamente falsas tem como consequência
 lógica qualquer sentença, e qualquer sentença tem como consequência
 lógica, sentenças verdadeiras.  Isto é, a relação de consequência
 lógica na lógica clássica não garante relevância entre premissas e
-conclusão. É possível, no entanto, a construção de uma &quot;lógica
-relevante&quot;, com implicação e consequência lógica livres dos paradoxos
+conclusão. É possível, no entanto, a construção de uma “lógica
+relevante”, com implicação e consequência lógica livres dos paradoxos
 da relevância. Esta lógica relevante é muito útil para a modelagem
 lógica de estruturas de informação e pode ser efetivamente empregada
 para um raciocínio assistido por computador.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Yaroslav Shramko é PhD pela National Academy of Sciences of Ukraine,
 Kyiv; professor em Lógica e Filosofia; e pesquisador visitante na
 Humboldt-University Berlin (Alemanha), Uppsala University (Suécia),
 Indiana University (EUA) e Dresden University of Technology
-(Germany). Também é autor de cinco livros, incluindo &quot;Truth and False
-hood&quot;, e de mais de oitenta publicações na área.&lt;/p&gt;
+(Germany). Também é autor de cinco livros, incluindo “Truth and False
+hood”, e de mais de oitenta publicações na área.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2805,35 +2669,35 @@ hood&quot;, e de mais de oitenta publicações na área.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2013/03/08/visual-analytics-daniel-keim.html"/>
    <updated>2013-03-08T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2013/03/08/visual-analytics-daniel-keim</id>
-   <content type="html">&lt;p&gt;Nesta semana a EMAp recebeu Daniel Keim -- referência na área de
-visualização de informação -- para realizar o Seminário &quot;Solving
-Problems with Visual Analytics&quot; e ministrar uma aula aos mestrandos em
+   <content type="html">&lt;p&gt;Nesta semana a EMAp recebeu Daniel Keim – referência na área de
+visualização de informação – para realizar o Seminário “Solving
+Problems with Visual Analytics” e ministrar uma aula aos mestrandos em
 Modelagem Matemática da Informação, enfatizando as técnicas de
 visualização de grandes volumes de textos.&lt;/p&gt;
 
 &lt;p&gt;O aluno do mestrado da EMAp, Marlon Pirchiner, ressaltou que Keim
-apresentou no Seminário como a área de pesquisa definida como &quot;visual
-analytics&quot; pode colaborar com os mais diversos domínios de
-conhecimento: &quot;Trabalhar com grandes volumes de dados é uma tarefa
+apresentou no Seminário como a área de pesquisa definida como “visual
+analytics” pode colaborar com os mais diversos domínios de
+conhecimento: “Trabalhar com grandes volumes de dados é uma tarefa
 extremamente contemporânea que exige soluções inovadoras para
 sintetizar uma enorme quantidade de informação. Escolher em que
 momento o ser humano deve interagir e decidir exige o melhor da
 visualização e da capacidade analítica dos computadores. Disso se
 trata a visual analitycs, não somente de compreender os dados
 iniciais, ou de apresentar resultados, mas de otimizar o processo por
-inteiro.&quot;, destacou.&lt;/p&gt;
+inteiro.”, destacou.&lt;/p&gt;
 
 &lt;p&gt;Para Luis Gustavo Neves, também aluno da EMAp, as palestras foram
-extremamente inspiradoras e de surpreendente clareza. &quot;Não vi uma
+extremamente inspiradoras e de surpreendente clareza. “Não vi uma
 pessoa que assistiu e não saiu querendo saber mais sobre algum assunto
 abordado ou até planejando reproduzir alguma implementação dentre a
 enorme variedade de soluções e técnicas inovadoras apresentadas pelo
-brilhante professor Daniel Keim&quot;, comentou.&lt;/p&gt;
+brilhante professor Daniel Keim”, comentou.&lt;/p&gt;
 
 &lt;p&gt;Além de ser professor da University of Konstanz, da Alemanha, Keim
 desenvolve há mais de vinte anos pesquisas na área. É autor e
-colaborador de diversas publicações, incluindo o livro &quot;Interactive
-Data Visualization: Foundations, Techniques and Applications&quot;
+colaborador de diversas publicações, incluindo o livro “Interactive
+Data Visualization: Foundations, Techniques and Applications”
 publicado em 2010.&lt;/p&gt;
 </content>
  </entry>
@@ -2844,7 +2708,7 @@ publicado em 2010.&lt;/p&gt;
    <updated>2013-02-27T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2013/02/27/neurociencia-matematica-ciencias-sociais</id>
    <content type="html">&lt;p&gt;A Escola de Matemática Aplicada oferece a atividade complementar em
-&quot;Neurociência, Matemática e Ciências Sociais Aplicadas&quot;, em parceria
+“Neurociência, Matemática e Ciências Sociais Aplicadas”, em parceria
 com a Escola de Administração (EBAPE/FGV).&lt;/p&gt;
 
 &lt;p&gt;Coordenado pelos professores Jair Koiller, da EMAp, Eduardo Andrade e
@@ -2865,32 +2729,30 @@ maio, todas às segundas-feiras, das 13h às 16h.&lt;/p&gt;
 &lt;p&gt;Inscrições podem ser feitas no Núcleo de Apoio Pedagógico, sala
 309.&lt;/p&gt;
 
-&lt;h3&gt;Público-alvo&lt;/h3&gt;
+&lt;h3 id=&quot;pblico-alvo&quot;&gt;Público-alvo&lt;/h3&gt;
 
 &lt;p&gt;Limite de 25 vagas para:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Alunos da FGV, a atividade será válida como crédito complementar de 30h.&lt;/li&gt;
-&lt;li&gt;Alunos de outras instituições, mediante carta de recomendação.&lt;/li&gt;
-&lt;li&gt;Público geral, mediante análise de carta de interesse.&lt;/li&gt;
-&lt;li&gt;Empresas em geral.&lt;/li&gt;
+  &lt;li&gt;Alunos da FGV, a atividade será válida como crédito complementar de 30h.&lt;/li&gt;
+  &lt;li&gt;Alunos de outras instituições, mediante carta de recomendação.&lt;/li&gt;
+  &lt;li&gt;Público geral, mediante análise de carta de interesse.&lt;/li&gt;
+  &lt;li&gt;Empresas em geral.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Ementa resumida&lt;/h3&gt;
+&lt;h3 id=&quot;ementa-resumida&quot;&gt;Ementa resumida&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Consciência e neurociência (Crick e Koch);&lt;/li&gt;
-&lt;li&gt;Emoções e decisões;&lt;/li&gt;
-&lt;li&gt;Neuropsicologia e neuroeconomia;&lt;/li&gt;
-&lt;li&gt;De um neurônio (Hodgkin-Huxley e similares) aos neurons em rede;&lt;/li&gt;
-&lt;li&gt;Memória  (modelo de Pentti Kanerva);&lt;/li&gt;
-&lt;li&gt;Formas de representação do &quot;mundo externo&quot;  (Kemp &amp;amp; Tenenbaum);&lt;/li&gt;
-&lt;li&gt;Construção de representações, estruturas emergentes (Hofstadter);&lt;/li&gt;
+  &lt;li&gt;Consciência e neurociência (Crick e Koch);&lt;/li&gt;
+  &lt;li&gt;Emoções e decisões;&lt;/li&gt;
+  &lt;li&gt;Neuropsicologia e neuroeconomia;&lt;/li&gt;
+  &lt;li&gt;De um neurônio (Hodgkin-Huxley e similares) aos neurons em rede;&lt;/li&gt;
+  &lt;li&gt;Memória  (modelo de Pentti Kanerva);&lt;/li&gt;
+  &lt;li&gt;Formas de representação do “mundo externo”  (Kemp &amp;amp; Tenenbaum);&lt;/li&gt;
+  &lt;li&gt;Construção de representações, estruturas emergentes (Hofstadter);&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;Cronograma e Conteúdo&lt;/h3&gt;
+&lt;h3 id=&quot;cronograma-e-contedo&quot;&gt;Cronograma e Conteúdo&lt;/h3&gt;
 
 &lt;p&gt;Serão 10 sessões:&lt;/p&gt;
 
@@ -2919,15 +2781,15 @@ Kanerva, 1988).&lt;/p&gt;
 
 &lt;p&gt;27.05 - Palestrante convidado.&lt;/p&gt;
 
-&lt;h3&gt;Organização&lt;/h3&gt;
+&lt;h3 id=&quot;organizao&quot;&gt;Organização&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Clube de Matemática - coordenado por Jair Koiller (EMAP)&lt;/li&gt;
-&lt;li&gt;Centre for Behavioral Research - coordenado por Eduardo Andrade
+  &lt;li&gt;Clube de Matemática - coordenado por Jair Koiller (EMAP)&lt;/li&gt;
+  &lt;li&gt;Centre for Behavioral Research - coordenado por Eduardo Andrade
 (EBAPE)&lt;/li&gt;
-&lt;li&gt;Laboratório de Modelagem e Simulação de Sistemas Cooperativos e
+  &lt;li&gt;Laboratório de Modelagem e Simulação de Sistemas Cooperativos e
 Adaptativos&lt;/li&gt;
-&lt;li&gt;Projeto com apoio Faperj - coordenado por Alexandre Linhares (EBAPE)&lt;/li&gt;
+  &lt;li&gt;Projeto com apoio Faperj - coordenado por Alexandre Linhares (EBAPE)&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
@@ -2947,9 +2809,9 @@ raciocínio. De acordo com sua experiência, o que fez diferença em sua
 vida profissional, é que a Matemática induz para o fato de que não
 basta conhecer bem os modelos e saber aplicá-los com eficiência, mas
 que é fundamental atentar para as hipóteses que são feitas ao adotar
-os modelos. &quot;O foco nos problemas e a sabedoria para estruturar o
+os modelos. “O foco nos problemas e a sabedoria para estruturar o
 raciocínio são extremamente necessários para conseguir solucionar,
-partindo do mais simples, um problema apresentado&quot;, ressaltou.&lt;/p&gt;
+partindo do mais simples, um problema apresentado”, ressaltou.&lt;/p&gt;
 
 &lt;p&gt;O presidente também destacou que atualmente há um processo de
 desaceleração na produção de inovação, e que para reverter este quadro
@@ -2958,6 +2820,7 @@ uma questão já existente.&lt;/p&gt;
 
 &lt;p&gt;A aula magna teve como objetivo marcar o início do ano letivo, além de
 dar boas vindas a todos os alunos.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -2972,6 +2835,7 @@ Simonsen irá realizar a aula magna do curso de graduação da EMAp.&lt;/p&gt;
 &lt;p&gt;O evento tem como objetivo marcar o início do ano letivo, além de dar
 boas vindas a todos os alunos. A aula magna será realizada no
 auditório 1333 às 11 horas.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -2980,144 +2844,46 @@ auditório 1333 às 11 horas.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2013/02/08/selecao-mestrado.html"/>
    <updated>2013-02-08T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/02/08/selecao-mestrado</id>
-   <content type="html">&lt;p&gt;Divulgamos a seguir o resultado da seleção do mestrado da EMAp de&lt;br /&gt;
-2013. Os candidatos aprovados devem acessar o sistema acadêmico da &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;&lt;br /&gt;
-para completar sua inscrição no mestrado da EMAp. Maiores informações&lt;br /&gt;
-na página sobre o &lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;processo seletivo da EMAp&lt;/a&gt;.&lt;/p&gt;
-&lt;table&gt;
-	&lt;tr&gt;
-		&lt;td&gt; &lt;strong&gt;Nome&lt;/strong&gt;                                     &lt;/td&gt;
-		&lt;td&gt;&lt;strong&gt;Resultado&lt;/strong&gt; &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Anna Carolina dos Santos Barros            &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Arlen Pinheiro de Lacerda                  &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Aurelius Oliveira Costa do Nascimento      &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Bruno Lourenço Albuquerque                 &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Bruno Pereira Sequeira                     &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Carlos Alberto Martins de Assis            &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Cassius Marcellus do Carmo Figueiredo      &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Evandro Dalbem Lopes                       &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Fernanda Franco Dias José                  &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Fernando Menucci de Souza                  &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Fernando Ormonde Teixeira                  &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Gabriel Leite Batista da Silva             &lt;/td&gt;
-		&lt;td&gt; Desistente &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Giselle Gaudard da Costa Pereira           &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Halyson Henrique de Souza Valadão          &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Igor Boechat de Brito Barbosa              &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Ingrid Borba do Nascimento Barbosa         &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Ítalo Cabral de Souza                      &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; João Fernando Ferreira Cuco                &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; João Miguel de Oliveira Francisco          &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Julio frederico Hruza Alqueres             &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Leonardo Borreli Achtschin                 &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Leticia Samuel Paranhos                    &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Marcelo de Oliveira Freitas                &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Maria Filomena de Souza Alves              &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Pablo Aguiar de Maio                       &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Pablo de Camargo Cerdeira                  &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Paulo Lobo Nóbrega                         &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Renato de Oliveira Caldas Madeira          &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Ricardo Azevedo Martins                    &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Sérgio da Silva Rodrigues                  &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Tiago de Andréa Vilas Bôas Hacker          &lt;/td&gt;
-		&lt;td&gt; Excedente  &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; Vitor Gonçalves da Silva Caldeira Loureiro &lt;/td&gt;
-		&lt;td&gt; Aprovado   &lt;/td&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;</content>
+   <content type="html">Divulgamos a seguir o resultado da seleção do mestrado da EMAp de
+2013. Os candidatos aprovados devem acessar o sistema acadêmico da FGV
+para completar sua inscrição no mestrado da EMAp. Maiores informações
+na página sobre o &quot;processo seletivo da EMAp&quot;:/pos-graduacao/selecao.html.
+
+| *Nome*                                     |*Resultado* |
+| Anna Carolina dos Santos Barros            | Aprovado   |
+| Arlen Pinheiro de Lacerda                  | Excedente  |
+| Aurelius Oliveira Costa do Nascimento      | Excedente  |
+| Bruno Lourenço Albuquerque                 | Excedente  |
+| Bruno Pereira Sequeira                     | Aprovado   |
+| Carlos Alberto Martins de Assis            | Aprovado   |
+| Cassius Marcellus do Carmo Figueiredo      | Aprovado   |
+| Evandro Dalbem Lopes                       | Aprovado   |
+| Fernanda Franco Dias José                  | Aprovado   |
+| Fernando Menucci de Souza                  | Aprovado   |
+| Fernando Ormonde Teixeira                  | Aprovado   |
+| Gabriel Leite Batista da Silva             | Desistente |
+| Giselle Gaudard da Costa Pereira           | Excedente  |
+| Halyson Henrique de Souza Valadão          | Aprovado   |
+| Igor Boechat de Brito Barbosa              | Aprovado   |
+| Ingrid Borba do Nascimento Barbosa         | Aprovado   |
+| Ítalo Cabral de Souza                      | Aprovado   |
+| João Fernando Ferreira Cuco                | Aprovado   |
+| João Miguel de Oliveira Francisco          | Excedente  |
+| Julio frederico Hruza Alqueres             | Aprovado   |
+| Leonardo Borreli Achtschin                 | Excedente  |
+| Leticia Samuel Paranhos                    | Excedente  |
+| Marcelo de Oliveira Freitas                | Excedente  |
+| Maria Filomena de Souza Alves              | Excedente  |
+| Pablo Aguiar de Maio                       | Aprovado   |
+| Pablo de Camargo Cerdeira                  | Excedente  |
+| Paulo Lobo Nóbrega                         | Excedente  |
+| Renato de Oliveira Caldas Madeira          | Aprovado   |
+| Ricardo Azevedo Martins                    | Aprovado   |
+| Sérgio da Silva Rodrigues                  | Aprovado   |
+| Tiago de Andréa Vilas Bôas Hacker          | Excedente  |
+| Vitor Gonçalves da Silva Caldeira Loureiro | Aprovado   |
+
+</content>
  </entry>
  
  <entry>
@@ -3141,6 +2907,7 @@ necessária para os que querem trabalhar neste cenário.&lt;/p&gt;
 &lt;p&gt;Leia o conteúdo completo no
 &lt;a href=&quot;http://fgvnoticias.fgv.br/noticia/formacao-da-emap-pode-suprir-demanda-do-mercado-financeiro&quot;&gt;FGV Notícias&lt;/a&gt;
 e saiba mais sobre as vantagens da formação da EMAp.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3164,6 +2931,7 @@ ideais, ao registro de imagens e à computação gráfica.&lt;/p&gt;
 
 &lt;p&gt;O evento será realizado na PUC-RJ. Mais informações,
 &lt;a href=&quot;http://zeus.mat.puc-rio.br/tomlew/gmc2013/index.html&quot;&gt;clique aqui&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3211,35 +2979,32 @@ informações biológicas e de modelagem matemática abordadas no curso.&lt;/p&g
 &lt;p&gt;Os instrutores são alunos de graduação e de pós-graduação da FGV e
 UFRJ. O curso será realizado no edifício sede da FGV, em Botafogo&lt;/p&gt;
 
-&lt;h2&gt;Instrutores&lt;/h2&gt;
+&lt;h2 id=&quot;instrutores&quot;&gt;Instrutores&lt;/h2&gt;
 
 &lt;p&gt;Coordenador: Jair Koiller&lt;/p&gt;
 
 &lt;p&gt;Games:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Jefferson Bandeira&lt;/li&gt;
-&lt;li&gt;Matheus Rodrigues&lt;/li&gt;
+  &lt;li&gt;Jefferson Bandeira&lt;/li&gt;
+  &lt;li&gt;Matheus Rodrigues&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Biologia:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Luana Farnesi&lt;/li&gt;
-&lt;li&gt;Helena Carolina Martins Vargas&lt;/li&gt;
+  &lt;li&gt;Luana Farnesi&lt;/li&gt;
+  &lt;li&gt;Helena Carolina Martins Vargas&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Modelagem Matemática:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Camilla Antunes&lt;/li&gt;
-&lt;li&gt;Amaro Patricio&lt;/li&gt;
+  &lt;li&gt;Camilla Antunes&lt;/li&gt;
+  &lt;li&gt;Amaro Patricio&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Outras informações&lt;/h2&gt;
+&lt;h2 id=&quot;outras-informaes&quot;&gt;Outras informações&lt;/h2&gt;
 
 &lt;p&gt;Para informações de vagas, favor entrar em contato com Jair Koiller.&lt;/p&gt;
 </content>
@@ -3259,9 +3024,9 @@ interessados em trabalhar com
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Semantic_Web&quot;&gt;Web Semântica&lt;/a&gt;,
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_data&quot;&gt;Open Data&lt;/a&gt; e
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Linked_Data&quot;&gt;Linked Data&lt;/a&gt; na construção
-de um protótipo para abertura e &quot;triplificação&quot; dos dados do CPDOC.&lt;/p&gt;
+de um protótipo para abertura e “triplificação” dos dados do CPDOC.&lt;/p&gt;
 
-&lt;h2&gt;Quem é candidato?&lt;/h2&gt;
+&lt;h2 id=&quot;quem--candidato&quot;&gt;Quem é candidato?&lt;/h2&gt;
 
 &lt;p&gt;Alunos de computação com boa experiência em programação (de
 preferência fluente em mais de uma linguagem de programação e com
@@ -3269,13 +3034,12 @@ disposição de aprender novas) e facilidade de aprender novas
 tecnologias. Dentre as tecnologias utilizadas, estão:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/&quot;&gt;Apache Solr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.franz.com/agraph/allegrograph/&quot;&gt;Allegro Graph&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Python, Common Lisp, Ruby e/ou outras linguagens dinâmicas&lt;/li&gt;
-&lt;li&gt;HTML, RDF, XML etc.&lt;/li&gt;
-&lt;li&gt;bash, Linux, Amazon S3 etc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/&quot;&gt;Apache Solr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.franz.com/agraph/allegrograph/&quot;&gt;Allegro Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Python, Common Lisp, Ruby e/ou outras linguagens dinâmicas&lt;/li&gt;
+  &lt;li&gt;HTML, RDF, XML etc.&lt;/li&gt;
+  &lt;li&gt;bash, Linux, Amazon S3 etc.&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Pessoas capazes de trabalhar sozinhas e com boa capacidade de
 organização.&lt;/p&gt;
@@ -3284,19 +3048,19 @@ organização.&lt;/p&gt;
 também estão convidados para conversar sobre possível orientação e/ou
 co-orientação.&lt;/p&gt;
 
-&lt;h2&gt;Valor da bola&lt;/h2&gt;
+&lt;h2 id=&quot;valor-da-bola&quot;&gt;Valor da bola&lt;/h2&gt;
 
 &lt;p&gt;O valor da bolsa é de até R$ 4.000,00/mês, depedendo da experiência e
 grau de formação do candidato. Será exigido do(s) candidato(s)
 selecionado(s) o comprovante de matrícula de graduação, mestrado ou
 doutorado.&lt;/p&gt;
 
-&lt;h2&gt;Como aplicar ou saber mais?&lt;/h2&gt;
+&lt;h2 id=&quot;como-aplicar-ou-saber-mais&quot;&gt;Como aplicar ou saber mais?&lt;/h2&gt;
 
 &lt;p&gt;Envie email para &lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt; com seu CV,
 breve descrição de suas experiências e interesses, &lt;strong&gt;até o dia 3 de dezembro&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h2&gt;Sobre o CPDOC&lt;/h2&gt;
+&lt;h2 id=&quot;sobre-o-cpdoc&quot;&gt;Sobre o CPDOC&lt;/h2&gt;
 
 &lt;p&gt;O &lt;a href=&quot;http://cpdoc.fgv.br&quot;&gt;Centro de Pesquisa e Documentação de História Contemporânea do Brasil (CPDOC)&lt;/a&gt;
 é considerado um centro de referência dedicado ao estudo e à
@@ -3312,7 +3076,7 @@ ampliar o processo de universalização do acesso gratuito a estes
 conteúdos através da Internet e desenvolver soluções que potencializem
 sua difusão de forma inteligente e integrada.&lt;/p&gt;
 
-&lt;h2&gt;Sobre a EMAp&lt;/h2&gt;
+&lt;h2 id=&quot;sobre-a-emap&quot;&gt;Sobre a EMAp&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://emap.fgv.br/&quot;&gt;Escola de Matemática Aplicada (EMAp)&lt;/a&gt; da FGV,
 criada em 2008, tem como missão atuar na aquisição e repasse do
@@ -3320,6 +3084,7 @@ conhecimento científico e tecnológico de base matemática aplicáveis,
 principalmente, nas áreas relacionadas às Ciências Sociais em sentido
 amplo, isto é, ciências sociais, história e documentação, direito,
 economia, administração e outras áreas do conhecimento humano.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3338,6 +3103,7 @@ especialmente nas áreas de Economia, Administração e Matemática
 Aplicada.&lt;/p&gt;
 
 &lt;p&gt;Confira a &lt;a href=&quot;http://fgvnoticias.fgv.br/noticia/fgv-cria-servico-integrado-de-computacao-em-nuvem-para-comunidade-academica&quot;&gt;matéria na íntegra&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3366,6 +3132,7 @@ e 24 de novembro, no Centro de Convenções SulAmérica.&lt;/p&gt;
 
 &lt;p&gt;Para saber mais sobre o evento, acesse o site do
 &lt;a href=&quot;http://2012.pythonbrasil.org.br/&quot;&gt;PythonBrasil&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3412,7 +3179,7 @@ Society of Japan. A participação no evento teve o apoio financeiro da
 &lt;a href=&quot;http://www.capes.gov.br&quot;&gt;CAPES&lt;/a&gt; por meio do Projeto PAEX.&lt;/p&gt;
 
 &lt;p&gt;No congresso, dentre os projetos apresentados, Crysttian destacou o
-Bitstring model to study the Dengue&#39;s spread, no qual abordou a
+Bitstring model to study the Dengue’s spread, no qual abordou a
 previsão do espalhamento da epidemia.&lt;/p&gt;
 
 &lt;p&gt;Na EMAp/FGV, o estudante trabalha em projetos junto com Professor
@@ -3430,7 +3197,7 @@ da dengue no país.&lt;/p&gt;
    <id>http://emap.fgv.br/blog/2012/09/05/alunos-emap-destaque-vocesa</id>
    <content type="html">&lt;p&gt;Luiz Gustavo Neves, Gabriel Baptista e Ariel Teixeira, alunos do curso
 de Mestrado em Modelagem Matemática da Informação na EMAp FGV, foram
-destaques da matéria &quot;bons com os números&quot;, publicada na edição de
+destaques da matéria “bons com os números”, publicada na edição de
 agosto da Você S.A., importante revista da área de negócios do
 Brasil. Na reportagem, falaram sobre a carreira de cientista de dados,
 profissão que vem ganhando espaço no mercado e que tem na capacidade
@@ -3476,6 +3243,7 @@ explicou.&lt;/p&gt;
 
 &lt;p&gt;Para conhecer mais sobre o Mestrado em Modelagem Matemática da
 Informação da EMAp, &lt;a href=&quot;/pos-graduacao/descricao.html&quot;&gt;clique aqui&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3536,9 +3304,7 @@ técnicas de visualização de informação na análise dos dados.&lt;/p&gt;
 apresenta de forma científica e interessante, as decisões do STF,
 antes e após a promulgação da Constituição de 1988.&lt;/p&gt;
 
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ohZgKOxW9DA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ohZgKOxW9DA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 </content>
  </entry>
@@ -3572,8 +3338,8 @@ cidade do Rio de Janeiro.&lt;/p&gt;
 &lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt;, irá
 apresentar no próximo dia 7 de agosto, no
 &lt;a href=&quot;http://www.ai.sri.com&quot;&gt;Laboratório de Inteligência Artificial&lt;/a&gt; do
-&lt;a href=&quot;http://www.sri.com&quot;&gt;SRI&lt;/a&gt;, o seminário &quot;The OpenWordNet-PT and its
-connection to SUMO Ontology&quot;, sobre os avanços na construção da
+&lt;a href=&quot;http://www.sri.com&quot;&gt;SRI&lt;/a&gt;, o seminário “The OpenWordNet-PT and its
+connection to SUMO Ontology”, sobre os avanços na construção da
 OpenWordnet-PT, primeira versão aberta de uma Wordnet para o
 português.&lt;/p&gt;
 
@@ -3598,6 +3364,7 @@ encontro Logics and Ontologies for Portuguese, que apresentou o
 projeto à comunidade acadêmica.&lt;/p&gt;
 
 &lt;p&gt;Mais informações sobre o projeto no &lt;a href=&quot;https://github.com/arademaker/wordnet-br&quot;&gt;repositório do projeto&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3623,6 +3390,7 @@ inscrever no vestibular através do mesmo site.&lt;/p&gt;
 
 &lt;p&gt;Mais informações sobre o vestibular podem ser obtidas pelo telefone
 0800-7700423 ou pelo email vestibulares@fgv.br.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3632,7 +3400,7 @@ inscrever no vestibular através do mesmo site.&lt;/p&gt;
    <updated>2012-07-31T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2012/07/31/aplicacoes-matematica</id>
    <content type="html">&lt;p&gt;No último dia 25 de julho, o Jornal da Globo noticiou uma matéria
-sobre o tema &quot;lavagem de dinheiro&quot; e citou quais as ações estão sendo
+sobre o tema “lavagem de dinheiro” e citou quais as ações estão sendo
 realizadas no Brasil para o combate à este tipo de crime.&lt;/p&gt;
 
 &lt;p&gt;O governo pretende usar os 17 laboratórios de tecnologia existentes no
@@ -3662,7 +3430,7 @@ redes sociais.&lt;/p&gt;
    <updated>2012-07-30T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2012/07/30/metaphysics-non-individuality</id>
    <content type="html">&lt;p&gt;No dia 30/07, segunda-feira, das 16h às 18h, será apresentado no
-prédio sede da FGV o seminário &quot;The Metaphysics of Non-Individuality&quot;
+prédio sede da FGV o seminário “The Metaphysics of Non-Individuality”
 que será apresentado pelo prof. Décio Krause (UFSC)&lt;/p&gt;
 
 &lt;p&gt;O seminário faz parte dos encontros periódicos do grupo de
@@ -3671,8 +3439,9 @@ pesquisadores do &lt;a href=&quot;http://www.rio-logic.org/&quot;&gt;Lógica Car
 Rio de Janeiro que trabalham com lógica matemática em departamentos de
 filosofia, computação e matemática.&lt;/p&gt;
 
-&lt;p&gt;O grupo estará sendo recebido na FGV pelo professor
+&lt;p&gt;O grupo estará sendo recebido na FGV pelo professor 
 &lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt; da EMAp.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3710,92 +3479,60 @@ Mecânica Celeste, no estudo de vórtices pontuais no plano.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2012/05/19/aula-convite.html"/>
    <updated>2012-05-19T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2012/05/19/aula-convite</id>
-   <content type="html">&lt;p&gt;A situação descrita abaixo, embora fictícia, é representativa do tipo&lt;br /&gt;
-de problema que um Matemático Aplicado é chamado a resolver. Venha&lt;br /&gt;
-discuti-la conosco!&lt;/p&gt;
-&lt;h2&gt;Descrição do problema&lt;/h2&gt;
-&lt;p&gt;A empresa Entradas.com.br faz vendas antecipadas para um espetáculo&lt;br /&gt;
-que está em cartaz há vários meses. A empresa paga R$ 40,00 por um&lt;br /&gt;
-ingresso, que é revendido por R$ 70,00. Os ingressos não revendidos&lt;br /&gt;
-podem ser devolvidos no dia do espetáculo, para serem vendidos na&lt;br /&gt;
-bilheteria; no entanto, a empresa recebe apenas R$ 20,00 por ingresso&lt;br /&gt;
-devolvido. Desde a estréia do espetáculo, a empresa tem comprado 30&lt;br /&gt;
-ingressos por dia. Com isto, ela tem atendido a todos os clientes que&lt;br /&gt;
-procuram por ingressos, sempre devolvendo alguns ingressos no dia do&lt;br /&gt;
-espetáculo. A empresa registrou o número de ingressos devolvidos ao&lt;br /&gt;
-longo do período, resumidos na tabela abaixo, que mostra a freqüência&lt;br /&gt;
-de cada número de ingressos devolvidos.&lt;/p&gt;
-&lt;table&gt;
-	&lt;tr&gt;
-		&lt;td&gt;&lt;strong&gt;Números de exemplares devolvidos no dia&lt;/strong&gt; &lt;/td&gt;
-		&lt;td&gt;&lt;strong&gt;Número de dias&lt;/strong&gt;&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;1&lt;/td&gt;
-		&lt;td&gt;2&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;2&lt;/td&gt;
-		&lt;td&gt;10&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;3&lt;/td&gt;
-		&lt;td&gt;17&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;4&lt;/td&gt;
-		&lt;td&gt;25&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;5&lt;/td&gt;
-		&lt;td&gt;32&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;6&lt;/td&gt;
-		&lt;td&gt;36&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;7&lt;/td&gt;
-		&lt;td&gt;39&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;8&lt;/td&gt;
-		&lt;td&gt;42&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;9&lt;/td&gt;
-		&lt;td&gt;35&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;10&lt;/td&gt;
-		&lt;td&gt;28&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;11&lt;/td&gt;
-		&lt;td&gt;20&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;12&lt;/td&gt;
-		&lt;td&gt;14&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;Total&lt;/td&gt;
-		&lt;td&gt;300&lt;/td&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-&lt;h2&gt;Perguntas&lt;/h2&gt;
-&lt;p&gt;- A empresa teve lucro em todos os dias com a venda de ingressos?&lt;/p&gt;
-&lt;p&gt;- Ela deve continuar a comprar 30 ingressos por dia? Se não, quantos&lt;br /&gt;
-  ingressos você sugere que ela compre por dia? Em que critérios você se&lt;br /&gt;
-  baseia para esta sugestão?&lt;/p&gt;
-&lt;p&gt;Você consegue pensar em outros fatores, não informados acima, que&lt;br /&gt;
-poderiam afetar a decisão da empresa? Você consegue relacionar este&lt;br /&gt;
-problema com temas de Matemática do Ensino Médio ou com disciplinas&lt;br /&gt;
-que espera estudar no futuro?&lt;/p&gt;
-&lt;p&gt;Clique &lt;a href=&quot;/files/problema-ingressos.xls&quot;&gt;aqui&lt;/a&gt; para download da tabela&lt;br /&gt;
-acima no formato Excel.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/files/ingressos.html&quot;&gt;Esta calculadora&lt;/a&gt; pode ajudar você a pensar no&lt;br /&gt;
-problema.&lt;/p&gt;</content>
+   <content type="html">A situação descrita abaixo, embora fictícia, é representativa do tipo
+de problema que um Matemático Aplicado é chamado a resolver. Venha
+discuti-la conosco!
+
+h2. Descrição do problema
+
+A empresa Entradas.com.br faz vendas antecipadas para um espetáculo
+que está em cartaz há vários meses. A empresa paga R$ 40,00 por um
+ingresso, que é revendido por R$ 70,00. Os ingressos não revendidos
+podem ser devolvidos no dia do espetáculo, para serem vendidos na
+bilheteria; no entanto, a empresa recebe apenas R$ 20,00 por ingresso
+devolvido. Desde a estréia do espetáculo, a empresa tem comprado 30
+ingressos por dia. Com isto, ela tem atendido a todos os clientes que
+procuram por ingressos, sempre devolvendo alguns ingressos no dia do
+espetáculo. A empresa registrou o número de ingressos devolvidos ao
+longo do período, resumidos na tabela abaixo, que mostra a freqüência
+de cada número de ingressos devolvidos.
+
+|*Números de exemplares devolvidos no dia* |*Número de dias*|
+|1|2|
+|2|10|
+|3|17|
+|4|25|
+|5|32|
+|6|36|
+|7|39|
+|8|42|
+|9|35|
+|10|28|
+|11|20|
+|12|14|
+|Total|300|
+
+h2. Perguntas
+
+- A empresa teve lucro em todos os dias com a venda de ingressos?
+
+- Ela deve continuar a comprar 30 ingressos por dia? Se não, quantos
+  ingressos você sugere que ela compre por dia? Em que critérios você se
+  baseia para esta sugestão?
+
+
+Você consegue pensar em outros fatores, não informados acima, que
+poderiam afetar a decisão da empresa? Você consegue relacionar este
+problema com temas de Matemática do Ensino Médio ou com disciplinas
+que espera estudar no futuro?
+
+Clique &quot;aqui&quot;:/files/problema-ingressos.xls para download da tabela
+acima no formato Excel.
+
+&quot;Esta calculadora&quot;:/files/ingressos.html pode ajudar você a pensar no
+problema.
+
+</content>
  </entry>
  
  <entry>
@@ -3808,12 +3545,11 @@ dos processos seletivos para contratação de dois professores para as
 áreas de:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Estatística, 1 vaga, edital completo em
+  &lt;li&gt;Estatística, 1 vaga, edital completo em
 &lt;a href=&quot;/files/edital-estatistica.pdf&quot;&gt;português&lt;/a&gt; e &lt;a href=&quot;/files/edital-estatistica-en.pdf&quot;&gt;inglês&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Matemática Aplicada, 1 vaga, edital completo em
+  &lt;li&gt;Matemática Aplicada, 1 vaga, edital completo em
 &lt;a href=&quot;/files/edital-matematica-aplicada.pdf&quot;&gt;português&lt;/a&gt; e &lt;a href=&quot;/files/edital-matematica-aplicada-en.pdf&quot;&gt;inglês&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;As vagas são para atuação nos cursos de Graduação e Pós-Graduação da
 EMAp e para desenvolver pesquisa nas áreas acima mencionadas.&lt;/p&gt;
@@ -3821,6 +3557,7 @@ EMAp e para desenvolver pesquisa nas áreas acima mencionadas.&lt;/p&gt;
 &lt;p&gt;Os interessados deverão submeter, até o dia 15 de junho, a documentação
 requerida por correio eletrônico ao endereço emap@fgv.br. As decisões
 serão anunciadas até o dia 31 de julho de 2012.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3833,22 +3570,22 @@ serão anunciadas até o dia 31 de julho de 2012.&lt;/p&gt;
 Modelagem Matemática da Informação:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Aleksandra Dominika Kwoka&lt;/li&gt;
-&lt;li&gt;Bruno Schneider&lt;/li&gt;
-&lt;li&gt;Daniel Fialho Madureira&lt;/li&gt;
-&lt;li&gt;Debora Jorge Leite&lt;/li&gt;
-&lt;li&gt;Eduardo dal Pont Bitencourt&lt;/li&gt;
-&lt;li&gt;Gabriel Leite Baptista da Silva&lt;/li&gt;
-&lt;li&gt;Israel Teixeira&lt;/li&gt;
-&lt;li&gt;Itajiba de Oliveira Bezerra&lt;/li&gt;
-&lt;li&gt;Joyce de Figueiró Santos&lt;/li&gt;
-&lt;li&gt;Luciano Pereira Varanis&lt;/li&gt;
-&lt;li&gt;Luis Gustavo Neves da Silva&lt;/li&gt;
-&lt;li&gt;Marcos Ferreira da Silva&lt;/li&gt;
-&lt;li&gt;Marlon Pirchiner Moreira&lt;/li&gt;
-&lt;li&gt;Rodolfo Henrique Carvalho&lt;/li&gt;
-&lt;li&gt;Thiago dos Santos Sousa&lt;/li&gt;
-&lt;li&gt;Yuri Jacob Lumer&lt;/li&gt;
+  &lt;li&gt;Aleksandra Dominika Kwoka&lt;/li&gt;
+  &lt;li&gt;Bruno Schneider&lt;/li&gt;
+  &lt;li&gt;Daniel Fialho Madureira&lt;/li&gt;
+  &lt;li&gt;Debora Jorge Leite&lt;/li&gt;
+  &lt;li&gt;Eduardo dal Pont Bitencourt&lt;/li&gt;
+  &lt;li&gt;Gabriel Leite Baptista da Silva&lt;/li&gt;
+  &lt;li&gt;Israel Teixeira&lt;/li&gt;
+  &lt;li&gt;Itajiba de Oliveira Bezerra&lt;/li&gt;
+  &lt;li&gt;Joyce de Figueiró Santos&lt;/li&gt;
+  &lt;li&gt;Luciano Pereira Varanis&lt;/li&gt;
+  &lt;li&gt;Luis Gustavo Neves da Silva&lt;/li&gt;
+  &lt;li&gt;Marcos Ferreira da Silva&lt;/li&gt;
+  &lt;li&gt;Marlon Pirchiner Moreira&lt;/li&gt;
+  &lt;li&gt;Rodolfo Henrique Carvalho&lt;/li&gt;
+  &lt;li&gt;Thiago dos Santos Sousa&lt;/li&gt;
+  &lt;li&gt;Yuri Jacob Lumer&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
@@ -3862,8 +3599,8 @@ Modelagem Matemática da Informação:&lt;/p&gt;
    <content type="html">&lt;p&gt;O professor &lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt;
 apresentou no
 &lt;a href=&quot;http://www.globalwordnet.org/&quot;&gt;Global Wordnet Conference&lt;/a&gt;, que
-ocorreu em Janeiro de 2012 em Matsue, no Japão, o artigo &quot;Revisiting a
-Brazilian WordNet&quot;. O artigo reporta o andamento do projeto de
+ocorreu em Janeiro de 2012 em Matsue, no Japão, o artigo “Revisiting a
+Brazilian WordNet”. O artigo reporta o andamento do projeto de
 construção da primeira versão aberta e de grande escada de uma Wordnet
 brasileira.&lt;/p&gt;
 
@@ -3883,9 +3620,9 @@ para processamento de textos em linguagem natural em etapas como, por
 exemplo, resolução de ambiguidades.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040744.JPG&quot;&gt;Foto 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040745.JPG&quot;&gt;Foto 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040742.JPG&quot;&gt;Foto 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040744.JPG&quot;&gt;Foto 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040745.JPG&quot;&gt;Foto 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lang.cs.tut.ac.jp/gwc2012/photo/20120110/images/dP1040742.JPG&quot;&gt;Foto 3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
@@ -3951,7 +3688,7 @@ Git disponível na EMap.&lt;/p&gt;
 
 &lt;p&gt;O mini-curso será na sala 317 das 13h as 16h.&lt;/p&gt;
 
-&lt;h2&gt;Shortbio&lt;/h2&gt;
+&lt;h2 id=&quot;shortbio&quot;&gt;Shortbio&lt;/h2&gt;
 
 &lt;p&gt;Álvaro Justen é usuário e ativista de software livre há mais de 8
 anos; colaborador de vários projetos de software livre; Pythonista de
@@ -3959,6 +3696,7 @@ carteirinha; disseminador do Arduino e entusiasta de metodologias
 ágeis. Atualmente trabalha desenvolvendo software livre na Escola de
 Matemática Aplicada da Fundação Getúlio Vargas e eventualmente
 ministra cursos sobre Arduino.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3967,27 +3705,20 @@ ministra cursos sobre Arduino.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2011/11/28/inauguracao-graduacao.html"/>
    <updated>2011-11-28T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2011/11/28/inauguracao-graduacao</id>
-   <content type="html">&lt;p&gt;A Escola de Matemática Aplicada da Fundação Getulio Vargas tem o prazer de convidar para o painel &amp;#8220;Por que estudar Matemática Aplicada?&amp;#8221;, a realizar-se no dia 5 de dezembro de 2011, às 18:30 horas, no auditório do edifício sede da &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;, localizado à Praia de Botafogo, 190, marcando a inauguração do curso de Graduação da EMAp. O evento será seguido de uma homenagem ao Professor Augusto César Morgado e de um coquetel de boas-vindas aos futuros alunos.&lt;/p&gt;
-&lt;h2&gt;Programação&lt;/h2&gt;
-&lt;table&gt;
-	&lt;tr&gt;
-		&lt;td&gt; 18:30 &lt;/td&gt;
-		&lt;td&gt; Painel: Porque estudar Matemática aplicada?&lt;br /&gt;
-Yuan Jinyun &amp;#8211; professor da &lt;span class=&quot;caps&quot;&gt;UFPR&lt;/span&gt; e diretor do Instituto de Matemática Industrial.&lt;br /&gt;
-Paulo Cezar Carvalho &amp;#8211; coordenador do curso de graduação da EMAp &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;. &lt;br /&gt;
-Luciano Monteiro de Castro &amp;#8211; professor e sócio-fundador&lt;br /&gt;
-do Colégio Elite &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; 19:30 &lt;/td&gt;
-		&lt;td&gt; Homenagem ao Professor Augusto César Morgado. &lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt; 20:00 &lt;/td&gt;
-		&lt;td&gt; Coquetel de boas-vindas aos futuros alunos. &lt;/td&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+   <content type="html">A Escola de Matemática Aplicada da Fundação Getulio Vargas tem o prazer de convidar para o painel &quot;Por que estudar Matemática Aplicada?&quot;, a realizar-se no dia 5 de dezembro de 2011, às 18:30 horas, no auditório do edifício sede da FGV, localizado à Praia de Botafogo, 190, marcando a inauguração do curso de Graduação da EMAp. O evento será seguido de uma homenagem ao Professor Augusto César Morgado e de um coquetel de boas-vindas aos futuros alunos.
+
+h2. Programação
+
+| 18:30 | Painel: Porque estudar Matemática aplicada?
+Yuan Jinyun - professor da UFPR e diretor do Instituto de Matemática Industrial.
+Paulo Cezar Carvalho - coordenador do curso de graduação da EMAp FGV. 
+Luciano Monteiro de Castro - professor e sócio-fundador
+do Colégio Elite |
+| 19:30 | Homenagem ao Professor Augusto César Morgado. |
+| 20:00 | Coquetel de boas-vindas aos futuros alunos. |
+
+&amp;nbsp;
+</content>
  </entry>
  
  <entry>
@@ -4022,8 +3753,8 @@ a inscrição gratuita para participação no evento.&lt;/p&gt;
    <id>http://emap.fgv.br/blog/2011/09/09/noticias-emap</id>
    <content type="html">&lt;p&gt;Os pesquisadores &lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Flávio Coelho&lt;/a&gt; e
 &lt;a href=&quot;/people/renato.souza.html&quot;&gt;Renato Rocha Souza&lt;/a&gt; apresentaram no evento
-EuroSciPy, em Paris, o artigo &quot;Information Mining and Visualization of
-a Large Volume of Legal Texts&quot;, com os resultados preliminares da
+EuroSciPy, em Paris, o artigo “Information Mining and Visualization of
+a Large Volume of Legal Texts”, com os resultados preliminares da
 análise do Banco de Dados do Supremo Tribunal Federal, desenvolvida em
 conjunto com o pesquisador da Escola de Direito - Rio, Pablo
 Cerdeira. A apresentação aconteceu no dia no dia 27/08.&lt;/p&gt;
@@ -4035,6 +3766,7 @@ Instituto de Matemática Industrial, Paulo Cezar Carvalho, professor e
 pesquisador da EMAp e do IMPA, e Luciano Castro, medalhista em
 Olimpíada Iberoamericana de Matemática e professor do Colégio Elite. O
 encontro aconteceu no dia 31/08.&lt;/p&gt;
+
 </content>
  </entry>
  

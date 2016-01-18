@@ -4,7 +4,7 @@
  <title>Seminários da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2015-12-22T16:25:54-02:00</updated>
+ <updated>2016-01-18T11:26:17-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -25,7 +25,7 @@ sob incerteza; e técnicas de otimização de portfólio para o
 investidor. Serão apresentados exemplos reais das Américas, Europa e
 Ásia.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;Possui graduação em Engenharia Elétrica pela Pontifícia Universidade
 Católica do Rio de Janeiro(1975), mestrado em Engenharia de Sistemas e
@@ -42,14 +42,13 @@ semana da palestra. Esta semana é a semana de apresentacoes dos TCC
 dos alunos de graduacao (consta no Google Drive) entao so divulgaremos
 isso internamente.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -63,7 +62,7 @@ os conceitos básicos de cloud computing serão discutidos e serão
 demostradas algumas técnicas para construção de aplicações simples na
 plataforma.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;Wilson Magalhães Jr. possui mais de 20 anos de carreira de
 TI. Atualmente ocupa a posição de Cloud Advisor na IBM, onde trabalha
@@ -83,14 +82,13 @@ Projeto e Gestão Estratégica da Tecnologia da Informação, ambos pelo
 UFRJ. É certificado pelo PMI como Project Management Professional
 (PMP) e contribuidor do blog IBM Thoughts on Cloud.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -106,7 +104,7 @@ pertencente a E pode ter um de dois tipos distintos de custos nas
 árvores geradoras de G em que aparece. Um custo \(c_e\) quando i ou
 j são folhas da árvore ou, alternativamente, um custo \(d_e\) quando
 a aresta pertence à árvore mas não está associada a uma folha da mesma
-(ou seja é uma &quot;aresta interna&quot;). Sob tal estrutura de custos o
+(ou seja é uma “aresta interna”). Sob tal estrutura de custos o
 problema consiste em encontrar uma árvore geradora de G com o menor
 custo possível. Ele é NP-difícil e generaliza, dentre outros, o
 Problema da Árvore Geradora com Número Máximo de Folhas. Este, por sua
@@ -129,7 +127,7 @@ autoregressive conditionally heteroscedastic, its exponential version,
 and stochastic volatility models using South and North American stock
 price indexes.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;Fez doutorado no Imperial College of Science Technology and Medicine
 (1986), mestrado em Engenharia Elétrica na Pontifícia Universidade
@@ -160,14 +158,13 @@ Combinatória. Atua principalmente em: formulações fortes, algoritmos
 de planos de corte, algoritmos relax-and-cut, algoritmos
 branch-and-cut e heurísticas Lagrangeanas.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -189,7 +186,7 @@ autoregressive conditionally heteroscedastic, its exponential version,
 and stochastic volatility models using South and North American stock
 price indexes.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1513109865941797&quot;&gt;Ralph Silva&lt;/a&gt; possui graduação
 em Estatística pela Escola Nacional de Ciências Estatísticas. Mestrado
@@ -202,14 +199,13 @@ do Departamento de Métodos Estatísticos da Universidade Federal do Rio
 de Janeiro. Organizou a Escola de Séries Temporais e Econometria -
 2013.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -237,7 +233,7 @@ técnicos serão enfatizados, porém sem demonstrações formais.&lt;/p&gt;
 longo de rough paths e equações diferencias dirigidas de maneira bem
 posta.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1562307710334473&quot;&gt;Rafael Castrequini&lt;/a&gt; possui
 graduação, mestrado e doutorado em Matemática pela Universidade
@@ -247,14 +243,13 @@ trabalhando em conjunto com o
 &lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;professor Hugo&lt;/a&gt; sobre a teoria dos rough
 paths.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -269,14 +264,14 @@ de otimização combinatória, de otimização contínua e
 não-diferenciabilidade. Possíveis aplicações e resultados numéricos
 serão apresentados.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/4436183480921146&quot;&gt;Nelson Maculan&lt;/a&gt; possui
 graduação em Engenharia de Minas e Metalurgia pela Universidade
 Federal de Ouro Preto (1965), mestrado (D.E.A.) em Matemática
 Estatística - Universite de Paris VI (Pierre et Marie Curie) (1967),
 doutorado em Engenharia de Produção pela Universidade Federal do Rio
-de Janeiro (1975) e “Diplôme d&#39;Habilitation à Diriger des Recherches
+de Janeiro (1975) e “Diplôme d’Habilitation à Diriger des Recherches
 (H.D.R) en Sciences de la Gestion (1988)”, pela Université
 Paris-Dauphine (Paris IX). Atualmente é professor emérito da
 Universidade Federal do Rio de Janeiro. Tem experiência na área de
@@ -285,14 +280,13 @@ principalmente nos seguintes temas: otimização combinatória,
 programação inteira, programação linear, geração de colunas e
 otimização global.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -309,7 +303,7 @@ synchronization is a property that is either desired or undesirable
 (e.g. in epilepsy attacks).&lt;/p&gt;
 
 &lt;p&gt;I will introduce a mathematical model for a network of identical
-dynamical systems with a general &quot;diffusion-like&quot; coupling, i.e. a
+dynamical systems with a general “diffusion-like” coupling, i.e. a
 coupling that pushes connected nodes to a common state. Our main
 result is that when the coupling is sufficiently strong, then such a
 network of nodes (with general dynamics) has a stable synchronized
@@ -320,7 +314,7 @@ identical.&lt;/p&gt;
 &lt;p&gt;This is joint work with Tiago Pereira, Martin Rasmussen and Alexei
 Veneziani.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.jaapeldering.nl/index.php&quot;&gt;Jaap Eldering&lt;/a&gt; obtained his PhD
 at Utrecht University, The Netherlands in 2012. After that, he was a
@@ -335,14 +329,13 @@ worked on various more applied problems, such as network
 synchronization, biolocomotion, a particle model for fluid flow, and
 nonholonomic dynamics.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -374,7 +367,7 @@ frequentist analysis previously proposed in the literature.  Finally,
 we illustrate our methodology with applications of the Student-t and
 exponential power regression models to different datasets.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/7997248190492823&quot;&gt;Helio Migon&lt;/a&gt; graduou-se em
 Estatística pela Escola Nacional de Ciências Estatísticas (1970),
@@ -402,14 +395,13 @@ principalmente nos seguintes temas: Inferência Bayesiana, Modelos
 Dinâmicos e Previsões Bayesianas, Amostragem de Populações Finitas,
 Econometria Aplicada a Finanças e Atuária.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -439,7 +431,7 @@ tamanho da população e que para alguns casos existe uma condição
 crítica que a estrutura espacial do meio deve obedecer para evitar a
 extinção da população.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/7720753490776363&quot;&gt;Eduardo Colombo&lt;/a&gt; possui
 graduação em Física pela Pontifícia Universidade Católica do Rio de
@@ -449,14 +441,13 @@ de doutorado na mesma instituição. Tem experiência na área de Física
 Estatística e Sistemas Complexos, atuando principalmente nos seguintes
 temas: auto-organização e dinâmica de populações.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -485,7 +476,7 @@ influência dodesempenho do mercado financeiro e das expectativas
 futuras do cenário econômico, principalmente quanto à magnitude da
 taxa básica de juros brasileira.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/2848274274668372&quot;&gt;Adrian Pizzinga&lt;/a&gt; possui
 graduação em Estatística pela Escola Nacional de Ciências Estatísticas
@@ -520,14 +511,13 @@ administração de ativos e passivos), Macroeconomia (em especial
 Economia Monetária e modelos dinâmicos estocásticos de equilíbrio
 geral) e Previsão Macroeconômica.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -558,7 +548,7 @@ dos ativos frente aos passivos (ALM) e cálculo do capital baseado em
 risco por meio de modelo interno. Serão, ainda, elencados alguns temas
 recentes de pesquisas acadêmicas.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/3991722612313432&quot;&gt;César da Rocha Neves&lt;/a&gt; é
 doutorando em Engenharia Elétrica, área de concetração Métodos de
@@ -571,14 +561,13 @@ Privados (SUSEP), Professor Assistente do Curso de Ciências Atuariais
 da UERJ (Universidade do Estado do Rio de Janeiro) e Professor Adjunto
 da Escola Superior Nacional de Seguros (ESNS).&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -600,13 +589,13 @@ objeto em questão. Para atingir tal objetivo, o estudo de estruturas
 celulares para inclusão no desenho do objeto é uma abordagem efetiva e
 frequentemente encontrada em materiais naturais tais como ossos,
 esponjas etc. Nesta palestra, será apresentado o cenário de contexto
-de manufatura aditiva, bem como o algoritmo &quot;Adaptive Voids&quot;, um
+de manufatura aditiva, bem como o algoritmo “Adaptive Voids”, um
 abordagem automática para geração de estruturas celulares adaptativas
 para um dado volume de entrada. A saída produzida pelo algoritmo pode
 ser aplicada em diferentes cenários de aplicações, tais como design de
 produtos, engenharia, arquitetura, biomedicina, entre outros.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/people/asla.sa.html&quot;&gt;Asla Sá&lt;/a&gt; possui Pós-Doutorado pelo Cultural
 Informatics Research Group da Universidade de Brighton na Inglaterra
@@ -616,14 +605,13 @@ em Matemática Aplicada pela UFRJ (2001). Bacharel em Matemática pela
 UFRJ (1999). Áreas de Pesquisa: Computação Gráfica e Visualização de
 Informação.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -650,7 +638,7 @@ grandes). O seminário será encerrado com o uso de espectros no
 clássico Problema do Isomorfismo de Grafos e suas aplicações ao
 reconhecimento de padrões.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/4017306470784388&quot;&gt;Nair Abreu&lt;/a&gt; possui graduação
 em Licenciatura em Matemática pela Universidade Federal Fluminense
@@ -676,13 +664,12 @@ Leciona raciocínio lógico, estatística aplicada e matemática
 financeira no curso de administração da Universidade Cândido
 Mendes. Autor responsável de vídeos de matemática da Degrau Cultural.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -704,7 +691,7 @@ Hurwitz-Markov e de Lagrange comprovam, definitivamente, que as
 melhores aproximações de números reais veem das frações contínuas,
 estimando seus erros com elegância técnica matemática incontestável.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;Foi aluno da PUC-Rio e da Academia Militar das Agulhas
 Negras. Licenciou-se em Matemática na Faculdade de Humanidades Pedro
@@ -719,14 +706,13 @@ matemática financeira no curso de administração da Universidade
 Cândido Mendes. Autor responsável de vídeos de matemática da Degrau
 Cultural.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -737,9 +723,9 @@ chinelos.&lt;/li&gt;
    <id>http://emap.fgv.br/seminars/2015/05/07/comportamento-hidrodinamico</id>
    <content type="html">&lt;p&gt;Abordaremos um método probabilístico, conhecido com limite
 hidrodinâmico, que permite a obtenção de equações diferenciais
-parciais (EDP&#39;s), de forma rigorosa, a partir da passagem de modelos
+parciais (EDP’s), de forma rigorosa, a partir da passagem de modelos
 microscópicos para macroscópicos. Tal abordagem, por um lado é uma
-fonte de novas EDP&#39;s e por outro lado, fornece o entendimento, a nível
+fonte de novas EDP’s e por outro lado, fornece o entendimento, a nível
 microscópico, de uma dada EDP. Finalizaremos com dois exemplos, uma
 generalização da equação do calor, que modela, por exemplo, a difusão
 em um ambiente com presença de membranas e, um modelo microscópico
@@ -749,7 +735,7 @@ supercondutividade) e apresenta grandes desafios do ponto de vista
 teórico. A apresentação será focada em idéias do tema, evitando
 detalhes técnicos.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/8745134398831488&quot;&gt;Fábio Júlio Valentim&lt;/a&gt; é
 professor visitante no IMPA (até agosto/2015) e professor adjunto no
@@ -758,13 +744,12 @@ Santo. Obteve seu doutorado em Matemática no IMPA em 2010, com período
 sanduíche no Courant Institute, NYU. Desenvolve pesquisa nas áreas de
 Probabilidade e Análise Matemática&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -798,7 +783,7 @@ and information theory. Future extensions of this work involve
 problems in epidemiology requiring the synthesis of classical
 mathematical modeling techniques with machine learning.&lt;/p&gt;
 
-&lt;h2&gt;Speaker&lt;/h2&gt;
+&lt;h2 id=&quot;speaker&quot;&gt;Speaker&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://researcher.watson.ibm.com/researcher/view.php?person=br-mraghib&quot;&gt;Michael Raghib&lt;/a&gt;
 is a civil engineer, applied mathematician and theoretical ecologist
@@ -817,13 +802,12 @@ computer science to problems in applied geosciences and
 biology. Current research focus include problems in applied
 geosciences and mathematical biology.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -850,7 +834,7 @@ provided by this approach is limited, stressing the need for detailed
 serological surveys to characterise the distribution of
 serotype-specific immunity in the population.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/people/flavio.coelho.html&quot;&gt;Fávio Codeço Coelho Possui&lt;/a&gt; graduação em
 Biologia pela Universidade Federal do Rio de Janeiro (1992), mestrado
@@ -865,14 +849,13 @@ Aplicada da Fundação Getulio Vargas, onde desenvolve pesquisa na área
 de modelagem matemática, estatística e computacional de doenças
 infecciosas.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -900,7 +883,7 @@ função barreira auto-concordante. O método proposto combina iterações
 tipo ponto-interior com iterações tipo HPE e como sua complexidade
 computacional é estabelecida.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1472717451790946&quot;&gt;Mauricio Romero Sicre&lt;/a&gt;. Possui
 graduação em Matemática pela Universidade de Havana (1995), mestrado
@@ -912,14 +895,13 @@ Pura e Aplicada (IMPA) (2006).  Desde 2006 é Professor da Universidade
 Federal da Bahia. Tem experiência na área de Matemática Aplicada, com
 ênfase em Otimização.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -936,7 +918,7 @@ conceito da matemática pura: a entropia. Flavio irá abordar no próximo
 seminário os detalhes de como foi feito o desenvolvimento deste
 modelo.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/0111321896795593&quot;&gt;Flavio Abdenur&lt;/a&gt; é formado em
 Economia pela PUC-Rio(2000) e possui doutorado em Matemática Pura pelo
@@ -946,14 +928,13 @@ Matemática da PUC-Rio. Entre meados de 2011 e o início de 2013 foi
 analista de risco da Ventor Investimentos, onde então se juntou a um
 grupo de quants. Atualmente é consultor de risco.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -981,7 +962,7 @@ multiplicativo, que devido às boas propriedades de estabilidade e
 baixo custo computacional, permite ser utilizado satisfatoriamente
 conjuntamente com o MLMC para a simulação de EDPs determinísticas.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo de La Cruz&lt;/a&gt; possui graduação em
 Matemática pela Universidad de Oriente, Cuba (1998), doutorado em
@@ -992,14 +973,13 @@ Institut Mittag-Leffler, Royal Swedish Academy of Sciences, Suécia
 Equações Diferenciais Estocásticas, Análise Numérica e Processos
 Estocásticos.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1018,7 +998,7 @@ implementação desses modelos. Os modelos em espaço de estado serão
 ilustrados através de aplicações em Finanças e Seguros, enquanto que o
 modelo GAS será utilizado em um problema de gestão em Energia.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/2149571398618532&quot;&gt;Cristiano Augusto Fernandes&lt;/a&gt;
 é PhD em Estatística pela London School of Economics - University of
@@ -1035,14 +1015,13 @@ Seguros e Energia. Atua também em projetos patrocinados por empresas e
 órgãos públicos envolvendo a utilização de modelos estatísticos e
 econométricos para obtenção de informação a partir de dados.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1061,7 +1040,7 @@ baseado na desingularização do núcleo de convolução e permite obter
 resultados mais precisos. Apresentaremos exemplos numéricos que
 mostram as vantagens desse segundo método.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/8694890749217765&quot;&gt;Daniel Alfaro Vigo&lt;/a&gt; possui
 graduação em Mecânica-Matemática pela Moscow State University (Russia,
@@ -1073,14 +1052,13 @@ adjunto da Universidade Federal do Rio de Janeiro. Tem experiência na
 Numérica, atuando principalmente nos seguintes temas: Propagação de
 ondas em meios heterogêneos e Solução numérica de EDPs.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1115,7 +1093,7 @@ unnecessarily high risk rates with respect to operating costs. The
 recent rule change in the United States reduces accident risk rates
 with a moderate increase in operating costs.&lt;/p&gt;
 
-&lt;h2&gt;Speaker&lt;/h2&gt;
+&lt;h2 id=&quot;speaker&quot;&gt;Speaker&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1821402316308818&quot;&gt;Thibaut Vidal&lt;/a&gt; holds a joint
 Ph.D in computer science and operations research from the University
@@ -1132,13 +1110,12 @@ optimization, metaheuristics and local search, with applications to
 logistics and supply chain optimization, production management,
 resource allocation, and emergency response.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1148,8 +1125,8 @@ resource allocation, and emergency response.&lt;/p&gt;
    <updated>2014-10-30T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/seminars/2014/10/30/pattern-recognition</id>
    <content type="html">&lt;p&gt;A pair of rooted tangents (equivalent to a triangle) is proposed as
-the primitive to represent and study planar shapes. How &quot;isosceles&quot;
-and how &quot;degenerate&quot; these triangles are correspond to the mirror and
+the primitive to represent and study planar shapes. How “isosceles”
+and how “degenerate” these triangles are correspond to the mirror and
 parallel symmetry of such pairs. Symmetry values are accumulated in a
 6-dimensional histogram. By marginalizing this histogram, we capture
 geometric properties for a range of applications: detection of
@@ -1161,21 +1138,20 @@ geometric representation in which pairs of triangles are used to fit
 multiple and overlapping ellipses. This work corresponds to
 publications at CVPR 2014 and ICIP 2014.&lt;/p&gt;
 
-&lt;h2&gt;Speaker&lt;/h2&gt;
+&lt;h2 id=&quot;speaker&quot;&gt;Speaker&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.marceloc.net/index.html&quot;&gt;Marcelo Cicconet&lt;/a&gt;, Master in Pure
-Mathematics and a Ph.D in Computer Graphics (IMPA). He&#39;s an assistant
+Mathematics and a Ph.D in Computer Graphics (IMPA). He’s an assistant
 research scientist at New York University. Interests: Computer Vision,
 Machine Learning, Computer Science, Data Mining, Artificial
 Intelligence, and Education.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1194,7 +1170,7 @@ the same marginal distribution and secondly, the correlation structure
 figure below). But in reality, some variables are upper tail dependent
 (or lower tail) as in right figure below.&lt;/p&gt;
 
-&lt;p&gt;Copulas were invented to provide a much wider range of &quot;correlation&quot;
+&lt;p&gt;Copulas were invented to provide a much wider range of “correlation”
 structures between variables &amp;amp; to allow variables to have different
 marginal distributions. While many bivariate copulas exist, it is more
 difficult to construct multivariate ones, and it is even more
@@ -1205,7 +1181,7 @@ models designed for handling large numbers of variables (1) as random
 vectors in the static case or (2) as vector stochastic processes in
 the dynamic case. The family includes models with upper and lower tail
 dependence. Variables need not be exchangeable. To illustrate the
-model&#39;s potential; three radically different examples have been
+model’s potential; three radically different examples have been
 constructed: a straight additive model, an additive conditional gamma
 model and a switching model. Archimedean copulas turn out to be a
 special case of the general model. Another advantage of these models
@@ -1215,28 +1191,27 @@ independence framework, they are easy to simulate.&lt;/p&gt;
 
 &lt;p&gt;Paper is available on &lt;a href=&quot;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1616503&quot;&gt;SSRN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;Speakers&lt;/h2&gt;
+&lt;h2 id=&quot;speakers&quot;&gt;Speakers&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://goo.gl/IZH7RI&quot;&gt;Margaret Armstrong&lt;/a&gt; and
 &lt;a href=&quot;http://goo.gl/c1ZmxP&quot;&gt;Alain Galli&lt;/a&gt; started the Quantitative Finance
 Group at the École des Mines de Paris in 2001. The group trains French
 engineers who want to be quants, traders &amp;amp; structurers in banks. The
-group&#39;s research focuses on:&lt;/p&gt;
+group’s research focuses on:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Modeling commodities (electricity, oil and gas, CO2 etc).&lt;/li&gt;
-&lt;li&gt;Modeling the structure of electricity markets, and the impact of the
+  &lt;li&gt;Modeling commodities (electricity, oil and gas, CO2 etc).&lt;/li&gt;
+  &lt;li&gt;Modeling the structure of electricity markets, and the impact of the
 introduction of renewables (wind power) and electric vehicles on
 day-ahead electricity prices.&lt;/li&gt;
-&lt;li&gt;Evaluating and optimising of projects such as mines, oil fields and
+  &lt;li&gt;Evaluating and optimising of projects such as mines, oil fields and
 power plants that are subject to technical and financial
 uncertainty.&lt;/li&gt;
-&lt;li&gt;Modelling the term structure of interest rates.&lt;/li&gt;
-&lt;li&gt;Stochastic volatility models.&lt;/li&gt;
-&lt;li&gt;Dynamic hedging of physical commitments.&lt;/li&gt;
-&lt;li&gt;Copulas, especially Archimedean copulas.&lt;/li&gt;
+  &lt;li&gt;Modelling the term structure of interest rates.&lt;/li&gt;
+  &lt;li&gt;Stochastic volatility models.&lt;/li&gt;
+  &lt;li&gt;Dynamic hedging of physical commitments.&lt;/li&gt;
+  &lt;li&gt;Copulas, especially Archimedean copulas.&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Margaret Armstrong is a professor at the Cerna, Mines-Paristech. She
 has a masters in mathematical statistics from the University of
@@ -1246,13 +1221,12 @@ Mines de Paris.&lt;/p&gt;
 &lt;p&gt;Alain GALLI is a professor at the Cerna, Mines-Paristech. He holds a
 PhD in mathematics from the University of Grenoble, France.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1272,7 +1246,7 @@ tópicos como encriptação probabilística, sistemas interativos de
 prova, provas de conhecimento zero e criptografia baseada em
 reticulados, entre outros.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/6932497213743411&quot;&gt;Luis Menasché Schechter&lt;/a&gt; é
 professor adjunto do Departamento de Ciência da Computação do
@@ -1282,13 +1256,12 @@ mestrado em Engenharia de Sistemas e Computação pela COPPE/UFRJ (2007)
 e doutorado em Engenharia de Sistemas e Computação pela COPPE/UFRJ
 (2010).&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1303,7 +1276,7 @@ volumes de dados, discutindo oportunidades e desafios que os atuais
 processos de convergência de dados e dispositivos apresentam a quem se
 aventura no setor.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://br.linkedin.com/in/maovieira&quot;&gt;Marco Vieira&lt;/a&gt;, Engenheiro
 Cartógrafo (UFRGS), Mestre em Engenharia Cartográfica (IME). Possui
@@ -1326,14 +1299,13 @@ operacional de seus processos empregando soluções multi-vendor,
 multi-tecnologias, em tempo real, baseadas na web e distribuídas na
 nuvem.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1352,7 +1324,7 @@ monitoramento de eventos extremos. A metodologia é aplicada em estudos
 simulados e em dados reais no contexto de epidemiologia e de redes de
 monitoramento ambiental.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/7031331622887724&quot;&gt;Gustavo Ferreira&lt;/a&gt; possui
 Bacharel em Estatística (UFRGS - 2002), Mestre em Estatística (UFRJ -
@@ -1363,14 +1335,13 @@ pesquisador da Escola Nacional de Ciências Estatísticas
 (ENCE/IBGE). Suas áreas de pesquisa são: Estatística Espacial,
 Epidemiologia e modelos para Redes Sociais.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1385,7 +1356,7 @@ desenvolvido em parceria com a Secretaria Municipal de Educação do RJ,
 e a &lt;a href=&quot;http://www.proggy.com.br&quot;&gt;plataforma online&lt;/a&gt; criada para dar
 oportunidade de mais alunos aprenderem programação.&lt;/p&gt;
 
-&lt;h2&gt;Sobre a Proggy&lt;/h2&gt;
+&lt;h2 id=&quot;sobre-a-proggy&quot;&gt;Sobre a Proggy&lt;/h2&gt;
 
 &lt;p&gt;No início de 2014, após uma apresentação para diversos alunos de uma
 escola pública sobre a disciplina eletiva de programação que seria
@@ -1398,14 +1369,13 @@ poderia ser útil para muitos outros alunos no Brasil. Assim, a
 da Fundação Lemann na iniciativa de aproximar a programação do
 cotidiano dos jovens.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1424,14 +1394,14 @@ that could, in principle, be obtained from pooling resources together
 is not readily available. The situation is much worse for Portuguese,
 where we lack big projects that accumulated resources such as WordNet,
 COMLEX, VerbNet, the Penn TreeBank, FrameNet, GATE, NLTK, MindNet,
-Delph-IN, ParGram, GF, etc. Together with colleages I&#39;ve embarked in a
+Delph-IN, ParGram, GF, etc. Together with colleages I’ve embarked in a
 long-term project of building lexical resources for Portuguese and
 making them open, so that others can build on them. Our basic strategy
 is to do as much as we can automatically, but to try to verify the
 automatically created data, to the best of our abilities. I will
 describe the tools we created and the ones we are working on and why.&lt;/p&gt;
 
-&lt;h2&gt;Palestrantes&lt;/h2&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
 
 &lt;p&gt;Valeria de Paiva is a mathematician, logician and computer scientist
 based in Sunnyvale, CA. She works as Senior Research Scientist at
@@ -1441,24 +1411,23 @@ systems. Before that she was a research scientist at the Intelligent
 Systems Laboratory of PARC (Palo Alto Research Center), CA for many
 years (2000-2008) and a search analyst at Cuil, Inc. and at Rearden
 Commerce, now Deem. She received her PhD in Mathematics from Cambridge
-University for work on &quot;Dialectica Categories&quot;, and has ever since
+University for work on “Dialectica Categories”, and has ever since
 worked on logical approaches to computation. She is on the editorial
-boards of &quot;Theoria and Application of Categories&quot;, &quot;Logical Methods in
-Computer Science&quot; and of &quot;Logica Universalis&quot;, as well as in the
-editorial board of the Springer series of books &quot;Logic, Language and
-Information&quot;. She&#39;s an Honorary Research Fellow at the School of
+boards of “Theoria and Application of Categories”, “Logical Methods in
+Computer Science” and of “Logica Universalis”, as well as in the
+editorial board of the Springer series of books “Logic, Language and
+Information”. She’s an Honorary Research Fellow at the School of
 Computer Science, University of Birmingham, UK, where she was an
 Assistant Professor, and she taught recently at Stanford University
 and Santa Clara University in California.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1486,7 +1455,7 @@ observados e nos permite relacionar o expoente da distribuição de
 votos com as redes de interações sociais entre candidatos e eleitores,
 e entre os eleitores entre si.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/8551626072912963&quot;&gt;Nuno Crokidakis&lt;/a&gt; possui
 graduação em Física pela Universidade Federal do Ceará (2005),
@@ -1502,13 +1471,12 @@ estatística de sistemas complexos, dinâmicas populacionais sociais e
 biológicas, transições de fase de não-equilíbrio, modelos baseados em
 agentes, redes complexas e simulação de Monte Carlo.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1518,16 +1486,16 @@ agentes, redes complexas e simulação de Monte Carlo.&lt;/p&gt;
    <updated>2014-08-28T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/seminars/2014/08/28/emerging-work</id>
    <content type="html">&lt;p&gt;To date, almost all experimental evaluations of machine learning-based
-recognition algorithms have taken the form of &quot;closed set&quot;
+recognition algorithms have taken the form of “closed set”
 recognition, whereby all testing classes are known at training time. A
-more realistic scenario for real-world applications is &quot;open set&quot;
+more realistic scenario for real-world applications is “open set”
 recognition, where incomplete knowledge of the world is present at
 training time, and unknown classes can be submitted to an algorithm
 during testing. The first part of this talk introduces the problem of
 open set recognition, and formalizes its definition as a constrained
 minimization problem. The open set recognition problem is not well
 addressed by existing algorithms because it requires strong
-generalization. As a step towards a solution, the &quot;1-vs-Set Machine&quot;
+generalization. As a step towards a solution, the “1-vs-Set Machine”
 algorithm is proposed, which sculpts a decision space from the
 marginal distances of a 1-class or binary SVM with a linear
 kernel. This methodology has been applied to several different
@@ -1547,7 +1515,7 @@ related to philological evidence that an eighth century CE Latin poem
 by Paul the Deacon was influenced by the works of the classical Roman
 poet Catullus.&lt;/p&gt;
 
-&lt;h2&gt;Speaker&lt;/h2&gt;
+&lt;h2 id=&quot;speaker&quot;&gt;Speaker&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.wjscheirer.com/&quot;&gt;Walter J. Scheirer&lt;/a&gt;, Ph.D. is a research
 fellow at Harvard University, with affiliations in the School of
@@ -1564,13 +1532,12 @@ learning techniques. His overarching research interest is the
 fundamental problem of recognition, including the representations and
 algorithms supporting solutions to it.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1590,7 +1557,7 @@ dos jogos do Brasileirão deste ano. Eles irão apresentar, por exemplo,
 qual é a probabilidade do Flamengo ser rebaixado este ano com base nos
 jogos ocorridos até o momento.&lt;/p&gt;
 
-&lt;h2&gt;Palestrantes&lt;/h2&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
 
 &lt;p&gt;Professores da Escola de Matemática Aplicada da Fundação Getulio
 Vargas &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsukoff&lt;/a&gt;,
@@ -1598,14 +1565,13 @@ Vargas &lt;a href=&quot;/people/alexandre.evsukoff.html&quot;&gt;Alexandre Evsuk
 &lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo Cezar Carvalho&lt;/a&gt;; e o aluno de
 iniciação científica Arthur Carneiro.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1625,33 +1591,32 @@ of statistical sampling led officials to delete whole classes of
 records on everything from passports and visas to cultural diplomacy
 and international sport. Since all governments will eventually face
 the same problem, exploring the archive of the U.S. State Department -
-or what&#39;s left of it - indicates the kinds of challenges researchers
+or what’s left of it - indicates the kinds of challenges researchers
 will face when more and more history leaves no paper trail. It also
 shows how important it will be to develop new and better computational
 methods for analyzing these large corporae of textual records.&lt;/p&gt;
 
-&lt;h2&gt;Speaker&lt;/h2&gt;
+&lt;h2 id=&quot;speaker&quot;&gt;Speaker&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://history.columbia.edu/faculty/Connelly.html&quot;&gt;Matthew Connelly&lt;/a&gt;,
 professor, works in international and global history. He received his
 B.A. from Columbia (1990) and his Ph.D. from Yale ( 1997). His
-publications include A Diplomatic Revolution: Algeria&#39;s Fight for
+publications include A Diplomatic Revolution: Algeria’s Fight for
 Independence and the Origins of the Post-Cold War Era (2002), and
 Fatal Misconception: The Struggle to Control World Population
 (2008). He has written research articles in Comparative Studies in
 Society and History, The International Journal of Middle East Studies,
-The American Historical Review, The Review francaise d&#39;histoire
-d&#39;Outre-mer, and Past &amp;amp; Present. He has also published commentary on
+The American Historical Review, The Review francaise d’histoire
+d’Outre-mer, and Past &amp;amp; Present. He has also published commentary on
 international affairs in The Atlantic Monthly and The National
 Interest.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1673,7 +1638,7 @@ resultados - um tanto surpreendentes - do trabalho. A palestra será
 acessível a qualquer estudante com conhecimento básico de
 diferenciabilidade de funções de várias variáveis.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/1416717596426384&quot;&gt;Collier&lt;/a&gt; possui graduação em
 Matemática pela Universidade Federal de Pernambuco (1981), mestrado em
@@ -1684,14 +1649,13 @@ experiência na área de Matemática, com ênfase em Álgebra. Atuando
 principalmente nos seguintes temas: K-teoria algébrica, Anéis
 noetherianos, elemento básico, dimensão básica.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1703,13 +1667,13 @@ chinelos.&lt;/li&gt;
    <content type="html">&lt;p&gt;Neste trabalho temos como objetivo a caracterização dos agentes da
 Teoria do Seletorado na política brasileira através da Teoria dos
 Grafos, tendo como base medidas de centralidade, caminhos mínimos,
-clusters e &quot;structural holes&quot;. Técnicas de Processamento de Linguagem
+clusters e “structural holes”. Técnicas de Processamento de Linguagem
 Natural são usadas para medir a evolução da relação entre os agentes
 no tempo para que possamos então observar como essa alteração impacta
 o grafo político, fazendo com que mudanças ocorram na estrutura do
 poder político brasileiro.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;Julio Alqueres é formado em Matemática Aplicada pela Universidade de
 São Paulo. Possui sete anos de experiência no mercado financeiro, onde
@@ -1718,14 +1682,13 @@ portfolio management. Atualmente é risk manager do Grupo Ático, um
 empresa independente de gestão de recursos e aluno do mestrado da
 EMap.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1748,18 +1711,17 @@ theorem for the values of the fractal and spectral dimension of a
 large class of tress with a unique infinite spine which can be applied
 to the above examples.&lt;/p&gt;
 
-&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/8941321374207654&quot;&gt;Stefan Zohren&lt;/a&gt; is professor
 of Physics (PUC-RIO) and associate research at Oxford University.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1773,7 +1735,7 @@ documentation a practical alternative for Cultural Heritage
 organisations, including the results of dissemination experiments
 undertaken by the &lt;a href=&quot;http://www.3d-coform.eu&quot;&gt;3D-COFORM project&lt;/a&gt; in
 collaboration with museums such as the Victoria and Albert Museum, The
-Louvre, and L&#39;Academia in Florence, as well as World Heritage sites
+Louvre, and L’Academia in Florence, as well as World Heritage sites
 such as the temples at Abu Simbal in Egypt.&lt;/p&gt;
 
 &lt;p&gt;These experiments have reinforced the need for further research and
@@ -1782,23 +1744,23 @@ searching 3D object repositories, connecting shape to metadata and the
 interpretation of the semantics of shape. The talk will also describe
 some of the challenges that the research faces in the quest to empower
 the mass 3D digitisation and widespread dissemination, including
-3D-COFORM&#39;s contribution to the introduction of the class of
-&quot;3D-objects&quot; into the Europeana digital library. The challenges to
+3D-COFORM’s contribution to the introduction of the class of
+“3D-objects” into the Europeana digital library. The challenges to
 intellectual property presented by digitisation of Cultural Heritage,
 authorship and re-use of digital assets in other contexts and
 long-term preservation of digital assets will be outlined.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://arts.brighton.ac.uk/staff/david-arnold&quot;&gt;David Arnold&lt;/a&gt; is the
 Head of the Cultural Informatics Research Group and Dean of the
 University of Brighton Doctoral College.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
@@ -1828,19 +1790,18 @@ discutir o projeto com a intenção principal de recrutar alunos ou
 pesquisadores da EMAp ou outras instituições, interessados em se unir
 ao novo time no projeto.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt; é professor da
 EMAp e pesquisador da IBM Research.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1858,7 +1819,7 @@ exemplo, o foco será um projeto de visualização de dados de energia,
 concebido e executado por um grupo de pesquisadores e alunos de ambas
 as áreas.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/9237788190989316&quot;&gt;Claudio Esperança&lt;/a&gt; possui
 graduação em Engenharia Eletrônica pela UFRJ (1980), mestrado em
@@ -1881,13 +1842,12 @@ de visualização artística de dados, design de informação, TV graphics,
 imagem e animação, construção social da visualidade, artes visuais e
 novas mídias.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1903,7 +1863,7 @@ três planos distintos: (a) do direito proposto; (b) do texto normativo
 à interpretação e aplicação da norma jurídica; e (c) dos resultados da
 aplicação do direito posto.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/8550729220436524&quot;&gt;Leonardo de Andrade Costa&lt;/a&gt; é
 coordenador da pós-graduação em Direito Tributário da FGV Direito Rio
@@ -1913,14 +1873,13 @@ USP. Pós-Graduado em Contabilidade pela FGV/EPGE. Bacharel em Ciências
 Econômicas e em Direito pela PUC-RJ. Auditor Fiscal da Receita do
 Estado do Rio de Janeiro.&lt;/p&gt;
 
-&lt;h2&gt;Observação para isitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-isitantes&quot;&gt;Observação para isitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1935,7 +1894,7 @@ as estruturas internas do corpo humano em três dimensões e de maneira
 pouco invasiva. Nesta palestra será realizada uma apresentação de como
 essa visualização acontece.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.dmat.ufba.br/~vinicius.mello/&quot;&gt;Vinícius Mello&lt;/a&gt; possui
 mestrado em Matemática pela Universidade Federal da Bahia (1998) e
@@ -1944,14 +1903,13 @@ Aplicada (2006). Atualmente é professor adjunto da Universidade
 Federal da Bahia. Tem experiência na área de Matemática, com ênfase em
 Computação Gráfica.&lt;/p&gt;
 
-&lt;h2&gt;Observação para isitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-isitantes&quot;&gt;Observação para isitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1962,12 +1920,12 @@ chinelos.&lt;/li&gt;
    <id>http://emap.fgv.br/seminars/2014/04/03/bootstrap</id>
    <content type="html">&lt;p&gt;O seminário consistirá em três etapas: apresentação do Núcleo de
 Métodos Estatísticos e Computacionais (NMEC/SUEP, IBRE), discussão do
-artigo &quot;Applying the Bootstrap Techniques in Detecting Turning Points:
-A study of Consumer Sentiment Survey&quot; e exposição de alguns temas de
+artigo “Applying the Bootstrap Techniques in Detecting Turning Points:
+A study of Consumer Sentiment Survey” e exposição de alguns temas de
 estudos relevantes para a SUEP/IBRE e que poderão ser fruto de
 parceria com a EMAp.&lt;/p&gt;
 
-&lt;h2&gt;Palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;palestrante&quot;&gt;Palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lattes.cnpq.br/2228133411590933&quot;&gt;Pedro Guilherme&lt;/a&gt; possui
 graduação em Ciências Econômicas pela Universidade Federal de Juiz de
@@ -1981,14 +1939,13 @@ PUC-RJ. Tem experiência na área de Probabilidade e Estatística, com
 temas: decomposição clássica de séries, modelos não lineares e modelos
 periódicos autorregressivos.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -1999,27 +1956,26 @@ chinelos.&lt;/li&gt;
    <id>http://emap.fgv.br/seminars/2014/03/27/iniciacao-cientifica</id>
    <content type="html">&lt;p&gt;Neste seminário os alunos de graduação em Matemática Aplicada
 envolvidos em projetos de iniciação científica realizarão uma
-exposição de seus trabalhos. Os três projetos &quot;Iniciação à Análise&quot;,
-&quot;Iniciação à Modelagem Gráfica&quot; e &quot;Iniciação à Análise de Dados&quot;,
+exposição de seus trabalhos. Os três projetos “Iniciação à Análise”,
+“Iniciação à Modelagem Gráfica” e “Iniciação à Análise de Dados”,
 orientados pelos professores Paulo Cezar Carvalho, Asla Sá e Renato
 Souza, respectivamente, têm como objetivo aprofundar o conhecimento
 adquirido pelos alunos nas diversas áreas da Matemática Aplicada.&lt;/p&gt;
 
-&lt;h2&gt;Palestrantes&lt;/h2&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
 
-&lt;p&gt;Arthur da Silva Pereira Carneiro, Bettina D&#39;avila Barros, Elisa
+&lt;p&gt;Arthur da Silva Pereira Carneiro, Bettina D’avila Barros, Elisa
 Mussumeci Bianor dos Santos, Helder dos Santos Rezende de Souza,
 Guilherme Paulino Passos, Gustavo Pereira de Castro, Vanessa Costa
 Gaio e Victor da Fonseca Machado Junqueira.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2038,12 +1994,12 @@ this talk, the speaker will present a model that is able to describe
 website popularity and predict evolution over time. The model is
 inspired by the writings of Nobel Laureate Herbert A. Simon. In a 1969
 lecture Simon observed that many information systems were designed as
-if information was scarce, when the problem is just the opposite. &quot;A
+if information was scarce, when the problem is just the opposite. “A
 wealth of information creates a poverty of attention and a need to
 allocate that attention efficiently among the overabundance of
-information sources that might consume it.&quot; The model equations
-consider Internet users&#39;attention as a scarce resource that must be
-&quot;consumed&quot; by a website. Users`interactions with the website also
+information sources that might consume it.” The model equations
+consider Internet users’attention as a scarce resource that must be
+“consumed” by a website. Users`interactions with the website also
 create content that consumes the attention of other users. For
 instance, if the attention we dedicate to Facebook incites us to
 create content that helps Facebook capture a larger share of attention
@@ -2060,7 +2016,7 @@ is targeted to a diverse audience of undergraduate and graduate
 students majoring in computer science, physics, economics, and the
 social sciences.&lt;/p&gt;
 
-&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.cs.cmu.edu/~ribeiro/&quot;&gt;Bruno Ribeiro&lt;/a&gt; is a Postdoctoral
 Fellow at the Carnegie Mellon University School of Computer
@@ -2070,13 +2026,12 @@ Amherst. In 2012-2013 he was a visiting scholar at the Department
 Physics at Northeastern University. His interests are in data science,
 data mining, complex systems, and statistical models.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2087,29 +2042,28 @@ data mining, complex systems, and statistical models.&lt;/p&gt;
    <id>http://emap.fgv.br/seminars/2014/03/20/conjoint-analysis</id>
    <content type="html">&lt;p&gt;In this lecture, &lt;a href=&quot;http://www.skimgroup.com&quot;&gt;SKIM&lt;/a&gt; will go over the
 fundamentals of conjoint analysis, a type of discrete choice modeling
-that is used to understand people&#39;s choice behavior in different
+that is used to understand people’s choice behavior in different
 situations. We will go over the methodology and the application of it
 in the market research field. At the end of the lecture, we will
 introduce you to our company and share some of the career
 opportunities that exist at SKIM in Rio de Janeiro and abroad.&lt;/p&gt;
 
-&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;Christopher Fotenos is a Senior Analyst at SKIM. He has worked in
 their Consumer Goods division in New York since 2011 specializing in
 quantitative research including pricing, portfolio, and concept
-optimization studies. Working in the company&#39;s quantitative practice,
-he also focuses on methodological innovation within the company&#39;s
+optimization studies. Working in the company’s quantitative practice,
+he also focuses on methodological innovation within the company’s
 quantitative practice. Prior to joining SKIM, Chris received his
-Master&#39;s degree in Statistics from Columbia University.&lt;/p&gt;
+Master’s degree in Statistics from Columbia University.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2126,7 +2080,7 @@ língua brasileira. Apresentará também resultados preliminares obtidos
 com este reconhecedor, assim como potenciais aplicações para esta
 tecnologia.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://researcher.ibm.com/researcher/view.php?person=br-jnogima&quot;&gt;Julio Nogima&lt;/a&gt;
 é graduado em Engenharia Elétrica pela Universidade Estadual de
@@ -2135,14 +2089,13 @@ Center em New York pesquisando tecnologias de hardware e software para
 aplicações multimidia e televisão digital. Desde 2012 é engenheiro
 pesquisador no grupo de Sistemas Humanos da IBM Research - Brasil.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2175,7 +2128,7 @@ diffusion-limited growth, such as surfaces of thin films produced by
 Chemical Vapor Deposition or by Electrochemical deposition, or
 bacterial colonies.&lt;/p&gt;
 
-&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://matematicas.uc3m.es/index.php/dpto-people/titulares/rcuerno-menu&quot;&gt;Rodolfo Cuerno Rejado&lt;/a&gt;
 graduated in Physics and obtained his PhD in Sciences from the
@@ -2189,13 +2142,12 @@ applications. He is coordinator of the project
 fluids and biosystems.  For his research results in this area, he
 received the UC3M Young Scientist Award, in 2011.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2225,7 +2177,7 @@ will then present some of our recent works and show how to solve
 efficiently different versions of stochastic and robust knapsack
 problems. Our results are both theoretical and empirical.&lt;/p&gt;
 
-&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;Michael Poss graduated in Mathematics from the Université Libre de
 Bruxelles (Belgium) and in Operational Research from the University of
@@ -2237,13 +2189,12 @@ CNRS researcher at Heudiasyc since October 2012. His interests are in
 Operations Research, and more particularly, Optimization under
 Uncertainty.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2262,7 +2213,7 @@ particular, que na França houve reações polêmicas acerca da
 pertinência de se ensinar análise nos moldes formalistas que vinham
 sendo propostos pelos matemáticos alemães.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&amp;amp;id=K4784624Z5&quot;&gt;Tatiana Roque&lt;/a&gt;
 é coordenadora do Mestrado em Ensino de Matemática do Instituto de
@@ -2271,14 +2222,13 @@ dos livros: História da Matemática: uma visão crítica, desfazendo
 mitos e lendas (Zahar, 2012); e Tópicos de História da Matemática (com
 J.B. Pitombeira, Coleção PROFMAT 2012).&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2291,7 +2241,7 @@ chinelos.&lt;/li&gt;
 transformando as indústrias em todos os setores, gerando ainda mais
 valor com análises de dados de um volume cada vez maior de informação.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Christian Aranha foi idealizador das pesquisas acadêmicas que deram
 origem à tecnologia da &lt;a href=&quot;http://www.cortex-intelligence.com/&quot;&gt;Cortex&lt;/a&gt; -
@@ -2302,14 +2252,13 @@ Psicologia. Antes de fundar a Cortex, fez sua carreira em P&amp;amp;D nas
 áreas de data mining e text mining. Atualmente consolida tudo em Big
 Data.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2323,8 +2272,8 @@ gráfica. Avanços recentes na área de processamento de sinais
 mostraram que esse tipo de operação pode ser realizado com maior
 eficiência a partir da decomposição de filtros em duas partes: uma
 função geradora de variável contínua, compacta no domínio espacial, e
-um filtro digital discreto. Essa estratégia de &quot;reamostragem
-generalizada&quot; já apareceu em alguns artigos de computação gráfica, mas
+um filtro digital discreto. Essa estratégia de “reamostragem
+generalizada” já apareceu em alguns artigos de computação gráfica, mas
 é praticamente desconhecida nessa comunidade. A palestra tem o
 objetivo de resumir os principais aspectos do arcabouço, e mergulhar
 em algumas aplicações mais específicas.  Diego Nehab irá apresentar
@@ -2333,7 +2282,7 @@ conseguiu demonstrar e estender vários dos conceitos fundamentais da
 computação gráfica. Para concluir, será apresentado um estudo
 comparativo entre filtros tradicionais e generalizados.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://w3.impa.br/~diego/&quot;&gt;Diego Nehab&lt;/a&gt; (PhD, Princeton, 2007) se
 juntou ao IMPA em 2010 como pesquisador. Sua pesquisa abrange vários
@@ -2341,14 +2290,13 @@ tópicos em computação gráfica, mas se concentra principalmente em
 visualização em tempo real, processamento de imagens, algoritmos
 paralelos, e processamento de geometria.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2368,7 +2316,7 @@ of the original problem by decomposition. We will present the
 algorithm, some thoughts and results about its convergence and
 numerical application and results over an energy management problem.&lt;/p&gt;
 
-&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://cermics.enpc.fr/~leclerev/home.html&quot;&gt;Vincent Leclere&lt;/a&gt; has
 specialization in Applied Mathematics (École Polytechnique (2010)),
@@ -2376,13 +2324,12 @@ Master in Game Theory and Optimization, Master in Finacial Mathematics
 (Université Paris) and currently PhD student in Stochastic
 Optimization of discrete-time dynamic system.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2407,7 +2354,7 @@ ao mesmo tempo assegurar a segurança de suprimento. Essa palestra tem
 como objetivo dar uma visão geral do setor elétrico brasileiro e
 discutir seus principais problemas.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Sergio Granville possui mestrado em Matemática Aplicada pela PUC‐Rio
 (1973) e doutorado em Pesquisa Operacional pela Universidade de
@@ -2417,14 +2364,13 @@ de 2000. Participa de estudos de avaliação econômico/financeira de
 empreendimentos de geração/transmissão e de estratégias de contratação
 no Brasil e no exterior.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2449,7 +2395,7 @@ desenhado para a simulação eficiente da equação estocástica de
 transporte. Questões relacionadas com a convergência, estabilidade e
 implementação dos algoritmos computacionais serão discutidas.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/people/hugo.cansino.html&quot;&gt;Hugo de la Cruz&lt;/a&gt; possui graduação em
 Matemática pela Universidad de Oriente (1998), doutorado em Matemática
@@ -2461,14 +2407,13 @@ Matemática Aplicada (EMAp) da FGV. Tem experiência na área de
 Matemática, com ênfase em Equações Diferenciais Estocásticas, Análise
 Numérica e Processos Estocásticos.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2484,7 +2429,7 @@ architecture is being implemented for the archives of the Center for
 Teaching and Research in the Social Sciences and Contemporary History
 of Brazil(CPDOC) from Fundacão Getulio Vargas (FGV).&lt;/p&gt;
 
-&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/people/alexandre.rademaker.html&quot;&gt;Alexandre Rademaker&lt;/a&gt; holds a
 Ph.D. (2010) in Computer Science from Pontifical Catholic University
@@ -2493,13 +2438,12 @@ Fluminense Federal University, and B.Sc. (2001) in Computer Science
 from Federal University from Rio de Janeiro. He is a Professor at
 EMAp/FGV and a researcher at IBM.&lt;/p&gt;
 
-&lt;h2&gt;Important&lt;/h2&gt;
+&lt;h2 id=&quot;important&quot;&gt;Important&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Not required a confirmation.&lt;/li&gt;
-&lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
+  &lt;li&gt;Not required a confirmation.&lt;/li&gt;
+  &lt;li&gt;FGV not allow the entrance of people wearing shorts and/or slippers.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2524,7 +2468,7 @@ pontuais dos desafios encontrados nesta área serão compartilhados no
 intuito de divulgar as oportunidades que existem e de promover um
 brainstorm sobre oportunidades ainda não vislumbradas.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/leoarnt&quot;&gt;Leonardo Arnt&lt;/a&gt; é sócio
 administrador e desenvolvedor especializado em sistemas críticos em
@@ -2537,14 +2481,13 @@ além de produtos, projetos e serviços ligados a quase todas as áreas
 desse mercado, tendo conquistado alguns dos maiores bancos,
 distribuidoras e corretoras de valores brasileiros.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2573,7 +2516,7 @@ proposta seja caracterizada por uma formulação mais simples, ela
 apresentou desempenho equivalente quando comparada a alguns modelos do
 estado da arte nos problemas estudados.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Cristian Klen dos Santos possui graduação em Análise de Sistemas pela
 Universidade Estácio de Sá (2006), mestrado e doutorado em Sistemas
@@ -2585,14 +2528,13 @@ métodos de inteligência computacional para modelagem de sistemas
 complexos em aplicações de sistemas de navegação integrada e mineração
 de dados/textos.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2616,7 +2558,7 @@ produção de malhas geométricas. A palestra focará em alguns dos
 esforços recentes para texturização de modelos 3D a partir de imagens
 de alta-resolução.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.lcg.ufrj.br/Members/ricardo&quot;&gt;Ricardo Marroquim&lt;/a&gt; é
 professor da UFRJ com doutorado pela mesma instituição (2008) e
@@ -2625,13 +2567,12 @@ Computer Graphics Lab (COPPE) e seus principais interesses em pesquisa
 incluem métodos de visualização e renderização, reconstrução 3D e
 imageamento aplicados à preservação de acervos culturais.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2645,7 +2586,7 @@ invasivos, combinada com a grande oferta de dispositivos para
 monitoramento da frequência cardíaca, é uma das razões pelas quais o
 estudo da variabilidade da frequência cardíaca tornou-se popular nas&lt;/p&gt;
 
-&lt;h3&gt;adsdasd&lt;/h3&gt;
+&lt;h3 id=&quot;adsdasd&quot;&gt;adsdasd&lt;/h3&gt;
 
 &lt;p&gt;últimas décadas. Neste seminário serão apresentados os resultados da
 análise de séries de intervalos de tempo entre batimentos
@@ -2664,7 +2605,7 @@ saudáveis, e que dentre os indivíduos saudáveis, o avanço da idade
 também contribui para a diminuição da variabilidade da frequência
 cardíaca.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Sabrina Camargo é graduada em Física pela Universidade Estadual de
 Maringá e possui mestrado e doutorado em Física pela Universidade de
@@ -2672,13 +2613,12 @@ São Paulo (2009). Atualmente é pós-doutoranda na Escola de Matemática
 Aplicada da Fundação Getulio Vargas. Tem experiência na área de
 dinâmica não linear, caos e análise de séries temporais.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2699,7 +2639,7 @@ The Cooperative, Scandinavian Airlines, Credit Suisse, Banca Sella ,
 Orange, Telenor e da Agência Sueca de Seguro Social, além de ser usada
 a cada ano por milhões de pessoas de 21 países e em 23 línguas.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Johan Ahlund é graduado pela Stockholm School of Economics, com
 especialização em Finanças e Contabilidade. Depois de quatro anos no
@@ -2710,13 +2650,12 @@ Brasil e se concentra em desenvolver o mercado brasileiro para Teneo -
 a plataforma de entendimento de linguagem natural (NLI) desenvolvida
 pela Artificial Solutions.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2740,7 +2679,7 @@ aplicação: um para a exploração de carvão e arroz no sul de Santa
 Catarina, e outro para redução das emissões de gases de efeito estufa
 pela aviação civil.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Adriano Bandeira é professor dos cursos de graduação em Engenharia, e
 de pós-graduação em Engenharia de Transportes do IME. Possui doutorado
@@ -2748,13 +2687,12 @@ em Recursos Hídricos e Saneamento Ambiental com ênfase em Gestão
 Integrada de Recursos Hídricos (UFRGS). Sua principal área de atuação
 é Planejamento e Gestão de Recursos Naturais.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2763,41 +2701,45 @@ Integrada de Recursos Hídricos (UFRGS). Sua principal área de atuação
    <link href="http://emap.fgv.br/seminars/2013/08/08/elipsoide-arkadi.html"/>
    <updated>2013-08-08T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/seminars/2013/08/08/elipsoide-arkadi</id>
-   <content type="html">&lt;p&gt;O &quot;Algoritmo do Elipsóide&quot; (1976) é um método de minimização para
+   <content type="html">&lt;p&gt;O “Algoritmo do Elipsóide” (1976) é um método de minimização para
 funções convexas sobre domínios convexos.  Ele é a base para a maioria
 dos resultados relativos à resolução eficiente de problemas convexos
 em geral e, em particular, para o famoso resultado de Leonid Khachiyan
 (1978), que mostrou que problemas de programação linear com dados
 racionais podem ser resolvidos em tempo polinomial.  Nesta palestra, o
-algoritmo do Elipsóide será descrito juntamente com seus &quot;ancestrais e
-descendentes&quot; e será esboçada a prova do resultado de Khachiyan.&lt;/p&gt;
+algoritmo do Elipsóide será descrito juntamente com seus “ancestrais e
+descendentes” e será esboçada a prova do resultado de Khachiyan.&lt;/p&gt;
 
 &lt;p&gt;O seminário será realizado em inglês.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Arkadi Nemirovski é um dos fundadores da moderna abordagem, baseada em
 complexidade, para otimização. Recebeu três dos prêmios de maior
 prestígio em Matemática Aplicada:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Prêmio Fulkerson (1982), pela invenção do método do Elipsóide e suas
-consequências para a Programação Linear.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Prêmio Dantzig (1991), por suas contribuições à Programação
-Matemática, notadamente em otimização convexa.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Prêmio Von Neumann (2003), por seu trabalho no estudo dos métodos de
-pontos interiores e em otimização robusta.&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prêmio Fulkerson (1982), pela invenção do método do Elipsóide e suas
+consequências para a Programação Linear.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prêmio Dantzig (1991), por suas contribuições à Programação
+Matemática, notadamente em otimização convexa.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prêmio Von Neumann (2003), por seu trabalho no estudo dos métodos de
+pontos interiores e em otimização robusta.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2809,9 +2751,9 @@ chinelos.&lt;/li&gt;
    <content type="html">&lt;p&gt;Uma das partes mais desafiadoras da construção de um sistema de
 software é decidir o que construir.&lt;/p&gt;
 
-&lt;p&gt;&quot;Nenhuma parte do trabalho danifica tanto o sistema resultante se for
+&lt;p&gt;“Nenhuma parte do trabalho danifica tanto o sistema resultante se for
 feita de forma incorreta. Nenhuma outra parte é mais difícil de se
-consertar depois.&quot; (Fred Brooks)&lt;/p&gt;
+consertar depois.” (Fred Brooks)&lt;/p&gt;
 
 &lt;p&gt;A Engenharia de Requisitos é a disciplina da Engenharia de Software
 que compreende as atividades de levantamento, análise, negociação,
@@ -2824,19 +2766,18 @@ solução, e aprender a comunicar esses requisitos de forma eficiente.&lt;/p&gt;
 técnicas utilizadas nessa disciplina e discutir sobre os desafios
 ainda vigentes na área.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Verônica Taquette Vaz é formada em Engenharia de Computação na UFRJ, e
 mestranda no laboratório de Engenharia de Software Experimental da
 COPPE. Trabalha com engenharia de requisitos há cinco anos.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2858,8 +2799,8 @@ necessariamente aumentaram a participação política. Por outro lado, os
 governos, com as mesmas ferramentas, nunca tiveram um poder tão grande
 de fiscalizar e neutralizar seus opositores.&lt;/p&gt;
 
-&lt;p&gt;No Brasil, os problemas políticos presentes no mundo &quot;offline&quot; seriam
-suprimidos no mundo &quot;online&quot;? Os movimentos e pressões da sociedade
+&lt;p&gt;No Brasil, os problemas políticos presentes no mundo “offline” seriam
+suprimidos no mundo “online”? Os movimentos e pressões da sociedade
 civil continuariam a ser mais exceção do que regra, mesmo no ambiente
 virtual? De que formas a capacidade de registro e o processamento de
 informações estão sendo usados pelos cidadãos para fiscalizar e eleger
@@ -2873,7 +2814,7 @@ opiniões dos eleitores sobre cada candidato. Nas eleições de 2012, a
 plataforma recebeu mais de um milhão de opiniões e teve a participação
 de cerca de seis mil políticos em todo o país.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Miguel Lannes Fernandes é graduado em Engenharia de Computação pela
 UFRJ e pós-graduando em Sociologia Política e Cultura pela PUC-Rio. É
@@ -2881,13 +2822,12 @@ um dos idealizadores do portal Repolitica e tem interesse em
 iniciativas que buscam aproximar governantes e cidadãos por meio da
 Internet.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2901,18 +2841,18 @@ palestra no IV Workshop de Visualização Interativa, que será realizado
 nos dias 06 e 07 de junho.&lt;/p&gt;
 
 &lt;p&gt;Enrico é pesquisador na área de visualização de informação, interação
-humano-computador e &quot;visual analytics&quot;. Sua pesquisa tem como foco o
+humano-computador e “visual analytics”. Sua pesquisa tem como foco o
 desenvolvimento de novas técnicas e aplicações, bem como o
 entendimento de como as pessoas interagem com tais técnicas. É também
 autor do Fell in Love with Data, um blog de visualização de dados que
 visa fazer uma ponte entre pesquisadores e usuários de técnicas de
 visualização.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
@@ -2940,21 +2880,20 @@ inovação tecnológica. Como um exemplo prático e real, será mostrada a
 plataforma de serviços em nuvem Amazon Web Services (AWS) e como ela é
 utilizada no dia-a-dia de uma empresa nascente.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Fábio Fonseca é mestre em Engenharia de Produção com ênfase em Gestão
 da Inovação (COPPE/UFRJ), e Hugo Carvalho é mestre em Engenharia
 Elétrica (COPPE/UFRJ). Ambos são sócios da empresa Makinn Solutions,
 que desenvolve soluções de tecnologia para o mercado corporativo.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -2979,24 +2918,23 @@ para antecipar o comportamento em resposta a determinadas ações, tais
 como campanha de marketing e entendimento e controle de comportamento
 viral.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://researcher.ibm.com/researcher/view.php?person=br-mairacg&quot;&gt;Maíra Gatti&lt;/a&gt;
 é pesquisadora da
 &lt;a href=&quot;http://www.research.ibm.com/labs/brazil/index.shtml&quot;&gt;IBM Research - Brazil&lt;/a&gt;
 desde 2011. Possui doutorado pela PUC-Rio (2009) com período
-colaborativo na Universidade de Waterloo, Canadá (2008) e King&#39;s
+colaborativo na Universidade de Waterloo, Canadá (2008) e King’s
 College London, Inglaterra (2009). Sua principal área de atuação é em
 Modelagem Computacional de Sistemas Complexos e em Sistemas
 Distribuídos&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3011,7 +2949,7 @@ que são startups, como elas impulsionam o empreendedorismo e a
 inovação, quais os players que compõem seu ecossistema são alguns dos
 temas que serão abordados neste seminário.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Daniel Pereira é fundador da Papaya Ventures, uma aceleradora de
 startups, e da Luz Consultoria, empresa especializada em consultoria
@@ -3023,13 +2961,12 @@ Incubadora Rio Criativo, Incubadora da COPPE/UFRJ, Shell Iniciativa
 Jovem, além de ter tido experiência em grandes empresas, como a IBM e
 Assespro-RJ.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3056,13 +2993,12 @@ Capes/Cofecub (França).  A equipe francesa, do INRIA/Nancy e
 Université de Lorraine é liderada por Gauthier Sallet e Abderrahman
 Iggidr, que será um dos palestrantes do seminário.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3094,7 +3030,7 @@ não convencionais para sua manipulação.&lt;/p&gt;
 NoSQL, descrevendo as principais categorias de soluções, bem como as
 ferramentas mais utilizadas.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Alexandre A. B. Lima é Professor Adjunto do Programa de Engenharia de
 Sistemas e Computação da COPPE/UFRJ. Tem experiência na área de Ciência da
@@ -3103,13 +3039,12 @@ seguintes temas: bancos de dados paralelos, bancos de dados distribuídos,
 consultas de alto custo, agrupamentos de bancos de dados, grades
 computacionais e sistemas de gerência de workflows científicos.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3139,21 +3074,20 @@ também apresentada. Serão apresentadas várias soluções de problemas
 particulares que ilustram bem a diferença entre o enfoque clássico e o
 novo modelo.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Luiz Bevilacque possui graduação em Engenharia Civil pela Universidade
 Federal do Rio de Janeiro, especialização em Pontes e Grandes
 Estruturas na TH Stuttgart, e doutorado em Mecânica Teórica e Aplicada
 - Stanford University .&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3178,7 +3112,7 @@ como forma representativa da essência do conceito a ser modelado, e
 por fim, o grau de pertinência desses elementos ao longo de uma série
 histórica de notícias – Streamlines.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;O autor é graduado pela Universidade Federal Fluminense (UFF); Mestre
 e aluno de Doutorado do Programa de Engenharia Civil da Universidade
@@ -3188,14 +3122,13 @@ PETROBRAS para Sistemas de Informação e Automação; e professor dos
 cursos de graduação em Engenharia e Ciência da Computação da
 Universidade Veiga de Almeida (UVA).&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3226,7 +3159,7 @@ também foi simulado em outros três casos mais heterogêneos.&lt;/p&gt;
 entre os indivíduos, mais facilmente a epidemia se espalha pela
 população.&lt;/p&gt;
 
-&lt;h2&gt;Biografia&lt;/h2&gt;
+&lt;h2 id=&quot;biografia&quot;&gt;Biografia&lt;/h2&gt;
 
 &lt;p&gt;Nuno Crokidakis é doutor em Física pela Universidade Federal
 Fluminense e atualmente é Pós-Doc no Departamento de Física da
@@ -3235,14 +3168,13 @@ e computacional de sistemas complexos, em especial dinâmicas
 estocásticas de populações, redes complexas e sistemas de interesse
 social e biológico.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3260,14 +3192,13 @@ objetos de arte em 3D para a geração de acervos virtuais de museus,
 bem como de tecnologias de impressão 3D, propondo uma solução para
 empacotamento de objetos de arte que envolve ambas as tecnologias.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;A presença é gratuita e não exige confirmação.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3294,7 +3225,7 @@ with several application examples, which illustrate the exiting
 potential of current visual analysis techniques but also their
 limitations.&lt;/p&gt;
 
-&lt;h2&gt;Short Bios&lt;/h2&gt;
+&lt;h2 id=&quot;short-bios&quot;&gt;Short Bios&lt;/h2&gt;
 
 &lt;p&gt;DANIEL A. KEIM is full professor and head of the Information
 Visualization and Data Analysis Research Group in the Computer Science
@@ -3306,15 +3237,14 @@ German Strategic Research Initiative (SPP) on Scalable Visual
 Analytics and the scientific coordinator of the EU Coordination Action
 on Visual Analytics.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;O seminário será realizado em inglês.&lt;/li&gt;
-&lt;li&gt;A presença é gratuíta mas exige a confirmação pelo email &lt;script type=&#39;text/javascript&#39;&gt;var a = new Array(&#39;gv.br&#39;,&#39;emap@f&#39;);document.write(&quot;&lt;a href=&#39;mailto:&quot;+a[1]+a[0]+&quot;&#39;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/li&gt;
-&lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
+  &lt;li&gt;O seminário será realizado em inglês.&lt;/li&gt;
+  &lt;li&gt;A presença é gratuíta mas exige a confirmação pelo email &lt;script type=&quot;text/javascript&quot;&gt;var a = new Array(&#39;gv.br&#39;,&#39;emap@f&#39;);document.write(&quot;&lt;a href=&quot;mailto:&amp;quot;+a[1]+a[0]+&amp;quot;&quot;&gt;&quot;+a[1]+a[0]+&quot;&lt;/a&gt;&quot;);&lt;/script&gt;.&lt;/li&gt;
+  &lt;li&gt;A FGV não permite a entrada de pessoas vestindo bermuda e/ou
 chinelos.&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -3331,10 +3261,11 @@ EMAp/FGV.&lt;/p&gt;
 Escola e atentá-los para as possibilidades das áreas de
 estudo/pesquisa.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3366,7 +3297,7 @@ some of the problems that are studied in the field, describing
 algebraic methods and constructions and mentioning some of the many
 applications of designs and decompositions.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3388,7 +3319,7 @@ pesquisa do NTT envolvem o desenvolvimento de novas tecnologias em
 data, text e web mining em aplicações de interesse de diversos setores
 industriais.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3425,7 +3356,7 @@ linguagem natural, estudos da estrutura informacional e pragmática.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Palavras-chave&lt;/em&gt;: fala espontânea, português brasileiro, compilação de
 corpus, anotação prosódica, anotação morfossintática.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3446,7 +3377,7 @@ objectives such as economic (production) versus ecological
 control dynamical system.  Viability analysis provides conditions
 under which there exist management strategies which allow these
 constraints to be satisfied, on a given horizon. As an application, we
-present a viability analysis of the anchovy--hake couple in the
+present a viability analysis of the anchovy–hake couple in the
 Peruvian upwelling ecosystem.  We also develop a notion of ecosystem
 sustainable yields.  When uncertainties affect the dynamics, we show
 how to adapt the above framework and we introduce stochastic
@@ -3455,11 +3386,10 @@ achieve given objectives for all times on a given horizon. A numerical
 application to dam management under tourist constraint is given.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://cermics.enpc.fr/~delara/exposes/slides_viability_HANDOUT.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cermics.enpc.fr/~delara/exposes/slides_viability_HANDOUT.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3481,7 +3411,7 @@ uma medida de separabilidade.  O algoritimo proposto, que inclui
 seleção de atributos, é aplicado ao diagnóstico diferencial de
 linfomas/leucemias crônicas por citometria de fluxo.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3500,7 +3430,7 @@ analysis of reservoir geoscience and engineering datasets across
 different states of the oil and gas exploration and production life
 cycle. I will present some recent works of the group.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3523,7 +3453,7 @@ pay-per-node diffusion, has received little attention in the
 literature. In pay-per-node diffusions, visiting a node has a fixed
 cost but accessing the list of neighbors comes for free with the node
 visit. To illustrate, consider the following example. Facebook
-marketeers rely on &quot;word-of-mouth&quot; advertisement to reach their
+marketeers rely on “word-of-mouth” advertisement to reach their
 costumers, also known as viral marketing campaigns. For an ad to reach
 all friends of a given Facebook user, this user must post the ad on
 his or her Facebook wall for his or her friends to see. The ad gives
@@ -3539,7 +3469,7 @@ of enrolling a node in the diffusion is the same for all nodes, we
 study the efficacy of well known diffusions in the pay-per-node
 setting and uncover key factors that make them efficient.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3554,7 +3484,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <content type="html">&lt;p&gt;Aplicação de um método de determinação de não-estacionariedade na
 análise de séries fisiológicas e financeiras.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3614,7 +3544,7 @@ controle para uma variedade de situações. Nas análises de desempenho,
 pode-se observar que os esquemas propostos nesta tese são os mais
 eficientes.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3626,32 +3556,32 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <link href="http://emap.fgv.br/seminars/2012/06/14/sistemas-dedutivos-para-geralmente.html"/>
    <updated>2012-06-14T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/seminars/2012/06/14/sistemas-dedutivos-para-geralmente</id>
-   <content type="html">&lt;p&gt;Afirmações que contêm noções vagas, tais como &quot;geralmente&quot;, &quot;muitos&quot;,
-&quot;raramente&quot; etc. ocorrem freqüentemente em linguagem natural e em
+   <content type="html">&lt;p&gt;Afirmações que contêm noções vagas, tais como “geralmente”, “muitos”,
+“raramente” etc. ocorrem freqüentemente em linguagem natural e em
 vários ramos da ciência. Por outro lado, procedimentos de construção
 de provas, muitas vezes chamados provadores automáticos de teoremas,
 tem sido objeto de estudo de pesquisadores em diversas áreas.
 Diferentes formalismos lógicos têm sido utilizados como base para
 provadores, tais como cálculo de seqüentes, dedução natural e os
-métodos de resolução e de tableaux.  As Lógicas de &quot;Geralmente&quot; captam
+métodos de resolução e de tableaux.  As Lógicas de “Geralmente” captam
 as distintas noções de “geralmente” e são obtidas estendendo a Lógica
 de Primeira Ordem pela introdução de um novo quantificador \( \nabla
-\) para representar &quot;geralmente&quot;, &quot;muitos&quot; etc. Intuitivamente, o
+\) para representar “geralmente”, “muitos” etc. Intuitivamente, o
 quantificador \(\nabla\) é utilizado para expressar “objetos
 geralmente têm uma dada propriedade.”  Os sistemas dedutivos no estilo
 de dedução natural e cálculo de seqüentes para as Lógicas de
-&quot;Geralmente&quot; são construídos com a adição de regras que refletem as
+“Geralmente” são construídos com a adição de regras que refletem as
 distintas noções de “geralmente” nos sistemas dedutivos originalmente
 desenvolvidos para a Lógica de Primeira Ordem. Os resultados de
 corretude e completude dos sistemas dedutivos para as Lógicas de
-&quot;Geralmente&quot; são obtidos em relação aos sistemas dedutivos para a
+“Geralmente” são obtidos em relação aos sistemas dedutivos para a
 Lógica de Primeira Ordem. Para os sistemas no estilo de dedução
 natural para as Lógicas de “Geralmente” demonstramos o resultado de
 normalização e caracterizamos a estrutura das provas normais. Nos
 sistemas no estilo de cálculo de seqüentes identificamos exatamente as
 aplicações da regra do corte que não podem ser eliminadas.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3665,15 +3595,15 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <id>http://emap.fgv.br/seminars/2012/05/31/teorema-fundamental-matematica-atuarial</id>
    <content type="html">&lt;p&gt;Nesta palestra apresentamos o modelo clássico de modelagem de risco
 coletivo em matemática atuarial, ramo não-vida.  Focalizamos o chamado
-&quot;problema da ruína&quot; no contexto do modelo de Crámer-Lundberg, que
+“problema da ruína” no contexto do modelo de Crámer-Lundberg, que
 fornece uma estimativa da probabilidade de insolvência (no longo
 prazo) de uma seguradora. Ainda que bastante idealizado, este modelo é
-uma espécie de &quot;análogo atuarial&quot; do modelo de Black-Scholes,
+uma espécie de “análogo atuarial” do modelo de Black-Scholes,
 permitindo salientar tanto os aspectos probabilísticos quanto as
 hipóteses simplificadoras da modelo. No caminho abordamos noções de
 risco, processos estocásticos e martingais.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3701,7 +3631,7 @@ típicas de sistemas físicos. Além disso, eles têm potenciais
 aplicações em sistemas reais tais como processos eleitorais, epidemias
 de doenças como a gripe e tráfego de veículos em cidades e estradas.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3757,7 +3687,7 @@ recursos de memória e processamento em cerca de 80\% em média, quando
 comparado com modelos, por exemplo, baseados em indivíduos do tipo IBM
 ou autômatos celulares.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3820,7 +3750,7 @@ Operations Research, 207 (2010) 579-589.&lt;/p&gt;
 &lt;p&gt;[5] V. Guigues, Joint dynamic chance constraints with linear decision
 rules for some multistage stochastic linear programs, working paper.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3845,14 +3775,14 @@ across the photo set. A classiﬁcatory procedure working over a trained
 Kohonen network is proposed. The network is responsible for learning
 people appearance working over a dynamically reduced feature space.&lt;/p&gt;
 
-&lt;h2&gt;Info sobre palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;info-sobre-palestrante&quot;&gt;Info sobre palestrante&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://sites.google.com/site/crisnv/&quot;&gt;Cristina Nader Vasconcelos&lt;/a&gt;
 received her PhD in Computer Science from the PUC-Rio in march, 2009
 on Computer Vision Algoruthms on GPU, advised by Professors Marcelo
 Gattass and Paulo Cezar Carvalo.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3891,12 +3821,12 @@ tempo, mostraremos também um resultado bastante recente, onde usamos
 redes booleanas para reproduzir as diferentes formas clinicas da
 esquistossomose (bem como sua intensidade) observadas na população.&lt;/p&gt;
 
-&lt;h2&gt;Info sobre palestrante&lt;/h2&gt;
+&lt;h2 id=&quot;info-sobre-palestrante&quot;&gt;Info sobre palestrante&lt;/h2&gt;
 
 &lt;p&gt;Rita Maria é professora do Departamento de Física da Universidade
 Federal de Pernambuco.&lt;/p&gt;
 
-&lt;h2&gt;Observação para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;observao-para-visitantes&quot;&gt;Observação para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3915,7 +3845,7 @@ pesquisas, oportunidades de estágio e propostas de tese de
 mestrado. Após o seminário haverá uma pequena recepção para os alunos
 na sede da EMAp.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3936,7 +3866,7 @@ wide class of methods encompasses the Bayesian Information Criterion
 literature. We close the paper with a few examples of densities and
 penalty functions satisfying the assumptions.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3959,7 +3889,7 @@ present a Gaussian process emulator as surrogate for the
 simulator. Also extensions will be presented and illustrated in some
 toy examples.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -3974,7 +3904,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <content type="html">&lt;p&gt;O seminário foi uma palestra do workshop
 &lt;a href=&quot;/events/nlp-2011/&quot;&gt;Logics and Ontologies for Portuguese&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We start from the analysis of Turing&#39;s work in On computable numbers,
+&lt;p&gt;We start from the analysis of Turing’s work in On computable numbers,
 with an application to the Entscheidungsproblem raising evidences
 about how he proceeded to build the definition of
 computability. Taking advantage of his stepwise construction that
@@ -3987,16 +3917,17 @@ concrete, the deduction and the induction, the technical and the
 social, the objective and the subjective are unthinkable as pure
 entities. Considering controversies and discussions from the
 mid-nineteenth century to nowadays, we verify a social component that
-permanently takes part in what is usually considered &quot;technical
-content&quot; or “objectivity” undermining, thus, the axis of authority of
+permanently takes part in what is usually considered “technical
+content” or “objectivity” undermining, thus, the axis of authority of
 mathematics, logic and computing. Under this view new possibilities
 for knowledge construction are acknowledged, allowing maths that are
 done and lived outside the major centers.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -4016,10 +3947,11 @@ intervenções. Mostraremos um modelo matemático simples de dinâmica de
 populações e propagação de doenças e como este modelo pode auxiliar no
 planejamento das intervenções.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -4043,21 +3975,21 @@ dos jogos ainda a serem disputados. As frequências observadas nessa
 simulação fornecem as probabilidades desejadas.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://simulfutebol.appspot.com&quot;&gt;Link da aplicação&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/2011-11-03-slides.pdf&quot;&gt;slides em PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/2011-11-03-slides.ppt&quot;&gt;slides em PPT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://simulfutebol.appspot.com&quot;&gt;Link da aplicação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2011-11-03-slides.pdf&quot;&gt;slides em PDF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2011-11-03-slides.ppt&quot;&gt;slides em PPT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Short Bios&lt;/h2&gt;
+&lt;h2 id=&quot;short-bios&quot;&gt;Short Bios&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/people/paulo.carvalho.html&quot;&gt;Paulo&lt;/a&gt; é o coordenador da graduação em
 Matemática Aplicada, visite a página dele neste site.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -4074,7 +4006,7 @@ fricção dinâmica.&lt;/p&gt;
 
 &lt;p&gt;Após meu doutorado, fui contratado pela Siemens Technology-to-Business
 Center (em Berkeley) para adaptar esta tecnologia ao mundo da
-distribuição de pacotes, especificamente o da &quot;singulação&quot; (formação
+distribuição de pacotes, especificamente o da “singulação” (formação
 de filas indianas pré-identificação por código de barras). Pelas altas
 velocidades requeridas, abandonamos a tecnologia vibratória, e criamos
 uma máquina de manipulação distribuída com uma matriz de 84 esteiras,
@@ -4083,7 +4015,7 @@ projeto resultou em várias patentes e num produto comercial da
 Siemens. Durante este processo, me expus a técnicas de identificação
 de pacotes por código de barras e RFID. Desenvolvi para a Siemens
 Medical uma pulseira wireless integrada com um leitor de RFID, para o
-rastreamento e &quot;logging&quot; de operações manuais num ambiente hospitalar,
+rastreamento e “logging” de operações manuais num ambiente hospitalar,
 reduzindo a probabilidade de erros de atendimento e de administração
 de medicamentos a pacientes.&lt;/p&gt;
 
@@ -4091,7 +4023,7 @@ de medicamentos a pacientes.&lt;/p&gt;
 (em Pasadena, CA) para desenvolver novos sistemas de coletores
 solares. Em 2006, me transferi da Siemens para o Idealab, e lá criamos
 um sistema automatizado, massivamente paralelo, para a calibração e
-controle de dezenas de milhares de heliostatos &quot;baratos&quot; (produzidos
+controle de dezenas de milhares de heliostatos “baratos” (produzidos
 em massa) para numa usina solar-térmica. O foco era substituir custos
 mecânicos (repetitibilidade) por software (controle com feedback por
 visão). Criamos algoritmos de calibração baseados em otimização
@@ -4101,7 +4033,7 @@ co-fundação da eSolar, uma empresa de tecnologia solar-térmica que
 chegou à 150 funcionários e que já possui 2 usinas comerciais
 (California e Índia). Na eSolar também era responsável pela
 propriedade intelectual da empresa; lá gerenciei mais de 40
-&quot;applications&quot; provenientes de nossos colegas, em várias áreas tais
+“applications” provenientes de nossos colegas, em várias áreas tais
 como térmica, armazenagem, algoritmos, sistemas de controle, desenho
 da usina, desenho mecânico, etc. A eSolar foi recentemente vendida
 para a General Electric.&lt;/p&gt;
@@ -4114,7 +4046,7 @@ incluem mineração de dados, sistemas de recomendação e personalização
 de usuários, visualização, AI, machine learning, e algoritmos de
 classificação e clustering.&lt;/p&gt;
 
-&lt;h2&gt;Short bio&lt;/h2&gt;
+&lt;h2 id=&quot;short-bio&quot;&gt;Short bio&lt;/h2&gt;
 
 &lt;p&gt;Sou carioca, 44 anos, recém-retornado ao Rio, após 23 anos no EUA. Na
 palestra para o Dept de Matemática Aplicada da FGV pretendo exibir
@@ -4125,10 +4057,11 @@ Energia Solar), terminando com minha experiência em Data Science nos
 desenvolvido algoritmos de mineração, visualização, e classificação de
 usuários.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -4148,7 +4081,7 @@ científica norte-americana - The Center of Excellence of Biomedical
 Informatics and Life Sciences - com a organização de dados do campo da
 hematologia.&lt;/p&gt;
 
-&lt;h2&gt;Short Bio&lt;/h2&gt;
+&lt;h2 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h2&gt;
 
 &lt;p&gt;Pós-Doutor pela State University of New York, Doutor em Ciência da
 Informação, Especialista em Administração, Especialista em Engenharia
@@ -4164,10 +4097,11 @@ pesquisas em Representação do Conhecimento. Os principais interesses
 de pesquisa são ontologia aplicada, sistemas de informação e modelos
 organizacionais.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -4197,7 +4131,7 @@ andamento do EWG-DSS, sobre o desenvolvimento de uma rede de
 colaboração acadêmica entre os membros do grupo; assim como a
 possibilidade de se associar ao EWG-DSS.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4229,7 +4163,7 @@ algorithms. It also detects proper names in previously inserted
 captions to help the user (expert)match names and faces in order to
 produce a photo annotation compatible with semantic web principles.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4244,7 +4178,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <content type="html">&lt;p&gt;O arquivo
 &lt;a href=&quot;https://docs.google.com/viewer?a=v&amp;amp;pid=gmail&amp;amp;attid=0.2&amp;amp;thid=1337eeb330dd173f&amp;amp;mt=application/pdf&amp;amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3D6adfcc2a16%26view%3Datt%26th%3D1337eeb330dd173f%26attid%3D0.2%26disp%3Dsafe%26realattid%3Df_gps8k4n22%26zw&amp;amp;sig=AHIEtbSzR9UqAA2WrkT1NxQi1boNxyMqPA&quot;&gt;PDF da Palestra&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4272,7 +4206,7 @@ pertinência da análise de sentimentos. Finalmente, entrarei em
 detalhes da análise de sentimentos, como a diferença entre se analisar
 formadores de opinião e investidores em geral.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4300,7 +4234,7 @@ we evaluate if the suggested architecture allows to treat different
 versions from a basic problem, subjected to heterogeneous constraints
 whose characteristics are not known at the beginning.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4323,7 +4257,7 @@ apresentamos um esquema que permite gerar algoritmos eficientes para
 este problema assim como garantias teóricas para classes bastante
 gerais de funções.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4353,7 +4287,7 @@ Netherlands and Portugal.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/viewer?a=v&amp;amp;pid=gmail&amp;amp;attid=0.1&amp;amp;thid=1337eee646ba50a9&amp;amp;mt=application/pdf&amp;amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3D6adfcc2a16%26view%3Datt%26th%3D1337eee646ba50a9%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_guppf88w0%26zw&amp;amp;sig=AHIEtbSaHS59ZF9Oi8yW9pFEmjU-K8C6tA&quot;&gt;Apresentação em PDF&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4366,13 +4300,13 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <updated>2011-05-26T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/seminars/2011/05/26/projetos-pesquisa-emap-fgv</id>
    <content type="html">&lt;p&gt;Renato Rocha Souza e Flávio Codeço Coelho falaram sobre um projeto em
-andamento da escola em parceria com a Direito-Rio, o &quot;Supremo em
-Números&quot;. O projeto visa a interpretação de um enorme volume de dados
+andamento da escola em parceria com a Direito-Rio, o “Supremo em
+Números”. O projeto visa a interpretação de um enorme volume de dados
 proveniente do banco de dados do Supremo Tribunal Federal. Outros
 projetos em andamento na EMAp também serão apresentados juntamente com
 as oportunidades de resquisa relacionadas aos temas dos projetos.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4389,7 +4323,7 @@ projeto vem sendo realizadas periodicamente sendo sediadas em uma das
 instituições parceiras. Nesta data a reuniao contou com membros
 de vários estados participantes do projeto.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4416,7 +4350,7 @@ in the products market. We are able to assess the impact of a strong
 patent regime in terms of consumer surplus, ﬁrm value and total
 welfare.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4437,7 +4371,7 @@ populacional de mosquitos é um fator fundamental.  As equações que
 compõe o modelo descrevem a variação das respectivas populações ao
 longo do tempo.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4460,7 +4394,7 @@ pode ser expressa de diversas maneiras, às vezes usando metáforas ou
 ironias. Este seminário irá discutir o estágio atual da análise de
 sentimentos e apresentar algumas soluções disponíveis.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4475,7 +4409,7 @@ entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
    <content type="html">&lt;p&gt;Foi apresentada, pelo professor Renato, uma das linhas de pesquisa do
 Mestrado em Modelagem Matemática da Informação da EMAp-FGV.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4495,7 +4429,7 @@ estúdio IZ fotos &lt;a href=&quot;http://www.izfotos.com/studio/&quot;&gt;http:
 &lt;a href=&quot;http://www.izp.art.br/&quot;&gt;http://www.izp.art.br/&lt;/a&gt; para gerir, localizar e trabalhar acervos de
 imagem.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4514,7 +4448,7 @@ não é difundido em editoras em geral. A proposta desta palestra surgiu
 da demanda por uma editoração mais eficiente dos livros de matemática
 a serem lançados pela editora.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4531,7 +4465,7 @@ sobre esse assunto&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&amp;amp;id=K4776207J0&quot;&gt;CV Lattes&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4554,7 +4488,7 @@ lingüísticos, focando o nosso interesse na exploração das condições
 nas quais a sintaxe pode gerar uma redução do esforço cognitivo nas
 comunicações dos agentes.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4593,7 +4527,7 @@ perdas como pelas taxas de variação positivas, se bem que
 decrescentes, para os três intervalos definidos no período
 considerado.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
@@ -4627,7 +4561,7 @@ métodos e técnicas a problemas específicos tais como a acervos
 institucionais de documentos multimídia e coleções pessoais de
 fotografias e vídeos.&lt;/p&gt;
 
-&lt;h2&gt;Nota para visitantes&lt;/h2&gt;
+&lt;h2 id=&quot;nota-para-visitantes&quot;&gt;Nota para visitantes&lt;/h2&gt;
 
 &lt;p&gt;A presença é gratuíta e não exige confirmação. A FGV não permite a
 entrada de homens vestindo bermuda ou chinelo.&lt;/p&gt;
