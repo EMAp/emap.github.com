@@ -1,69 +1,11 @@
 ---
-layout: page
+layout: post
 ---
 
-<body class="seminar">
-  <div align="center" id="container">
-    <div id="wrapper">
-      
-      <!--Header Starts Here-->
-      {% include header.html %}
+<ul>
+  <li><b>Quem</b>: {{ page.quem }}</li>
+  <li><b>Onde</b>: {{ page.onde }}</li>
+  <li><b>Quando</b>: {{ page.date | localize: "%d de %B de %Y" }} às {{ page.hour }}</li>
+</ul>
 
-      <!--Content Starts Here-->
-      <div id="content">
-
-	<div class="breadcrumbs">
-	  <a href="/">Home</a>Sobre a EMAp
-	</div>
-
-	<div class="clear">
-	  <div id="leftstrip1">
-	    <h1 class="headline1"> {{ page.title }} </h1>
-	    
-	    <div id="post_full">
-
-	      <ul>
-		<li><b>Quem</b>: {{ page.quem }}</li>
-		<li><b>Onde</b>: {{ page.onde }}</li>
-		<li><b>Quando</b>: {{ page.date | localize: "%d de %B de %Y" }} às {{ page.hour }}</li>
-	      </ul>
-	      {{ content }}
-
-	    </div>
-	    
-	    <div id="meta-info">
-	      <script type="text/javascript">var switchTo5x=false;</script>
-	      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-	      <script type="text/javascript">stLight.options({publisher:'36073283-96ad-4b8d-8d04-0cb6636cc4d1'});</script>
-	      <p class="sharing">
-		<span  class='st_twitter_large' ></span>
-		<span  class='st_facebook_large' ></span>
-		<span  class='st_email_large' ></span>
-	      </p>
-	    </div>
-	  </div>
-
-	  <div id="rightstrip1">
-	    <h3>Arquivo</h3>
-	    <ul class="list-type2">
-	      {% for year in site.years %}                                                                                    
-	      <li>{{ year.first.first.date | date: "%Y" }}
-		<ul>
-		  {% for month in year %}
-		  <li><a href="/{{ month.first.date | date: '%Y'}}/{{ month.first.date | date: '%m'}}/">
-		      {{ month.first.date | localize: "%B" }} ({{month.size}})</a></li>
-		  {% endfor %}
-		</ul>
-              </li>
-	      {% endfor %}
-	    </ul>
-
-	  </div>
-	</div>
-	
-	<!--Footer Starts Here-->
-	{% include footer.html %}
-	
-      </div>
-    </div>
-</body>
+{{ content }}

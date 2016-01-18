@@ -1,14 +1,13 @@
 
+gems: ['jekyll/scholar','jekyll-paginate','jekyll-archives']
+
 safe: false
-pygments: true
-markdown: rdiscount
+highlighter: rouge
+markdown: kramdown
 redirects: false
 paginate: 10
-pagination: true
-archive_title_prefix: "Arquivo de "
-archive_title_suffix: " "
+paginate_path: "/pages/page:num/"
 exclude: ["README.md", "etc"]
-category_title_prefix: "Tudo em "
 
 scholar:
   style: apa
@@ -22,3 +21,17 @@ scholar:
   details_link:   Details
   query: "@*"  
 
+jekyll-archives:
+  enabled:
+    - categories
+    - year
+    - tags
+  layouts:
+    year: archive-year
+    category: archive-category
+    tag: archive-tag
+  permalinks:
+    year: '/:year/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+    

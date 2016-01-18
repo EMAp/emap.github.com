@@ -31,7 +31,7 @@ layout: page
 	  {% endif %}
 
 	  {% for my in page.incluir %}
-	    {% include my %}
+	    {% include {{my}} %}
           {% endfor %}
 	  </div>
 	</div>
