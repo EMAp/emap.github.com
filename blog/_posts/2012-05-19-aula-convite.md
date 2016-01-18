@@ -10,7 +10,7 @@ A situação descrita abaixo, embora fictícia, é representativa do tipo
 de problema que um Matemático Aplicado é chamado a resolver. Venha
 discuti-la conosco!
 
-h2. Descrição do problema
+## Descrição do problema
 
 A empresa Entradas.com.br faz vendas antecipadas para um espetáculo
 que está em cartaz há vários meses. A empresa paga R$ 40,00 por um
@@ -24,22 +24,10 @@ espetáculo. A empresa registrou o número de ingressos devolvidos ao
 longo do período, resumidos na tabela abaixo, que mostra a freqüência
 de cada número de ingressos devolvidos.
 
-|*Números de exemplares devolvidos no dia* |*Número de dias*|
-|1|2|
-|2|10|
-|3|17|
-|4|25|
-|5|32|
-|6|36|
-|7|39|
-|8|42|
-|9|35|
-|10|28|
-|11|20|
-|12|14|
-|Total|300|
+Dados (examples/dias), total 300: ((1 2) (2 10) (3 17) (4 25) (5 32)
+(6 36) (7 39) (8 42) (9 35) (10 28) (11 20) (12 14))
 
-h2. Perguntas
+## Perguntas
 
 - A empresa teve lucro em todos os dias com a venda de ingressos?
 
@@ -53,9 +41,8 @@ poderiam afetar a decisão da empresa? Você consegue relacionar este
 problema com temas de Matemática do Ensino Médio ou com disciplinas
 que espera estudar no futuro?
 
-Clique "aqui":/files/problema-ingressos.xls para download da tabela
+Clique [aqui](/files/problema-ingressos.xls) para download da tabela
 acima no formato Excel.
 
-"Esta calculadora":/files/ingressos.html pode ajudar você a pensar no
+[Esta calculadora](/files/ingressos.html) pode ajudar você a pensar no
 problema.
-

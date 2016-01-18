@@ -1,5 +1,9 @@
 
-gems: ['jekyll/scholar','jekyll-paginate','jekyll-archives']
+gems:
+  - jekyll/scholar
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-textile-converter
 
 safe: false
 highlighter: rouge
