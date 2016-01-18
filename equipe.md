@@ -15,6 +15,7 @@ incluir:
 - [Flávio Codeço Coelho](/people/flavio.coelho.html)
 - [Hugo Alexander de la Cruz Cansino](/people/hugo.cansino.html)
 - [Maria Izabel Tavares Camacho](/people/maria.camacho.html) - diretora
+- [Maria Soledad Aronna](/people/maria.aronna.html)
 - [Moacyr Alvim Horta Barbosa da Silva](/people/moacyr.silva.html)
 - [Paulo Cezar Pinto Carvalho](/people/paulo.carvalho.html) - coordenador de graduação
 - [Pierre-Alexandre Bliman](/people/pierre.bliman.html)

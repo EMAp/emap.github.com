@@ -1,13 +1,14 @@
 ---
 layout: people
 title: Asla Medeiros e Sá
+email: asla.sa@fgv.br
 picture: asla.sa.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professora Adjunta
-- Email: <script type='text/javascript'>var a = new Array('a@f','a.s','asl','gv.','br');document.write("<a href='mailto:"+a[2]+a[1]+a[0]+a[3]+a[4]+"'>"+a[2]+a[1]+a[0]+a[3]+a[4]+"</a>");</script>
+- Email: <a href="mailto:{{ page.email | encode_email }}" title="contact me">contact me</a>
 - Homepage: [http://aslasa.googlepages.com/home](http://aslasa.googlepages.com/home)
 - Lattes: [http://lattes.cnpq.br/1427153134693867](http://lattes.cnpq.br/1427153134693867)
 

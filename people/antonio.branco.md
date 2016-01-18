@@ -2,13 +2,14 @@
 layout: people
 title: Antonio Carlos Saraiva Branco
 tex: true
+email: antonio.branco@fgv.br
 picture: antonio.branco.jpg
 ---
 
 # {{ page.title }}
 
 - Cargo: Professor Adjunto
-- Email: <script type='text/javascript'>var a = new Array('gv.br','antonio.','branco@f');document.write("<a href='mailto:"+a[1]+a[2]+a[0]+"'>"+a[1]+a[2]+a[0]+"</a>");</script>
+- Email: <a href="mailto:{{ page.email | encode_email }}" title="contact me">contact me</a>
 - Lattes: [http://lattes.cnpq.br/9633843951032097](http://lattes.cnpq.br/9633843951032097)
 
 Graduado em Engenharia de Telecomunicações pelo IME - 1973,

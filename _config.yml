@@ -4,6 +4,7 @@ gems:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-textile-converter
+  - jekyll-email-protect
 
 safe: false
 highlighter: rouge
