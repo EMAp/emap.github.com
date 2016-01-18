@@ -22,7 +22,9 @@ incluir:
 - [Renato Rocha Souza](/people/renato.souza.html) - coordenador da pós-graduação
 - [Vincent Gérard Yannick Guigues](/people/vincent.guigues.html) 
 - [Walter Wagner Carvalho Sande](/people/walter.sande.html)
+- [Yuri Saporito](/people/yuri.saporito.html)
 
 ## Visitantes
 
 - [Sabrina Camargo](/people/sabrina.camargo.html)
+- [Elivelton Ferreira Bueno](/people/elivelton.bueno.html)
