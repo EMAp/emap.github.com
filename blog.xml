@@ -4,7 +4,7 @@
  <title>Blog da Escola de Matemática Aplicada da FGV</title>
  <link href="http://emap.fgv.br/atom.xml" rel="self"/>
  <link href="http://emap.fgv.br/"/>
- <updated>2016-01-18T11:26:17-02:00</updated>
+ <updated>2016-01-18T11:40:25-02:00</updated>
  <id>http://emap.fgv.br/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -1939,37 +1939,144 @@ no próprio site da EMAp. As matrículas irão até o dia 07 de fevereiro.&lt;/p
    <link href="http://emap.fgv.br/blog/2013/12/26/selecao-mestrado.html"/>
    <updated>2013-12-26T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/12/26/selecao-mestrado</id>
-   <content type="html">Divulgamos a seguir a lista dos indicados para o Curso de Verão. 
-
-| *Nome*                               | *Linguagem Python* | *Fundamentos da Matemática* |
-| Adriano Duarte da Silva              | Recomendado        | Opcional                  |
-| Andre Luiz D&#39;Aqui Moura              | Recomendado        | Recomendado               |
-| Anna Patricia Pachas Manrique        | Recomendado        | Recomendado               |
-| Antonio Augusto Conti Fernandes Leão | Opcional           | Recomendado               |
-| Cecilia Pessanha Lima                | Recomendado        | Dispensada                |
-| Cristiano de Andrade Gonçalves       | Recomendado        | Opcional                  |
-| Edvalter Alex Lima                   | Recomendado        | Opcional                  |
-| Eliane Martins de Aguiar             | Recomendado        | Opcional                  |
-| Fabio Dias Carneiro                  | Recomendado        | Recomendado               |
-| Gabriel Carneiro Lento               | Recomendado        | Recomendado               |
-| Geraldo Magela Souza                 | Recomendado        | Recomendado               |
-| Iran Duilio Cordeiro                 | Recomendado        | Opcional                  |
-| Jefferson da Costa Lima              | Recomendado        | Opcional                  |
-| Kiese da Silva Quiavauca             | Recomendado        | Opcional                  |
-| Leon Diniz Alves                     | Recomendado        | Recomendado               |
-| Leonardo dos Santos Pinheiro         | Recomendado        | Recomendado               |
-| Leonardo Rodrigues Mattos da Costa   | Recomendado        | Opcional                  |
-| Luis Eduardo Craizer                 | Recomendado        | Opcional                  |
-| Manoel de Souza e Silva Neto         | Recomendado        | Recomendado               |
-| Marcos Ferreira da Silva             | Recomendado        | Recomendado               |
-| Maria Filomena de Souza Alves        | Opcional           | Opcional                  |
-| Pedro Henrique Schneider             | Recomendado        | Opcional                  |
-| Sergio Salustiano da Silva           | Recomendado        | Recomendado               |
-| Valmir Jhonatta Almeida Barbosa      | Recomendado        | Recomendado               |
-| Wagner dos Anjos Carvalho            | Recomendado        | Recomendado               |
-| Wallace Rocha dos Santos Garbim      | Recomendado        | Recomendado               |
-
-</content>
+   <content type="html">&lt;p&gt;Divulgamos a seguir a lista dos indicados para o Curso de Verão.&lt;/p&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt; &lt;strong&gt;Nome&lt;/strong&gt;                               &lt;/td&gt;
+		&lt;td&gt; &lt;strong&gt;Linguagem Python&lt;/strong&gt; &lt;/td&gt;
+		&lt;td&gt; &lt;strong&gt;Fundamentos da Matemática&lt;/strong&gt; &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Adriano Duarte da Silva              &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Andre Luiz D&amp;#8217;Aqui Moura              &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Anna Patricia Pachas Manrique        &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Antonio Augusto Conti Fernandes Leão &lt;/td&gt;
+		&lt;td&gt; Opcional           &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Cecilia Pessanha Lima                &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Dispensada                &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Cristiano de Andrade Gonçalves       &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Edvalter Alex Lima                   &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Eliane Martins de Aguiar             &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Fabio Dias Carneiro                  &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Gabriel Carneiro Lento               &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Geraldo Magela Souza                 &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Iran Duilio Cordeiro                 &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Jefferson da Costa Lima              &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Kiese da Silva Quiavauca             &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Leon Diniz Alves                     &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Leonardo dos Santos Pinheiro         &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Leonardo Rodrigues Mattos da Costa   &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Luis Eduardo Craizer                 &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Manoel de Souza e Silva Neto         &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Marcos Ferreira da Silva             &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Maria Filomena de Souza Alves        &lt;/td&gt;
+		&lt;td&gt; Opcional           &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Pedro Henrique Schneider             &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Opcional                  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Sergio Salustiano da Silva           &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Valmir Jhonatta Almeida Barbosa      &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Wagner dos Anjos Carvalho            &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Wallace Rocha dos Santos Garbim      &lt;/td&gt;
+		&lt;td&gt; Recomendado        &lt;/td&gt;
+		&lt;td&gt; Recomendado               &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content>
  </entry>
  
  <entry>
@@ -2844,46 +2951,144 @@ auditório 1333 às 11 horas.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2013/02/08/selecao-mestrado.html"/>
    <updated>2013-02-08T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2013/02/08/selecao-mestrado</id>
-   <content type="html">Divulgamos a seguir o resultado da seleção do mestrado da EMAp de
-2013. Os candidatos aprovados devem acessar o sistema acadêmico da FGV
-para completar sua inscrição no mestrado da EMAp. Maiores informações
-na página sobre o &quot;processo seletivo da EMAp&quot;:/pos-graduacao/selecao.html.
-
-| *Nome*                                     |*Resultado* |
-| Anna Carolina dos Santos Barros            | Aprovado   |
-| Arlen Pinheiro de Lacerda                  | Excedente  |
-| Aurelius Oliveira Costa do Nascimento      | Excedente  |
-| Bruno Lourenço Albuquerque                 | Excedente  |
-| Bruno Pereira Sequeira                     | Aprovado   |
-| Carlos Alberto Martins de Assis            | Aprovado   |
-| Cassius Marcellus do Carmo Figueiredo      | Aprovado   |
-| Evandro Dalbem Lopes                       | Aprovado   |
-| Fernanda Franco Dias José                  | Aprovado   |
-| Fernando Menucci de Souza                  | Aprovado   |
-| Fernando Ormonde Teixeira                  | Aprovado   |
-| Gabriel Leite Batista da Silva             | Desistente |
-| Giselle Gaudard da Costa Pereira           | Excedente  |
-| Halyson Henrique de Souza Valadão          | Aprovado   |
-| Igor Boechat de Brito Barbosa              | Aprovado   |
-| Ingrid Borba do Nascimento Barbosa         | Aprovado   |
-| Ítalo Cabral de Souza                      | Aprovado   |
-| João Fernando Ferreira Cuco                | Aprovado   |
-| João Miguel de Oliveira Francisco          | Excedente  |
-| Julio frederico Hruza Alqueres             | Aprovado   |
-| Leonardo Borreli Achtschin                 | Excedente  |
-| Leticia Samuel Paranhos                    | Excedente  |
-| Marcelo de Oliveira Freitas                | Excedente  |
-| Maria Filomena de Souza Alves              | Excedente  |
-| Pablo Aguiar de Maio                       | Aprovado   |
-| Pablo de Camargo Cerdeira                  | Excedente  |
-| Paulo Lobo Nóbrega                         | Excedente  |
-| Renato de Oliveira Caldas Madeira          | Aprovado   |
-| Ricardo Azevedo Martins                    | Aprovado   |
-| Sérgio da Silva Rodrigues                  | Aprovado   |
-| Tiago de Andréa Vilas Bôas Hacker          | Excedente  |
-| Vitor Gonçalves da Silva Caldeira Loureiro | Aprovado   |
-
-</content>
+   <content type="html">&lt;p&gt;Divulgamos a seguir o resultado da seleção do mestrado da EMAp de&lt;br /&gt;
+2013. Os candidatos aprovados devem acessar o sistema acadêmico da &lt;span class=&quot;caps&quot;&gt;FGV&lt;/span&gt;&lt;br /&gt;
+para completar sua inscrição no mestrado da EMAp. Maiores informações&lt;br /&gt;
+na página sobre o &lt;a href=&quot;/pos-graduacao/selecao.html&quot;&gt;processo seletivo da EMAp&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt; &lt;strong&gt;Nome&lt;/strong&gt;                                     &lt;/td&gt;
+		&lt;td&gt;&lt;strong&gt;Resultado&lt;/strong&gt; &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Anna Carolina dos Santos Barros            &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Arlen Pinheiro de Lacerda                  &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Aurelius Oliveira Costa do Nascimento      &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Bruno Lourenço Albuquerque                 &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Bruno Pereira Sequeira                     &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Carlos Alberto Martins de Assis            &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Cassius Marcellus do Carmo Figueiredo      &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Evandro Dalbem Lopes                       &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Fernanda Franco Dias José                  &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Fernando Menucci de Souza                  &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Fernando Ormonde Teixeira                  &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Gabriel Leite Batista da Silva             &lt;/td&gt;
+		&lt;td&gt; Desistente &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Giselle Gaudard da Costa Pereira           &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Halyson Henrique de Souza Valadão          &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Igor Boechat de Brito Barbosa              &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Ingrid Borba do Nascimento Barbosa         &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Ítalo Cabral de Souza                      &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; João Fernando Ferreira Cuco                &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; João Miguel de Oliveira Francisco          &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Julio frederico Hruza Alqueres             &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Leonardo Borreli Achtschin                 &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Leticia Samuel Paranhos                    &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Marcelo de Oliveira Freitas                &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Maria Filomena de Souza Alves              &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Pablo Aguiar de Maio                       &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Pablo de Camargo Cerdeira                  &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Paulo Lobo Nóbrega                         &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Renato de Oliveira Caldas Madeira          &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Ricardo Azevedo Martins                    &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Sérgio da Silva Rodrigues                  &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Tiago de Andréa Vilas Bôas Hacker          &lt;/td&gt;
+		&lt;td&gt; Excedente  &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Vitor Gonçalves da Silva Caldeira Loureiro &lt;/td&gt;
+		&lt;td&gt; Aprovado   &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content>
  </entry>
  
  <entry>
@@ -3479,13 +3684,13 @@ Mecânica Celeste, no estudo de vórtices pontuais no plano.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2012/05/19/aula-convite.html"/>
    <updated>2012-05-19T00:00:00-03:00</updated>
    <id>http://emap.fgv.br/blog/2012/05/19/aula-convite</id>
-   <content type="html">A situação descrita abaixo, embora fictícia, é representativa do tipo
+   <content type="html">&lt;p&gt;A situação descrita abaixo, embora fictícia, é representativa do tipo
 de problema que um Matemático Aplicado é chamado a resolver. Venha
-discuti-la conosco!
+discuti-la conosco!&lt;/p&gt;
 
-h2. Descrição do problema
+&lt;h2 id=&quot;descrio-do-problema&quot;&gt;Descrição do problema&lt;/h2&gt;
 
-A empresa Entradas.com.br faz vendas antecipadas para um espetáculo
+&lt;p&gt;A empresa Entradas.com.br faz vendas antecipadas para um espetáculo
 que está em cartaz há vários meses. A empresa paga R$ 40,00 por um
 ingresso, que é revendido por R$ 70,00. Os ingressos não revendidos
 podem ser devolvidos no dia do espetáculo, para serem vendidos na
@@ -3495,43 +3700,34 @@ ingressos por dia. Com isto, ela tem atendido a todos os clientes que
 procuram por ingressos, sempre devolvendo alguns ingressos no dia do
 espetáculo. A empresa registrou o número de ingressos devolvidos ao
 longo do período, resumidos na tabela abaixo, que mostra a freqüência
-de cada número de ingressos devolvidos.
+de cada número de ingressos devolvidos.&lt;/p&gt;
 
-|*Números de exemplares devolvidos no dia* |*Número de dias*|
-|1|2|
-|2|10|
-|3|17|
-|4|25|
-|5|32|
-|6|36|
-|7|39|
-|8|42|
-|9|35|
-|10|28|
-|11|20|
-|12|14|
-|Total|300|
+&lt;p&gt;Dados (examples/dias), total 300: ((1 2) (2 10) (3 17) (4 25) (5 32)
+(6 36) (7 39) (8 42) (9 35) (10 28) (11 20) (12 14))&lt;/p&gt;
 
-h2. Perguntas
+&lt;h2 id=&quot;perguntas&quot;&gt;Perguntas&lt;/h2&gt;
 
-- A empresa teve lucro em todos os dias com a venda de ingressos?
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A empresa teve lucro em todos os dias com a venda de ingressos?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ela deve continuar a comprar 30 ingressos por dia? Se não, quantos
+ingressos você sugere que ela compre por dia? Em que critérios você se
+baseia para esta sugestão?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-- Ela deve continuar a comprar 30 ingressos por dia? Se não, quantos
-  ingressos você sugere que ela compre por dia? Em que critérios você se
-  baseia para esta sugestão?
-
-
-Você consegue pensar em outros fatores, não informados acima, que
+&lt;p&gt;Você consegue pensar em outros fatores, não informados acima, que
 poderiam afetar a decisão da empresa? Você consegue relacionar este
 problema com temas de Matemática do Ensino Médio ou com disciplinas
-que espera estudar no futuro?
+que espera estudar no futuro?&lt;/p&gt;
 
-Clique &quot;aqui&quot;:/files/problema-ingressos.xls para download da tabela
-acima no formato Excel.
+&lt;p&gt;Clique &lt;a href=&quot;/files/problema-ingressos.xls&quot;&gt;aqui&lt;/a&gt; para download da tabela
+acima no formato Excel.&lt;/p&gt;
 
-&quot;Esta calculadora&quot;:/files/ingressos.html pode ajudar você a pensar no
-problema.
-
+&lt;p&gt;&lt;a href=&quot;/files/ingressos.html&quot;&gt;Esta calculadora&lt;/a&gt; pode ajudar você a pensar no
+problema.&lt;/p&gt;
 </content>
  </entry>
  
@@ -3705,19 +3901,31 @@ ministra cursos sobre Arduino.&lt;/p&gt;
    <link href="http://emap.fgv.br/blog/2011/11/28/inauguracao-graduacao.html"/>
    <updated>2011-11-28T00:00:00-02:00</updated>
    <id>http://emap.fgv.br/blog/2011/11/28/inauguracao-graduacao</id>
-   <content type="html">A Escola de Matemática Aplicada da Fundação Getulio Vargas tem o prazer de convidar para o painel &quot;Por que estudar Matemática Aplicada?&quot;, a realizar-se no dia 5 de dezembro de 2011, às 18:30 horas, no auditório do edifício sede da FGV, localizado à Praia de Botafogo, 190, marcando a inauguração do curso de Graduação da EMAp. O evento será seguido de uma homenagem ao Professor Augusto César Morgado e de um coquetel de boas-vindas aos futuros alunos.
+   <content type="html">&lt;p&gt;A Escola de Matemática Aplicada da Fundação Getulio Vargas tem o
+prazer de convidar para o painel “Por que estudar Matemática
+Aplicada?”, a realizar-se no dia 5 de dezembro de 2011, às 18:30
+horas, no auditório do edifício sede da FGV, localizado à Praia de
+Botafogo, 190, marcando a inauguração do curso de Graduação da EMAp. O
+evento será seguido de uma homenagem ao Professor Augusto César
+Morgado e de um coquetel de boas-vindas aos futuros alunos.&lt;/p&gt;
 
-h2. Programação
+&lt;h2 id=&quot;programao&quot;&gt;Programação&lt;/h2&gt;
 
-| 18:30 | Painel: Porque estudar Matemática aplicada?
-Yuan Jinyun - professor da UFPR e diretor do Instituto de Matemática Industrial.
-Paulo Cezar Carvalho - coordenador do curso de graduação da EMAp FGV. 
-Luciano Monteiro de Castro - professor e sócio-fundador
-do Colégio Elite |
-| 19:30 | Homenagem ao Professor Augusto César Morgado. |
-| 20:00 | Coquetel de boas-vindas aos futuros alunos. |
+&lt;ul&gt;
+  &lt;li&gt;18:30 Painel: Porque estudar Matemática aplicada?
+    &lt;ul&gt;
+      &lt;li&gt;Yuan Jinyun - professor da UFPR e diretor do Instituto de
+Matemática Industrial.&lt;/li&gt;
+      &lt;li&gt;Paulo Cezar Carvalho - coordenador do curso de graduação da EMAp
+FGV.&lt;/li&gt;
+      &lt;li&gt;Luciano Monteiro de Castro - professor e sócio-fundador do Colégio
+Elite&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;19:30 Homenagem ao Professor Augusto César Morgado.&lt;/li&gt;
+  &lt;li&gt;20:00 Coquetel de boas-vindas aos futuros alunos.&lt;/li&gt;
+&lt;/ul&gt;
 
-&amp;nbsp;
 </content>
  </entry>
  
